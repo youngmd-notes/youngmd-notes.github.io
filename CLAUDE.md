@@ -54,7 +54,11 @@ Young 會用自然語言下指令（例如「新增一篇 SIADH 筆記」），�
 
 ## 用 Paper 或 Textbook 合成筆記
 
-Young 會提供 paper、指引或 textbook 內容（上傳 PDF 或放在雲端硬碟），請 Claude 讀取後整理成筆記：
+Young 會提供 paper、指引或 textbook 內容，請 Claude 讀取後整理成筆記：
+
+- **主要來源：私人 repo `youngmd-notes/notes-sources`**，依分類資料夾（腎臟科、心臟科……）存放 PDF。Young 說「讀參考資料裡的 XX」時，就到這裡找（先連上這個 repo）
+- 也可能直接在對話中上傳檔案
+
 
 - **用自己的話重新整理**，不可以整段照抄原文；表格、流程圖也要重新組織，不可以直接複製原書的圖表
 - 原文引用每篇最多一句短句（15 字以內），並加上出處
