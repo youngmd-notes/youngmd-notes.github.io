@@ -1,4 +1,4 @@
-# Young 的內科筆記網站：給 Claude 的工作規則
+# 內科筆記網站：給 Claude 的工作規則
 
 這個 repo 是 Young（內科住院醫師）的個人醫學筆記網站，使用 **Quartz 4** 建置，網址是 https://youngmd-notes.github.io 。
 Young 會用自然語言下指令（例如「新增一篇 SIADH 筆記」），由 Claude 直接修改並上線。
