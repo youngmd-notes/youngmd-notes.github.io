@@ -80,6 +80,7 @@ ODS（osmotic demyelination syndrome）通常在矯正過快後 **2–6 天**才
 ## 相關筆記
 
 - [[SIADH]]
+- [[dka-hhs|DKA & HHS]]：高血糖造成的稀釋性低血鈉
 
 ## 參考資料
 
