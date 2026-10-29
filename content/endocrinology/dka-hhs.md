@@ -235,11 +235,6 @@ flowchart TD
 
 > 題號格式為「年份-題號」，可到 [內專刷題網站](http://imboard.dirty-wolf.com/) 用「依年份練習」→「跳題」查看原題與詳解。
 
-> [!warning] 考古題和 2024 共識的差異
-> - **DKA 血糖門檻**：舊題（如 110-107 的詳解）用 > 250 mg/dL；2024 共識已改為 **≥ 200 mg/dL 或已知糖尿病**
-> - **初始輸液**：考古題標準答案是 0.9% saline；2024 共識認為 **0.9% saline 或 balanced crystalloid 都可以**，balanced crystalloid 甚至可能更好。考試仍建議選 0.9% saline
-> - **開始胰島素的 K⁺ 門檻**：部分詳解寫 K⁺ ≥ 3.3；2024 共識是 **K⁺ > 3.5**
-
 > [!question]- 模擬題 1（點開作答）
 > 58 歲第 2 型糖尿病男性，長期使用 empagliflozin。膽囊切除術後禁食兩天，出現噁心、嘔吐、呼吸急促。血糖 180 mg/dL，pH 7.18，HCO₃⁻ 10 mmol/L，BOHB 5.4 mmol/L，K⁺ 4.6 mmol/L。開始輸注 0.9% saline 後，下一步最適當的是？
 >
