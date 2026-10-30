@@ -22,10 +22,10 @@ tags:
 
 ```mermaid
 flowchart TD
-    A["Serum Na < 135"] --> B{"Serum osmolality"}
+    A["Serum Na < 135"] --> B{"Measured serum osmolality"}
     B -->|"> 295 高張"| C["Hyperglycemia<br/>Mannitol、顯影劑"]
     B -->|"275–295 等張"| D["Pseudohyponatremia<br/>高血脂、paraproteinemia"]
-    B -->|"< 275 低張"| E{"Urine osmolality"}
+    B -->|"< 275 低張"| E{"Urine osmolality（measured）"}
     E -->|"< 100"| F["Primary polydipsia<br/>Low solute intake"]
     E -->|"≥ 100"| G{"Urine Na"}
     G -->|"≤ 30"| H["有效動脈血量不足<br/>Hypovolemia、HF、Cirrhosis"]
@@ -34,9 +34,10 @@ flowchart TD
 
 ### 步驟說明
 
-1. **確認是低張性**：Serum osmolality < 275 mOsm/kg
+1. **確認是低張性**：**Measured** serum osmolality < 275 mOsm/kg
+   - 要用實測值：計算值算不到 mannitol、顯影劑等外來溶質，也無法揪出 pseudohyponatremia
    - 高血糖時 Na 會被稀釋：血糖超過 100 mg/dL 的部分，每多 100 mg/dL，校正後 Na 約增加 1.6–2.4 mmol/L
-2. **Urine osmolality**：判斷 ADH 有沒有在作用
+2. **Urine osmolality**（measured）：判斷 ADH 有沒有在作用
    - < 100：ADH 被正常抑制，水喝太多或溶質攝取太少（beer potomania、tea and toast）
    - ≥ 100：ADH 有作用，繼續看 urine Na
 3. **Urine Na**：判斷腎臟是否在保留鈉
