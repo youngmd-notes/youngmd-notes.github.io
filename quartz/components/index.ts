@@ -6,6 +6,7 @@ import ArticleTitle from "./ArticleTitle"
 import Darkmode from "./Darkmode"
 import ReaderMode from "./ReaderMode"
 import PrintPdf from "./PrintPdf"
+import CollapsibleSections from "./CollapsibleSections"
 import Head from "./Head"
 import PageTitle from "./PageTitle"
 import ContentMeta from "./ContentMeta"
@@ -33,6 +34,7 @@ export {
   Darkmode,
   ReaderMode,
   PrintPdf,
+  CollapsibleSections,
   Head,
   PageTitle,
   ContentMeta,

@@ -1,0 +1,72 @@
+.cs-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.5rem;
+  height: 1.5rem;
+  margin-right: 0.3rem;
+  padding: 0;
+  vertical-align: -0.15em;
+  border: none;
+  border-radius: 4px;
+  background: none;
+  color: var(--gray);
+  cursor: pointer;
+  transition:
+    color 0.15s ease,
+    background-color 0.15s ease;
+
+  &:hover {
+    color: var(--secondary);
+    background-color: var(--highlight);
+  }
+
+  & svg {
+    transition: transform 0.2s ease;
+  }
+}
+
+h2.cs-collapsed .cs-toggle svg {
+  transform: rotate(-90deg);
+}
+
+h2.cs-collapsed {
+  color: var(--darkgray);
+}
+
+.cs-all {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin: 0.25rem 0 0.75rem 0.5rem;
+  padding: 0.3rem 0.75rem;
+  font-family: var(--bodyFont);
+  font-size: 0.85rem;
+  color: var(--secondary);
+  background: none;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  cursor: pointer;
+  transition:
+    background-color 0.15s ease,
+    border-color 0.15s ease;
+
+  &:hover {
+    background-color: var(--highlight);
+    border-color: var(--secondary);
+  }
+}
+
+// 只在螢幕上隱藏；列印／存 PDF 時全部段落都會顯示
+@media screen {
+  .cs-hidden {
+    display: none !important;
+  }
+}
+
+@media print {
+  .cs-toggle,
+  .cs-all {
+    display: none !important;
+  }
+}

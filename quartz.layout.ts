@@ -27,6 +27,7 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.PrintPdf(),
       condition: (page) => page.fileData.slug !== "index",
     }),
+    Component.CollapsibleSections(),
   ],
   left: [
     Component.PageTitle(),
