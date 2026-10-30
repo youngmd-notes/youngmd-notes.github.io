@@ -33,7 +33,14 @@ for (const folder of ORDER) {
     if (!file.endsWith(".md") || file === "index.md") continue
     const text = fs.readFileSync(path.join(dir, file), "utf8")
     const slug = `${folder}/${file.replace(/\.md$/, "")}`
-    const note = { slug, folder, catTitle, title: titleOf(text) ?? slug, topics: [] }
+    const note = {
+      slug,
+      folder,
+      catTitle,
+      title: titleOf(text) ?? slug,
+      topics: [],
+      guideTables: /^---[\s\S]*?\n\s*-\s*指引圖表\s*\n[\s\S]*?---/.test(text),
+    }
 
     const lines = text.split("\n")
     const start = lines.findIndex((l) => /^##\s+🎯\s*內專考點/.test(l))
@@ -61,7 +68,8 @@ for (const folder of ORDER) {
 
 const yearsOf = (cards) => cards.flatMap((c) => c.codes.map((x) => Number(x.split("-")[0])))
 const withExam = notes.filter((n) => n.topics.some((t) => t.cards.length))
-const without = notes.filter((n) => !n.topics.some((t) => t.cards.length))
+// 指引圖表系列（tags 含「指引圖表」）只整理指引內容，不列入「還沒有內專考點」
+const without = notes.filter((n) => !n.topics.some((t) => t.cards.length) && !n.guideTables)
 const allTopics = withExam.flatMap((n) =>
   n.topics.filter((t) => t.cards.length).map((t) => ({ ...t, note: n })),
 )
