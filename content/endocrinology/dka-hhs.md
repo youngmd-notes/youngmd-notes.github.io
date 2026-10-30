@@ -28,8 +28,47 @@ tags:
   - **DKA**：胰島素幾乎沒有 → 脂肪分解、酮體大量生成 → 酸中毒
   - **HHS**：還剩一點胰島素，足以抑制酮體，但壓不住血糖 → 嚴重高血糖、滲透性利尿、脫水
 - DKA 好發於年輕 T1D；HHS 好發於年長 T2D，但兩者在任何類型糖尿病都可能發生
-- 約 **1/3 是 DKA 與 HHS 的混合型**
+- 約 **1/3 是 DKA 與 HHS 的混合型**（同時符合兩者的診斷標準，見下方說明）
 - 常見誘因：**感染**（UTI、肺炎最多）、**漏打胰島素**、新診斷糖尿病、**SGLT2 inhibitor**、急性心肌梗塞、胰臟炎、藥物（類固醇、抗精神病藥）
+
+### 為什麼會有混合型？
+
+DKA 和 HHS 不是兩種不同的病，而是**同一條「胰島素不足」光譜的兩端**，混合型就落在中間。
+
+**1. 抑制酮體比壓血糖需要的胰島素少很多**
+
+| 剩下的胰島素 | 脂肪分解／酮體 | 血糖 | 結果 |
+| --- | --- | --- | --- |
+| 幾乎沒有 | 壓不住 → 大量酮體 | 高 | **DKA** |
+| 部分不足（中間地帶） | **只壓住一部分** → 中度酮體 | 很高 | **混合型** |
+| 還剩一些 | 壓得住 → 酮體少 | 壓不住 → 極高 | **HHS** |
+
+- 脂肪細胞對胰島素很敏感，**很低濃度的胰島素就能抑制 lipolysis**；但要讓肌肉、肝臟處理葡萄糖，需要高得多的濃度
+- 所以「剩多少胰島素」決定落在光譜哪裡，而這是**連續的**，沒有一條明確的分界線
+
+**2. DKA 拖久了，會往 HHS 走**
+
+- 高血糖 → 尿糖 → **滲透性利尿**，再加上嘔吐、喝不到水 → 自由水持續流失
+- 病程越長、越晚就醫（老人、意識差、獨居），滲透壓就越高 → DKA 加上高滲透壓
+
+**3. HHS 太嚴重，也會出現酮體與酸**
+
+- 嚴重脫水 → 壓力荷爾蒙（catecholamine、cortisol、glucagon）更高 → 推動脂肪分解和酮體生成
+- **高血糖與高滲透壓本身會抑制胰臟分泌胰島素、加重胰島素阻抗**（glucotoxicity）→ 原本剩下的胰島素也不夠了
+- 低灌流造成 **lactic acidosis**、**AKI**（酮酸排不掉）也會讓酸中毒加重
+
+**4. 誘因與病人族群互相重疊**
+
+- 感染、心肌梗塞等重大壓力同時拉高升糖激素；T2D 在重大壓力下也會出現酮酸中毒
+- 新診斷糖尿病（尤其年輕人喝大量含糖飲料）常以混合型表現
+
+> [!tip] Pearl：混合型的處置
+> - 胰島素照 **DKA 劑量（IV 0.1 U/kg/h）**，因為要壓住酮體
+> - 但補液和矯正速度要照 **HHS 的原則**：先充分補液，血糖、血鈉、滲透壓都不能降太快（見下方「HHS 的特別注意事項」）
+> - 緩解要**兩個標準都達成**：酮酸中毒緩解，而且滲透壓與意識也恢復
+
+> [!warning] Pitfall
+> 只看到酸中毒就當 DKA，可能漏算滲透壓、矯正太快；只看到血糖 > 600 就當 HHS，可能用太低的胰島素劑量，酮體壓不下來。**每個高血糖危象都要同時算有效滲透壓和看酮體／血氣**。混合型的住院死亡率也比單純 DKA 高。
 
 ## 臨床表現
 
@@ -451,3 +490,5 @@ flowchart TD
 ## 參考資料
 
 - Umpierrez GE, Davis GM, ElSayed NA, et al. Hyperglycemic crises in adults with diabetes: a consensus report. *Diabetes Care*. 2024;47(8):1257–1275.
+- Kitabchi AE, Umpierrez GE, Miles JM, Fisher JN. Hyperglycemic crises in adult patients with diabetes. *Diabetes Care*. 2009;32(7):1335–1343.（混合型的病生理）
+- Pasquel FJ, Tsegka K, Wang H, et al. Clinical outcomes in patients with isolated or combined diabetic ketoacidosis and hyperosmolar hyperglycemic state: a retrospective, hospital-based cohort study. *Diabetes Care*. 2020;43(2):349–357.（混合型的預後）
