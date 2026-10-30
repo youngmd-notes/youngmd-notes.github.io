@@ -28,6 +28,8 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.CollapsibleSections(),
+    Component.ClinicalCalc(),
+    Component.QuizMode(),
   ],
   left: [
     Component.PageTitle(),

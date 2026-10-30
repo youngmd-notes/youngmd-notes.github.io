@@ -44,6 +44,8 @@ flowchart TD
    - ≤ 30：有效動脈血量不足，腎臟努力保鈉
    - > 30：[[SIADH]]、利尿劑、腎上腺功能低下等
 
+<div class="calc" data-title="低血鈉計算機（校正血鈉、滲透壓）"></div>
+
 > [!tip] Pearl
 > 診斷 SIADH 前，==一定要先排除== **adrenal insufficiency** 和 **hypothyroidism**，也要確認病人沒有使用 thiazide。
 

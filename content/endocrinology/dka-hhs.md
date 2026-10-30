@@ -107,6 +107,10 @@ DKA 和 HHS 不是兩種不同的病，而是**同一條「胰島素不足」光
 >
 > - BUN 可以自由穿過細胞膜，不會把水拉出細胞，所以**不算有效滲透壓**；腦部症狀和 effective osmolality 比較相關
 > - **滲透壓間隙（osmolal gap）= measured − calculated total**，正常 < 10
+
+<div class="calc" data-title="DKA／HHS 計算機" data-example="na=151,glu=525,bun=62"></div>
+
+上面預先帶入內專 106-132 那位 82 歲 HHS 病人的數值，可以改成自己病人的數字。
 - **校正血鈉**：血糖每高 100 mg/dL，Na 約被稀釋 1.6 mmol/L（見 [[hyponatremia|低血鈉]]）
 - 初始檢查：血糖、電解質、**靜脈血氣**、CBC、血酮或尿酮、腎功能、**心電圖**（看高血鉀 T 波、心肌缺血）
 

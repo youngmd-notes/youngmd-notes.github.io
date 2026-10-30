@@ -2,6 +2,24 @@
 const HIDDEN = "cs-hidden"
 const COLLAPSED = "cs-collapsed"
 
+// 記住每篇筆記收起了哪些段落（存在這台裝置的瀏覽器）
+const storeKey = () => `cs:${location.pathname}`
+function saveState() {
+  try {
+    const ids = headings()
+      .filter((h) => h.classList.contains(COLLAPSED))
+      .map((h) => h.id)
+    localStorage.setItem(storeKey(), JSON.stringify(ids))
+  } catch {}
+}
+function loadState(): string[] {
+  try {
+    return JSON.parse(localStorage.getItem(storeKey()) ?? "[]")
+  } catch {
+    return []
+  }
+}
+
 function sectionOf(h2: HTMLElement): HTMLElement[] {
   const items: HTMLElement[] = []
   let el = h2.nextElementSibling as HTMLElement | null
@@ -29,6 +47,7 @@ function headings(): HTMLElement[] {
 }
 
 function updateAllButton() {
+  saveState()
   const btn = document.querySelector<HTMLButtonElement>(".cs-all")
   if (!btn) return
   const anyOpen = headings().some((h) => !h.classList.contains(COLLAPSED))
@@ -101,6 +120,8 @@ function setup() {
     if (pdf) pdf.after(all)
     else hs[0].before(all)
   }
+  const saved = loadState()
+  for (const h of hs) if (saved.includes(h.id)) setCollapsed(h, true)
   updateAllButton()
 
   // 點目錄或頁內連結時，自動展開目標所在段落

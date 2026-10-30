@@ -1,0 +1,67 @@
+.qz-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin: 0.25rem 0 0.75rem 0.5rem;
+  padding: 0.3rem 0.75rem;
+  font-family: var(--bodyFont);
+  font-size: 0.85rem;
+  color: var(--secondary);
+  background: none;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  cursor: pointer;
+  transition:
+    background-color 0.15s ease,
+    border-color 0.15s ease;
+
+  &:hover {
+    background-color: var(--highlight);
+    border-color: var(--secondary);
+  }
+
+  &[aria-pressed="true"] {
+    color: var(--light);
+    background-color: var(--secondary);
+    border-color: var(--secondary);
+  }
+}
+
+// 只在螢幕上遮住；列印／存 PDF 不受影響
+@media screen {
+  .quiz-mode {
+    .text-highlight:not(.qz-shown) {
+      color: transparent !important;
+      background-color: var(--gray) !important;
+      border-radius: 3px;
+      cursor: pointer;
+      user-select: none;
+
+      * {
+        color: transparent !important;
+      }
+    }
+
+    .qz-answer:not(.qz-shown) {
+      filter: blur(6px);
+      cursor: pointer;
+      user-select: none;
+      transition: filter 0.15s ease;
+    }
+
+    .qz-card li strong {
+      font-weight: inherit;
+    }
+
+    .qz-card .qz-answer.qz-shown strong,
+    .qz-card li .qz-answer.qz-shown strong {
+      font-weight: 700;
+    }
+  }
+}
+
+@media print {
+  .qz-toggle {
+    display: none !important;
+  }
+}

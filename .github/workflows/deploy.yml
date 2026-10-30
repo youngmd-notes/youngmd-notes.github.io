@@ -27,6 +27,8 @@ jobs:
           node-version: 22
       - name: 安裝套件
         run: npm ci
+      - name: 彙整內專考點總覽
+        run: node scripts/build-exam-index.mjs
       - name: 建置網站
         run: npx quartz build
       - name: 上傳網站檔案

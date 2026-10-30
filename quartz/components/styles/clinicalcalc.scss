@@ -1,0 +1,120 @@
+.calc {
+  margin: 1.25rem 0;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--lightgray);
+  border-left: 4px solid var(--secondary);
+  border-radius: 8px;
+  background: var(--light);
+
+  .calc-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+  }
+
+  .calc-clear {
+    font-family: var(--bodyFont);
+    font-size: 0.8rem;
+    padding: 0.2rem 0.6rem;
+    color: var(--darkgray);
+    background: none;
+    border: 1px solid var(--lightgray);
+    border-radius: 5px;
+    cursor: pointer;
+    &:hover {
+      border-color: var(--secondary);
+      color: var(--secondary);
+    }
+  }
+
+  .calc-hint {
+    margin: 0.35rem 0 0.75rem;
+    font-size: 0.85rem;
+    color: var(--gray);
+  }
+
+  .calc-grid {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 0.6rem 0.75rem;
+
+    @media all and (max-width: 800px) {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    label {
+      display: flex;
+      flex-direction: column;
+      gap: 0.2rem;
+      font-size: 0.85rem;
+      color: var(--darkgray);
+
+      small {
+        color: var(--gray);
+        font-size: 0.75rem;
+      }
+    }
+
+    input {
+      width: 100%;
+      box-sizing: border-box;
+      padding: 0.35rem 0.5rem;
+      font-family: var(--bodyFont);
+      font-size: 0.95rem;
+      color: var(--dark);
+      background: var(--light);
+      border: 1px solid var(--lightgray);
+      border-radius: 5px;
+      &:focus {
+        outline: none;
+        border-color: var(--secondary);
+      }
+    }
+  }
+
+  .calc-out {
+    margin-top: 0.9rem;
+
+    table {
+      width: 100%;
+      margin: 0;
+      border-collapse: collapse;
+      font-size: 0.88rem;
+    }
+    th,
+    td {
+      padding: 0.4rem 0.5rem;
+      text-align: left;
+      vertical-align: top;
+      border-bottom: 1px solid var(--lightgray);
+    }
+    .calc-f {
+      font-size: 0.75rem;
+      color: var(--gray);
+    }
+    .calc-v {
+      font-weight: 700;
+      font-size: 1rem;
+      white-space: nowrap;
+    }
+    tr.hi .calc-v {
+      color: #c0392b;
+    }
+    tr.lo .calc-v {
+      color: #2471a3;
+    }
+  }
+
+  .calc-empty {
+    margin: 0;
+    font-size: 0.85rem;
+    color: var(--gray);
+  }
+}
+
+@media print {
+  .calc {
+    display: none !important;
+  }
+}

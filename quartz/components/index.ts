@@ -7,6 +7,8 @@ import Darkmode from "./Darkmode"
 import ReaderMode from "./ReaderMode"
 import PrintPdf from "./PrintPdf"
 import CollapsibleSections from "./CollapsibleSections"
+import ClinicalCalc from "./ClinicalCalc"
+import QuizMode from "./QuizMode"
 import Head from "./Head"
 import PageTitle from "./PageTitle"
 import ContentMeta from "./ContentMeta"
@@ -35,6 +37,8 @@ export {
   ReaderMode,
   PrintPdf,
   CollapsibleSections,
+  ClinicalCalc,
+  QuizMode,
   Head,
   PageTitle,
   ContentMeta,
