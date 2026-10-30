@@ -15,7 +15,7 @@ tags:
 
 - **Hyponatremia**：Serum Na < 135 mmol/L
 - 依數值：mild 130–134、moderate 125–129、profound < 125
-- 依時間：acute < 48 小時、chronic ≥ 48 小時（時間不明時，**當作 chronic 處理**）
+- 依時間：acute < 48 小時、chronic ≥ 48 小時（時間不明時，**==當作 chronic 處理==**）
 - 臨床處置更看重**症狀**：嘔吐、意識改變、抽搐、昏迷屬於嚴重症狀
 
 ## 診斷流程
@@ -44,7 +44,7 @@ flowchart TD
    - > 30：[[SIADH]]、利尿劑、腎上腺功能低下等
 
 > [!tip] Pearl
-> 診斷 SIADH 前，一定要先排除 **adrenal insufficiency** 和 **hypothyroidism**，也要確認病人沒有使用 thiazide。
+> 診斷 SIADH 前，==一定要先排除== **adrenal insufficiency** 和 **hypothyroidism**，也要確認病人沒有使用 thiazide。
 
 > [!warning] Pitfall
 > Thiazide 引起的低血鈉，urine Na 可能很高，看起來很像 SIADH。停藥後追蹤 Na 的變化有助於鑑別。
@@ -53,8 +53,8 @@ flowchart TD
 
 ### 有嚴重症狀：先處理腦水腫
 
-- **3% NaCl 100–150 mL IV bolus**，約 10–20 分鐘給完，可重複 2–3 次
-- 目標：先讓 Na 上升 **4–6 mmol/L**，通常就足以改善症狀
+- **==3% NaCl 100–150 mL IV bolus==**，約 10–20 分鐘給完，可重複 2–3 次
+- 目標：先讓 Na 上升 **==4–6 mmol/L==**，通常就足以改善症狀
 - 期間密集追蹤 Na（約每 2–4 小時）
 
 ### 沒有嚴重症狀：找病因，慢慢矯正
@@ -70,12 +70,12 @@ flowchart TD
 ### 矯正速度上限（避免 ODS）
 
 > [!danger] 矯正上限
-> - 一般病人：**24 小時內上升不超過 10–12 mmol/L**
-> - **ODS 高風險**病人：**24 小時內不超過 8 mmol/L**
+> - 一般病人：**==24 小時內上升不超過 10–12 mmol/L==**
+> - **ODS 高風險**病人：**==24 小時內不超過 8 mmol/L==**
 >   - Na ≤ 105、酗酒、營養不良、低血鉀、肝病
 > - 矯正過快時，可考慮給 **D5W** 和／或 **desmopressin** 把 Na 拉回來
 
-ODS（osmotic demyelination syndrome）通常在矯正過快後 **2–6 天**才出現，表現為構音困難、吞嚥困難、四肢無力，甚至 locked-in syndrome。
+ODS（osmotic demyelination syndrome）通常在矯正過快後 **==2–6 天==**才出現，表現為構音困難、吞嚥困難、四肢無力，甚至 locked-in syndrome。
 
 ## 相關筆記
 
