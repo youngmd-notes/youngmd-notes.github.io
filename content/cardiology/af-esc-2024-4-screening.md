@@ -63,6 +63,26 @@ tags:
 
 ## Figure 16：AF 篩檢的策略
 
+**圖解**（依原圖內容重新繪製）：
+
+```mermaid
+flowchart LR
+    I["先告知病人<br/>偵測到 AF 的意義"]
+    I --> A1["<b>栓塞事件後</b><br/>不明原因栓塞性中風（ESUS）"]
+    I --> A2["<b>看診時順便找</b><br/>≥ 65 歲或有栓塞風險"]
+    I --> A3["<b>針對危險族群</b><br/>≥ 75 歲，或 ≥ 65 歲＋其他 CHA₂DS₂-VA 因子"]
+    A1 --> B1["長時間 ECG 監測（I）"]
+    A2 --> B2["常規心律評估，ECG 確認（I）"]
+    A3 --> B3["結構化計畫，非侵入性 ECG 篩檢（IIa）"]
+    B1 --> C["確診 AF → 進入 AF-CARE"]
+    B2 --> C
+    B3 --> C
+    classDef ok fill:#2e9e6b26,stroke:#2e9e6b
+    classDef warn fill:#e0a10026,stroke:#e0a100
+    class B1,B2 ok
+    class B3 warn
+```
+
 | 篩檢方式 | 對象舉例 | 場合 | 篩檢方法 |
 | --- | --- | --- | --- |
 | **栓塞事件之後** | **不明原因的栓塞性中風**（ESUS） | 事件發生後開始 | 侵入性或非侵入性 ECG **長時間監測（I）** |

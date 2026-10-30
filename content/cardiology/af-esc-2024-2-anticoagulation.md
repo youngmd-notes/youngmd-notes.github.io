@@ -81,6 +81,26 @@ tags:
 
 ## Figure 10：降低抗凝相關出血風險
 
+**圖解**（依原圖內容重新繪製）：
+
+```mermaid
+flowchart TD
+    H["開始或追蹤 OAC：完整問病史，找出所有出血因子（I）"] --> X["❌ 不用出血分數決定要不要開始或停 OAC（III）"]
+    X --> M1["<b>① 可改變 → 現在就處理（I）</b><br/>高血壓・抗血小板・酒精<br/>INR 不穩・NSAIDs・藥物交互作用・類固醇"]
+    M1 --> M2["<b>② 可能可改變 → 多專科處理</b><br/>貧血・血小板低下・腎功能不全<br/>跌倒風險・糖尿病・心衰竭"]
+    M2 --> M3["<b>③ 無法改變 → 更頻繁追蹤</b><br/>年齡・大出血史・嚴重腎肝病・癌症<br/>中風史・失智・顱內病灶・基因"]
+    M3 --> LA["有明確 OAC 禁忌：考慮左心耳封堵（IIb）"]
+    M3 --> RE["每次看診重新評估"]
+    classDef bad fill:#d64b4b26,stroke:#d64b4b,stroke-width:2px
+    classDef t1 fill:#2e9e6b26,stroke:#2e9e6b
+    classDef t2 fill:#e0a10026,stroke:#e0a100
+    classDef t3 fill:#8a8a8a26,stroke:#8a8a8a
+    class X bad
+    class M1 t1
+    class M2 t2
+    class M3 t3
+```
+
 整體流程：開始或追蹤 OAC 時完整問病史，找出所有出血危險因子（I）→ **==不用出血分數決定要不要開始或停 OAC（III）==** → 依可否改變分三層處理 → 每次見面重新評估。
 
 ### 第一層：可改變的出血危險因子（共同決策處理，I）
@@ -107,6 +127,26 @@ tags:
 
 ## Figure 11：OAC 相關出血的處置
 
+**圖解**（依原圖內容重新繪製）：
+
+```mermaid
+flowchart TD
+    A["OAC 病人活動性出血"] --> B["可壓迫就壓迫止血<br/>評估血行動力、凝血功能、CBC、腎功能<br/>確認最後一次 OAC 的劑量與時間"]
+    B --> C{"出血嚴重度"}
+    C -->|"輕微"| M["暫停 OAC<br/>VKA：等到 INR < 2<br/>DOAC：停 1–2 劑"]
+    C -->|"非致命大出血"| N["中斷抗凝、找出血原因（I）<br/>輸液、輸血<br/>VKA：考慮 vit K、FFP、PCC<br/>DOAC：2–4 小時內服藥考慮活性碳；考慮 PCC"]
+    C -->|"致命或重要部位"| L["多專科處理、輸液輸血<br/>VKA：<b>PCC（IIa）</b>，沒有才用 FFP<br/>DOAC：<b>特異性解毒劑（IIa）</b>，沒有才用 PCC"]
+    M --> P["出血後：共同決策<br/>原因處理好、沒有禁忌 → 目標恢復抗凝<br/>檢視 OAC 種類與劑量、矯正出血因子"]
+    N --> P
+    L --> P
+    classDef t1 fill:#2e9e6b26,stroke:#2e9e6b
+    classDef t2 fill:#e0a10026,stroke:#e0a100
+    classDef t3 fill:#d64b4b26,stroke:#d64b4b,stroke-width:2px
+    class M t1
+    class N t2
+    class L t3
+```
+
 **所有出血的前四步**：可壓迫就壓迫止血 → 評估血行動力、基本凝血功能、CBC、腎功能 → **確認最後一次 OAC 的劑量與時間**、所有併用藥物 → 依出血嚴重度分流。
 
 | 嚴重度 | VKA | DOAC |
@@ -130,6 +170,39 @@ tags:
 - 合併 OAC 時，**==P2Y12 inhibitor 首選 clopidogrel==**
 
 ### 依情境的療程
+
+**圖解：療程時間軸**（依原圖內容重新繪製）
+
+<div class="tl"><div class="tl-grid">
+<div></div>
+<div class="tl-axis">0–1 週</div>
+<div class="tl-axis">1 週–1 個月</div>
+<div class="tl-axis">1–6 個月</div>
+<div class="tl-axis">6–12 個月</div>
+<div class="tl-axis">12 個月後</div>
+<div class="tl-label" style="grid-row:2;grid-column:1">ACS 接受 PCI</div>
+<div class="tl-bar tl-triple" style="grid-row:2;grid-column:2 / span 1">三合一（I）</div>
+<div class="tl-bar tl-dual" style="grid-row:2;grid-column:3 / span 3">OAC + P2Y12i（I）</div>
+<div class="tl-bar tl-oac" style="grid-row:2;grid-column:6 / span 1">只用 OAC（I）</div>
+<div class="tl-label" style="grid-row:3;grid-column:1">ACS 缺血風險高</div>
+<div class="tl-bar tl-triple" style="grid-row:3;grid-column:2 / span 2">三合一 ≤ 1 個月（IIa）</div>
+<div class="tl-bar tl-dual" style="grid-row:3;grid-column:4 / span 2">OAC + P2Y12i（I）</div>
+<div class="tl-bar tl-oac" style="grid-row:3;grid-column:6 / span 1">只用 OAC（I）</div>
+<div class="tl-label" style="grid-row:4;grid-column:1">ACS 內科治療</div>
+<div class="tl-bar tl-dual" style="grid-row:4;grid-column:2 / span 4">OAC + 單一抗血小板 6–12 個月</div>
+<div class="tl-bar tl-oac" style="grid-row:4;grid-column:6 / span 1">只用 OAC</div>
+<div class="tl-label" style="grid-row:5;grid-column:1">CCS 單純 PCI</div>
+<div class="tl-bar tl-triple" style="grid-row:5;grid-column:2 / span 1">三合一（I）</div>
+<div class="tl-bar tl-dual" style="grid-row:5;grid-column:3 / span 2">OAC + P2Y12i（I）</div>
+<div class="tl-bar tl-oac" style="grid-row:5;grid-column:5 / span 2">只用 OAC（I）</div>
+<div class="tl-label" style="grid-row:6;grid-column:1">CCS 缺血風險高</div>
+<div class="tl-bar tl-triple" style="grid-row:6;grid-column:2 / span 2">三合一 ≤ 1 個月（IIa）</div>
+<div class="tl-bar tl-dual" style="grid-row:6;grid-column:4 / span 1">雙重（I）</div>
+<div class="tl-bar tl-oac" style="grid-row:6;grid-column:5 / span 2">只用 OAC（I）</div>
+<div class="tl-label" style="grid-row:7;grid-column:1">穩定 CCS</div>
+<div class="tl-bar tl-oac" style="grid-row:7;grid-column:2 / span 5">只用 OAC</div>
+</div><div class="tl-legend"><span class="l-triple">三合一：OAC + P2Y12i + aspirin</span><span class="l-dual">雙重：OAC + 抗血小板</span><span class="l-oac">只用 OAC</span></div></div>
+
 
 | 情境 | 三合一（OAC + P2Y12i + aspirin） | 雙重（OAC + P2Y12i） | 之後 |
 | --- | --- | --- | --- |

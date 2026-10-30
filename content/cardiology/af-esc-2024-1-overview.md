@@ -66,6 +66,28 @@ tags:
 
 ## Figure 1：AF 帶來的影響與結果
 
+**圖解**（依原圖內容重新繪製）：
+
+```mermaid
+mindmap
+  root((AF 的影響))
+    病人症狀
+      心悸、喘、疲倦
+      胸痛、頭暈、暈厥
+      焦慮、憂鬱、失眠
+      運動耐力差
+    不良結果
+      心衰竭：最常見，約一半病人
+      缺血性中風 RR 約 2.3
+      認知退化與血管性失智
+      反覆住院
+      死亡 RR 約 2
+    醫療與社會
+      2010 到 2060 年盛行率倍增
+      終生風險 1/5 升到 1/3
+      占醫療支出 1–2%
+```
+
 指引把 AF 的衝擊分成三層，我依「多常見、多嚴重」重新整理（數字來自本章內文）：
 
 | 層面 | 內容 |
@@ -118,6 +140,26 @@ tags:
 
 ## Figure 3：AF-CARE 總覽（中央圖）
 
+**圖解**（依原圖內容重新繪製）：
+
+```mermaid
+flowchart LR
+    C["<b>C 共病與危險因子</b><br/>血壓 120–129／70–79<br/>心衰竭：利尿劑、SGLT2i<br/>減重 ≥ 10%<br/>酒精每週 ≤ 3 份<br/>糖尿病・運動・OSA"]
+    A["<b>A 預防中風</b><br/>CHA₂DS₂-VA ≥ 2 → OAC<br/>= 1 → 考慮 OAC<br/>優先 DOAC 標準劑量<br/>處理可改變的出血因子"]
+    R["<b>R 減輕症狀</b><br/>先 rate control<br/>依 AF 類型與 LVEF<br/>選 rhythm control"]
+    E["<b>E 再評估</b><br/>診斷後 6 個月，之後每年<br/>AF 發作或住院時<br/>重算栓塞與出血風險"]
+    C --> A --> R --> E
+    E -. "持續循環" .-> C
+    classDef c fill:#4a90d926,stroke:#4a90d9,stroke-width:2px
+    classDef a fill:#8e6bbf26,stroke:#8e6bbf,stroke-width:2px
+    classDef r fill:#b05fa826,stroke:#b05fa8,stroke-width:2px
+    classDef e fill:#d0679026,stroke:#d06790,stroke-width:2px
+    class C c
+    class A a
+    class R r
+    class E e
+```
+
 最上層的原則：照護公平（Class I）、病人家屬與醫療人員衛教（Class I）、以病人為中心的多專科照護（Class IIa）。
 
 ### [C] 共病與危險因子
@@ -157,6 +199,52 @@ tags:
 ## Figure 4–7：依 AF 類型的 [R] 路徑
 
 四條路徑的共同前提：都先照 AF-CARE 處理 [C] 共病和 [A] 抗凝。我把四張圖整理成對照表：
+
+### 圖解一：Rate control 選藥（四種類型共通）
+
+```mermaid
+flowchart TD
+    S["所有類型 AF：先處理 C 共病、A 抗凝"] --> V{"LVEF"}
+    V -->|"≤ 40%"| L["Beta-blocker 或 digoxin（I）<br/>❌ 不用 diltiazem／verapamil"]
+    V -->|"> 40%"| H["Beta-blocker、digoxin、<br/>diltiazem 或 verapamil（I）"]
+    L --> T{"休息心率 < 110 bpm<br/>且症狀可接受？"}
+    H --> T
+    T -->|"是"| F["維持，照 AF-CARE 追蹤"]
+    T -->|"否"| M["合併 rate control（IIa）<br/>注意心搏過慢"]
+    M --> N{"仍控制不佳<br/>（permanent AF）"}
+    N --> AVN["AV node 燒灼 + 節律器（IIa）<br/>嚴重症狀且曾因 HF 住院：+ CRT（IIa）"]
+    classDef ok fill:#2e9e6b26,stroke:#2e9e6b
+    classDef warn fill:#e0a10026,stroke:#e0a100
+    class L,H ok
+    class M,AVN warn
+```
+
+### 圖解二：Rhythm control 的選擇（paroxysmal 與 persistent）
+
+```mermaid
+flowchart TD
+    A["有症狀、考慮 rhythm control<br/>共同決策（I）"] --> B{"AF 類型"}
+    B -->|"Paroxysmal"| P["導管燒灼可當第一線（I）<br/>或抗心律不整藥（I）"]
+    B -->|"Persistent"| Q["抗心律不整藥（I）<br/>導管燒灼當第一線（IIb）<br/>需要時電擊整流"]
+    P --> D{"抗心律不整藥<br/>依心臟狀況選"}
+    Q --> D
+    D -->|"HFrEF"| D1["只用 amiodarone"]
+    D -->|"HFmrEF、冠心病、瓣膜病"| D2["Amiodarone 或 dronedarone<br/>sotalol（IIb）"]
+    D -->|"沒有或輕微心臟病"| D3["Dronedarone、flecainide、propafenone<br/>sotalol（IIb）"]
+    D1 --> X{"症狀復發"}
+    D2 --> X
+    D3 --> X
+    P -->|"直接燒灼"| X
+    X -->|"藥物失敗"| R1["導管燒灼（I）<br/>persistent 另可內視鏡／混合式燒灼（IIa）"]
+    X -->|"燒灼失敗"| R2["再次燒灼（IIa）<br/>外科／混合式燒灼、改用藥物<br/>或轉為 rate control"]
+    classDef ok fill:#2e9e6b26,stroke:#2e9e6b
+    classDef warn fill:#e0a10026,stroke:#e0a100
+    class P,D1,D2,D3,R1 ok
+    class Q,R2 warn
+```
+
+### 四種類型對照表
+
 
 | | First-diagnosed（Fig 4） | Paroxysmal（Fig 5） | Persistent（Fig 6） | Permanent（Fig 7） |
 | --- | --- | --- | --- | --- |

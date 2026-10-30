@@ -1,3 +1,87 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// 抗栓療程時間軸（用於 AF 指引筆記 Figure 14）
+.tl {
+  margin: 1.25rem 0;
+  font-size: 0.82rem;
+  overflow-x: auto;
+
+  .tl-grid {
+    display: grid;
+    grid-template-columns: 7.5rem repeat(5, minmax(3.2rem, 1fr));
+    gap: 6px 0;
+    min-width: 30rem;
+    align-items: center;
+  }
+  .tl-axis {
+    color: var(--gray);
+    font-size: 0.75rem;
+    text-align: left;
+    border-left: 1px dashed var(--lightgray);
+    padding-left: 4px;
+  }
+  .tl-label {
+    font-weight: 600;
+    color: var(--dark);
+    padding-right: 0.5rem;
+    line-height: 1.3;
+  }
+  .tl-bar {
+    padding: 0.35rem 0.45rem;
+    border-radius: 6px;
+    margin-right: 3px;
+    line-height: 1.3;
+    color: var(--dark);
+    border: 1px solid;
+  }
+  .tl-triple {
+    background: #d64b4b26;
+    border-color: #d64b4b;
+  }
+  .tl-dual {
+    background: #e0a10026;
+    border-color: #e0a100;
+  }
+  .tl-oac {
+    background: #2e9e6b26;
+    border-color: #2e9e6b;
+  }
+  .tl-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem 1rem;
+    margin-top: 0.6rem;
+    color: var(--darkgray);
+
+    span::before {
+      content: "";
+      display: inline-block;
+      width: 0.9rem;
+      height: 0.6rem;
+      border-radius: 3px;
+      margin-right: 0.3rem;
+      vertical-align: middle;
+      border: 1px solid;
+    }
+    .l-triple::before {
+      background: #d64b4b26;
+      border-color: #d64b4b;
+    }
+    .l-dual::before {
+      background: #e0a10026;
+      border-color: #e0a100;
+    }
+    .l-oac::before {
+      background: #2e9e6b26;
+      border-color: #2e9e6b;
+    }
+  }
+}
+
+@media print {
+  .tl .tl-grid {
+    min-width: 0;
+  }
+}
