@@ -18,7 +18,7 @@ tags:
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/atrial-fibrillation/index|心房顫動 AF 總覽]]
 >
-> ① [[af-esc-2024-1-overview|定義、診斷與 AF-CARE]]｜② [[af-esc-2024-2-anticoagulation|抗凝血與出血]]｜③ [[af-esc-2024-3-rate-rhythm|Rate 與 rhythm control]]｜④ 篩檢、危險因子與誘發因子（本篇）｜⑤ [[af-esc-2024-5-recommendations|新增、修訂與必做／不做]]
+> ① [[cardiology/atrial-fibrillation/af-esc-2024-1-overview|定義、診斷與 AF-CARE]]｜② [[cardiology/atrial-fibrillation/af-esc-2024-2-anticoagulation|抗凝血與出血]]｜③ [[cardiology/atrial-fibrillation/af-esc-2024-3-rate-rhythm|Rate 與 rhythm control]]｜④ 篩檢、危險因子與誘發因子（本篇）｜⑤ [[cardiology/atrial-fibrillation/af-esc-2024-5-recommendations|新增、修訂與必做／不做]]｜⑥ [[cardiology/atrial-fibrillation/af-exam|內專考點]]
 >
 > 本篇涵蓋：Table 14、15、16；Figure 15、16
 
@@ -135,9 +135,9 @@ flowchart LR
 
 ## 相關筆記
 
-- [[af-esc-2024-1-overview|AF 指引圖表①定義、診斷與 AF-CARE]]：Table 6 的 device-detected subclinical AF、Figure 8 共病處理
-- [[af-esc-2024-2-anticoagulation|AF 指引圖表②抗凝血與出血]]
-- [[af-esc-2024-5-recommendations|AF 指引圖表⑤新增、修訂與必做／不做]]
+- [[cardiology/atrial-fibrillation/af-esc-2024-1-overview|AF 指引圖表①定義、診斷與 AF-CARE]]：Table 6 的 device-detected subclinical AF、Figure 8 共病處理
+- [[cardiology/atrial-fibrillation/af-esc-2024-2-anticoagulation|AF 指引圖表②抗凝血與出血]]
+- [[cardiology/atrial-fibrillation/af-esc-2024-5-recommendations|AF 指引圖表⑤新增、修訂與必做／不做]]
 
 ## 參考資料
 

@@ -15,7 +15,7 @@ cssclasses:
 > [!abstract] 一句話重點
 > 2024 ESC 把 AF 照護整理成 **AF-CARE**：**[C] 共病與危險因子 → [A] 預防中風 → [R] 心率與節律控制 → [E] 定期再評估**。抗凝看 **CHA₂DS₂-VA（≥ 2 分給 OAC）**，不看 AF 類型；rate control 先看 **LVEF**。
 
-本篇依 **2024 ESC AF 指引**，把指引中的 Table 1–17、Figure 1–16 分成 5 篇整理，點下方卡片進入各篇。
+本篇依 **2024 ESC AF 指引**，把指引中的 Table 1–17、Figure 1–16 分成 5 篇整理，再加上第 6 篇內專考點，點下方卡片進入各篇。
 
 > [!tip] 原圖
 > 每個 Table、Figure 下方都有「📷 原圖」區塊。原圖存在私人資料庫，只有設定過權杖的瀏覽器看得到。<a class="of-settings-link" href="javascript:void 0">🔑 原圖設定</a>
@@ -42,6 +42,10 @@ cssclasses:
 <a class="af-card internal" href="/cardiology/atrial-fibrillation/af-esc-2024-5-recommendations">
 <div class="af-num">⑤</div>
 <div class="af-body"><div class="af-title">新增、修訂與必做／不做</div><div class="af-desc">2024 新增與修訂的建議、所有 Class I「必做」與 Class III「不要做」</div><div class="af-cover">Table 3、4、17</div></div>
+</a>
+<a class="af-card internal" href="/cardiology/atrial-fibrillation/af-exam">
+<div class="af-num">⑥</div>
+<div class="af-body"><div class="af-title">內專考點</div><div class="af-desc">104–114 年 AF 相關考古題 24 題，依考點分組，每組連到對應的指引圖表；附 2 題模擬題</div><div class="af-cover">CHA₂DS₂-VASc、抗凝原則、DOAC 與解毒劑、cardioversion、出血與中風、rate／rhythm control</div></div>
 </a>
 </div>
 

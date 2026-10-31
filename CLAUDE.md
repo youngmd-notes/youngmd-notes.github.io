@@ -34,6 +34,8 @@ Young 會用自然語言下指令（例如「新增一篇 SIADH 筆記」），�
 - `content/templates/` 是筆記模板，不會出現在網站上
 - **大主題分篇**：同一主題分成多篇時，在分類下建子資料夾（例如 `cardiology/atrial-fibrillation/`），`index.md` 當主題總覽頁（`cssclasses: [hide-listing]` 隱藏自動清單，用 `.af-cards` 卡片連到各分篇），分篇放在同一資料夾；左側選單會自動變成「分類 → 主題 → 分篇」三層
   - 搬移既有筆記時，在 aliases 加上舊網址（例如 `cardiology/舊檔名`），舊連結會自動轉址
+  - 子資料夾內的筆記互相連結時，**一律寫完整路徑**（例如 `[[cardiology/atrial-fibrillation/af-esc-2024-2-anticoagulation|…]]`）：舊網址 alias 會讓只寫檔名的連結變得有歧義，導向不存在的頁面
+  - 主題的內專考點可另開一篇分篇（例如 `atrial-fibrillation/af-exam.md`），每組考點加「📖 對照」連到相關指引圖表
 
 ## 筆記格式規則
 

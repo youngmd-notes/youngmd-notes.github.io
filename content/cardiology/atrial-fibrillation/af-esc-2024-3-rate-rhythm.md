@@ -18,7 +18,7 @@ tags:
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/atrial-fibrillation/index|心房顫動 AF 總覽]]
 >
-> ① [[af-esc-2024-1-overview|定義、診斷與 AF-CARE]]｜② [[af-esc-2024-2-anticoagulation|抗凝血與出血]]｜③ Rate 與 rhythm control（本篇）｜④ [[af-esc-2024-4-screening|篩檢與危險因子]]｜⑤ [[af-esc-2024-5-recommendations|新增、修訂與必做／不做]]
+> ① [[cardiology/atrial-fibrillation/af-esc-2024-1-overview|定義、診斷與 AF-CARE]]｜② [[cardiology/atrial-fibrillation/af-esc-2024-2-anticoagulation|抗凝血與出血]]｜③ Rate 與 rhythm control（本篇）｜④ [[cardiology/atrial-fibrillation/af-esc-2024-4-screening|篩檢與危險因子]]｜⑤ [[cardiology/atrial-fibrillation/af-esc-2024-5-recommendations|新增、修訂與必做／不做]]｜⑥ [[cardiology/atrial-fibrillation/af-exam|內專考點]]
 >
 > 本篇涵蓋：**何時用 rate control、何時用 rhythm control**（依指引內文整理）；Table 12、13；Figure 12（各類型 AF 的 rhythm control 路徑見①的 Figure 4–7）
 
@@ -282,9 +282,9 @@ flowchart TD
 
 ## 相關筆記
 
-- [[af-esc-2024-1-overview|AF 指引圖表①定義、診斷與 AF-CARE]]：Figure 4–7 各類型 AF 的 rhythm control 路徑
-- [[af-esc-2024-2-anticoagulation|AF 指引圖表②抗凝血與出血]]：CHA₂DS₂-VA、DOAC 劑量
-- [[af-esc-2024-5-recommendations|AF 指引圖表⑤新增、修訂與必做／不做]]
+- [[cardiology/atrial-fibrillation/af-esc-2024-1-overview|AF 指引圖表①定義、診斷與 AF-CARE]]：Figure 4–7 各類型 AF 的 rhythm control 路徑
+- [[cardiology/atrial-fibrillation/af-esc-2024-2-anticoagulation|AF 指引圖表②抗凝血與出血]]：CHA₂DS₂-VA、DOAC 劑量
+- [[cardiology/atrial-fibrillation/af-esc-2024-5-recommendations|AF 指引圖表⑤新增、修訂與必做／不做]]
 
 ## 參考資料
 

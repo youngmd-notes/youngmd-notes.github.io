@@ -19,7 +19,7 @@ tags:
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/atrial-fibrillation/index|心房顫動 AF 總覽]]
 >
-> ① [[af-esc-2024-1-overview|定義、診斷與 AF-CARE]]｜② 抗凝血與出血（本篇）｜③ [[af-esc-2024-3-rate-rhythm|Rate 與 rhythm control]]｜④ [[af-esc-2024-4-screening|篩檢與危險因子]]｜⑤ [[af-esc-2024-5-recommendations|新增、修訂與必做／不做]]
+> ① [[cardiology/atrial-fibrillation/af-esc-2024-1-overview|定義、診斷與 AF-CARE]]｜② 抗凝血與出血（本篇）｜③ [[cardiology/atrial-fibrillation/af-esc-2024-3-rate-rhythm|Rate 與 rhythm control]]｜④ [[cardiology/atrial-fibrillation/af-esc-2024-4-screening|篩檢與危險因子]]｜⑤ [[cardiology/atrial-fibrillation/af-esc-2024-5-recommendations|新增、修訂與必做／不做]]｜⑥ [[cardiology/atrial-fibrillation/af-exam|內專考點]]
 >
 > 本篇涵蓋：Table 10、11；Figure 9、10、11、14
 
@@ -237,9 +237,9 @@ flowchart TD
 
 ## 相關筆記
 
-- [[af-esc-2024-1-overview|AF 指引圖表①定義、診斷與 AF-CARE]]：Figure 3 的 [A] 五步驟
-- [[af-esc-2024-3-rate-rhythm|AF 指引圖表③ Rate 與 rhythm control]]：cardioversion 前後的抗凝
-- [[af-esc-2024-5-recommendations|AF 指引圖表⑤新增、修訂與必做／不做]]
+- [[cardiology/atrial-fibrillation/af-esc-2024-1-overview|AF 指引圖表①定義、診斷與 AF-CARE]]：Figure 3 的 [A] 五步驟
+- [[cardiology/atrial-fibrillation/af-esc-2024-3-rate-rhythm|AF 指引圖表③ Rate 與 rhythm control]]：cardioversion 前後的抗凝
+- [[cardiology/atrial-fibrillation/af-esc-2024-5-recommendations|AF 指引圖表⑤新增、修訂與必做／不做]]
 
 ## 參考資料
 

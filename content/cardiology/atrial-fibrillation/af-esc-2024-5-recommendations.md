@@ -17,7 +17,7 @@ tags:
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/atrial-fibrillation/index|心房顫動 AF 總覽]]
 >
-> ① [[af-esc-2024-1-overview|定義、診斷與 AF-CARE]]｜② [[af-esc-2024-2-anticoagulation|抗凝血與出血]]｜③ [[af-esc-2024-3-rate-rhythm|Rate 與 rhythm control]]｜④ [[af-esc-2024-4-screening|篩檢、危險因子與誘發因子]]｜⑤ 新增、修訂與必做／不做（本篇）
+> ① [[cardiology/atrial-fibrillation/af-esc-2024-1-overview|定義、診斷與 AF-CARE]]｜② [[cardiology/atrial-fibrillation/af-esc-2024-2-anticoagulation|抗凝血與出血]]｜③ [[cardiology/atrial-fibrillation/af-esc-2024-3-rate-rhythm|Rate 與 rhythm control]]｜④ [[cardiology/atrial-fibrillation/af-esc-2024-4-screening|篩檢、危險因子與誘發因子]]｜⑤ 新增、修訂與必做／不做（本篇）｜⑥ [[cardiology/atrial-fibrillation/af-exam|內專考點]]
 >
 > 本篇涵蓋：Table 3、4、17。表中「I-A」代表 Class I、Level A（等級定義見①的 Table 1–2）
 
@@ -277,10 +277,10 @@ tags:
 
 ## 相關筆記
 
-- [[af-esc-2024-1-overview|AF 指引圖表①定義、診斷與 AF-CARE]]
-- [[af-esc-2024-2-anticoagulation|AF 指引圖表②抗凝血與出血]]
-- [[af-esc-2024-3-rate-rhythm|AF 指引圖表③ Rate 與 rhythm control]]
-- [[af-esc-2024-4-screening|AF 指引圖表④篩檢、危險因子與誘發因子]]
+- [[cardiology/atrial-fibrillation/af-esc-2024-1-overview|AF 指引圖表①定義、診斷與 AF-CARE]]
+- [[cardiology/atrial-fibrillation/af-esc-2024-2-anticoagulation|AF 指引圖表②抗凝血與出血]]
+- [[cardiology/atrial-fibrillation/af-esc-2024-3-rate-rhythm|AF 指引圖表③ Rate 與 rhythm control]]
+- [[cardiology/atrial-fibrillation/af-esc-2024-4-screening|AF 指引圖表④篩檢、危險因子與誘發因子]]
 
 ## 參考資料
 

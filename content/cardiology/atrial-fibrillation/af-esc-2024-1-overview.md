@@ -17,7 +17,7 @@ tags:
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/atrial-fibrillation/index|心房顫動 AF 總覽]]
 >
-> ① 定義、診斷與 AF-CARE（本篇）｜② [[af-esc-2024-2-anticoagulation|抗凝血與出血]]｜③ [[af-esc-2024-3-rate-rhythm|Rate 與 rhythm control]]｜④ [[af-esc-2024-4-screening|篩檢與危險因子]]｜⑤ [[af-esc-2024-5-recommendations|新增、修訂與必做／不做]]
+> ① 定義、診斷與 AF-CARE（本篇）｜② [[cardiology/atrial-fibrillation/af-esc-2024-2-anticoagulation|抗凝血與出血]]｜③ [[cardiology/atrial-fibrillation/af-esc-2024-3-rate-rhythm|Rate 與 rhythm control]]｜④ [[cardiology/atrial-fibrillation/af-esc-2024-4-screening|篩檢與危險因子]]｜⑤ [[cardiology/atrial-fibrillation/af-esc-2024-5-recommendations|新增、修訂與必做／不做]]｜⑥ [[cardiology/atrial-fibrillation/af-exam|內專考點]]
 >
 > 本篇涵蓋：Table 1、2、5–9；Figure 1–8、13（相關的圖表排在一起，例如 Table 8 診斷檢查後面接 Figure 13 心臟超音波）
 
@@ -339,10 +339,10 @@ flowchart TD
 
 ## 相關筆記
 
-- [[af-esc-2024-2-anticoagulation|AF 指引圖表②抗凝血與出血]]
-- [[af-esc-2024-3-rate-rhythm|AF 指引圖表③ Rate 與 rhythm control]]
-- [[af-esc-2024-4-screening|AF 指引圖表④篩檢與危險因子]]
-- [[af-esc-2024-5-recommendations|AF 指引圖表⑤新增、修訂與必做／不做]]
+- [[cardiology/atrial-fibrillation/af-esc-2024-2-anticoagulation|AF 指引圖表②抗凝血與出血]]
+- [[cardiology/atrial-fibrillation/af-esc-2024-3-rate-rhythm|AF 指引圖表③ Rate 與 rhythm control]]
+- [[cardiology/atrial-fibrillation/af-esc-2024-4-screening|AF 指引圖表④篩檢與危險因子]]
+- [[cardiology/atrial-fibrillation/af-esc-2024-5-recommendations|AF 指引圖表⑤新增、修訂與必做／不做]]
 
 ## 參考資料
 
