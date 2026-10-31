@@ -61,6 +61,13 @@ export const defaultContentPageLayout: PageLayout = {
           "critical-care",
           "pharmacology",
           "teaching",
+          "nejm-cases",
+          "rheumatology-immunology",
+          "neurology",
+          "dermatology",
+          "urology",
+          "obstetrics-gynecology",
+          "pediatrics",
         ]
         const ia = order.indexOf(a.slugSegment)
         const ib = order.indexOf(b.slugSegment)
@@ -113,6 +120,13 @@ export const defaultListPageLayout: PageLayout = {
           "critical-care",
           "pharmacology",
           "teaching",
+          "nejm-cases",
+          "rheumatology-immunology",
+          "neurology",
+          "dermatology",
+          "urology",
+          "obstetrics-gynecology",
+          "pediatrics",
         ]
         const ia = order.indexOf(a.slugSegment)
         const ib = order.indexOf(b.slugSegment)

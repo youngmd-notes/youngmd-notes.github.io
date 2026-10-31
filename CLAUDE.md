@@ -28,6 +28,7 @@ Young 會用自然語言下指令（例如「新增一篇 SIADH 筆記」），�
 | `critical-care` | 重症醫學 |
 | `pharmacology` | 藥物 |
 | `teaching` | 教學資源 |
+| `nejm-cases` | NEJM 個案分享（獨立專區，見下方） |
 
 - 每個分類資料夾有一個 `index.md`，設定分類的顯示名稱
 - 新增分類時：建立資料夾和 `index.md`，並把資料夾名稱加進 `quartz.layout.ts` 裡 Explorer 的 `order` 陣列（兩處都要改），也更新 `content/index.md` 的分類表格和本檔的表格
@@ -85,6 +86,16 @@ Young 會提供 paper、指引或 textbook 內容，請 Claude 讀取後整理�
 - **不要把 PDF 或原文檔案放進這個 repo**（公開 repo，有版權問題）
 - 如果主題已經有筆記，優先**合併、更新**舊筆記，而不是另開一篇；更新時保留原有內容，標出新增的重點
 - 參考資料怎麼寫，筆記就照實呈現；不需要另外和其他來源或考古題比對、統一
+
+## NEJM 個案分享專區（`content/nejm-cases/`）
+
+- 來源：私人 repo `notes-sources` 的 `NEJM cases/` 資料夾（NEJM Evidence Morning Report PDF）
+- 專區內再分次專子資料夾（`cardiology`、`pulmonology`、`infectious-disease`、`gastroenterology`、`endocrinology`、`nephrology`、`hematology-oncology`、`rheumatology-immunology`、`neurology`、`dermatology`、`urology`、`obstetrics-gynecology`、`pediatrics`），一個個案一篇
+- **筆記名稱 = 最終診斷**（`中文診斷 English Diagnosis`）；檔名用診斷的英文
+- frontmatter 必填：`nejm_title`（原文標題）、`nejm_doi`、`nejm_year`、`chief`（病人怎麼來，一句話）、`pivot`（推理轉折點，一句話）、tags 含 `NEJM個案`
+- 內容**以作者的推理邏輯為主軸**（依 medical-ddx-reasoning 框架）：個案一覽 → 多個 Checkpoint（每個檢查先寫「為什麼做」，鑑別診斷用 🔴 HIGH／🟠 POSSIBLE／⚪ LOW／❌ RULED OUT／✅ CONFIRMED 標狀態）→ `> [!important] 🔀 轉折點` → 鑑別診斷演變表 → 治療與結果 → `## 🧭 推理全程回顧` 表 → Pearls & Pitfalls → 相關筆記 → 參考資料（附 DOI 與參考資料庫檔名）
+- 全部用自己的話寫，不放原文、原圖、原表；不需要內專考點區塊
+- 總覽頁與各次專目錄頁由 `node scripts/build-nejm-index.mjs` **自動產生**（讀 frontmatter 的 chief、pivot），不要手動編輯；新增個案後執行一次再建置（GitHub Actions 部署時也會自動執行）
 
 ## 內專考古題
 

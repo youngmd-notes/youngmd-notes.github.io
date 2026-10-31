@@ -29,6 +29,8 @@ jobs:
         run: npm ci
       - name: 彙整內專考點總覽
         run: node scripts/build-exam-index.mjs
+      - name: 產生 NEJM 個案目錄
+        run: node scripts/build-nejm-index.mjs
       - name: 建置網站
         run: npx quartz build
       - name: 上傳網站檔案
