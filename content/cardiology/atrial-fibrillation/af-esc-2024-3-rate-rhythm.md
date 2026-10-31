@@ -20,62 +20,119 @@ tags:
 >
 > ① [[cardiology/atrial-fibrillation/af-esc-2024-1-overview|定義、診斷與 AF-CARE]]｜② [[cardiology/atrial-fibrillation/af-esc-2024-2-anticoagulation|抗凝血與出血]]｜③ Rate 與 rhythm control（本篇）｜④ [[cardiology/atrial-fibrillation/af-esc-2024-4-screening|篩檢與危險因子]]｜⑤ [[cardiology/atrial-fibrillation/af-esc-2024-5-recommendations|新增、修訂與必做／不做]]｜⑥ [[cardiology/atrial-fibrillation/af-exam|內專考點]]
 >
-> 本篇涵蓋：**何時用 rate control、何時用 rhythm control**（依指引內文整理）；Table 12、13；Figure 12（各類型 AF 的 rhythm control 路徑見①的 Figure 4–7）
+> 本篇涵蓋：**臨床整合：rate control 與 rhythm control 怎麼搭配**（依指引內文整理）；Table 12、13；Figure 12（各類型 AF 的 rhythm control 路徑見①的 Figure 4–7）
 
-## 何時用 rate control、何時用 rhythm control
+## 臨床整合：rate control 與 rhythm control 怎麼搭配
 
 > [!info] 本段來源
-> 依指引第 7 章內文與 Recommendation Table 14–19 整理（不是 Table／Figure 本身），補充下方 Table 12、13 和 Figure 12 的使用時機。
+> 依指引第 3、7 章內文、Figure 4–7、Recommendation Table 14–19 整合；「三個病人」是依這些原則推演的例子，不是指引原文。
 
-### 先釐清：不是二選一
+> [!abstract] 一句話整合
+> **==rate control 是每個人的基本盤，rhythm control 是視情況加上去的一層，抗凝則在底下全程獨立運作==**。大多數病人是「先控速、再決定要不要加節律控制」，而且兩者常常同時進行。
 
-- **大多數病人兩者合併使用**，而且追蹤時要重新評估；以病人為中心，**所有適合的病人都應討論 rhythm control 的利弊**
-- **Rate control 有三種角色（I）**：急性期的**初始治療**、rhythm control 的**輔助**、或**單獨**作為長期策略
-- **Rhythm control 永遠不是單獨的策略**，一定要放在 AF-CARE 裡（共病處理、抗凝照做）
+### 三個問題的答案
 
-**圖解：選擇策略**
+**① 要做哪一個？** 不是二選一。指引明講：大多數病人需要兩者合併，而且追蹤時要有意識地重新評估。
+- **Rate control（I）**：急性期的第一步、rhythm control 的輔助，或單獨作為長期策略
+- **Rhythm control**：所有適合的病人都應該討論它的好處與風險；最主要的理由是**減輕症狀**，部分病人還能**改善預後**
+
+**② 只做一個還是兩個都做？**
+
+| 做法 | 什麼病人 |
+| --- | --- |
+| **只做 rate control** | **Permanent AF**（醫病共同決定不再恢復竇性節律）；控速後症狀已可接受、沒有下方「加做」理由、或病人不想做 rhythm control |
+| **兩個都做**（最常見） | 有症狀、HFrEF、早期 AF 有心血管風險……：rhythm control 負責恢復並維持竇性節律，**rate control 繼續當保護**，萬一復發心跳也不會太快 |
+| **只做 rhythm control、完全不控速** | 幾乎不會。急性期一定先控速；長期用 IC 類藥物（flecainide、propafenone）**一定要併用** beta-blocker、diltiazem 或 verapamil（IIa），避免轉成 flutter 時 1:1 傳導 |
+
+- 竇性節律穩定後，rate control 藥物依心率調整，**避免心搏過慢**；用 amiodarone 時它本身也會降心跳，其他 rate control 藥要跟著減量
+- 反過來，**amiodarone、sotalol 雖然能降心跳，原則上只拿來做 rhythm control**；dronedarone 更不能用來控速（permanent AF 會增加心衰竭、中風與死亡）
+
+**③ 有沒有時間上的考量？** 有，而且分三段：
+
+| | **急性期**（發作到約 48 小時） | **早期**（診斷後約 12 個月內） | **長期**（之後每 6–12 個月） |
+| --- | --- | --- | --- |
+| **抗凝** | 依 CHA₂DS₂-VA 開始；**要整流就遵守 24 小時、抗凝 3 週或 TEE、整流後 ≥ 4 週** | 依分數持續，**不因恢復竇性節律而停** | 依分數持續；每次再評估都重算 |
+| **Rate control** | **每個人先做**：beta-blocker（任何 LVEF）、diltiazem／verapamil（只限 LVEF > 40%）；目標先 < 110 bpm | 持續，當 rhythm control 的保護 | Permanent AF 的唯一策略；不夠 → 合併藥 → AV node 燒灼＋節律器（或 CRT） |
+| **Rhythm control** | 不穩定 → 電擊；穩定 → 可觀察 48 小時等自行恢復（新發 AF 約七到八成會自己好），或依抗凝規則整流 | **==最值得做的時間點==**：有症狀、HFrEF、早期 AF 有心血管風險 → 抗心律不整藥或燒灼 | 看效果決定：復發變少、變短、變輕就不算失敗；真的失敗 → 再燒灼、換藥，或轉成只控速 |
+
+**為什麼「早」很重要**：指引指出，隨著時間有些病人會出現心房與心室的結構損傷，讓 rhythm control 變得徒勞，這些人最後就成了 permanent AF。EAST-AFNET 4 也顯示，**診斷 1 年內**開始 rhythm control（八成用抗心律不整藥），可降低心血管死亡、中風與心衰竭住院。所以「AF 病史短、左心房還沒擴大」是有利於 rhythm control 的條件。
+
+### 決定要不要加 rhythm control
+
+**圖解：從控速到長期的決策**
 
 ```mermaid
 flowchart TD
-    A["AF 病人：先處理 C 共病、A 抗凝<br/>所有適合的病人都應討論 rhythm control 的利弊"] --> B{"血行動力不穩定？"}
-    B -->|"是"| U["緊急電擊整流（I）"]
-    B -->|"否"| R["先做 rate control 控制心跳（I）"]
-    R --> Q{"有沒有偏向 rhythm control 的理由？"}
-    Q -->|"有"| Y["加上 rhythm control<br/>cardioversion、抗心律不整藥或導管燒灼<br/>（rate control 視需要繼續當輔助）"]
-    Q -->|"沒有，或共同決定不再恢復竇性節律"| N["只用 rate control<br/>休息心率 < 110 bpm，有症狀再嚴格（IIa）"]
-    Y --> E["追蹤時重新評估兩種策略"]
-    N --> E
+    A["心跳已控制、抗凝已依分數處理"] --> Q1{"控制心跳後仍有症狀？<br/>或不確定症狀是不是 AF 造成的？"}
+    Q1 -->|"是"| R["加上 rhythm control"]
+    Q1 -->|"否"| Q2{"LVEF 下降，懷疑心搏過速心肌病變？"}
+    Q2 -->|"是"| R
+    Q2 -->|"否"| Q3{"診斷 ≤ 12 個月，<br/>且有心血管疾病或栓塞風險？"}
+    Q3 -->|"是"| R2["應考慮早期 rhythm control（IIa）"]
+    Q3 -->|"否"| RO["只做 rate control 也合理<br/>（病人不想、左心房已擴大、AF 很久）"]
+    R --> K["rate control 不停：當作復發時的保護<br/>依心率調整，避免心搏過慢"]
+    R2 --> K
+    K --> E["6 個月後、之後每年，或復發、住院時再評估"]
+    RO --> E
+    E -. "症狀變多、LVEF 變差、病人改變想法" .-> Q1
     classDef ok fill:#2e9e6b26,stroke:#2e9e6b
     classDef warn fill:#e0a10026,stroke:#e0a100
-    classDef bad fill:#d64b4b26,stroke:#d64b4b,stroke-width:2px
-    class R,N ok
-    class Y warn
-    class U bad
+    class R,R2,K warn
+    class RO ok
 ```
 
-### 兩種策略比較
+**偏向加做 rhythm control**：控速後仍有症狀；不確定症狀是不是 AF 造成（persistent AF 可用電擊整流當「診斷工具」，IIa）；懷疑心搏過速心肌病變（HFrEF 燒灼 I）；診斷 ≤ 12 個月且有心血管風險（IIa）；AF 病史短、左心房沒擴大；病人希望。
 
-| | Rate control | Rhythm control |
+**偏向只控速**：已共同決定為 permanent AF；症狀少且病人不想做；左心房明顯擴大、AF 很久，燒灼成功率低。完全無症狀的人做燒灼，目前證據還不足，只有高度選擇的病人才考慮。
+
+**選哪一種 rhythm control**（細節見下方與①的 Figure 4–7）：
+
+| AF 類型 | 第一線 | 要點 |
 | --- | --- | --- |
-| **目的** | 控制心跳、減輕症狀 | 恢復並維持竇性節律、改善生活品質、延緩 AF 進展；選擇性病人可降低併發症與死亡 |
-| **什麼時候用** | 急性期第一步；所有 AF 類型都適用；permanent AF 的唯一策略 | 仍有症狀；或符合下方「偏向 rhythm control」的條件 |
-| **工具** | Beta-blocker、diltiazem／verapamil、digoxin；必要時 AV node 燒灼 + 節律器 | 電擊或藥物整流、長期抗心律不整藥、導管燒灼、外科／混合式燒灼 |
-| **目標** | **休息心率 < 110 bpm**（寬鬆控制，IIa），仍有症狀再更嚴格 | 症狀改善；**復發變少、變短、變輕就不算失敗** |
-| **抗凝** | 依 CHA₂DS₂-VA | 依 CHA₂DS₂-VA；**整流前後另有固定規則**（見 Figure 12） |
+| **Paroxysmal** | **導管燒灼（I）或抗心律不整藥（I）**，共同決策 | 偶爾發作可用 pill-in-the-pocket（IIa） |
+| **Persistent** | 抗心律不整藥（I）；需要時電擊整流 | 燒灼當第一線只有選擇性病人（IIb）；藥物失敗後燒灼（I） |
+| **HFrEF 合併 AF** | **Amiodarone**；懷疑心搏過速心肌病變 → **燒灼（I）** | IC 類、dronedarone 都不能用 |
 
-### 什麼情況偏向 rhythm control
+### 三個病人：把原則串起來
 
-| 情況 | 依據 |
-| --- | --- |
-| 治療心跳後**仍有症狀** | 最主要的理由；試驗顯示維持竇性節律能改善生活品質 |
-| **不確定症狀是不是 AF 造成的** | 先試著恢復竇性節律是合理的第一步；persistent AF 可用**電擊整流當診斷工具**（IIa） |
-| 懷疑**心搏過速引起的心肌病變**、AF 病史短、**左心房沒有擴大**、病人希望 | 內文列出的有利因素 |
-| **診斷後 12 個月內**、有栓塞風險的選擇性病人 | 應考慮早期 rhythm control（IIa），可降低心血管死亡或住院（EAST-AFNET 4：> 75 歲或有心血管疾病，八成用抗心律不整藥） |
-| **HFrEF** | 高度懷疑心搏過速心肌病變：導管燒灼（I）；其他選擇性病人為改善預後：燒灼（IIa） |
+> [!example]- 病人 A：45 歲，沒有心臟病，每月發作數次的 paroxysmal AF，發作時很不舒服
+> 1. **抗凝**：CHA₂DS₂-VA 0 分 → 不需要
+> 2. **Rate control**：發作時控制心跳（beta-blocker）
+> 3. **Rhythm control**：有症狀、AF 病史短、心臟結構正常 → **兩個第一線選項**，和病人共同決策
+>    - **導管燒灼**（paroxysmal AF 第一線，I）
+>    - 或 **flecainide／propafenone＋beta-blocker**（沒有結構性心臟病才能用）
+>    - 發作不頻繁：可考慮在院內試過後，改用 pill-in-the-pocket
+> 4. **追蹤**：復發變少變輕就算有效；藥物無效 → 燒灼
+>
+> **整合重點**：這種人「兩個都做」，rate control 是背景保護，主角是 rhythm control
 
-**只用 rate control 的情況**：permanent AF（共同決定不再恢復竇性節律）；以及經共同決策選擇只控制心跳的病人（rate control 可以單獨作為長期策略，I）。
+> [!example]- 病人 B：72 歲，高血壓，第一次發現 AF 已數週，心跳 140，喘，LVEF 30%
+> 1. **抗凝**：HF 1＋高血壓 1＋65–74 歲 1＝3 分 → **DOAC**
+> 2. **Rate control 先做**：LVEF ≤ 40% → **beta-blocker 和／或 digoxin**；**不能用 diltiazem、verapamil**
+> 3. **Rhythm control 要積極**：LVEF 差可能是心跳太快造成的心肌病變
+>    - 發作已超過 24 小時 → 抗凝滿 3 週再整流，或等不了就 **TEE 後整流**；整流後抗凝至少 4 週
+>    - 維持竇性節律：**amiodarone**（HFrEF 唯一能用的抗心律不整藥）
+>    - 高度懷疑心搏過速心肌病變 → **導管燒灼（I）**
+> 4. **追蹤**：恢復竇性節律後重測 LVEF；如果 LVEF 回升，就證實是 AF 造成的
+>
+> **整合重點**：控速是急救，節律控制可能「治好」心衰竭，抗凝不因心律恢復而停
 
-### 給藥時機：從發作到長期
+> [!example]- 病人 C：84 歲，AF 已十多年，左心房明顯擴大，HFpEF，平常沒什麼症狀
+> 1. **抗凝**：≥ 75 歲 2＋HF 1＋（常合併高血壓 1）→ **DOAC**，確認是否符合減量條件
+> 2. **Rate control 為唯一策略**：寬鬆控制 **休息心率 < 110 bpm**；LVEF > 40% 可用 beta-blocker、diltiazem、verapamil 或 digoxin
+> 3. **Rhythm control**：AF 很久、左心房擴大、症狀少 → 成功率低、好處有限，和病人**共同決定為 permanent AF**
+> 4. **追蹤**：症狀變多 → 加強控速（合併藥物，避免心搏過慢）；嚴重症狀又曾因心衰竭住院 → **AV node 燒灼＋CRT**（IIa）
+>
+> **整合重點**：只做 rate control 是合理的主動選擇，不是放棄；抗凝照樣要做
+
+> [!warning] Pitfall：最常見的整合錯誤
+> - **把兩者當成對立**：做 rhythm control 的人通常也還在吃 rate control 藥
+> - **==恢復竇性節律就停抗凝==**：抗凝看 CHA₂DS₂-VA，跟心律無關
+> - **一復發就宣告 rhythm control 失敗**：抗心律不整藥只能減少 20–50% 復發，變少、變短、變輕就算有效
+> - **拖太久才想到 rhythm control**：心房重塑後可能已經做不起來
+> - **急著在急診整流**：AF 超過 24 小時或不知道多久，沒有抗凝 3 週或 TEE 不能整流
+
+### 細節：各階段用什麼藥
 
 **圖解：穩定病人的時間軸**
 

@@ -299,7 +299,7 @@ tags:
 
 ### Rate 與 rhythm control
 
-📖 對照：[[cardiology/atrial-fibrillation/af-esc-2024-3-rate-rhythm#何時用 rate control、何時用 rhythm control|③ 何時用 rate／rhythm control]]、[[cardiology/atrial-fibrillation/af-esc-2024-3-rate-rhythm#Table 12：Rate control 藥物|③ Table 12]]、[[cardiology/atrial-fibrillation/af-esc-2024-3-rate-rhythm#Table 13：用於恢復竇性節律的抗心律不整藥|③ Table 13]]
+📖 對照：[[cardiology/atrial-fibrillation/af-esc-2024-3-rate-rhythm#臨床整合：rate control 與 rhythm control 怎麼搭配|③ 臨床整合：rate 與 rhythm control]]、[[cardiology/atrial-fibrillation/af-esc-2024-3-rate-rhythm#Table 12：Rate control 藥物|③ Table 12]]、[[cardiology/atrial-fibrillation/af-esc-2024-3-rate-rhythm#Table 13：用於恢復竇性節律的抗心律不整藥|③ Table 13]]
 
 > [!note]- 108-010｜AF 綜合觀念，何者不正確？
 > **問**：哪一個說法是錯的？
