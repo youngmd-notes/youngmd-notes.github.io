@@ -85,3 +85,57 @@
     min-width: 0;
   }
 }
+
+// 主題總覽頁（例如心房顫動）：隱藏資料夾頁自動產生的清單，改用卡片
+.popover-hint:has(article.hide-listing) > .page-listing {
+  display: none;
+}
+
+.af-cards {
+  display: grid;
+  gap: 0.75rem;
+  margin: 1rem 0 1.5rem;
+}
+
+a.af-card {
+  display: flex;
+  gap: 0.9rem;
+  align-items: flex-start;
+  padding: 0.9rem 1rem;
+  border: 1px solid var(--lightgray);
+  border-left: 4px solid var(--secondary);
+  border-radius: 8px;
+  background: var(--light);
+  color: var(--dark);
+  text-decoration: none;
+  transition:
+    background-color 0.15s ease,
+    border-color 0.15s ease;
+
+  &:hover {
+    background-color: var(--highlight);
+    border-color: var(--secondary);
+  }
+
+  .af-num {
+    flex-shrink: 0;
+    font-size: 1.6rem;
+    line-height: 1;
+    color: var(--secondary);
+  }
+  .af-title {
+    font-weight: 700;
+    font-size: 1.05rem;
+    color: var(--secondary);
+  }
+  .af-desc {
+    margin-top: 0.2rem;
+    font-size: 0.9rem;
+    color: var(--darkgray);
+  }
+  .af-cover {
+    margin-top: 0.3rem;
+    font-size: 0.8rem;
+    color: var(--gray);
+  }
+}

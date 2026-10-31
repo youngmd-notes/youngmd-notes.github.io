@@ -32,6 +32,8 @@ Young 會用自然語言下指令（例如「新增一篇 SIADH 筆記」），�
 - 每個分類資料夾有一個 `index.md`，設定分類的顯示名稱
 - 新增分類時：建立資料夾和 `index.md`，並把資料夾名稱加進 `quartz.layout.ts` 裡 Explorer 的 `order` 陣列（兩處都要改），也更新 `content/index.md` 的分類表格和本檔的表格
 - `content/templates/` 是筆記模板，不會出現在網站上
+- **大主題分篇**：同一主題分成多篇時，在分類下建子資料夾（例如 `cardiology/atrial-fibrillation/`），`index.md` 當主題總覽頁（`cssclasses: [hide-listing]` 隱藏自動清單，用 `.af-cards` 卡片連到各分篇），分篇放在同一資料夾；左側選單會自動變成「分類 → 主題 → 分篇」三層
+  - 搬移既有筆記時，在 aliases 加上舊網址（例如 `cardiology/舊檔名`），舊連結會自動轉址
 
 ## 筆記格式規則
 

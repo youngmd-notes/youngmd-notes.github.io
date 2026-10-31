@@ -1,6 +1,8 @@
 ---
-title: AF 指引圖表⑤新增、修訂與必做／不做 2024 ESC AF Guideline Tables & Figures (5)
+title: ⑤新增、修訂與必做／不做 Key Recommendations
 aliases:
+  - AF 指引圖表⑤新增、修訂與必做／不做 2024 ESC AF Guideline Tables & Figures (5)
+  - cardiology/af-esc-2024-5-recommendations
   - 2024 ESC AF 指引 重點建議
   - AF what to do what not to do
 tags:
@@ -13,6 +15,8 @@ tags:
 > 2024 版最大的改變：**CHA₂DS₂-VA 取代 CHA₂DS₂-VASc**、**paroxysmal AF 導管燒灼升為第一線（I）**、共病處理多項升為 Class I（減重 10%、酒精每週 ≤ 3 份、量身運動）；**最常考的「不要做」是：抗血小板取代或加在抗凝上、用 AF 類型或出血分數決定抗凝、不符條件卻減量 DOAC**。
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
+> ↑ 回到 [[cardiology/atrial-fibrillation/index|心房顫動 AF 總覽]]
+>
 > ① [[af-esc-2024-1-overview|定義、診斷與 AF-CARE]]｜② [[af-esc-2024-2-anticoagulation|抗凝血與出血]]｜③ [[af-esc-2024-3-rate-rhythm|Rate 與 rhythm control]]｜④ [[af-esc-2024-4-screening|篩檢、危險因子與誘發因子]]｜⑤ 新增、修訂與必做／不做（本篇）
 >
 > 本篇涵蓋：Table 3、4、17。表中「I-A」代表 Class I、Level A（等級定義見①的 Table 1–2）

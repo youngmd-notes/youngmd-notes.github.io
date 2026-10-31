@@ -1,6 +1,8 @@
 ---
-title: AF 指引圖表③ Rate 與 Rhythm Control 2024 ESC AF Guideline Tables & Figures (3)
+title: ③心率與節律控制 Rate & Rhythm Control
 aliases:
+  - AF 指引圖表③ Rate 與 Rhythm Control 2024 ESC AF Guideline Tables & Figures (3)
+  - cardiology/af-esc-2024-3-rate-rhythm
   - 2024 ESC AF 指引 rate control
   - AF cardioversion
   - AF 抗心律不整藥
@@ -14,6 +16,8 @@ tags:
 > Rate control 先看 **LVEF**：**≤ 40% 只能用 beta-blocker 或 digoxin**，> 40% 才能加 diltiazem／verapamil；cardioversion 的關鍵是**抗凝狀態與 AF 持續時間**，而且**做完不論分數都要抗凝 4 週**。
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
+> ↑ 回到 [[cardiology/atrial-fibrillation/index|心房顫動 AF 總覽]]
+>
 > ① [[af-esc-2024-1-overview|定義、診斷與 AF-CARE]]｜② [[af-esc-2024-2-anticoagulation|抗凝血與出血]]｜③ Rate 與 rhythm control（本篇）｜④ [[af-esc-2024-4-screening|篩檢與危險因子]]｜⑤ [[af-esc-2024-5-recommendations|新增、修訂與必做／不做]]
 >
 > 本篇涵蓋：Table 12、13；Figure 12（各類型 AF 的 rhythm control 路徑見①的 Figure 4–7）

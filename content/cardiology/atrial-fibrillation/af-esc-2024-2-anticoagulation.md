@@ -1,6 +1,8 @@
 ---
-title: AF 指引圖表②抗凝血與出血 2024 ESC AF Guideline Tables & Figures (2)
+title: ②抗凝血與出血 Anticoagulation & Bleeding
 aliases:
+  - AF 指引圖表②抗凝血與出血 2024 ESC AF Guideline Tables & Figures (2)
+  - cardiology/af-esc-2024-2-anticoagulation
   - 2024 ESC AF 指引 抗凝血
   - CHA2DS2-VA
   - DOAC 劑量
@@ -15,6 +17,8 @@ tags:
 > 2024 ESC 改用**不含性別的 CHA₂DS₂-VA**：**≥ 2 分給 OAC、1 分應考慮**；優先用 **DOAC 標準劑量**，只有符合各藥減量條件才減量；出血分數**不能**拿來決定不抗凝，而是用來找出可矯正的出血因子。
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
+> ↑ 回到 [[cardiology/atrial-fibrillation/index|心房顫動 AF 總覽]]
+>
 > ① [[af-esc-2024-1-overview|定義、診斷與 AF-CARE]]｜② 抗凝血與出血（本篇）｜③ [[af-esc-2024-3-rate-rhythm|Rate 與 rhythm control]]｜④ [[af-esc-2024-4-screening|篩檢與危險因子]]｜⑤ [[af-esc-2024-5-recommendations|新增、修訂與必做／不做]]
 >
 > 本篇涵蓋：Table 10、11；Figure 9、10、11、14

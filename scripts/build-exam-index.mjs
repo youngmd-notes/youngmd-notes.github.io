@@ -29,10 +29,19 @@ for (const folder of ORDER) {
   const dir = path.join(CONTENT, folder)
   if (!fs.existsSync(dir)) continue
   const catTitle = titleOf(fs.readFileSync(path.join(dir, "index.md"), "utf8")) ?? folder
-  for (const file of fs.readdirSync(dir).sort()) {
-    if (!file.endsWith(".md") || file === "index.md") continue
-    const text = fs.readFileSync(path.join(dir, file), "utf8")
-    const slug = `${folder}/${file.replace(/\.md$/, "")}`
+  // 遞迴找出分類資料夾（含子資料夾，例如 cardiology/atrial-fibrillation）裡的所有筆記
+  const files = []
+  const walk = (d, rel) => {
+    for (const f of fs.readdirSync(d).sort()) {
+      const full = path.join(d, f)
+      if (fs.statSync(full).isDirectory()) walk(full, rel ? `${rel}/${f}` : f)
+      else if (f.endsWith(".md") && !(f === "index.md" && rel === "")) files.push([full, rel, f])
+    }
+  }
+  walk(dir, "")
+  for (const [full, rel, file] of files) {
+    const text = fs.readFileSync(full, "utf8")
+    const slug = [folder, rel, file.replace(/\.md$/, "")].filter(Boolean).join("/")
     const note = {
       slug,
       folder,

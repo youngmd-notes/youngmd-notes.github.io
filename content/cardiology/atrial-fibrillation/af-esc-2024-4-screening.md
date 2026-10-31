@@ -1,6 +1,8 @@
 ---
-title: AF 指引圖表④篩檢、危險因子與誘發因子 2024 ESC AF Guideline Tables & Figures (4)
+title: ④篩檢、危險因子與誘發因子 Screening & Risk Factors
 aliases:
+  - AF 指引圖表④篩檢、危險因子與誘發因子 2024 ESC AF Guideline Tables & Figures (4)
+  - cardiology/af-esc-2024-4-screening
   - 2024 ESC AF 指引 篩檢
   - AF screening
   - Trigger-induced AF
@@ -14,6 +16,8 @@ tags:
 > 穿戴裝置或 PPG 只能「提示」AF，**確診一定要醫師判讀的 ECG**（單導程 > 30 秒或 12 導程）；**≥ 65 歲每次看診都該評估心律**，≥ 75 歲或 65 歲以上合併危險因子可考慮族群篩檢。
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
+> ↑ 回到 [[cardiology/atrial-fibrillation/index|心房顫動 AF 總覽]]
+>
 > ① [[af-esc-2024-1-overview|定義、診斷與 AF-CARE]]｜② [[af-esc-2024-2-anticoagulation|抗凝血與出血]]｜③ [[af-esc-2024-3-rate-rhythm|Rate 與 rhythm control]]｜④ 篩檢、危險因子與誘發因子（本篇）｜⑤ [[af-esc-2024-5-recommendations|新增、修訂與必做／不做]]
 >
 > 本篇涵蓋：Table 14、15、16；Figure 15、16

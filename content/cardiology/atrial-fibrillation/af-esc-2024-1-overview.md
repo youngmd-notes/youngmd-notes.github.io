@@ -1,6 +1,8 @@
 ---
-title: AF 指引圖表①定義、診斷與 AF-CARE 2024 ESC AF Guideline Tables & Figures (1)
+title: ①定義、診斷與 AF-CARE Definition, Diagnosis & AF-CARE
 aliases:
+  - AF 指引圖表①定義、診斷與 AF-CARE 2024 ESC AF Guideline Tables & Figures (1)
+  - cardiology/af-esc-2024-1-overview
   - 2024 ESC AF 指引 定義與 AF-CARE
   - AF-CARE
 tags:
@@ -13,6 +15,8 @@ tags:
 > 2024 ESC 把 AF 照護整理成 **AF-CARE** 四步驟：**[C] 共病與危險因子 → [A] 預防中風 → [R] 用 rate／rhythm control 減輕症狀 → [E] 定期再評估**；rhythm control 的選擇依 **AF 類型**和 **LVEF** 走不同路徑。
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
+> ↑ 回到 [[cardiology/atrial-fibrillation/index|心房顫動 AF 總覽]]
+>
 > ① 定義、診斷與 AF-CARE（本篇）｜② [[af-esc-2024-2-anticoagulation|抗凝血與出血]]｜③ [[af-esc-2024-3-rate-rhythm|Rate 與 rhythm control]]｜④ [[af-esc-2024-4-screening|篩檢與危險因子]]｜⑤ [[af-esc-2024-5-recommendations|新增、修訂與必做／不做]]
 >
 > 本篇涵蓋：Table 1、2、5–9；Figure 1–8、13
