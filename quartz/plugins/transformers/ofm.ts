@@ -528,7 +528,8 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                 file.data.hasMermaidDiagram = true
                 node.data = {
                   hProperties: {
-                    className: ["mermaid"],
+                    className: ["mermaid", "notranslate"],
+                    translate: "no",
                     "data-clipboard": JSON.stringify(node.value),
                   },
                 }
