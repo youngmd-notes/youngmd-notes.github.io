@@ -24,12 +24,16 @@ tags:
 
 ## Figure 15：AF 篩檢的非侵入性方法
 
+<div class="orig-fig" data-src="心臟科/af-originals/figure-15.png" data-label="Figure 15"></div>
+
 | | ECG 類 | 非 ECG 類 |
 | --- | --- | --- |
 | **能否確診** | **可以**，前提是**==經醫師確認==**（Class I） | **==不能確診==**，只能提示可能有 AF |
 | 方法 | 單導程或雙導程、6 導程、> 6 導程（如 12 導程） | 摸脈搏、oscillometry（血壓計）、**PPG**（接觸式或非接觸式）、mechanocardiography、智慧音箱（非接觸式） |
 
 ## Table 15：AF 篩檢工具
+
+<div class="orig-fig" data-src="心臟科/af-originals/table-15.png" data-label="Table 15"></div>
 
 1. **摸脈搏**
 2. **AI 演算法**找出高風險病人
@@ -48,6 +52,8 @@ tags:
 > 監測時間由短到長：**智慧裝置 30 秒 → Holter 1 天到一週 → 貼片 14 天 → 生物紡織品 30 天 → ILR 3–5 年**。隱源性中風找 AF，需要的就是長時間監測。
 
 ## Figure 16：AF 篩檢的策略
+
+<div class="orig-fig" data-src="心臟科/af-originals/figure-16.png" data-label="Figure 16"></div>
 
 **圖解**（依原圖內容重新繪製）：
 
@@ -89,6 +95,8 @@ flowchart LR
 
 ## Table 16：與新發 AF 相關的因素
 
+<div class="orig-fig" data-src="心臟科/af-originals/table-16-1.png,心臟科/af-originals/table-16-2.png" data-label="Table 16"></div>
+
 | 類別 | 因素 |
 | --- | --- |
 | **人口學** | **年齡**、男性、歐洲血統、社經地位較低 |
@@ -106,6 +114,8 @@ flowchart LR
 > 運動和 AF 呈 **J 型關係**：缺乏運動和高強度、耐力型運動都和 AF 相關。可以控制、而且證據最強的兩個是**血壓和體重**。
 
 ## Table 14：誘發 AF 的非心臟因素（trigger-induced AF）
+
+<div class="orig-fig" data-src="心臟科/af-originals/table-14.png" data-label="Table 14"></div>
 
 | 類型 | 因素 |
 | --- | --- |

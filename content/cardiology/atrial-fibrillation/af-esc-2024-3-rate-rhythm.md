@@ -157,6 +157,8 @@ flowchart TD
 
 ## Table 12：Rate control 藥物
 
+<div class="orig-fig" data-src="心臟科/af-originals/table-12-1.png,心臟科/af-originals/table-12-2.png" data-label="Table 12"></div>
+
 ### 用藥前先知道（本章內文）
 
 - **目標心率**：一開始用**==寬鬆控制，休息心率 < 110 bpm==**（RACE II 試驗顯示不劣於嚴格控制 < 80 bpm）；仍有症狀或懷疑心搏過速引起的心肌病變，才要更嚴格
@@ -212,6 +214,8 @@ flowchart TD
 
 ## Figure 12：AF 的 cardioversion 流程
 
+<div class="orig-fig" data-src="心臟科/af-originals/figure-12.png" data-label="Figure 12"></div>
+
 我依「先看什麼、再看什麼」重新整理原圖：
 
 ```mermaid
@@ -246,6 +250,8 @@ flowchart TD
 > - **==整流後 4 週抗凝幾乎是每個人都要==**，不是看 CHA₂DS₂-VA 分數
 
 ## Table 13：用於恢復竇性節律的抗心律不整藥
+
+<div class="orig-fig" data-src="心臟科/af-originals/table-13.png" data-label="Table 13"></div>
 
 | 藥物 | 途徑 | 起始劑量 | 後續／〔長期維持〕 | 急性成功率（時間） |
 | --- | --- | --- | --- | --- |

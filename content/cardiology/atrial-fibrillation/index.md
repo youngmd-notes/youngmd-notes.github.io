@@ -17,6 +17,9 @@ cssclasses:
 
 本篇依 **2024 ESC AF 指引**，把指引中的 Table 1–17、Figure 1–16 分成 5 篇整理，點下方卡片進入各篇。
 
+> [!tip] 原圖
+> 每個 Table、Figure 下方都有「📷 原圖」區塊。原圖存在私人資料庫，只有設定過權杖的瀏覽器看得到。<a class="of-settings-link" href="javascript:void 0">🔑 原圖設定</a>
+
 ## 分篇筆記
 
 <div class="af-cards">

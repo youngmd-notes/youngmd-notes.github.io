@@ -30,6 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.CollapsibleSections(),
     Component.ClinicalCalc(),
     Component.QuizMode(),
+    Component.OrigFig(),
   ],
   left: [
     Component.PageTitle(),

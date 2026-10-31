@@ -25,6 +25,8 @@ tags:
 
 ## Table 10：CHA₂DS₂-VA 分數的新定義
 
+<div class="orig-fig" data-src="心臟科/af-originals/table-10.png" data-label="Table 10"></div>
+
 | 字母 | 項目 | 定義重點 | 分數 |
 | --- | --- | --- | --- |
 | **C** | 慢性心衰竭 | 有心衰竭症狀與徵候，**不論 LVEF**（HFpEF、HFmrEF、HFrEF 都算）；或無症狀但 LVEF ≤ 40% | 1 |
@@ -49,6 +51,8 @@ tags:
 
 ## Figure 9：口服抗凝劑常見的藥物交互作用
 
+<div class="orig-fig" data-src="心臟科/af-originals/figure-09.png" data-label="Figure 9"></div>
+
 我把原圖依「該怎麼處理」重新整理，只列常見或重要的交互作用：
 
 | 藥物 | 盡量避免併用 | 減量或調整 | 其他注意 |
@@ -65,6 +69,8 @@ tags:
 > - 原圖只列常見交互作用，完整資訊要查 EMA 或各院藥典
 
 ## Table 11：DOAC 建議劑量
+
+<div class="orig-fig" data-src="心臟科/af-originals/table-11.png" data-label="Table 11"></div>
 
 | DOAC | 標準劑量 | 減量條件 | 減量後劑量 |
 | --- | --- | --- | --- |
@@ -84,6 +90,8 @@ tags:
 > - 但 **≥ 75 歲、多重用藥或衰弱**且 INR 穩定的病人，有試驗顯示換成 DOAC 反而出血更多，可以共同決策後**繼續 VKA**
 
 ## Figure 10：降低抗凝相關出血風險
+
+<div class="orig-fig" data-src="心臟科/af-originals/figure-10.png" data-label="Figure 10"></div>
 
 **圖解**（依原圖內容重新繪製）：
 
@@ -131,6 +139,8 @@ flowchart TD
 
 ## Figure 11：OAC 相關出血的處置
 
+<div class="orig-fig" data-src="心臟科/af-originals/figure-11.png" data-label="Figure 11"></div>
+
 **圖解**（依原圖內容重新繪製）：
 
 ```mermaid
@@ -165,6 +175,8 @@ flowchart TD
 > 致命出血的首選：**VKA 用 PCC、DOAC 用特異性解毒劑**（兩者都是 IIa），FFP 和 PCC 分別是「沒有首選時」的替代。出血處理完後，**目標是恢復抗凝**，不是永久停藥。
 
 ## Figure 14：AF 合併急性或慢性冠心症的抗栓治療
+
+<div class="orig-fig" data-src="心臟科/af-originals/figure-14.png" data-label="Figure 14"></div>
 
 ### 共通原則
 

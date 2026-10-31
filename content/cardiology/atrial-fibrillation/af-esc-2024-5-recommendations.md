@@ -23,6 +23,8 @@ tags:
 
 ## Table 3：2024 新增的建議
 
+<div class="orig-fig" data-src="心臟科/af-originals/table-03-1.png,心臟科/af-originals/table-03-2.png,心臟科/af-originals/table-03-3.png" data-label="Table 3"></div>
+
 ### 診斷與照護原則
 
 | 建議 | 等級 |
@@ -108,6 +110,8 @@ tags:
 
 ## Table 4：與 2020 版相比修訂的建議
 
+<div class="orig-fig" data-src="心臟科/af-originals/table-04-1.png,心臟科/af-originals/table-04-2.png" data-label="Table 4"></div>
+
 | 主題 | 2020 版 | 2024 版 | 變化 |
 | --- | --- | --- | --- |
 | **AF 診斷** | 12 導程或 **≥ 30 秒**單導程 ECG（I-B） | ECG（12 導程、多導程或單導程）確認即可（**I-A**） | 不再寫死 30 秒；證據升為 A |
@@ -129,6 +133,8 @@ tags:
 
 ## Table 17：「不要做」清單（全部 Class III）
 
+<div class="orig-fig" data-src="心臟科/af-originals/table-17-1.png,心臟科/af-originals/table-17-2.png,心臟科/af-originals/table-17-3.png,心臟科/af-originals/table-17-4.png" data-label="Table 17"></div>
+
 先把所有 Class III 一次看完，這些最容易出成「何者錯誤」：
 
 | 不要做 | 等級 |
@@ -149,6 +155,8 @@ tags:
 | ESUS 沒有記錄到 AF 就開始 OAC | III-A |
 
 ## Table 17：「必做」清單（Class I，依主題）
+
+> 原圖見上方「不要做」清單的原圖區塊（Table 17 共 4 頁）。
 
 ### 診斷、評估與照護
 

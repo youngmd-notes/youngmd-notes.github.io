@@ -76,6 +76,8 @@ Young 會提供 paper、指引或 textbook 內容，請 Claude 讀取後整理�
 - **用自己的話重新整理**，不可以整段照抄原文；表格、流程圖也要重新組織，不可以直接複製原書的圖表
   - 原文的 figure（流程圖、示意圖）要依內容**重新繪製**：用 Mermaid（flowchart、mindmap）或 HTML 圖表，換成自己的版面與配色，標示「依原圖內容重新繪製」；不可貼原圖截圖。療程長短類可用 `.tl` 時間軸樣式（見 AF 指引筆記 Figure 14）
   - Mermaid 圖在推送前先用本機 mermaid（與網站同版 11.4.0）渲染驗證，避免網站上出現錯誤框
+- **私人原圖（只有 Young 看得到）**：原圖裁切成 PNG 放在私人 repo `notes-sources`（例如 `心臟科/af-originals/`），筆記中在對應的 Table／Figure 標題下放 `<div class="orig-fig" data-src="心臟科/af-originals/figure-03.png" data-label="Figure 3"></div>`（多頁用逗號分隔）。網站只放路徑，圖片由 Young 瀏覽器用他自己的 GitHub 權杖從私人 repo 讀取；**原圖檔案絕對不可放進這個公開 repo**
+  - 裁切用 PyMuPDF：figure 以紅色外框＋圖說為範圍；table 以表格儲存格結構＋表註為範圍；逐張目視檢查，跨欄或跨頁的表要分段
 - 原文引用每篇最多一句短句（15 字以內），並加上出處
 - 「參考資料」寫明來源（作者、標題、期刊或書名、年份、章節）
 - **不要把 PDF 或原文檔案放進這個 repo**（公開 repo，有版權問題）

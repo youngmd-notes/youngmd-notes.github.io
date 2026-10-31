@@ -23,6 +23,8 @@ tags:
 
 ## Table 1–2：建議等級與證據等級
 
+<div class="orig-fig" data-src="心臟科/af-originals/table-01-02.png" data-label="Table 1–2"></div>
+
 整份指引每條建議都標 **Class（建議強度）** 和 **Level（證據等級）**，讀後面所有圖表都要先懂這兩個。
 
 | Class | 意思 | 指引用語 |
@@ -43,6 +45,8 @@ tags:
 
 ## Table 5：依時間型態分類 AF
 
+<div class="orig-fig" data-src="心臟科/af-originals/table-05.png" data-label="Table 5"></div>
+
 | 分類 | 定義 |
 | --- | --- |
 | **First-diagnosed** | 第一次被診斷，不管有無症狀、型態或持續多久 |
@@ -55,6 +59,8 @@ tags:
 > **==Permanent 不是看時間長短，而是一個「共同決定」==**：決定不再做 rhythm control 才叫 permanent。而且 AF 類型**==不影響是否需要抗凝==**（見 Figure 3 [A]）。
 
 ## Table 6：其他與 AF 相關的臨床概念
+
+<div class="orig-fig" data-src="心臟科/af-originals/table-06-1.png,心臟科/af-originals/table-06-2.png" data-label="Table 6"></div>
 
 | 概念 | 重點 |
 | --- | --- |
@@ -69,6 +75,8 @@ tags:
 | **Atrial cardiomyopathy** | 心房結構、電學或功能改變，造成 AF 進展、治療效果差或心衰竭；包含發炎、促血栓重塑、纖維化 |
 
 ## Figure 1：AF 帶來的影響與結果
+
+<div class="orig-fig" data-src="心臟科/af-originals/figure-01.png" data-label="Figure 1"></div>
 
 **圖解**（依原圖內容重新繪製）：
 
@@ -105,6 +113,8 @@ mindmap
 
 ## Table 7：mEHRA 症狀分級
 
+<div class="orig-fig" data-src="心臟科/af-originals/table-07.png" data-label="Table 7"></div>
+
 | 分數 | 症狀 | 描述 |
 | --- | --- | --- |
 | 1 | 無 | 沒有症狀 |
@@ -118,6 +128,8 @@ mindmap
 
 ## Table 8：AF 病人的診斷檢查
 
+<div class="orig-fig" data-src="心臟科/af-originals/table-08.png" data-label="Table 8"></div>
+
 | | 檢查項目 |
 | --- | --- |
 | **所有病人** | 病史（AF 型態、家族史、共病、栓塞與出血風險）、**12 導程 ECG**、評估症狀與功能（例如 mEHRA）、病人自評量表、**血液檢查：CBC、腎功能、電解質、肝功能、血糖／HbA1c、==甲狀腺功能==**、**TTE**（會影響 AF-CARE 決策時） |
@@ -128,6 +140,8 @@ mindmap
 
 ## Figure 13：心臟超音波在 AF-CARE 的角色
 
+<div class="orig-fig" data-src="心臟科/af-originals/figure-13.png" data-label="Figure 13"></div>
+
 | 步驟 | 為什麼做影像 | 看什麼 |
 | --- | --- | --- |
 | **[C]** | 找出會讓 AF 復發、進展的共病 | LVEF、室壁運動、舒張功能、右心功能、左心室肥厚（判斷心衰竭類型與病因，例如 cardiac amyloid）；心包膜積液；瓣膜疾病 |
@@ -136,6 +150,8 @@ mindmap
 | **[E]** | 偵測會改變處置的結構變化 | 已知瓣膜疾病是否惡化；臨床狀況改變時重新評估左心室 |
 
 ## Figure 2：多專科團隊照護
+
+<div class="orig-fig" data-src="心臟科/af-originals/figure-02.png" data-label="Figure 2"></div>
 
 以病人為中心，AF-CARE 每一步都有不同團隊成員參與：
 
@@ -148,10 +164,14 @@ mindmap
 
 ## Table 9：如何做到以病人為中心
 
+<div class="orig-fig" data-src="心臟科/af-originals/table-09.png" data-label="Table 9"></div>
+
 - **照護內容**：照 AF-CARE 路徑治療、生活型態建議、心理社會支持、病人與家屬衛教、基層與專科無縫銜接
 - **執行方式**：**醫病共同決策（shared decision-making）**、多專科團隊、病人衛教與自我照護、醫療人員的結構化教育、科技輔助（e-Health、m-Health、遠距醫療）
 
 ## Figure 3：AF-CARE 總覽（中央圖）
+
+<div class="orig-fig" data-src="心臟科/af-originals/figure-03.png" data-label="Figure 3"></div>
 
 **圖解**（依原圖內容重新繪製）：
 
@@ -210,6 +230,8 @@ flowchart LR
 > **==燒灼成功、恢復竇性節律，不代表可以停抗凝==**；是否抗凝看的是栓塞風險，不是心律。
 
 ## Figure 4–7：依 AF 類型的 [R] 路徑
+
+<div class="orig-fig" data-src="心臟科/af-originals/figure-04.png,心臟科/af-originals/figure-05.png,心臟科/af-originals/figure-06.png,心臟科/af-originals/figure-07.png" data-label="Figure 4–7"></div>
 
 四條路徑的共同前提：都先照 AF-CARE 處理 [C] 共病和 [A] 抗凝。我把四張圖整理成對照表：
 
@@ -296,6 +318,8 @@ flowchart TD
 心率達標 → 照 AF-CARE 持續追蹤；未達標 → 在觀察下加強 rate control，仍不行時評估 **AV node 燒灼合併節律器**（IIa）。
 
 ## Figure 8：處理關鍵共病以減少 AF 復發
+
+<div class="orig-fig" data-src="心臟科/af-originals/figure-08.png" data-label="Figure 8"></div>
 
 **行為改變的原則**：共同決策、聚焦關鍵危險因子、設定可達成的目標、提供資訊但不要資訊過載；為每位病人訂個別化目標。
 
