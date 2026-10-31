@@ -8,7 +8,7 @@ cssclasses:
 ---
 
 > [!abstract] 一句話重點
-> 整理 **NEJM Evidence Morning Report** 的個案（目前 28 篇）。每篇以**最終診斷**命名，但重點不在答案，而在**作者怎麼找到答案**：每一步問了什麼、為什麼做這個檢查、鑑別診斷怎麼升降，以及讓推理轉向的那個關鍵發現。
+> 整理 **NEJM Evidence Morning Report** 的個案（目前 42 篇）。每篇以**最終診斷**命名，但重點不在答案，而在**作者怎麼找到答案**：每一步問了什麼、為什麼做這個檢查、鑑別診斷怎麼升降，以及讓推理轉向的那個關鍵發現。
 
 ## 每篇筆記的讀法
 
@@ -24,44 +24,52 @@ cssclasses:
 
 <div class="af-cards">
 <a class="af-card internal" href="/nejm-cases/cardiology">
-<div class="af-num">2</div>
-<div class="af-body"><div class="af-title">心臟科 Cardiology</div><div class="af-desc">肥厚性阻塞型心肌病變（sigmoid 型）、凍傷（偽裝成急性肢體缺血）</div></div>
+<div class="af-num">4</div>
+<div class="af-body"><div class="af-title">心臟科 Cardiology</div><div class="af-desc">肥厚性阻塞型心肌病變（sigmoid 型）、流感嗜血桿菌化膿性心包膜炎、凍傷（偽裝成急性肢體缺血）、S. mitis 自體主動脈瓣心內膜炎併主動脈根部膿瘍</div></div>
 </a>
 <a class="af-card internal" href="/nejm-cases/pulmonology">
 <div class="af-num">3</div>
 <div class="af-body"><div class="af-title">胸腔科 Pulmonology</div><div class="af-desc">拔牙後吸入造成的原發性肺膿瘍、矽肺症合併進行性大塊纖維化、Streptococcus intermedius 肺炎合併肋膜積液</div></div>
 </a>
 <a class="af-card internal" href="/nejm-cases/infectious-disease">
-<div class="af-num">7</div>
-<div class="af-body"><div class="af-title">感染科 Infectious Disease</div><div class="af-desc">二期梅毒合併耳梅毒、人類單核球艾利希體症、水痘帶狀疱疹病毒腦脊髓膜炎併顏面神經麻痺、布氏桿菌肝膿瘍、多發性 Nocardia 腦膿瘍、腋下結核性淋巴腺炎、L. donovani 造成的黏膜利什曼病</div></div>
+<div class="af-num">9</div>
+<div class="af-body"><div class="af-title">感染科 Infectious Disease</div><div class="af-desc">二期梅毒合併耳梅毒、人膚蠅造成的癤腫型蠅蛆症、人類單核球艾利希體症、水痘帶狀疱疹病毒腦脊髓膜炎併顏面神經麻痺、布氏桿菌肝膿瘍、打過疫苗仍感染的傷寒（併續發性 HLH 樣反應）、多發性 Nocardia 腦膿瘍、腋下結核性淋巴腺炎、L. donovani 造成的黏膜利什曼病</div></div>
 </a>
 <a class="af-card internal" href="/nejm-cases/gastroenterology">
 <div class="af-num">4</div>
-<div class="af-body"><div class="af-title">腸胃肝膽科 Gastroenterology & Hepatology</div><div class="af-desc">克隆氏症合併、免疫抑制病人的 HSV 肝炎併急性肝衰竭、產後原發性 HSV-2 肝炎併急性肝衰竭、暴食造成胃過度擴張的急性胃缺血</div></div>
+<div class="af-body"><div class="af-title">腸胃肝膽科 Gastroenterology & Hepatology</div><div class="af-desc">克隆氏症合併迴避／限制性食物攝取症、免疫抑制病人的 HSV 肝炎併急性肝衰竭、產後原發性 HSV-2 肝炎併急性肝衰竭、暴食造成胃過度擴張的急性胃缺血</div></div>
 </a>
 <a class="af-card internal" href="/nejm-cases/endocrinology">
-<div class="af-num">3</div>
-<div class="af-body"><div class="af-title">內分泌科 Endocrinology</div><div class="af-desc">升糖素瘤、副甲狀腺風暴（高血鈣危象）併主動脈阻塞、第一型多發性內分泌腫瘤症</div></div>
+<div class="af-num">4</div>
+<div class="af-body"><div class="af-title">內分泌科 Endocrinology</div><div class="af-desc">升糖素瘤、肺神經內分泌癌異位分泌 ACTH 的庫欣症候群、副甲狀腺風暴（高血鈣危象）併主動脈阻塞、第一型多發性內分泌腫瘤症</div></div>
 </a>
 <a class="af-card internal" href="/nejm-cases/nephrology">
-<div class="af-num">1</div>
-<div class="af-body"><div class="af-title">腎臟科 Nephrology</div><div class="af-desc">胱胺酸症造成的腎性 Fanconi 症候群</div></div>
+<div class="af-num">3</div>
+<div class="af-body"><div class="af-title">腎臟科 Nephrology</div><div class="af-desc">胱胺酸症造成的腎性 Fanconi 症候群、微小變化腎病合併乳糜胸、感染性心內膜炎相關腎絲球腎炎</div></div>
 </a>
 <a class="af-card internal" href="/nejm-cases/hematology-oncology">
 <div class="af-num">3</div>
 <div class="af-body"><div class="af-title">血液腫瘤科 Hematology & Oncology</div><div class="af-desc">皮膚型 Rosai–Dorfman 病、瀰漫性大 B 細胞淋巴瘤併脾臟自發性破裂、鐮刀型貧血肝內膽汁滯積</div></div>
 </a>
 <a class="af-card internal" href="/nejm-cases/rheumatology-immunology">
-<div class="af-num">1</div>
-<div class="af-body"><div class="af-title">風濕免疫過敏科 Rheumatology, Immunology & Allergy</div><div class="af-desc">TMP-SMX 引起的 DRESS 症候群</div></div>
+<div class="af-num">3</div>
+<div class="af-body"><div class="af-title">風濕免疫過敏科 Rheumatology, Immunology & Allergy</div><div class="af-desc">急性焦磷酸鈣結晶關節炎併齒狀突冠狀症候群、TMP-SMX 引起的 DRESS 症候群、α-gal 症候群導致 cetuximab 過敏性休克</div></div>
 </a>
 <a class="af-card internal" href="/nejm-cases/neurology">
-<div class="af-num">3</div>
-<div class="af-body"><div class="af-title">神經科 Neurology</div><div class="af-desc">水痘帶狀疱疹病毒血管病變造成的橋腦中風、神經類肉瘤病（Meckel's cave 侵犯）、癌症病人的 Wernicke 腦病變</div></div>
+<div class="af-num">5</div>
+<div class="af-body"><div class="af-title">神經科 Neurology</div><div class="af-desc">巴金森藥物停藥造成的類抗精神病藥物惡性症候群、水痘帶狀疱疹病毒血管病變造成的橋腦中風、胃印戒細胞癌的軟腦膜轉移、神經類肉瘤病（Meckel's cave 侵犯）、癌症病人的 Wernicke 腦病變</div></div>
+</a>
+<a class="af-card internal" href="/nejm-cases/urology">
+<div class="af-num">1</div>
+<div class="af-body"><div class="af-title">泌尿科 Urology</div><div class="af-desc">腎移植輸尿管誤接到尿道造成的持續性尿失禁</div></div>
 </a>
 <a class="af-card internal" href="/nejm-cases/obstetrics-gynecology">
+<div class="af-num">2</div>
+<div class="af-body"><div class="af-title">婦產科 Obstetrics & Gynecology</div><div class="af-desc">可存活期前早期破水併絨毛膜羊膜炎、遠端陰道閉鎖合併陰道積血</div></div>
+</a>
+<a class="af-card internal" href="/nejm-cases/pediatrics">
 <div class="af-num">1</div>
-<div class="af-body"><div class="af-title">婦產科 Obstetrics & Gynecology</div><div class="af-desc">遠端陰道閉鎖合併陰道積血</div></div>
+<div class="af-body"><div class="af-title">兒科 Pediatrics</div><div class="af-desc">大動脈轉位（d-TGA）</div></div>
 </a>
 </div>
 

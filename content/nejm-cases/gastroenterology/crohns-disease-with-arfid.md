@@ -1,5 +1,5 @@
 ---
-title: 克隆氏症合併 ARFID Crohn's Disease with ARFID
+title: 克隆氏症合併迴避／限制性食物攝取症 Crohn's Disease with ARFID
 aliases:
   - Crohn's disease（NEJM 個案）
 nejm_title: A 12-Year-Old Girl with Weight Loss
