@@ -14,7 +14,7 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 原發性無月經先分兩大類：**HPG 軸異常**或**結構性阻塞**。這位女孩青春期發育正常、腹痛**每月一次**，提示「有月經、但流不出來」；==外陰檢查看不到陰道開口==就是答案的入口，影像只是用來分辨阻塞在哪一層。
+> Primary amenorrhea 先分兩大類：**HPG 軸異常**或**結構性阻塞**。這位女孩青春期發育正常、腹痛**每月一次**，提示「有月經、但流不出來」；==外陰檢查看不到陰道開口==就是答案的入口，影像只是用來分辨阻塞在哪一層。
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 13-Year-Old Girl with Primary Amenorrhea〉，2022，[DOI 10.1056/EVIDmr2200001](https://doi.org/10.1056/EVIDmr2200001)。以下用自己的話整理，重點放在作者的推理過程。
@@ -36,7 +36,7 @@ tags:
 | 運動量大嗎？吃得夠嗎？ | 能量不足會壓抑 HPG 軸；無月經可能是飲食障礙的第一個徵象 | 運動適中、飲食正常 | ⚪ 下視丘性無月經 |
 | 腹痛的樣子？ | 區分便秘和經痛 | 骨盆悶絞痛、放射到下背，==大約每月一次、每次幾天== | 🔴 **週期性 → 很像經痛，只是血沒流出來** |
 
-**Problem representation**：13 歲女孩，原發性無月經（定義：15 歲還沒來，或乳房發育後超過 3 年），合併週期性骨盆痛。
+**Problem representation**：13 歲女孩，primary amenorrhea（定義：15 歲還沒來，或乳房發育後超過 3 年），合併週期性骨盆痛。
 
 ### Checkpoint 2：框架——兩大類
 
@@ -45,26 +45,26 @@ tags:
 | 下視丘性 | 體質性延遲、慢性病、營養不足、藥物、Kallmann | ⚪ 青春期已啟動、營養正常 |
 | 腦下垂體 | 高泌乳素、腫瘤 | 🟠 待驗 prolactin |
 | 卵巢 | PCOS、卵巢腫瘤、POI（Turner） | 🟠 |
-| 其他內分泌 | 甲狀腺、CAH、腎上腺腫瘤 | 🟠 |
+| 其他內分泌 | thyroid、CAH、腎上腺腫瘤 | 🟠 |
 | 兩者都有 | AIS、5α-reductase deficiency | 🟠 |
 | **結構性** | ==Imperforate hymen、transverse vaginal septum、MRKH、阻塞的殘角子宮== | 🔴 週期痛提示「有子宮內膜但出口阻塞」 |
 
 ### Checkpoint 3：理學檢查——關鍵在外陰
 
-- 身高體重正常、近期有生長衝刺；Tanner III；無多毛、無 acanthosis；視野正常、甲狀腺正常
+- 身高體重正常、近期有生長衝刺；Tanner III；無多毛、無 acanthosis；視野正常、thyroid 正常
 - 恥骨上深壓輕微壓痛
 - **外陰：陰蒂大小正常、尿道肛門位置正常，==看不到陰道開口==**，原本開口的位置是**粉紅色纖維組織**，小棉棒找不到任何小孔
 - 肛門指診：前壁約 4 cm 處摸到小鼓起
 
 > [!important] 🔀 轉折點：外陰看不到陰道開口
-> 這個發現一次把推理從「荷爾蒙問題」翻到「**出口阻塞**」。也提醒醫師：==原發性無月經一定要做外陰檢查==，不需要內診器，只要輕拉大陰唇、用小棉棒探查。
+> 這個發現一次把推理從「荷爾蒙問題」翻到「**出口阻塞**」。也提醒醫師：==primary amenorrhea 一定要做外陰檢查==，不需要內診器，只要輕拉大陰唇、用小棉棒探查。
 
 ### Checkpoint 4：檢驗與超音波——為什麼做
 
 | 檢查 | 為什麼做 | 結果 | 推理結果 |
 | --- | --- | --- | --- |
 | hCG | 青少年即使說沒有性行為，也一定要驗 | 陰性 | ❌ 懷孕 |
-| FSH、TSH、prolactin | 原發性無月經的基本三項 | 都正常 | ❌ POI、甲狀腺、高泌乳素 |
+| FSH、TSH、prolactin | primary amenorrhea 的基本三項 | 都正常 | ❌ POI、thyroid、高泌乳素 |
 | Testosterone、DHEAS、17-OHP | 排除高雄性素 | 正常 | ❌ CAH、PCOS、AIS、5α-RD |
 | **經腹骨盆超音波** | 第一線影像，看有沒有阻塞 | 卵巢、子宮正常（內膜 1.3 cm），**陰道內充滿經血（hematocolpos）**；會陰到阻塞處 **3 cm** | ✅ 有功能子宮＋出口阻塞 |
 
@@ -116,8 +116,8 @@ tags:
 ## Pearls & Pitfalls
 
 > [!tip] Pearl
-> - 原發性無月經定義：**15 歲還沒來**，或**乳房發育後 > 3 年**
-> - 原發性無月經基本檢驗：==hCG、FSH、TSH、prolactin==；有高雄性素表現再加 testosterone、DHEAS、17-OHP
+> - Primary amenorrhea 定義：**15 歲還沒來**，或**乳房發育後 > 3 年**
+> - Primary amenorrhea 基本檢驗：==hCG、FSH、TSH、prolactin==；有高雄性素表現再加 testosterone、DHEAS、17-OHP
 > - **Hematocolpos vs hematometra**：陰道積血代表子宮頸存在；只有子宮積血要想到子宮頸發育不全
 
 > [!warning] Pitfall

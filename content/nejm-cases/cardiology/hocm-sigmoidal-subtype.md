@@ -14,7 +14,7 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 年輕人運動中 **VF 心跳停止**，要用「**可逆因素／結構性心臟病／原發性心律不整**」三大類系統性排除。這位病人之前被當成**運動誘發氣喘**，但 ==albuterol 無效、症狀是運動時胸痛==，回頭看就是 HOCM 的警訊。
+> 年輕人運動中 **VF cardiac arrest**，要用「**可逆因素／結構性心臟病／原發性心律不整**」三大類系統性排除。這位病人之前被當成**運動誘發氣喘**，但 ==albuterol 無效、症狀是運動時胸痛==，回頭看就是 HOCM 的警訊。
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 12-Year-Old with Sudden Cardiac Arrest〉，2023，[DOI 10.1056/EVIDmr2300063](https://doi.org/10.1056/EVIDmr2300063)。以下用自己的話整理，重點放在作者的推理過程。
@@ -34,26 +34,26 @@ tags:
 | --- | --- | --- | --- |
 | 有沒有胸部撞擊？ | 找 **commotio cordis** | 沒有 | ❌ Commotio cordis |
 | 以前運動時有沒有喘、暈、心悸、胸痛？ | 運動時缺氧 → HOCM（需求↑）或冠狀動脈異常（供給↓）；暈厥 → 阻塞或心律不整 | **跑步時胸痛**，被當成氣喘，但 ==albuterol 無效== | 🔴 結構性心臟病上升 |
-| 家族有沒有年輕猝死或早發心臟病？ | 遺傳性心肌病變、channelopathy | 沒有 | 遺傳性疾病不能因此排除，但沒有加分 |
+| 家族有沒有年輕猝死或早發心臟病？ | 遺傳性 cardiomyopathy、channelopathy | 沒有 | 遺傳性疾病不能因此排除，但沒有加分 |
 
 > [!important] 🔀 轉折點：「氣喘」藥物無效
-> 運動誘發的症狀，如果**支氣管擴張劑沒有用**，就要懷疑不是氣道問題。這一題的答案把「運動時心肌缺氧」的疾病（HOCM、冠狀動脈起源異常）拉到最前面，也解釋了為什麼之前的「氣喘」其實都是同一個病。
+> 運動誘發的症狀，如果**bronchiectasis 劑沒有用**，就要懷疑不是氣道問題。這一題的答案把「運動時心肌缺氧」的疾病（HOCM、冠狀動脈起源異常）拉到最前面，也解釋了為什麼之前的「氣喘」其實都是同一個病。
 
 ### Checkpoint 2：理學檢查與急救
 
 - 到院：HR 140、BP **68/31**、昏迷；無外傷、無 Marfan 外觀
-- **心前區 hyperdynamic、apical impulse 明顯**，但==聽不到雜音==（HOCM 的雜音受 preload 影響，休克時可能不明顯）
+- **心前區 hyperdynamic、apical impulse 明顯**，但==聽不到 murmur==（HOCM 的 murmur 受 preload 影響，休克時可能不明顯）
 - 先處理：epinephrine、輸液、插管、送 ICU
 
 ### Checkpoint 3：用框架列出鑑別診斷
 
 | 類別 | 疾病 | 此時判斷 |
 | --- | --- | --- |
-| 可逆因素 | 電解質、低血糖、酸中毒、過敏、藥物、tamponade、tension pneumothorax | 🟠 待檢驗 |
-| 心肌病變 | **HCM**、DCM、RCM、ARVC | 🔴 HCM（運動症狀＋hyperdynamic precordium） |
+| 可逆因素 | 電解質、hypoglycemia、酸中毒、過敏、藥物、tamponade、tension pneumothorax | 🟠 待檢驗 |
+| cardiomyopathy | **HCM**、DCM、RCM、ARVC | 🔴 HCM（運動症狀＋hyperdynamic precordium） |
 | 冠狀動脈 | **冠狀動脈起源異常（AAOCA）**、Kawasaki、家族性高膽固醇 | 🔴 |
 | 原發性心律不整 | Long QT、Brugada、CPVT、WPW、short QT、complete heart block | 🟠 |
-| 其他 | Myocarditis、風濕熱、MVP、主動脈瘤破裂、commotio cordis | 🟠／❌ |
+| 其他 | Myocarditis、風濕熱、MVP、主 aneurysm 破裂、commotio cordis | 🟠／❌ |
 
 ### Checkpoint 4：第一線檢查
 
@@ -62,7 +62,7 @@ tags:
 | 電解質、血糖、ABG、毒物篩檢 | 可逆因素 | 都正常 | ❌ 代謝與藥物 |
 | CXR | Pneumothorax、縱膈異常 | 正常 | ❌ Tension pneumothorax |
 | **ECG** | Channelopathy、缺血、肥厚 | **LVH＋strain**、QTc 360、無 delta wave、V1–V3 ST 上升 | ❌ Long QT、short QT、WPW、CHB；🔴 LVH |
-| Troponin I 6220、CK 4304 | 心肌損傷 | 很高 | 可能是急救後損傷，**也可能是缺血 → 冠狀動脈仍要排除** |
+| Troponin I 6220、CK 4304 | myocardial injury | 很高 | 可能是急救後損傷，**也可能是缺血 → 冠狀動脈仍要排除** |
 | **TTE** | Tamponade、結構性疾病 | ==非對稱 LVH、septum 高回音、LVOT 動態阻塞==、輕度 MR、舒張功能差 | 🔴 HOCM；❌ tamponade、DCM、主動脈破裂 |
 
 > [!warning] 作者在這裡踩剎車
@@ -91,7 +91,7 @@ tags:
 
 - 72 小時 Holter 大致正常
 - **Beta-blocker**：減少動態阻塞與心室性心律不整
-- ==心跳停止存活者 → 植入 ICD==（二級預防）
+- ==cardiac arrest 存活者 → 植入 ICD==（二級預防）
 - 基因檢測只找到 VUS，沒有 MYBPC3、MYH7、TNNT2 等常見變異；建議家族做基因諮詢與篩檢
 - 出院時神經學恢復到基準
 
@@ -101,7 +101,7 @@ tags:
 | --- | --- | --- |
 | 現場 | 運動中倒下、AED 為 VF | 年輕人心因性猝死 → 系統性框架 |
 | 病史 | 無撞擊、無家族史、**「氣喘」吃藥無效** | **轉折點**：運動時心肌缺氧類疾病優先 |
-| 理學檢查 | Hyperdynamic precordium，無雜音 | 休克時 HOCM 雜音可能聽不到 |
+| 理學檢查 | Hyperdynamic precordium，無 murmur | 休克時 HOCM murmur 可能聽不到 |
 | 檢驗 | 電解質、毒物、CXR 正常 | 可逆因素出局 |
 | ECG | LVH＋strain，QTc 正常 | Channelopathy 大部分出局，LVH 支持 HCM |
 | TTE | 非對稱 LVH＋LVOT 動態阻塞 | HOCM 浮現，但冠狀動脈仍要排除 |
@@ -111,7 +111,7 @@ tags:
 
 > [!tip] Pearl
 > - 年輕人猝死的鑑別三大類：**可逆因素、結構性心臟病、原發性心律不整**
-> - ==運動誘發的胸痛或喘，對支氣管擴張劑沒反應==，要想到 HOCM 和冠狀動脈起源異常
+> - ==運動誘發的胸痛或喘，對 bronchiectasis 劑沒反應==，要想到 HOCM 和冠狀動脈起源異常
 > - Cardiac MRI 一次回答三件事：septum 厚度、疤痕（LGE）、冠狀動脈走向
 
 > [!warning] Pitfall

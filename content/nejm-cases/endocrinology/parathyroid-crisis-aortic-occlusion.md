@@ -15,14 +15,14 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 腹痛＋無力＋意識改變，表面上很散，**一個血鈣值把它們串起來**：Ca > 20 mg/dL。下一步用 ==PTH 分成「PTH 依賴」與「PTH 非依賴」==：PTH 1350 → 原發性副甲狀腺亢進（腺瘤或癌）。一般副甲狀腺亢進只是輕中度高血鈣，這麼嚴重要想到**副甲狀腺風暴**，而且高血鈣會造成**高凝狀態** → 這位最後發生**主動脈阻塞**。
+> 腹痛＋無力＋altered mental status，表面上很散，**一個血鈣值把它們串起來**：Ca > 20 mg/dL。下一步用 ==PTH 分成「PTH 依賴」與「PTH 非依賴」==：PTH 1350 → primary hyperparathyroidism（腺瘤或癌）。一般 hyperparathyroidism 只是輕中度 hypercalcemia，這麼嚴重要想到**parathyroid storm**，而且 hypercalcemia 會造成**hypercoagulable state** → 這位最後發生**主動脈阻塞**。
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 52-Year-Old Woman with Weakness〉，2024，[DOI 10.1056/EVIDmr2300300](https://doi.org/10.1056/EVIDmr2300300)。以下用自己的話整理，重點放在作者的推理過程。
 
 ## 個案一覽
 
-- 52 歲女性，ADHD（lisdexamfetamine）、**腎結石**、左髖退化性關節炎（幾週前打過類固醇）
+- 52 歲女性，ADHD（lisdexamfetamine）、**nephrolithiasis**、左髖 osteoarthritis（幾週前打過 steroid）
 - 一週前**突發瀰漫性腹痛＋全身無力**；腹痛幾天後減輕，無力持續
 - 前一天：**講話含糊、找字困難、混亂**
 
@@ -31,54 +31,54 @@ tags:
 ### Checkpoint 1：理學檢查與第一輪檢驗
 
 - 37.1°C、HR 99、**RR 24、BP 181/75**
-- **人時地都不清楚**；間歇構音含糊、輕度表達性失語；腦神經、肌力、感覺、反射、小腦正常
+- **人時地都不清楚**；間歇構音含糊、輕度 expressive aphasia；cranial nerve、肌力、感覺、反射、小腦正常
 - 上腹深壓痛
 
 | 檢驗 | 結果 | 意義 |
 | --- | --- | --- |
-| Cr 1.44、BUN 上升、**Hct 50** | | 血液濃縮 → **低血容** |
+| Cr 1.44、BUN 上升、**Hct 50** | | hemoconcentration → **hypovolemia** |
 | K | 低 | |
-| **WBC 29.6**（嗜中性球 23.7） | | 發炎或感染？ |
+| **WBC 29.6**（neutrophil 23.7） | | 發炎或感染？ |
 | ==Calcium > 20 mg/dL==（超過檢驗上限） | | 🔀 |
 | 磷 3.8、鎂 1.9 | 正常 | |
 
 > [!important] 🔀 轉折點①：一個數值統一全部症狀
-> 高血鈣可以造成**倦怠、混亂、骨痛、肌無力、多尿（→ 低血容）、便秘、消化性潰瘍（→ 上腹痛）**。加上**腎結石病史**，所有表現都能用嚴重高血鈣解釋。
+> Hypercalcemia 可以造成**倦怠、混亂、骨痛、肌無力、多尿（→ hypovolemia）、便秘、peptic ulcer（→ 上腹痛）**。加上**nephrolithiasis 病史**，所有表現都能用嚴重 hypercalcemia 解釋。
 > - 輕中度：10.5–13.9 mg/dL；==> 14 mg/dL 為嚴重、少見==
 
-### Checkpoint 2：高血鈣的病因框架
+### Checkpoint 2：hypercalcemia 的病因框架
 
 | 類別 | 疾病 |
 | --- | --- |
-| **PTH 依賴** | 原發性副甲狀腺亢進、**副甲狀腺腺瘤或癌**、異位分泌 PTH 的腫瘤（極少） |
-| **PTH 非依賴** | 分泌 **PTHrP** 的腫瘤（鱗癌、乳癌、泌尿道、卵巢、淋巴瘤）、**溶骨性轉移**（乳癌、骨髓瘤）、分泌 **1,25-(OH)₂D** 的淋巴瘤或 sarcoidosis、**維生素 D 中毒**、**鈣過量（milk-alkali）** |
+| **PTH 依賴** | primary hyperparathyroidism、**parathyroid adenoma 或癌**、異位分泌 PTH 的腫瘤（極少） |
+| **PTH 非依賴** | 分泌 **PTHrP** 的腫瘤（鱗癌、乳癌、泌尿道、卵巢、lymphoma）、**溶骨性轉移**（乳癌、骨髓瘤）、分泌 **1,25-(OH)₂D** 的 lymphoma 或 sarcoidosis、**維生素 D 中毒**、**鈣過量（milk-alkali）** |
 
 ### Checkpoint 3：用三個問題縮小範圍
 
 | 作者問 | 為什麼問 | 答案 | 推理結果 |
 | --- | --- | --- | --- |
-| 體重減輕、盜汗、發燒？ | 惡性高血鈣（頭頸與肺鱗癌、乳癌、骨髓瘤、淋巴瘤） | 都沒有；癌症篩檢都正常、無家族史 | ⚪ 惡性 |
+| weight loss、night sweats、發燒？ | hypercalcemia of malignancy（頭頸與肺鱗癌、乳癌、骨髓瘤、lymphoma） | 都沒有；癌症篩檢都正常、無家族史 | ⚪ 惡性 |
 | 吃鈣片、維生素 D、補充品或相關藥物？ | Milk-alkali（**上腹痛的人可能自己吃鈣片制酸**）、維生素 D 中毒；**thiazide、lithium、omeprazole、芳香環酶抑制劑、維生素 A** | 都沒有 | ⚪ 外源性 |
-| 腎結石有做過檢查嗎？ | 鈣結石可能是原發性副甲狀腺亢進的線索 | 三次急診左腰痛，影像沒看到結石；**3 個月前 Ca 10.3**（正常高值）；沒驗過 PTH | 🟠 原發性副甲狀腺亢進？ |
+| nephrolithiasis 有做過檢查嗎？ | 鈣結石可能是 primary hyperparathyroidism 的線索 | 三次急診左腰痛，影像沒看到結石；**3 個月前 Ca 10.3**（正常高值）；沒驗過 PTH | 🟠 primary hyperparathyroidism？ |
 
 ### Checkpoint 4：該驗什麼、先做什麼
 
 | 檢查 | 為什麼做 |
 | --- | --- |
-| **PTH** | 高血鈣時 PTH 應被抑制；**正常或高 = 不適當分泌** |
+| **PTH** | hypercalcemia 時 PTH 應被抑制；**正常或高 = 不適當分泌** |
 | 25-OH vitamin D | 外源性攝取 |
-| 1,25-(OH)₂ vitamin D | 肉芽腫、淋巴瘤（1α-hydroxylase） |
+| 1,25-(OH)₂ vitamin D | granuloma、lymphoma（1α-hydroxylase） |
 | PTHrP | 腫瘤明顯時不一定需要 |
-| 血液培養 | 白血球 29.6 |
-| 頭頸 CTA | 構音、失語 → 排除中風或出血 |
+| blood culture | 白血球 29.6 |
+| 頭頸 CTA | 構音、aphasia → 排除 stroke 或出血 |
 | 腹部 CT | 腹痛原因 |
 
-> [!tip] 嚴重高血鈣的緊急處置
-> 1. **大量等張輸液**（先矯正低血容）
+> [!tip] 嚴重 hypercalcemia 的緊急處置
+> 1. **大量等張輸液**（先矯正 hypovolemia）
 > 2. **Calcitonin**：快，但數天後會快速耐受
 > 3. **IV bisphosphonate**（pamidronate）：數天才發揮
 > 4. 容積補足後才考慮 loop diuretic 促進排鈣
-> 5. 難治時 → **血液透析**
+> 5. 難治時 → **HD**
 
 ### Checkpoint 5：結果
 
@@ -86,64 +86,64 @@ tags:
 | --- | --- | --- |
 | **PTH** | ==1350 pg/L（正常 7–37）== | PTH 依賴 → ❌ PTHrP、溶骨轉移、維生素 D、鈣過量 |
 | 25-OH vitamin D | 7.6（低） | ❌ 維生素 D 中毒 |
-| 血液培養 | 陰性 | |
-| 頭頸 CTA | 無急性顱內病變、血管通暢、部分 empty sella；**左側 3.1 cm 外生性甲狀腺相關結節** | 可能是**甲狀腺內副甲狀腺腫瘤** |
+| blood culture | 陰性 | |
+| 頭頸 CTA | 無急性顱內病變、血管通暢、部分 empty sella；**左側 3.1 cm 外生性 thyroid 相關 nodule** | 可能是**intrathyroidal parathyroid tumor** |
 | 腹部 CT | 脂肪肝、輕度動脈硬化、無腫瘤 | |
 
 > [!important] 🔀 轉折點②：PTH 不被抑制＋鈣 > 20
 > - PTH 高 → 只剩 **PTH 依賴**
-> - 一般原發性副甲狀腺亢進多是**輕度**高血鈣；==這麼嚴重的高血鈣＋這麼高的 PTH → 副甲狀腺癌或大腺瘤==（異位 PTH 極少）
-> - 臨床符合「**副甲狀腺風暴／高血鈣危象**」：Ca > 14＋多重器官功能障礙；可能由大腺瘤**自發性出血**誘發
+> - 一般 primary hyperparathyroidism 多是**輕度**hypercalcemia；==這麼嚴重的 hypercalcemia＋這麼高的 PTH → parathyroid carcinoma 或大腺瘤==（異位 PTH 極少）
+> - 臨床符合「**parathyroid storm／hypercalcemic crisis**」：Ca > 14＋multiorgan dysfunction；可能由大腺瘤**自發性出血**誘發
 
 ### Checkpoint 6：惡化與併發症
 
-- 隔天：持續高血壓、**低血氧、不穩定 SVT** → 插管、ICU；Ca 仍 > 20 → **緊急血液透析**
+- 隔天：持續 hypertension、**hypoxemia、不穩定 SVT** → 插管、ICU；Ca 仍 > 20 → **緊急 HD**
 - 四肢**斑駁冰冷** → CTA：==腎動脈以下主動脈到兩側髂、股、膕、脛動脈全部阻塞==
-- 主動脈髂動脈與下肢取栓＋四腔筋膜切開 → 持續低血容性休克、CRRT 也壓不下的高血鉀
-- 病況不穩無法做副甲狀腺切除 → 轉為安寧照護，死亡（家屬拒絕解剖）
+- 主動脈髂動脈與下肢取栓＋四腔筋膜切開 → 持續 hypovolemic shock、CRRT 也壓不下的 hyperkalemia
+- 病況不穩無法做 parathyroidectomy → 轉為安寧照護，死亡（家屬拒絕解剖）
 
-→ **最終診斷**：副甲狀腺腺瘤或癌造成的高血鈣危象，多重器官衰竭，合併**高凝狀態導致主動脈阻塞**
+→ **最終診斷**：parathyroid adenoma 或癌造成的 hypercalcemic crisis，multiorgan failure，合併**hypercoagulable state 導致主動脈阻塞**
 
 ## 鑑別診斷的演變
 
 | 診斷 | 第一輪檢驗後 | 三問後 | PTH 後 |
 | --- | --- | --- | --- |
-| 中風／顱內出血 | 🟠 | 🟠 | ❌（CTA） |
-| 敗血症 | 🟠 | 🟠 | ⚪（培養陰性） |
-| 惡性高血鈣（PTHrP、溶骨） | 🔴 | ⚪ | ❌ |
+| stroke／顱內出血 | 🟠 | 🟠 | ❌（CTA） |
+| sepsis | 🟠 | 🟠 | ⚪（culture-negative） |
+| hypercalcemia of malignancy（PTHrP、溶骨） | 🔴 | ⚪ | ❌ |
 | 維生素 D 中毒、milk-alkali | 🟠 | ⚪ | ❌ |
-| 肉芽腫／淋巴瘤（1,25-D） | 🟠 | 🟠 | ❌ |
-| **原發性副甲狀腺亢進（腺瘤／癌）** | 🟠 | 🔴 | ✅ |
+| granuloma／lymphoma（1,25-D） | 🟠 | 🟠 | ❌ |
+| **primary hyperparathyroidism（腺瘤／癌）** | 🟠 | 🔴 | ✅ |
 | 異位 PTH | — | — | ⚪（極少） |
 
 ## 🧭 推理全程回顧
 
 | 步驟 | 關鍵發現 | 學到什麼 |
 | --- | --- | --- |
-| 主訴 | 腹痛、無力、混亂、構音障礙 | 分散的症狀 |
-| **第一輪檢驗** | **Ca > 20**、血液濃縮 | **轉折點①：高血鈣統一所有症狀** |
-| 三問 | 無全身症狀、無補充品、腎結石＋3 個月前 Ca 偏高 | 惡性、外源性下降 |
+| 主訴 | 腹痛、無力、混亂、dysarthria | 分散的症狀 |
+| **第一輪檢驗** | **Ca > 20**、hemoconcentration | **轉折點①：hypercalcemia 統一所有症狀** |
+| 三問 | 無全身症狀、無補充品、nephrolithiasis＋3 個月前 Ca 偏高 | 惡性、外源性下降 |
 | 緊急處置 | 輸液、calcitonin、pamidronate | 先救命 |
 | **PTH** | **1350** | **轉折點②：PTH 依賴，而且極嚴重** |
-| 影像 | 甲狀腺旁 3.1 cm 結節 | 可能是甲狀腺內副甲狀腺腫瘤 |
-| 惡化 | 透析、主動脈阻塞 | 高血鈣 → 高凝 |
+| 影像 | thyroid 旁 3.1 cm nodule | 可能是 intrathyroidal parathyroid tumor |
+| 惡化 | 透析、主動脈阻塞 | hypercalcemia → 高凝 |
 
 ## Pearls & Pitfalls
 
 > [!tip] Pearl
-> - 高血鈣第一步：**驗 PTH**。PTH 高或正常 → PTH 依賴；PTH 低 → 驗 **PTHrP、25-OH D、1,25-(OH)₂ D**、SPEP
-> - 原發性副甲狀腺亢進通常輕度；==Ca > 14＋PTH 極高 → 副甲狀腺癌或大腺瘤==
-> - **副甲狀腺風暴**：Ca > 14 ＋ 多器官功能障礙（腎衰竭、昏迷、胰臟炎、心律不整）；最終治療是**副甲狀腺切除**
-> - 嚴重高血鈣與**動靜脈血栓**有關
+> - Hypercalcemia 第一步：**驗 PTH**。PTH 高或正常 → PTH 依賴；PTH 低 → 驗 **PTHrP、25-OH D、1,25-(OH)₂ D**、SPEP
+> - Primary hyperparathyroidism 通常輕度；==Ca > 14＋PTH 極高 → parathyroid carcinoma 或大腺瘤==
+> - **parathyroid storm**：Ca > 14 ＋ multiorgan dysfunction（腎衰竭、昏迷、pancreatitis、心律不整）；最終治療是**parathyroidectomy**
+> - 嚴重 hypercalcemia 與**動靜脈 thrombus**有關
 
 > [!warning] Pitfall
-> - 反覆腰痛急診三次、血鈣正常高值，**沒有人驗 PTH**；腎結石病人要篩副甲狀腺亢進
-> - 會引起高血鈣的藥物：**thiazide、lithium**、omeprazole、芳香環酶抑制劑、維生素 A
+> - 反覆腰痛急診三次、血鈣正常高值，**沒有人驗 PTH**；nephrolithiasis 病人要篩 hyperparathyroidism
+> - 會引起 hypercalcemia 的藥物：**thiazide、lithium**、omeprazole、芳香環酶抑制劑、維生素 A
 > - Calcitonin 數天就失效（耐受），bisphosphonate 要數天才有效：嚴重時別忘了**透析**
 
 ## 相關筆記
 
-- [[nejm-cases/endocrinology/men1-syndrome|第一型多發性內分泌腫瘤症]]：另一個副甲狀腺亢進的個案
+- [[nejm-cases/endocrinology/men1-syndrome|第一型多發性內分泌腫瘤症]]：另一個 hyperparathyroidism 的個案
 - [[nejm-cases/index|NEJM 個案分享專區]]
 
 ## 參考資料

@@ -5,7 +5,7 @@ aliases:
 nejm_title: A 52-Year-Old Man with Abdominal Pain and Jaundice
 nejm_doi: 10.1056/EVIDmr2400285
 nejm_year: 2024
-chief: 52 歲 HbSS 鐮刀型貧血男性，三個月腹痛、黃疸、肝腫大
+chief: 52 歲 HbSS sickle cell disease 男性，三個月腹痛、黃疸、hepatomegaly
 pivot: 直接型膽紅素很高但肝外膽管不擴張 → 問題在肝內小膽管／肝竇
 tags:
   - NEJM個案
@@ -14,17 +14,17 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 鐮刀型貧血的腹痛＋黃疸，膽結石、膽管炎、病毒性肝炎都很常見，要一個個排除。這位 ==直接型膽紅素明顯上升、肝外膽管卻不擴張== → 問題在**肝內**；鐮刀型貧血的三種肝臟併發症（**sequestration < hepatic crisis < intrahepatic cholestasis**）依嚴重度分開，**直接型膽紅素 > 15** 指向最嚴重的**肝內膽汁滯積**，即使交換輸血仍可能致命。
+> Sickle cell disease 的腹痛＋黃疸，gallstone、cholangitis、viral hepatitis 都很常見，要一個個排除。這位 ==直接型膽紅素明顯上升、肝外膽管卻不擴張== → 問題在**肝內**；sickle cell disease 的三種肝臟併發症（**sequestration < hepatic crisis < intrahepatic cholestasis**）依嚴重度分開，**直接型膽紅素 > 15** 指向最嚴重的**intrahepatic cholestasis**，即使交換輸血仍可能致命。
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 52-Year-Old Man with Abdominal Pain and Jaundice〉，2024，[DOI 10.1056/EVIDmr2400285](https://doi.org/10.1056/EVIDmr2400285)。以下用自己的話整理，重點放在作者的推理過程。
 
 ## 個案一覽
 
-- 52 歲男性，**HbSS 鐮刀型貧血**（多次血管阻塞性疼痛，無急性胸症候群、中風）、情感思覺失調症，住護理之家
+- 52 歲男性，**HbSS sickle cell disease**（多次血管阻塞性疼痛，無急性胸症候群、stroke）、情感思覺失調症，住護理之家
 - 用藥：gabapentin、acetaminophen、haloperidol、venlafaxine、quetiapine、buspirone、鐵劑、葉酸
 - **3 個月**持續瀰漫性腹痛（吃東西後稍好）、疲倦、無力、**眼白變黃**；越來越痛（8/10）
-- 無畏寒、喘、體重減輕、搔癢
+- 無畏寒、喘、weight loss、搔癢
 
 ## 推理過程
 
@@ -32,9 +32,9 @@ tags:
 
 | 作者問 | 為什麼問 | 答案 | 推理結果 |
 | --- | --- | --- | --- |
-| 以前有過類似腹痛？ | 膽絞痛史 → 總膽管結石、膽源性胰臟炎；血管阻塞 → 腸繫膜缺血、肝臟併發症 | 沒有，以前的疼痛危機在背和膝 | 新的問題 |
+| 以前有過類似腹痛？ | biliary colic 史 → choledocholithiasis、膽源性 pancreatitis；血管阻塞 → mesenteric ischemia、肝臟併發症 | 沒有，以前的疼痛危機在背和膝 | 新的問題 |
 | 有額外吃藥嗎？ | **Acetaminophen** 過量 → 肝毒性 | 只由護理之家給、無法自行多拿 | ⚪ 藥物肝毒性 |
-| 最近輸血？ | 多次輸血 → **同種抗體 → 溶血**（間接型膽紅素上升） | 小時候每週輸血，**近 10 年沒輸** | ⚪ 遲發性溶血輸血反應 |
+| 最近輸血？ | 多次輸血 → **同種 antibody → hemolysis**（間接型膽紅素上升） | 小時候每週輸血，**近 10 年沒輸** | ⚪ delayed hemolytic transfusion reaction |
 
 ### Checkpoint 2：理學檢查
 
@@ -42,46 +42,46 @@ tags:
 - **鞏膜黃疸**；右上腹壓痛；==肝臟在肋緣下約 10 cm==、延伸到上腹
 - **明顯杵狀指**；意識清楚
 
-**Problem representation**：鐮刀型貧血男性，亞急性腹痛、黃疸、肝腫大。
+**Problem representation**：sickle cell disease 男性，亞急性腹痛、黃疸、hepatomegaly。
 
 | 類別 | 疾病 | 此時判斷 |
 | --- | --- | --- |
-| 血管 | **hepatic sequestration、hepatic crisis、肝內膽汁滯積**、肝梗塞、肝靜脈栓塞 | 🔴 |
+| 血管 | **hepatic sequestration、hepatic crisis、intrahepatic cholestasis**、肝梗塞、肝靜脈栓塞 | 🔴 |
 | 醫源性 | 多次輸血 → 續發性血色素沉著症 | 🟠 |
-| 膽道 | **色素性膽結石** → 膽囊炎、總膽管結石、膽管炎、膽源性胰臟炎 | 🔴 |
-| 感染 | 病毒性肝炎 | 🟠 |
+| 膽道 | **pigment gallstone** → cholecystitis、choledocholithiasis、cholangitis、膽源性 pancreatitis | 🔴 |
+| 感染 | viral hepatitis | 🟠 |
 
-> [!tip] 鐮刀型貧血的三種肝臟併發症（由輕到重）
+> [!tip] sickle cell disease 的三種肝臟併發症（由輕到重）
 > | 併發症 | 機轉 | 表現 | 檢驗 |
 > | --- | --- | --- | --- |
-> | Hepatic sequestration | 紅血球堆積在肝竇、壓迫膽道 | 肝腫大、輕度右上腹痛、**貧血**，通常**不發燒** | 肝指數正常或輕升、膽紅素輕到中度（溶血為主） |
-> | Hepatic crisis | 肝竇阻塞、Kupffer cell 腫脹 → 缺血 | **發燒**、黃疸、肝腫大壓痛 | 轉胺酶與膽紅素中度上升 |
-> | **Intrahepatic cholestasis** | 肝竇廣泛阻塞 → 肝細胞氣球樣變性、小管內膽汁滯留 | ==極度黃疸、肝腫大、腦病變==、腎衰竭、凝血異常 | **直接型膽紅素常 > 15 mg/dL** |
+> | Hepatic sequestration | 紅血球堆積在肝竇、壓迫膽道 | hepatomegaly、輕度右上腹痛、**貧血**，通常**不發燒** | 肝指數正常或輕升、膽紅素輕到中度（hemolysis 為主） |
+> | Hepatic crisis | 肝竇阻塞、Kupffer cell 腫脹 → 缺血 | **發燒**、黃疸、hepatomegaly 壓痛 | 轉胺酶與膽紅素中度上升 |
+> | **Intrahepatic cholestasis** | 肝竇廣泛阻塞 → 肝細胞氣球樣變性、小管內膽汁滯留 | ==極度黃疸、hepatomegaly、腦病變==、腎衰竭、凝血異常 | **直接型膽紅素常 > 15 mg/dL** |
 
 ### Checkpoint 3：檢驗與影像
 
 | 檢查 | 為什麼做 | 結果 | 推理結果 |
 | --- | --- | --- | --- |
-| CBC | | Hb 5.9、**WBC 15.3（嗜中性球為主）**、網狀紅血球 12.7%（index 2.15） | 骨髓代償正常；**白血球高 → 細菌感染？** |
+| CBC | | Hb 5.9、**WBC 15.3（neutrophil 為主）**、網狀紅血球 12.7%（index 2.15） | 骨髓代償正常；**白血球高 → 細菌感染？** |
 | 膽紅素 | | **T-bil 18.6、D-bil 8.3** | 直接型明顯上升 |
 | Ferritin | 鐵過載 | **2884** | 鐵過載？（也是急性期反應物） |
-| Lipase | 胰臟炎 | 46（正常） | ❌ |
-| A／B／C 肝炎 | 病毒 | 陰性（也沒有 A、B 抗體） | ❌ 病毒性肝炎 |
-| 血液培養 | 膽管炎 | 48 小時陰性 | |
-| **右上腹超音波＋Doppler** | 總膽管結石、肝靜脈與門靜脈 | **肝硬化形態**、**膽結石但無膽囊炎**、**總膽管不擴張**、血管通暢 | ❌ 總膽管結石、肝靜脈栓塞 |
-| CT | 腸道、其他 | 膽結石無總膽管結石、**自體梗塞的脾臟**、多處骨梗塞 | |
+| Lipase | pancreatitis | 46（正常） | ❌ |
+| A／B／C hepatitis | 病毒 | 陰性（也沒有 A、B antibody） | ❌ viral hepatitis |
+| blood culture | cholangitis | 48 小時陰性 | |
+| **右上腹超音波＋Doppler** | choledocholithiasis、肝靜脈與門靜脈 | **cirrhosis 形態**、**gallstone 但無 cholecystitis**、**總膽管不擴張**、血管通暢 | ❌ choledocholithiasis、肝靜脈栓塞 |
+| CT | 腸道、其他 | gallstone 無 choledocholithiasis、**自體梗塞的脾臟**、多處骨梗塞 | |
 
 > [!important] 🔀 轉折點：直接型高膽紅素＋肝外膽管不擴張
 > - ==直接型高膽紅素卻沒有肝外膽管擴張== → 問題在**肝內小膽管或肝竇**
-> - 血色素沉著症可造成膽汁滯積，但**膽紅素這麼高不像**
-> - 肝硬化形態 → 慢性膽汁滯積性肝病也要排除：**PBC、PSC、自體免疫肝炎、Wilson、α1-antitrypsin 缺乏**
-> - 白血球高仍要考慮膽管炎
+> - 血色素沉著症可造成 cholestasis，但**膽紅素這麼高不像**
+> - Cirrhosis 形態 → chronic cholestatic liver disease也要排除：**PBC、PSC、autoimmune hepatitis、Wilson、α1-antitrypsin 缺乏**
+> - 白血球高仍要考慮 cholangitis
 
 ### Checkpoint 4：病程與更多檢查
 
-- **開始發燒**、膽紅素繼續上升 → 再抽血液培養、經驗性抗生素
-- **MRCP**（看小膽管）：無膽管擴張、無膽管炎表現 → ❌ PSC、膽管炎
-- 血液培養陰性，**抗生素下仍間歇發燒**
+- **開始發燒**、膽紅素繼續上升 → 再抽 blood culture、empiric antibiotics
+- **MRCP**（看小膽管）：無膽管擴張、無 cholangitis 表現 → ❌ PSC、cholangitis
+- Blood culture 陰性，**抗生素下仍間歇發燒**
 - Ceruloplasmin、α1-antitrypsin 正常；ANA、ASMA、anti-LKM、**AMA** 陰性 → ❌ Wilson、α1AT、AIH、PBC
 
 ### Checkpoint 5：治療嘗試與確診
@@ -89,49 +89,49 @@ tags:
 - 目標：==把 HbS 降到 < 30%==，減少缺氧誘發的鐮刀化
 - 先輸 2 單位 → **交換輸血**：HbS 74.7% → **15.4%**；開始 **hydroxyurea**
 - 但膽紅素繼續上升：**T-bil 41.3、D-bil 28.5**
-- **肝切片**（透視導引）：肝竇內**大量鐮刀狀紅血球堆積**阻塞血流、肝竇周圍膠原沉積、**瀰漫性含鐵血黃素沉積**、膽管反應與增生 → ✅ **鐮刀型貧血肝內膽汁滯積**
+- **Liver biopsy**（透視導引）：肝竇內**大量鐮刀狀紅血球堆積**阻塞血流、肝竇周圍膠原沉積、**瀰漫性含鐵血黃素沉積**、膽管反應與增生 → ✅ **sickle cell diseaseintrahepatic cholestasis**
 
 ## 鑑別診斷的演變
 
-| 診斷 | 病史＋理學後 | 檢驗影像後 | MRCP＋抗體後 | 切片後 |
+| 診斷 | 病史＋理學後 | 檢驗影像後 | MRCP＋antibody 後 | biopsy 後 |
 | --- | --- | --- | --- | --- |
-| 總膽管結石／膽管炎 | 🔴 | ⚪（膽管不擴張、培養陰性） | ❌ | ❌ |
-| 病毒性肝炎 | 🟠 | ❌ | ❌ | ❌ |
+| choledocholithiasis／cholangitis | 🔴 | ⚪（膽管不擴張、culture-negative） | ❌ | ❌ |
+| viral hepatitis | 🟠 | ❌ | ❌ | ❌ |
 | 肝靜脈栓塞 | 🟠 | ❌ | ❌ | ❌ |
 | Hepatic sequestration | 🟠 | ⚪（膽紅素太高） | ⚪ | ❌ |
 | Hepatic crisis | 🟠 | 🟠 | 🟠 | ⚪ |
-| **肝內膽汁滯積** | 🟠 | 🔴 | 🔴 | ✅ |
+| **intrahepatic cholestasis** | 🟠 | 🔴 | 🔴 | ✅ |
 | 續發性血色素沉著症 | 🟠 | 🟠（ferritin 2884） | 🟠 | 合併存在 |
-| PBC、PSC、AIH、Wilson、α1AT | — | 🟠（肝硬化形態） | ❌ | ❌ |
+| PBC、PSC、AIH、Wilson、α1AT | — | 🟠（cirrhosis 形態） | ❌ | ❌ |
 
 ## 結果
 
-- 惡化為發燒、低血壓、酸血症 → ICU；**尿毒、少尿、腦病變、PT／PTT 延長**
-- 評估肝移植，但擔心**移植肝動脈栓塞**（鐮刀型貧血血管併發症）
-- 出現出血性腹水，最後死亡
+- 惡化為發燒、hypotension、酸血症 → ICU；**尿毒、少尿、腦病變、PT／PTT 延長**
+- 評估肝移植，但擔心**移植肝動脈栓塞**（sickle cell disease 血管併發症）
+- 出現 hemorrhagic ascites，最後死亡
 
 ## 🧭 推理全程回顧
 
 | 步驟 | 關鍵發現 | 學到什麼 |
 | --- | --- | --- |
-| 病史 | HbSS、三個月腹痛黃疸、10 年沒輸血 | 鐮刀型貧血特有的肝膽併發症要先列 |
+| 病史 | HbSS、三個月腹痛黃疸、10 年沒輸血 | sickle cell disease 特有的肝膽併發症要先列 |
 | 理學 | 黃疸、肝大 10 cm、惡病質 | 嚴重肝臟受侵犯 |
 | 檢驗 | D-bil 8.3、WBC 15.3、ferritin 2884 | 直接型高膽紅素；鐵過載與感染都要考慮 |
-| **超音波** | **總膽管不擴張**、肝硬化形態 | **轉折點：肝內問題** |
-| MRCP＋抗體 | 小膽管正常、自體免疫與遺傳檢查陰性 | 慢性膽汁滯積性肝病出局 |
+| **超音波** | **總膽管不擴張**、cirrhosis 形態 | **轉折點：肝內問題** |
+| MRCP＋antibody | 小膽管正常、autoimmune 與遺傳檢查陰性 | chronic cholestatic liver disease出局 |
 | 交換輸血 | HbS 降到 15% 仍惡化 | 疾病嚴重度很高 |
-| 肝切片 | 肝竇鐮刀化阻塞＋膽管反應 | 肝內膽汁滯積確診 |
+| liver biopsy | 肝竇鐮刀化阻塞＋膽管反應 | intrahepatic cholestasis 確診 |
 
 ## Pearls & Pitfalls
 
 > [!tip] Pearl
-> - 鐮刀型貧血的腹痛＋黃疸：**色素性膽結石、膽管炎、肝臟併發症（sequestration、crisis、cholestasis）、病毒性肝炎、鐵過載、遲發性溶血輸血反應**
-> - ==直接型膽紅素 > 15 mg/dL＋腦病變＋凝血異常＋腎衰竭== → 想到肝內膽汁滯積
+> - Sickle cell disease 的腹痛＋黃疸：**pigment gallstone、cholangitis、肝臟併發症（sequestration、crisis、cholestasis）、viral hepatitis、鐵過載、delayed hemolytic transfusion reaction**
+> - ==直接型膽紅素 > 15 mg/dL＋腦病變＋凝血異常＋腎衰竭== → 想到 intrahepatic cholestasis
 > - 治療主軸：**積極交換輸血讓 HbS < 30%**；仍可能惡化
 
 > [!warning] Pitfall
-> - 鐮刀型貧血的高膽紅素**不要都當溶血**：先看直接型比例
-> - 有膽結石不代表就是答案：**總膽管不擴張**時要往肝內找
+> - Sickle cell disease 的高膽紅素**不要都當 hemolysis**：先看直接型比例
+> - 有 gallstone 不代表就是答案：**總膽管不擴張**時要往肝內找
 > - Ferritin 在急性發炎時也會上升，不能直接等於鐵過載
 
 ## 相關筆記

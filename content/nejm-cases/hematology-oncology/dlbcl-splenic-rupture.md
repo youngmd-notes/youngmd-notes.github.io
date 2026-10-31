@@ -5,7 +5,7 @@ aliases:
 nejm_title: A 47-Year-Old Woman with Left Shoulder Pain
 nejm_doi: 10.1056/EVIDmr2500031
 nejm_year: 2025
-chief: 47 歲女性（乾癬性關節炎、IBD，用 TNF-α 抑制劑），兩週左肩痛，之前六週畏寒疲倦
+chief: 47 歲女性（psoriatic arthritis、IBD，用 TNF-α 抑制劑），兩週左肩痛，之前六週畏寒疲倦
 pivot: 肩膀檢查與影像都正常，CT 意外看到脾臟 16 cm → 左肩痛是橫膈刺激的轉移痛
 tags:
   - NEJM個案
@@ -13,17 +13,17 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 左肩痛、**吸氣加重**、肩關節檢查完全正常，加上發燒盜汗 → 要想到**轉移痛**。CT 意外發現的 ==脾腫大== 讓問題變成「**發燒＋脾腫大＋血球低**」。這個病例的教訓在**認知偏誤**：先被當成鼻竇炎、蜱媒感染，脾臟破裂又被歸給「跌倒」，直到**非典型淋巴球、流式細胞儀、PET、骨髓切片**才確診 DLBCL。
+> 左肩痛、**吸氣加重**、肩關節檢查完全正常，加上發燒 night sweats → 要想到**轉移痛**。CT 意外發現的 ==splenomegaly== 讓問題變成「**發燒＋splenomegaly＋cytopenia**」。這個病例的教訓在**認知偏誤**：先被當成鼻竇炎、蜱媒感染，脾臟破裂又被歸給「跌倒」，直到**atypical lymphocyte、flow cytometry、PET、bone marrow biopsy**才確診 DLBCL。
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 47-Year-Old Woman with Left Shoulder Pain〉，2025，[DOI 10.1056/EVIDmr2500031](https://doi.org/10.1056/EVIDmr2500031)。以下用自己的話整理，重點放在作者的推理過程。
 
 ## 個案一覽
 
-- 47 歲女性，**乾癬性關節炎、IBD**，用 **certolizumab pegol（TNF-α 抑制劑）**；7 年前 Roux-en-Y 胃繞道、膽囊切除
-- 6 週前：畏寒、疲倦、聽力下降、頭暈 → 當鼻竇炎給抗生素、再當耳咽管功能障礙給鼻噴類固醇，都沒效
+- 47 歲女性，**psoriatic arthritis、IBD**，用 **certolizumab pegol（TNF-α 抑制劑）**；7 年前 Roux-en-Y 胃繞道、膽囊切除
+- 6 週前：畏寒、疲倦、聽力下降、頭暈 → 當鼻竇炎給抗生素、再當耳咽管功能障礙給鼻噴 steroid，都沒效
 - 4 週後：**突然左肩悶痛**，無外傷、無紅腫熱
-- 兩天前：**夜間盜汗**濕透床單；住新英格蘭
+- 兩天前：**夜間 night sweats**濕透床單；住新英格蘭
 
 ## 推理過程
 
@@ -31,9 +31,9 @@ tags:
 
 | 作者問 | 為什麼問 | 答案 | 推理結果 |
 | --- | --- | --- | --- |
-| 什麼讓肩痛變好或變糟？ | 舉手痛 → 旋轉肌袖；**吸氣痛 → 肋膜性**（肺炎、PE、心包膜炎）；運動痛 → 缺血 | ==深吸氣會痛==；無放射、無麻木無力、活動度正常；ibuprofen 無效 | 🔴 肩關節以外的原因 |
-| 其他關節痛嗎？ | 多關節 → 發炎性關節炎；單／寡關節 → 化膿、結晶、反應性 | 右手幾個 IP 關節慢性痛（乾癬性關節炎，沒變） | ⚪ 新的關節炎 |
-| 性行為史？ | 淋菌關節炎、披衣菌反應性關節炎 | 4 個月前檢驗陰性，沒有新伴侶 | ⚪ |
+| 什麼讓肩痛變好或變糟？ | 舉手痛 → 旋轉肌袖；**吸氣痛 → 肋膜性**（pneumonia、PE、pericarditis）；運動痛 → 缺血 | ==深吸氣會痛==；無放射、無麻木無力、活動度正常；ibuprofen 無效 | 🔴 肩關節以外的原因 |
+| 其他關節痛嗎？ | 多關節 → inflammatory arthritis；單／寡關節 → 化膿、結晶、反應性 | 右手幾個 IP 關節慢性痛（psoriatic arthritis，沒變） | ⚪ 新的 arthritis |
+| 性行為史？ | gonococcal arthritis、Chlamydia reactive arthritis | 4 個月前檢驗陰性，沒有新伴侶 | ⚪ |
 
 ### Checkpoint 2：理學檢查
 
@@ -47,27 +47,27 @@ tags:
 | 類別 | 疾病 | 此時判斷 |
 | --- | --- | --- |
 | 肌肉骨骼 | 旋轉肌袖、滑囊炎、沾黏性關節囊炎、骨折 | ⚪ 檢查正常 |
-| 風濕 | RA、SLE、反應性、Still's、**結晶性關節炎** | 🟠 |
-| 感染 | 化膿性關節炎、骨髓炎、**Lyme**（新英格蘭）、**結核、Histoplasma**（TNF-α 抑制劑）、淋菌、腹內感染轉移痛 | 🔴 |
+| 風濕 | RA、SLE、反應性、Still's、**crystal arthritis** | 🟠 |
+| 感染 | septic arthritis、骨髓炎、**Lyme**（新英格蘭）、**TB、Histoplasma**（TNF-α 抑制劑）、淋菌、腹內感染轉移痛 | 🔴 |
 | 腫瘤 | 骨轉移、肉瘤、骨髓瘤、腋下淋巴結、**胸腹腫瘤轉移痛** | 🟠 |
-| 心血管 | 缺血、**PE**、心包膜積液 | 🟠 吸氣痛＋心搏過速 |
+| 心血管 | 缺血、**PE**、pericardial effusion | 🟠 吸氣痛＋tachycardia |
 | 神經 | 頸神經根病、臂神經叢病變 | ⚪ 無神經缺損 |
 
 ### Checkpoint 3：檢查
 
 | 檢查 | 為什麼做 | 結果 | 推理結果 |
 | --- | --- | --- | --- |
-| CBC | 細菌（嗜中性球）、病毒（淋巴球）、血癌（芽細胞）、骨髓浸潤（血球低） | **輕度正球性貧血、血小板低** | 骨髓或脾臟？ |
+| CBC | 細菌（neutrophil）、病毒（lymphocyte）、血癌（blast）、骨髓浸潤（cytopenia） | **輕度 normocytic anemia、thrombocytopenia** | 骨髓或脾臟？ |
 | ESR 41、CRP 46.7 | 發炎 | 上升 | |
-| Lyme 抗體 | 新英格蘭 | 陰性 | ⚪（2–6 週才轉陽，發病已久仍陰性） |
-| ECG、troponin | 缺血、心包膜炎 | 正常 | ❌ 心臟 |
+| Lyme antibody | 新英格蘭 | 陰性 | ⚪（2–6 週才轉陽，發病已久仍陰性） |
+| ECG、troponin | 缺血、pericarditis | 正常 | ❌ 心臟 |
 | **CTPA** | PE、肺實質、淋巴結、腫塊 | 無 PE、肺與肩關節正常；==脾臟 16 cm== | 🔀 |
 
-> [!important] 🔀 轉折點：意外的脾腫大
+> [!important] 🔀 轉折點：意外的 splenomegaly
 > - 肩部檢查與影像正常 → 肌肉骨骼、神經、骨轉移、結晶、骨髓炎都下降
-> - ==脾腫大刺激橫膈 → 左肩轉移痛==（Kehr's sign 的原理），也解釋了吸氣痛
-> - 問題改寫為：**發燒＋盜汗＋脾腫大＋血球低＋頸部淋巴結**
-> - 新名單：其他蜱媒（anaplasma、babesia）、**EBV 單核球增多症**、SLE、Still's、==淋巴瘤或白血病==
+> - ==splenomegaly 刺激橫膈 → 左肩轉移痛==（Kehr's sign 的原理），也解釋了吸氣痛
+> - 問題改寫為：**發燒＋night sweats＋splenomegaly＋cytopenia＋頸部淋巴結**
+> - 新名單：其他蜱媒（anaplasma、babesia）、**EBV 單核球增多症**、SLE、Still's、==lymphoma 或 leukemia==
 
 ### Checkpoint 4：第一個錯誤的收尾
 
@@ -77,18 +77,18 @@ tags:
 ### Checkpoint 5：脾臟破裂——第二個錯誤的收尾
 
 - 一週後腹痛、**昏倒**被發現在地上 → CT：**脾臟撕裂傷（grade III）＋腹腔出血**
-- 作者提醒：**脾腫大的人發生「非外傷性」脾破裂**，要找原因：非何杰金氏淋巴瘤、EBV、HIV、細菌膿瘍、胰臟炎
-- 檢查：EBV 只有 VCA IgG、EBNA 陽性（**過去感染**）；HIV 陰性；lipase 正常；血液培養陰性；TTE 無 IE
+- 作者提醒：**splenomegaly 的人發生「非外傷性」脾破裂**，要找原因：非何杰金氏 lymphoma、EBV、HIV、細菌 abscess、pancreatitis
+- 檢查：EBV 只有 VCA IgG、EBNA 陽性（**過去感染**）；HIV 陰性；lipase 正常；blood culture 陰性；TTE 無 IE
 - 觀察 4 天出血穩定 → 又以「**昏倒跌倒造成脾破裂**」出院
 
 ### Checkpoint 6：確診
 
-- 兩週後腹痛、嘔吐、盜汗持續回診
-- 病理科醫師看抹片：==非典型淋巴球，核不規則、核仁明顯==
-- CT：**新的肝腫大**、脾臟長到 **20 cm**
-- **周邊血流式細胞儀**：異常 **CD5 陽性 B 細胞**
+- 兩週後腹痛、嘔吐、night sweats 持續回診
+- 病理科醫師看抹片：==atypical lymphocyte，核不規則、核仁明顯==
+- CT：**新的 hepatomegaly**、脾臟長到 **20 cm**
+- **周邊血 flow cytometry**：異常 **CD5 陽性 B 細胞**
 - **PET**：肝、脾、後腹膜與骨盆淋巴結強烈攝取
-- **骨髓切片**：大量大型非典型淋巴細胞、**CD20 陽性** → ✅ **DLBCL**
+- **Bone marrow biopsy**：大量大型非典型淋巴細胞、**CD20 陽性** → ✅ **DLBCL**
 
 ## 鑑別診斷的演變
 
@@ -98,9 +98,9 @@ tags:
 | PE、心臟 | 🟠 | ❌ | ❌ | ❌ | ❌ |
 | Lyme／其他蜱媒 | 🟠 | 🟠 | ⚪ | ❌ | ❌ |
 | EBV 單核球增多症 | 🟠 | 🟠 | 🟠 | ❌（過去感染） | ❌ |
-| 結核、Histoplasma | 🟠 | 🟠 | 🟠 | 🟠 | ❌ |
+| TB、Histoplasma | 🟠 | 🟠 | 🟠 | 🟠 | ❌ |
 | SLE、Still's | 🟠 | 🟠 | 🟠 | 🟠 | ❌ |
-| **淋巴瘤／白血病** | 🟠 | 🔴 | 🔴 | 🔴 | ✅ DLBCL |
+| **lymphoma／leukemia** | 🟠 | 🔴 | 🔴 | 🔴 | ✅ DLBCL |
 
 ## 治療與結果
 
@@ -114,25 +114,25 @@ tags:
 | --- | --- | --- |
 | 病史 | 肩痛**吸氣加重**、六週全身症狀 | 不是單純肩關節問題 |
 | 理學 | 肩關節完全正常、發燒心搏快 | 要找轉移痛 |
-| **CTPA** | **脾臟 16 cm** | **轉折點：脾腫大刺激橫膈** |
-| 檢驗 | 貧血、血小板低、發炎指數高 | 骨髓或脾臟疾病 |
+| **CTPA** | **脾臟 16 cm** | **轉折點：splenomegaly 刺激橫膈** |
+| 檢驗 | 貧血、thrombocytopenia、發炎指數高 | 骨髓或脾臟疾病 |
 | 蜱媒 PCR 陰性 | 仍以「推定蜱媒」出院 | ==提早結案（premature closure）== |
-| 脾破裂 | 被歸給跌倒 | ==錨定（anchoring）==：脾腫大的人自發破裂要找原因 |
-| 非典型淋巴球＋流式 | CD5＋ B 細胞 | 淋巴增生疾病 |
+| 脾破裂 | 被歸給跌倒 | ==錨定（anchoring）==：splenomegaly 的人自發破裂要找原因 |
+| atypical lymphocyte＋流式 | CD5＋ B 細胞 | 淋巴增生疾病 |
 | PET＋骨髓 | CD20＋大型細胞 | DLBCL 確診 |
 
 ## Pearls & Pitfalls
 
 > [!tip] Pearl
 > - 非外傷、持續的「肌肉骨骼痛」要想**全身性疾病與轉移痛**；左肩痛可來自**脾臟、橫膈、心包膜**
-> - **DLBCL** 是最常見的非何杰金氏淋巴瘤；約 ==40% 以結外病灶起病==（腸胃道、骨髓、肝、脾、CNS），可以沒有淋巴結腫大
-> - **非外傷性脾破裂**常見原因：淋巴瘤、EBV、HIV、脾膿瘍、胰臟炎
+> - **DLBCL** 是最常見的非何杰金氏 lymphoma；約 ==40% 以結外病灶起病==（腸胃道、骨髓、肝、脾、CNS），可以沒有 lymphadenopathy
+> - **非外傷性脾破裂**常見原因：lymphoma、EBV、HIV、splenic abscess、pancreatitis
 > - 抹片請病理科看，常是突破口
 
 > [!warning] Pitfall
-> - 每次結案都問：**現有診斷能解釋所有發現嗎？**（發燒、盜汗、脾腫大、血球低都沒被解釋就出院了）
-> - Lyme 抗體在發病 2–6 週後才會出現，太早驗會偽陰性；但已經很久還是陰性就有意義
-> - 用 TNF-α 抑制劑的人：**結核、Histoplasma** 與**淋巴瘤**都要放在名單上
+> - 每次結案都問：**現有診斷能解釋所有發現嗎？**（發燒、night sweats、splenomegaly、cytopenia 都沒被解釋就出院了）
+> - Lyme antibody 在發病 2–6 週後才會出現，太早驗會偽陰性；但已經很久還是陰性就有意義
+> - 用 TNF-α 抑制劑的人：**TB、Histoplasma** 與**lymphoma**都要放在名單上
 
 ## 相關筆記
 

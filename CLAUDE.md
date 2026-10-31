@@ -49,7 +49,7 @@ Young 會用自然語言下指令（例如「新增一篇 SIADH 筆記」），�
   - 語法只認純文字：要粗體就寫 `**==文字==**`（粗體在外），不要寫 `==**文字**==`；螢光筆內不可含 `=`
 - 鑑別診斷、治療比較盡量用表格；診斷流程可用 Mermaid flowchart
 - **臨床計算機**：電解質、酸鹼相關筆記可放 `<div class="calc" data-title="標題"></div>`，自動產生計算機（校正血鈉、effective／total osmolality、osmolal gap、AG、白蛋白校正 AG、delta ratio、Winter）；可加 `data-example="na=151,glu=525,bun=62"` 預先帶入考題數值（欄位：na、cl、hco3、glu、bun、alb、mosm、pco2）
-- 醫學名詞保留英文，說明用繁體中文
+- 醫學名詞保留英文，說明用繁體中文：疾病、症狀徵象、檢查、檢驗異常、病理名詞一律用英文（例如 immunosuppression、new-onset seizure、focal neurologic deficit、mass effect、LP、CSF、ring enhancement、hepatosplenomegaly），推理與解釋的句子用中文；目標像「CT 顯示 ring enhancement＋大量 edema → 指向 abscess」，不要整串中文術語，也不要中英重複
 - 用 `[[檔名]]` 連結相關筆記；新增筆記時，也要回頭在相關的舊筆記加上連結
 - 結尾附上「相關筆記」和「參考資料」（作者、標題、期刊、年份）
 

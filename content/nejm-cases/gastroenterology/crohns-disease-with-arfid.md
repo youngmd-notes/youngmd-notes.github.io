@@ -5,7 +5,7 @@ aliases:
 nejm_title: A 12-Year-Old Girl with Weight Loss
 nejm_doi: 10.1056/EVIDmr2200308
 nejm_year: 2023
-chief: 12 歲女孩，一年來噁心、嘔吐、體重減輕
+chief: 12 歲女孩，一年來噁心、嘔吐、weight loss
 pivot: 入院時送的 fecal calprotectin 回來 1416 µg/g
 tags:
   - NEJM個案
@@ -21,7 +21,7 @@ tags:
 
 ## 個案一覽
 
-- 12 歲女孩，一年來**每天噁心**、偶爾嘔吐、早飽、腹痛（多在早上，左下腹最明顯），體重減輕
+- 12 歲女孩，一年來**每天噁心**、偶爾嘔吐、早飽、腹痛（多在早上，左下腹最明顯），weight loss
 - 她自己**刻意少吃以免吐**，對生病、細菌、課業有明顯焦慮；家族有 OCD
 - 沒有發燒、關節痛、口腔潰瘍、腹瀉；排便 2–3 次／天、成形、無血、無夜間便意
 - 素食多年，沒有想減重、沒有身體意象扭曲、沒有糧食取得困難
@@ -38,7 +38,7 @@ tags:
 | --- | --- | --- |
 | 攝取不足 | ARFID、anorexia／bulimia、糧食不足、SMA syndrome、gastroparesis | 🔴 HIGH：她自己說刻意少吃 |
 | 吸收不良 | IBD、celiac、胰臟功能不足 | 🟠 POSSIBLE：沒有腹瀉，但不能排除 |
-| 代謝需求增加 | 甲亢、腫瘤、慢性器官衰竭、SLE、慢性感染、第 1 型糖尿病 | 🟠 POSSIBLE |
+| 代謝需求增加 | hyperthyroidism、腫瘤、慢性器官衰竭、SLE、慢性感染、第 1 型糖尿病 | 🟠 POSSIBLE |
 
 > [!tip] 作者的提問邏輯
 > - 問「**她自己覺得為什麼瘦**」：分辨是想減重（anorexia）、怕症狀（ARFID）還是身體真的不舒服
@@ -52,8 +52,8 @@ tags:
 
 ### Checkpoint 3：理學檢查
 
-- 姿勢性心搏過速（躺 88 → 站 120 次／分），肌肉量減少、背部 **lanugo**（長期營養不良的表現）
-- 口腔無潰瘍、腹部柔軟無壓痛、無肝脾腫大、沒有 Russell's sign
+- 姿勢性 tachycardia（躺 88 → 站 120 次／分），肌肉量減少、背部 **lanugo**（長期營養不良的表現）
+- 口腔無潰瘍、腹部柔軟無壓痛、無 hepatosplenomegaly、沒有 Russell's sign
 - 情緒正常、有病識感、合作
 
 → 檢查找不到 IBD 的外顯徵象（口腔潰瘍、腹部壓痛），**ARFID 的機率繼續維持最高**。
@@ -62,10 +62,10 @@ tags:
 
 | 檢查 | 為什麼做 | 結果 | 推理結果 |
 | --- | --- | --- | --- |
-| Glucose、TSH | 排除 DM、甲亢 | 正常 | ❌ DM、甲亢 |
+| Glucose、TSH | 排除 DM、hyperthyroidism | 正常 | ❌ DM、hyperthyroidism |
 | ECG、Cr、AST/ALT | 營養不良的併發症與器官衰竭 | 正常 | ⚪ 心、腎、肝衰竭 LOW |
 | Anti-tTG IgA ＋ **total IgA** | 篩 celiac；IgA 缺乏會偽陰性 | 陰性，IgA 正常 | ⚪ Celiac LOW |
-| CBC、ferritin | 慢性發炎或缺乏 | Hb 10.7、MCV 78、ferritin 9.5 → 缺鐵 | 營養不良或慢性失血都可能 |
+| CBC、ferritin | 慢性發炎或缺乏 | Hb 10.7、MCV 78、ferritin 9.5 → iron deficiency | 營養不良或慢性失血都可能 |
 | Zinc、Vit D | 微量元素 | 都偏低 | 支持長期營養不良 |
 | **ESR 35、CRP 1.8** | 篩全身發炎 | **輕度上升** | ==單純 ARFID 不該有發炎== → IBD、SLE、腫瘤、慢性感染仍不能放 |
 
@@ -87,7 +87,7 @@ tags:
 - **內視鏡**：胃黏膜發紅；大腸**片狀**脆弱黏膜；回盲瓣與末端迴腸發炎、有斑塊
 - **病理**：慢性活動性結腸炎、嚴重活動性迴腸炎＋潰瘍、==non-necrotizing granulomas==
 
-→ ✅ **Crohn's disease** 確診（片狀、跨壁、大小腸都侵犯、非乾酪性肉芽腫）。之後心理評估也確立 **ARFID** 同時存在。
+→ ✅ **Crohn's disease** 確診（片狀、跨壁、大小腸都侵犯、noncaseating granuloma）。之後心理評估也確立 **ARFID** 同時存在。
 
 ## 鑑別診斷的演變
 
@@ -97,14 +97,14 @@ tags:
 | Anorexia／Bulimia | 🟠 | ⚪（無身體意象扭曲） | ⚪ | ❌ |
 | IBD（Crohn's） | 🟠 | 🟠（發炎指數↑） | 🔴 | ✅ |
 | Celiac disease | 🟠 | ⚪（tTG 陰性、IgA 正常） | ⚪ | ❌ |
-| 甲亢、DM | 🟠 | ❌ | ❌ | ❌ |
+| hyperthyroidism、DM | 🟠 | ❌ | ❌ | ❌ |
 | 慢性器官衰竭 | 🟠 | ⚪ | ⚪ | ❌ |
 
 ## 治療與結果
 
 - **Exclusive enteral nutrition**（鼻胃管）＋ **infliximab**，加上 **IV iron** 補鐵
 - 持續心理治療處理對食物的恐懼
-- 追蹤大腸鏡達到黏膜與組織學癒合；兩年後身高、體重回到第 5 百分位，BMI 第 21 百分位
+- 追蹤 colonoscopy 達到黏膜與組織學癒合；兩年後身高、體重回到第 5 百分位，BMI 第 21 百分位
 
 ## 🧭 推理全程回顧
 
@@ -112,10 +112,10 @@ tags:
 | --- | --- | --- |
 | 病史 | 刻意少吃、明顯焦慮 | ARFID 第一名，但先用「攝取／吸收／消耗」框架把網撒開 |
 | 生長曲線 | BMI z −3.1，身高也掉 | 嚴重、慢性；身高落後是器質性疾病的警訊 |
-| 理學檢查 | Lanugo、姿勢性心搏過速 | 營養不良很嚴重，但看不到 IBD 外顯徵象 |
-| 基本檢驗 | tTG 陰性、TSH 正常、**ESR／CRP 輕度↑** | Celiac、甲亢出局；**發炎不該出現在單純 ARFID** |
+| 理學檢查 | Lanugo、姿勢性 tachycardia | 營養不良很嚴重，但看不到 IBD 外顯徵象 |
+| 基本檢驗 | tTG 陰性、TSH 正常、**ESR／CRP 輕度↑** | Celiac、hyperthyroidism 出局；**發炎不該出現在單純 ARFID** |
 | **Fecal calprotectin** | **1416 µg/g** | **轉折點：發炎在腸道** |
-| 內視鏡＋MRE＋病理 | 片狀、跨壁、肉芽腫 | Crohn's 確診；ARFID 同時存在 |
+| 內視鏡＋MRE＋病理 | 片狀、跨壁、granuloma | Crohn's 確診；ARFID 同時存在 |
 
 ## Pearls & Pitfalls
 
