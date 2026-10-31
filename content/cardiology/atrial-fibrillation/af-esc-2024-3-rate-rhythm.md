@@ -20,7 +20,140 @@ tags:
 >
 > ① [[af-esc-2024-1-overview|定義、診斷與 AF-CARE]]｜② [[af-esc-2024-2-anticoagulation|抗凝血與出血]]｜③ Rate 與 rhythm control（本篇）｜④ [[af-esc-2024-4-screening|篩檢與危險因子]]｜⑤ [[af-esc-2024-5-recommendations|新增、修訂與必做／不做]]
 >
-> 本篇涵蓋：Table 12、13；Figure 12（各類型 AF 的 rhythm control 路徑見①的 Figure 4–7）
+> 本篇涵蓋：**何時用 rate control、何時用 rhythm control**（依指引內文整理）；Table 12、13；Figure 12（各類型 AF 的 rhythm control 路徑見①的 Figure 4–7）
+
+## 何時用 rate control、何時用 rhythm control
+
+> [!info] 本段來源
+> 依指引第 7 章內文與 Recommendation Table 14–19 整理（不是 Table／Figure 本身），補充下方 Table 12、13 和 Figure 12 的使用時機。
+
+### 先釐清：不是二選一
+
+- **大多數病人兩者合併使用**，而且追蹤時要重新評估；以病人為中心，**所有適合的病人都應討論 rhythm control 的利弊**
+- **Rate control 有三種角色（I）**：急性期的**初始治療**、rhythm control 的**輔助**、或**單獨**作為長期策略
+- **Rhythm control 永遠不是單獨的策略**，一定要放在 AF-CARE 裡（共病處理、抗凝照做）
+
+**圖解：選擇策略**
+
+```mermaid
+flowchart TD
+    A["AF 病人：先處理 C 共病、A 抗凝<br/>所有適合的病人都應討論 rhythm control 的利弊"] --> B{"血行動力不穩定？"}
+    B -->|"是"| U["緊急電擊整流（I）"]
+    B -->|"否"| R["先做 rate control 控制心跳（I）"]
+    R --> Q{"有沒有偏向 rhythm control 的理由？"}
+    Q -->|"有"| Y["加上 rhythm control<br/>cardioversion、抗心律不整藥或導管燒灼<br/>（rate control 視需要繼續當輔助）"]
+    Q -->|"沒有，或共同決定不再恢復竇性節律"| N["只用 rate control<br/>休息心率 < 110 bpm，有症狀再嚴格（IIa）"]
+    Y --> E["追蹤時重新評估兩種策略"]
+    N --> E
+    classDef ok fill:#2e9e6b26,stroke:#2e9e6b
+    classDef warn fill:#e0a10026,stroke:#e0a100
+    classDef bad fill:#d64b4b26,stroke:#d64b4b,stroke-width:2px
+    class R,N ok
+    class Y warn
+    class U bad
+```
+
+### 兩種策略比較
+
+| | Rate control | Rhythm control |
+| --- | --- | --- |
+| **目的** | 控制心跳、減輕症狀 | 恢復並維持竇性節律、改善生活品質、延緩 AF 進展；選擇性病人可降低併發症與死亡 |
+| **什麼時候用** | 急性期第一步；所有 AF 類型都適用；permanent AF 的唯一策略 | 仍有症狀；或符合下方「偏向 rhythm control」的條件 |
+| **工具** | Beta-blocker、diltiazem／verapamil、digoxin；必要時 AV node 燒灼 + 節律器 | 電擊或藥物整流、長期抗心律不整藥、導管燒灼、外科／混合式燒灼 |
+| **目標** | **休息心率 < 110 bpm**（寬鬆控制，IIa），仍有症狀再更嚴格 | 症狀改善；**復發變少、變短、變輕就不算失敗** |
+| **抗凝** | 依 CHA₂DS₂-VA | 依 CHA₂DS₂-VA；**整流前後另有固定規則**（見 Figure 12） |
+
+### 什麼情況偏向 rhythm control
+
+| 情況 | 依據 |
+| --- | --- |
+| 治療心跳後**仍有症狀** | 最主要的理由；試驗顯示維持竇性節律能改善生活品質 |
+| **不確定症狀是不是 AF 造成的** | 先試著恢復竇性節律是合理的第一步；persistent AF 可用**電擊整流當診斷工具**（IIa） |
+| 懷疑**心搏過速引起的心肌病變**、AF 病史短、**左心房沒有擴大**、病人希望 | 內文列出的有利因素 |
+| **診斷後 12 個月內**、有栓塞風險的選擇性病人 | 應考慮早期 rhythm control（IIa），可降低心血管死亡或住院（EAST-AFNET 4：> 75 歲或有心血管疾病，八成用抗心律不整藥） |
+| **HFrEF** | 高度懷疑心搏過速心肌病變：導管燒灼（I）；其他選擇性病人為改善預後：燒灼（IIa） |
+
+**只用 rate control 的情況**：permanent AF（共同決定不再恢復竇性節律）；以及經共同決策選擇只控制心跳的病人（rate control 可以單獨作為長期策略，I）。
+
+### 給藥時機：從發作到長期
+
+**圖解：穩定病人的時間軸**
+
+```mermaid
+flowchart TD
+    S0["AF 發作<br/>血行動力穩定"] --> S1["0–48 小時<br/>rate control 控制症狀<br/>同時評估抗凝"]
+    S1 -->|"自行恢復"| S2["竇性節律<br/>決定長期抗凝與追蹤"]
+    S1 -->|"想盡快恢復"| C{"整流前的抗凝條件"}
+    C -->|"AF < 24 小時"| P["藥物或電擊整流"]
+    C -->|"≥ 24 小時或不確定：<br/>抗凝 ≥ 3 週或 TEE"| P
+    S1 -->|"48 小時仍未恢復<br/>且有症狀"| C
+    P --> PO["整流後抗凝至少 4 週<br/>長期依 CHA₂DS₂-VA"]
+    PO --> L["長期：抗心律不整藥或導管燒灼<br/>仍有症狀者持續 rate control"]
+    classDef ok fill:#2e9e6b26,stroke:#2e9e6b
+    classDef warn fill:#e0a10026,stroke:#e0a100
+    class S1,S2 ok
+    class C,PO warn
+```
+
+#### ① 急性期：血行動力不穩定
+
+- **緊急電擊整流（I）**
+- 需要快速控制心跳、但血行動力不穩或 **LVEF 很差**：可用 **IV amiodarone、digoxin 或 landiolol**（IIb）
+
+#### ② 急性期：血行動力穩定
+
+1. **先找並處理誘因**：敗血症、體液過多、心因性休克等
+2. **先給 rate control（I）**
+   - **任何 LVEF：beta-blocker**；**LVEF > 40%：也可用 diltiazem／verapamil**
+   - 這兩類起效快，**優先於 digoxin**；LVEF ≤ 40% 用 beta-blocker 和／或 digoxin（I）
+   - 單一藥物不夠：合併使用（IIa），避免心搏過慢；beta-blocker 合併 diltiazem／verapamil 只在密切監測下使用
+3. **同時評估抗凝**，再決定要不要整流
+   - **新發 AF 有 76–83% 會自行恢復**（3 小時內 10–18%、24 小時內 55–66%、48 小時內 69%），所以**可以觀察 48 小時等它自己好（IIa）**，取代立即整流
+   - 想盡快恢復：**AF < 24 小時**可直接整流；**≥ 24 小時或不確定**，要先**規律抗凝 ≥ 3 週或做 TEE**（不然 Class III）
+   - 有症狀的 persistent AF：整流作為 rhythm control 的一部分（IIa）
+
+#### ③ 要整流時選哪一種、用什麼藥
+
+- **電擊整流**：成功率比藥物高；可在急性或擇期使用
+  - **事先給藥可提高成功率並減少早期復發**：整流前 3–4 天給 flecainide、ibutilide、propafenone 或 amiodarone，或當下給 vernakalant；amiodarone 整流前 200–800 mg/day 給 1–6 週、之後 200 mg/day
+- **藥物整流**：只用於**血行動力穩定**者，不需空腹、鎮靜或麻醉
+
+| 病人狀況 | 首選藥物 | 起效 |
+| --- | --- | --- |
+| **沒有嚴重 LVH、HFrEF、冠心病** | **IV flecainide 或 propafenone（I）** | 快；flecainide 4 小時內轉換率最高之一，IC 類 12 小時內轉換率最好 |
+| **沒有近期 ACS、HFrEF、嚴重主動脈瓣狹窄** | **IV vernakalant（I）** | 快；4 小時內轉換率最高之一 |
+| **有嚴重 LVH、HFrEF 或冠心病** | **IV amiodarone（I）** | **較慢（約 24 小時內）**，要接受延遲 |
+| **竇房結功能異常、AV 傳導障礙、QTc > 500 ms** | **不建議藥物整流（III）**，除非已評估致心律不整與心搏過慢風險 | — |
+
+劑量見下方 [[#Table 13：用於恢復竇性節律的抗心律不整藥|Table 13]]。整流後**所有人抗凝至少 4 週**，長期依 CHA₂DS₂-VA。
+
+#### ④ 長期：維持竇性節律
+
+**開始抗心律不整藥之前**：先找出可逆誘因、處理共病，減少 AF 的基質。藥物以**安全性**為選擇依據，不是效果；**不要合併多種抗心律不整藥**。
+
+| 心臟狀況 | 長期抗心律不整藥 |
+| --- | --- |
+| **HFrEF** | **Amiodarone（I）**，注意心臟外毒性 |
+| HFmrEF、HFpEF、缺血性心臟病、瓣膜疾病 | **Dronedarone（I）** |
+| **沒有左心室收縮功能差、嚴重 LVH 或冠心病** | **Flecainide 或 propafenone（I）**，**併用 beta-blocker、diltiazem 或 verapamil（IIa）** 避免轉成 flutter 時 1:1 傳導 |
+| LVEF 正常或冠心病 | Sotalol（IIb），要密切監測 QT、血鉀、腎功能 |
+| **嚴重傳導障礙且沒有節律器** | **不可用抗心律不整藥（III）** |
+
+- **導管燒灼**：paroxysmal AF 可當**第一線（I）**；persistent AF 的第一線只有選擇性病人（IIb）；藥物無效或無法耐受時（I）
+- 一種藥無效，可以換另一類藥試試
+
+#### ⑤ Pill-in-the-pocket：病人自己吃藥整流
+
+- 適合：**偶爾發作的 paroxysmal AF**、有症狀（IIa）
+- 藥物：單次口服 **flecainide 或 propafenone**
+- 條件：**先在院內試過一次證實安全有效**；排除竇房結功能異常、AV 傳導障礙、**Brugada**、嚴重 LVH、HFrEF、冠心病
+- 同時給 **AV node 阻斷劑**，避免轉成 flutter 時 1:1 傳導
+
+> [!warning] Pitfall
+> - **==Dronedarone 不可用來控制 permanent AF 的心跳==**（會增加心衰竭、中風與心血管死亡）
+> - **Amiodarone 不是 rate control 的常規藥**，因毒性只當最後手段（合併用藥也控制不了、又不適合 AV node 燒灼時）
+> - **==Class IC 藥物（flecainide、propafenone）一定要搭配 AV node 阻斷劑==**，而且不能用在結構性心臟病或冠心病
+> - **==AF 超過 24 小時，沒有抗凝 3 週或 TEE 就不能整流==**，不管用藥物還是電擊
 
 ## Table 12：Rate control 藥物
 

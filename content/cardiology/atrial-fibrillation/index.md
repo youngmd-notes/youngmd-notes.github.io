@@ -30,7 +30,7 @@ cssclasses:
 </a>
 <a class="af-card internal" href="/cardiology/atrial-fibrillation/af-esc-2024-3-rate-rhythm">
 <div class="af-num">③</div>
-<div class="af-body"><div class="af-title">心率與節律控制</div><div class="af-desc">Rate control 藥物劑量、cardioversion 流程與前後抗凝、抗心律不整藥的選擇</div><div class="af-cover">Table 12、13｜Figure 12</div></div>
+<div class="af-body"><div class="af-title">心率與節律控制</div><div class="af-desc"><b>何時用 rate control、何時用 rhythm control 與給藥時機</b>；rate control 藥物劑量、cardioversion 流程與前後抗凝、抗心律不整藥的選擇</div><div class="af-cover">Table 12、13｜Figure 12</div></div>
 </a>
 <a class="af-card internal" href="/cardiology/atrial-fibrillation/af-esc-2024-4-screening">
 <div class="af-num">④</div>
