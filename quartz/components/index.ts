@@ -9,6 +9,7 @@ import PrintPdf from "./PrintPdf"
 import CollapsibleSections from "./CollapsibleSections"
 import ClinicalCalc from "./ClinicalCalc"
 import QuizMode from "./QuizMode"
+import InstallApp from "./InstallApp"
 import Head from "./Head"
 import PageTitle from "./PageTitle"
 import ContentMeta from "./ContentMeta"
@@ -39,6 +40,7 @@ export {
   CollapsibleSections,
   ClinicalCalc,
   QuizMode,
+  InstallApp,
   Head,
   PageTitle,
   ContentMeta,

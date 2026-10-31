@@ -102,6 +102,11 @@ Young 會提供 paper、指引或 textbook 內容，請 Claude 讀取後整理�
 - `content/exam-index.md`（內專考點總覽）由 `node scripts/build-exam-index.mjs` 自動產生，**不要手動編輯**；新增或修改考點後執行一次再建置（GitHub Actions 部署時也會自動執行）
 - 考點卡格式要維持 `> [!note]- 題號｜描述`、「**答**：」「**重點**：」開頭，「何者錯誤」題的選項用「→ 對／錯」標示，測驗模式才能正確遮住答案
 
+## 安裝到手機桌面（PWA）
+
+- `quartz/static/manifest.webmanifest`、`quartz/static/icon-*.png`、`content/sw.js` 讓網站可以加到手機桌面；左上「加到桌面」按鈕由 `InstallApp` 元件提供
+- `sw.js` 採 network-first：有網路一定抓最新版，沒網路才用看過的頁面；改動 `sw.js` 邏輯時把 `CACHE` 版本號加一
+
 ## 本機預覽
 
 ```bash

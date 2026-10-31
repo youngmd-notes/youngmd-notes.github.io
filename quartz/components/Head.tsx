@@ -83,6 +83,14 @@ export default (() => {
         )}
 
         <link rel="icon" href={iconPath} />
+        {/* 安裝到手機桌面（PWA） */}
+        <link rel="manifest" href={joinSegments(baseDir, "static/manifest.webmanifest")} />
+        <link rel="apple-touch-icon" href={joinSegments(baseDir, "static/apple-touch-icon.png")} />
+        <meta name="theme-color" content="#3d5a80" />
+        <meta name="mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-title" content="內科筆記" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="default" />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 

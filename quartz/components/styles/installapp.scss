@@ -1,0 +1,137 @@
+.install-app {
+  cursor: pointer;
+  padding: 0;
+  position: relative;
+  background: none;
+  border: none;
+  width: 20px;
+  height: 20px;
+  margin: 0;
+  flex-shrink: 0;
+  color: var(--darkgray);
+
+  & svg {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: calc(50% - 10px);
+    left: 0;
+  }
+
+  &:hover {
+    color: var(--secondary);
+  }
+}
+
+.ia-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.45);
+  padding: 1rem;
+
+  @media all and (min-width: 800px) {
+    align-items: center;
+  }
+}
+
+.ia-sheet {
+  width: 100%;
+  max-width: 26rem;
+  box-sizing: border-box;
+  padding: 1.25rem 1.25rem 1rem;
+  border-radius: 14px;
+  background: var(--light);
+  color: var(--dark);
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.25);
+  font-family: var(--bodyFont);
+
+  .ia-head {
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+    margin-bottom: 0.75rem;
+
+    img {
+      border-radius: 10px;
+      flex-shrink: 0;
+    }
+  }
+  .ia-title {
+    font-weight: 700;
+    font-size: 1.05rem;
+  }
+  .ia-sub {
+    font-size: 0.82rem;
+    color: var(--darkgray);
+  }
+  .ia-lead {
+    margin: 0.5rem 0;
+    font-size: 0.92rem;
+  }
+  .ia-steps {
+    list-style: none;
+    padding: 0;
+    margin: 0.25rem 0 0.5rem;
+
+    li {
+      display: flex;
+      align-items: flex-start;
+      gap: 0.55rem;
+      padding: 0.45rem 0;
+      font-size: 0.92rem;
+      border-bottom: 1px solid var(--lightgray);
+
+      .ia-text {
+        flex: 1;
+        line-height: 1.6;
+      }
+      svg {
+        color: var(--secondary);
+        vertical-align: -0.2em;
+      }
+    }
+  }
+  .ia-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.4rem;
+    height: 1.4rem;
+    border-radius: 50%;
+    background: var(--secondary);
+    color: #fff;
+    font-size: 0.8rem;
+    font-weight: 700;
+    flex-shrink: 0;
+  }
+  .ia-note {
+    margin: 0.5rem 0 0;
+    font-size: 0.8rem;
+    color: var(--gray);
+  }
+  .ia-close {
+    display: block;
+    width: 100%;
+    margin-top: 0.9rem;
+    padding: 0.6rem;
+    font-family: var(--bodyFont);
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: #fff;
+    background: var(--secondary);
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+}
+
+@media print {
+  .install-app,
+  .ia-backdrop {
+    display: none !important;
+  }
+}
