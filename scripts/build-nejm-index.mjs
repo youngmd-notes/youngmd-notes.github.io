@@ -71,7 +71,7 @@ ${rows}
   cards.push(
     `<a class="af-card internal" href="/nejm-cases/${slug}">
 <div class="af-num">${notes.length}</div>
-<div class="af-body"><div class="af-title">${zh} ${en}</div><div class="af-desc">${notes.map((n) => n.title.replace(/\s+[A-Za-z].*$/, "")).join("、")}</div></div>
+<div class="af-body"><div class="af-title">${zh} ${en}</div><div class="af-desc">${notes.map((n) => n.title.replace(/\s*[A-Za-z][\x20-\x7E–’]*$/, "")).join("、")}</div></div>
 </a>`,
   )
 }
