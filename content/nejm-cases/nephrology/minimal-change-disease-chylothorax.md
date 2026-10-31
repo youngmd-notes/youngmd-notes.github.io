@@ -28,13 +28,64 @@ tags:
 
 ## 推理過程
 
-### Checkpoint 1：病史——三個問題
+### Checkpoint 1：病史——作者問的三個問題
 
-| 作者問 | 為什麼問 | 答案 | 推理結果 |
-| --- | --- | --- | --- |
-| 胸痛？姿勢性喘（端坐呼吸）？ | 急性喘＋edema → **acute heart failure** | 都沒有 | ⚪ heart failure |
-| 酗酒？ | **cirrhosis** → ascites、胸水、edema | 很少喝 | ⚪ cirrhosis |
-| 腎臟病、NSAID？ | 腎衰竭、nephrotic syndrome；**NSAID 常被忽略** | 沒有腎病；偶爾吃 ibuprofen、不超量 | 🟠 |
+到這裡知道的是：73 歲男性，一個月內**雙腳腫到大腿和陰囊**、輕微活動就喘，**兩週胖 14 kg**；被診斷 hypothyroidism 給 levothyroxine，不吃利尿劑就更腫。全身 edema 的三大器官是**心、肝、腎**。作者三個問題正好一題一個器官。
+
+> [!question] Q1｜發病前他有沒有胸痛？喘會不會在某些姿勢加重？
+> **作者的用意**：**急性喘＋下肢 edema**的病人，**acute heart failure**是主要考慮。**平躺時喘加重**（orthopnea，orthopnea）就符合**鬱血性 heart failure**造成的喘。
+>
+> **為什麼這樣問**
+> - 這題一次問兩件事：
+>   1. **胸痛**：acute heart failure 最常見的誘因之一是 **ACS**；沉默的 MI 也可能讓心臟突然失代償
+>   2. **orthopnea**：平躺時下肢靜脈血回流增加 → 肺靜脈壓上升 → 肺 edema → 喘。這是 heart failure**特異性最高**的症狀之一
+>
+> | 姿勢 | 想到… |
+> | --- | --- |
+> | ==平躺加重、要墊高枕頭== | **left heart failure**（orthopnea） |
+> | 半夜突然喘醒（PND） | left heart failure |
+> | 側躺某一邊比較舒服 | 單側大量**pleural effusion**（健側朝上比較好） |
+> | 坐起時反而喘（platypnea） | hepatopulmonary syndrome、心內分流 |
+>
+> - 也要注意：大量 edema＋喘也可能是**pleural effusion**或**ascites**壓迫，不一定是心臟
+>
+> **病人的答案**：發病前後**都沒有胸痛**，也**沒有 orthopnea**。
+>
+> **→ 推理結果**：⚪ acute heart failure 機率下降（沒有 orthopnea），⚪ ACS 誘發下降。
+
+> [!question] Q2｜他以前有沒有大量或很頻繁地喝酒？
+> **作者的用意**：**cirrhosis**是飲酒可能的併發症，可以造成**ascites、pleural effusion、周邊 edema**。
+>
+> **為什麼這樣問**
+> - Cirrhosis 造成 edema 有兩個機轉：
+>   1. **白蛋白合成下降** → 血漿膠體滲透壓下降 → 液體跑到組織
+>   2. **門脈高壓**＋內臟血管擴張 → 有效循環血量下降 → RAAS 活化 → **鈉水滯留**
+> - Cirrhosis 的人也常有 **hepatic hydrothorax**（通常在**右側**）：ascites 經過橫膈的小缺口進入胸腔
+> - 長期大量喝酒也會造成 **alcoholic cardiomyopathy**，所以這題同時跟心臟有關
+>
+> **病人的答案**：**很少喝酒**，從來沒有大量飲酒。
+>
+> **→ 推理結果**：⚪ 酒精性 cirrhosis 下降（但非酒精原因的肝病仍要靠檢驗排除）。
+
+> [!question] Q3｜他有沒有腎臟病病史，或腎損傷的危險因子，例如使用 NSAID？
+> **作者的用意**：**腎衰竭**和**nephrotic syndrome**都會造成**下肢 edema 和喘**。**NSAID** 是常見的腎病危險因子，病人**不一定會主動說**。
+>
+> **為什麼這樣問**
+> - 心、肝都不像，下一個就是**腎臟**；而「**兩週胖 14 kg、腫到大腿和陰囊**」這種**快速、大量**的 edema，非常像 ==nephrotic syndrome==
+> - NSAID 和腎臟有好幾種關係，而且病人常把成藥止痛藥當「不是藥」：
+>
+> | NSAID 造成的腎問題 | 表現 |
+> | --- | --- |
+> | 腎血流下降（prostaglandin 被抑制） | **AKI**，尤其合併利尿劑、ACEi |
+> | **Acute interstitial nephritis** | AKI、pyuria |
+> | ==Minimal change disease（合併 AIN）== | **nephrotic syndrome** |
+> | 鈉水滯留 | edema、血壓上升 |
+>
+> - 老人的 nephrotic syndrome 也要想到 **membranous nephropathy**（和腫瘤相關）、**amyloidosis**、**DM nephropathy**
+>
+> **病人的答案**：**沒有腎臟病病史**。**偶爾吃 ibuprofen 止痛**，但從來沒有超過建議劑量。
+>
+> **→ 推理結果**：🔴 腎臟成為最可能的器官：快速大量 edema＋**有 NSAID 使用**（即使劑量正常也可能誘發 MCD）→ 下一步一定要驗**尿蛋白和白蛋白**。三題問完：==沒有 heart failure 和肝病線索的全身 edema== → 🔴 **nephrotic syndrome**。
 
 ### Checkpoint 2：理學檢查
 
@@ -76,7 +127,7 @@ tags:
 | 腹部 CT | | 少量 ascites、瀰漫皮下 edema |
 
 > [!important] 🔀 轉折點：兩個診斷同時成立
-> 1. **胸水**：Light's criteria 三項都不符 → **漏出液**；但 ==triglyceride > 110 mg/dL → chylothorax==（外觀乳白也支持）。常見原因：外傷、胸腔手術、先天異常、**腫瘤（lymphoma）**、感染；少見：主 aneurysm、thyroid 腫、heart failure、nodular sclerosis、**chylous ascites 經橫膈移到胸腔**
+> 1. **胸水**：Light's criteria 三項都不符 → **漏出液**；但 ==triglyceride > 110 mg/dL → chylothorax==（外觀乳白也支持）。常見原因：外傷、胸腔手術、先天異常、**腫瘤（lymphoma）**、感染；少見：aortic aneurysm、thyroid 腫、heart failure、nodular sclerosis、**chylous ascites 經橫膈移到胸腔**
 > 2. **Nephrotic syndrome**：**UPCR > 3**＋hypoalbuminemia＋hyperlipidemia＋新發 hypertension ✅
 
 ### Checkpoint 5：nephrotic syndrome 的原因
@@ -136,7 +187,7 @@ tags:
 
 > [!warning] Pitfall
 > - ==輕度 TSH 上升、fT4 正常不能解釋重度 edema==，別讓「hypothyroidism」的標籤終止思考
-> - 新發 edema 一定要驗**尿液蛋白**
+> - new-onset edema 一定要驗**尿液蛋白**
 > - Chylothorax 要積極找**lymphoma**等腫瘤
 
 ## 相關筆記

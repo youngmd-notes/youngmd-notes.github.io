@@ -28,13 +28,65 @@ tags:
 
 ## 推理過程
 
-### Checkpoint 1：病史——三個問題
+### Checkpoint 1：病史——作者問的三個問題
 
-| 作者問 | 為什麼問 | 答案 | 推理結果 |
-| --- | --- | --- | --- |
-| 在哪裡出生？途經哪些國家？ | ==移民史要包含出生地與所有過境國==，不只最後居住地 | **西蘇丹**出生、在**肯亞難民營 10 年**，直飛美國 | 暴露地區確定 |
-| 發燒、weight loss、皮疹、hemoptysis、hematuria？ | weight loss → 鼻腔鱗癌、lymphoma、**NK/T 細胞 lymphoma**；TB；hemoptysishematuria → **GPA** | **night sweats、間歇發燒、2 年瘦 20 kg**；沒有皮疹、hemoptysis、hematuria | 全身性疾病；⚪ GPA |
-| 牲畜、化學物、類似症狀的人？ | 甲醛 → 鼻腔腫瘤；牲畜與病媒 → 利什曼、M. ulcerans、痲瘋 | 種蔬菜和果樹、沒有農藥、無牲畜 | ⚪ 化學 |
+到這裡知道的是：52 歲男性，20 年鼻子癢，5 年前出現小傷口，慢慢**侵蝕穿鼻中隔**，合併頭痛、視力模糊、右耳聽力下降；所有症狀都在東非發生，剛抵達美國。鼻中隔破壞性病灶的鑑別是：**感染**、**腫瘤**、**發炎（GPA）**、**藥物（古柯鹼）**。作者三個問題依序是：**完整的移民路線**、**全身症狀**、**暴露史**。
+
+> [!question] Q1｜他在哪裡出生？來美國的途中經過哪些國家？
+> **作者的用意**：移民史常常只問到**上一個居住國**和**抵達國**。但完整的移民史應該包括**出生地**和**所有途經的國家**，這樣才能找出可能造成症狀的暴露。
+>
+> **為什麼這樣問**
+> - 很多疾病有很長的潛伏期，或是慢性感染，**病人在哪裡被感染**可能是多年前、好幾個國家之前的事
+> - 難民的移民路線常常很長，途中可能住過**難民營**（擁擠、衛生差、病媒多）
+> - 東非不同地區的地方性疾病差很多：
+>
+> | 地區 | 相關疾病 |
+> | --- | --- |
+> | ==蘇丹、南蘇丹、衣索比亞、肯亞== | **visceral leishmaniasis**（L. donovani）、TB、痲瘋 |
+> | 中非 | trypanosomiasis、loiasis |
+> | 全區 | TB、HIV、schistosomiasis、malaria |
+>
+> **病人的答案**：原本來自**蘇丹西部**，在**肯亞難民營住了 10 年**，之後以難民身份移居美國。只住過蘇丹和肯亞，從肯亞直接搭機抵達。
+>
+> **→ 推理結果**：蘇丹西部是 ==L. donovani 的高度流行區== → 🔴 leishmaniasis 一下子成為重要考慮；難民營 → TB 風險也高。
+
+> [!question] Q2｜他有沒有發燒、畏寒、weight loss、皮疹、hemoptysis 或 hematuria？
+> **作者的用意**：發燒、畏寒、weight loss 會讓人懷疑**鼻竇鼻腔惡性腫瘤**，例如鱗狀細胞癌、鼻腔 lymphoma、**extranodal NK/T-cell lymphoma**。**TB** 或 NTM 這類慢性全身性感染也會造成全身症狀。
+>
+> **為什麼這樣問**
+> - 這題一次篩三類疾病，每個症狀各有意義：
+>
+> | 症狀 | 想到… |
+> | --- | --- |
+> | 發燒、night sweats、weight loss | **NK/T-cell lymphoma**、TB、**visceral leishmaniasis** |
+> | ==Hemoptysis＋hematuria＋鼻中隔破壞== | **GPA**（upper airway＋肺＋腎三聯） |
+> | 皮疹、皮膚潰瘍 | cutaneous leishmaniasis、痲瘋、syphilis、GPA |
+>
+> - 鼻中隔破壞的經典鑑別：**GPA**、**古柯鹼**（他已經否認）、**NK/T-cell lymphoma**（舊稱 lethal midline granuloma）、**mucosal leishmaniasis**、TB、syphilis、痲瘋、真菌
+>
+> **病人的答案**：有 **night sweats** 和間歇主觀發燒，**兩年內瘦了約 20 kg**。沒有皮疹、hemoptysis 或 hematuria。
+>
+> **→ 推理結果**：🔴 全身性疾病（不只是局部鼻子問題）：lymphoma、TB、**visceral leishmaniasis**（發燒＋消瘦）上升；⚪ 沒有肺和腎的症狀 → GPA 下降。
+
+> [!question] Q3｜他有沒有接觸家畜、化學物質，或有相似症狀的人？
+> **作者的用意**：接觸**甲醛等化學物質**會讓人擔心**鼻竇鼻腔惡性腫瘤**。接觸**家畜或其他病媒**會增加感染性病因的風險，例如 **leishmaniasis**、**Mycobacterium ulcerans**、**Mycobacterium leprae**。
+>
+> **為什麼這樣問**
+> - 職業與環境暴露對鼻腔疾病特別重要：
+>
+> | 暴露 | 想到… |
+> | --- | --- |
+> | 木屑、甲醛、鎳、皮革粉塵 | 鼻竇腺癌、鱗狀細胞癌 |
+> | 家畜、沙蠅（白蛉）、農場 | **leishmaniasis** |
+> | 死水、沼澤 | M. ulcerans（Buruli ulcer） |
+> | 長期密切接觸痲瘋病人 | M. leprae |
+> | 身邊有人一樣的症狀 | 傳染性疾病（TB、痲瘋） |
+>
+> - Leishmania 的病媒是**白蛉（sandfly）**，牠們在農村、樹林、動物棲息處繁殖
+>
+> **病人的答案**：以前在**蔬菜和果樹農場**工作，沒有接觸化學農藥；沒有職業性家畜接觸。沒注意到身邊有人有相似症狀。
+>
+> **→ 推理結果**：⚪ 化學物質相關的鼻腔腫瘤下降；農場工作 → 戶外、病媒暴露。三題問完：==蘇丹出生＋農場工作＋全身症狀＋鼻中隔破壞== → 🔴 **leishmaniasis**（mucosal 或合併 visceral），但 NK/T-cell lymphoma 和 TB 一定要靠 biopsy 排除。
 
 ### Checkpoint 2：理學檢查
 

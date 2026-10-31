@@ -27,13 +27,67 @@ tags:
 
 ## 推理過程
 
-### Checkpoint 1：病史——三個問題
+### Checkpoint 1：病史——作者問的三個問題
 
-| 作者問 | 為什麼問 | 答案 | 推理結果 |
-| --- | --- | --- | --- |
-| 做過腸胃手術或內視鏡嗎？ | 術後併發症、舊手術造成的解剖異常；也可**刪掉**某些病（已切膽囊 → cholecystitis） | 4 年前膽囊切除無併發症、輸卵管結紮；近期無內視鏡 | ⚪ 膽道、術後併發症 |
-| 以前有飯後腹痛嗎？ | GERD、pancreatitis、biliary colic、**chronic mesenteric ischemia**（像腸子的心絞痛） | 從來沒有 | ⚪ chronic mesenteric ischemia |
-| 流產、AF、癌症、家族血液疾病？ | **embolic acute mesenteric ischemia**（SMA 最常見）的危險因子；疼痛與理學不成比例 | 都沒有 | ⚪ 栓塞 |
+到這裡知道的是：52 歲肥胖女性（BMI 45），吃完**一個大 calzone 後 1 小時**開始劇烈上腹痛、多次嘔吐、水瀉，持續 12 小時。急性上腹痛＋嘔吐的鑑別很多。作者三個問題依序是：**開過什麼刀**（解剖改變）、**以前有沒有飯後痛**（慢性病因）、**有沒有栓塞的危險因子**（急性 mesenteric ischemia）。
+
+> [!question] Q1｜她有沒有做過腸胃道的手術或處置？
+> **作者的用意**：腹痛、噁心、嘔吐的病人，**過去的腸胃道手術**非常關鍵。症狀可能是**近期手術的併發症**，也可能是**很久以前手術造成的解剖異常**。而且過去的手術也可以**降低某些病因的可能**，例如她已經切除膽囊，就不會是 cholecystitis。
+>
+> **為什麼這樣問**
+> - 手術史會**新增**和**刪除**鑑別診斷：
+>
+> | 手術 | 新增的風險 | 刪除的診斷 |
+> | --- | --- | --- |
+> | 任何腹部手術 | ==沾黏造成 bowel obstruction==（最常見的小 bowel obstruction 原因） | |
+> | 膽囊切除 | 殘留結石、膽管狹窄、sphincter of Oddi dysfunction | **cholecystitis** |
+> | 減重手術（胃繞道、袖狀胃） | internal hernia、吻合口潰瘍、dumping | |
+> | 近期內視鏡 | 穿孔、出血、post-ERCP pancreatitis | |
+>
+> - 肥胖病人很常做過減重手術，一定要問
+>
+> **病人的答案**：4 年前因為有症狀的 gallstone 做**腹腔鏡膽囊切除**，沒有併發症；很久以前做過**腹腔鏡輸卵管結紮**。沒有其他腸胃手術或近期內視鏡。
+>
+> **→ 推理結果**：❌ cholecystitis；🟠 沾黏性 bowel obstruction（兩次腹腔鏡手術）仍有可能；沒有減重手術。
+
+> [!question] Q2｜她以前有沒有反覆的飯後腹痛？
+> **作者的用意**：反覆飯後腹痛的原因包括 **GERD、pancreatitis、biliary colic、acute cholecystitis、chronic mesenteric ischemia**。Chronic mesenteric ischemia 是**動脈硬化、發炎或其他變化**讓消化時腸道血流不足，造成缺血，就像**腸子的運動型心絞痛**。
+>
+> **為什麼這樣問**
+> - 「**第一次**」還是「**又來了**」，代表完全不同的疾病：
+>
+> | 答案 | 想到… |
+> | --- | --- |
+> | 反覆飯後 15–60 分鐘痛、所以不敢吃（**food fear**）、weight loss | **chronic mesenteric ischemia**（intestinal angina） |
+> | 反覆飯後上腹痛、喝酒或油膩誘發 | 反覆 **pancreatitis**、biliary colic |
+> | 胸口灼熱、平躺加重 | **GERD** |
+> | ==第一次、突發、很嚴重== | **急性事件**：急性 pancreatitis、穿孔、急性 mesenteric ischemia、阻塞、扭轉 |
+>
+> - Chronic mesenteric ischemia 的病人如果突然惡化，就是 **acute-on-chronic**：原本狹窄的血管完全塞住
+>
+> **病人的答案**：以前**沒有**飯後腹痛，從來沒有過像現在這樣的症狀。
+>
+> **→ 推理結果**：⚪ chronic mesenteric ischemia、反覆 pancreatitis 下降；這是一個**急性的新事件**，而且明顯和**一大餐**有時間關係。
+
+> [!question] Q3｜她有沒有流產、AF、癌症的病史，或家族有血液疾病？
+> **作者的用意**：**栓子**跑到主要的內臟血管（最常見是 **SMA**）可以造成**急性 mesenteric ischemia**。這時血流會快速中斷，造成缺血性內臟痛，典型描述是「**疼痛和腹部理學檢查不成比例**」。過去有**thrombus 栓塞事件**或**增加 thrombus 栓塞機率的因素**，會讓人更擔心急性 mesenteric ischemia。
+>
+> **為什麼這樣問**
+> - 急性 mesenteric ischemia 是**不能漏掉**的診斷：延誤數小時就會腸壞死，死亡率很高
+> - 每個問題對應一個 thrombus 來源：
+>
+> | 問題 | 對應的機轉 |
+> | --- | --- |
+> | ==AF== | 心因性栓子 → **SMA embolism**（最常見的急性 mesenteric ischemia 原因） |
+> | 反覆**流產** | **antiphospholipid syndrome** → 動脈與靜脈 thrombus |
+> | **癌症** | 高凝狀態 → mesenteric venous thrombosis、動脈栓塞 |
+> | 家族血液疾病 | 遺傳性易栓症 → mesenteric venous thrombosis |
+>
+> - 「**痛得很厲害但肚子摸起來不太痛**」是急性 mesenteric ischemia 的招牌，因為早期缺血在黏膜，還沒侵犯到壁層腹膜
+>
+> **病人的答案**：沒有流產、心律不整、癌症病史，家族也沒有血液疾病。
+>
+> **→ 推理結果**：⚪ 栓塞型急性 mesenteric ischemia 下降，但**不能只靠病史排除**，仍需要 CTA 看血管。三題問完：==第一次發作、和一大餐直接相關、沒有栓塞危險因子== → 要想到**大量進食本身造成的問題**（胃過度擴張、胃扭轉、pancreatitis）。
 
 ### Checkpoint 2：理學檢查
 
@@ -46,7 +100,7 @@ tags:
 | --- | --- | --- |
 | 胃 | GERD、peptic ulcer、胃炎 | 🔴 最常見 |
 | 胰臟 | acute pancreatitis | 🔴 |
-| 腸 | 腸阻塞、**mesenteric ischemia** | 🟠 |
+| 腸 | bowel obstruction、**mesenteric ischemia** | 🟠 |
 | 心臟 | ==心肌缺血以上腹痛表現== | 🟠 要排除 |
 | 膽道 | 已切膽囊 | ⚪ |
 
@@ -89,7 +143,7 @@ tags:
 → ✅ **大量進食造成胃過度擴張 → 急性胃缺血**
 
 > [!note] 為什麼擴張會缺血：Laplace 定律
-> 容器越撐大，越容易繼續被撐開；**壁張力與半徑成正比、與壁厚成反比**。急劇擴張時，最順應的部位（胃底、大彎）壁應力最大 → 黏膜灌流下降 → 線狀缺血。同樣機轉見於大腸阻塞時的**盲腸缺血**。氣體經壞死黏膜進入胃壁，再沿引流胃的 SMV 分支進入門靜脈。
+> 容器越撐大，越容易繼續被撐開；**壁張力與半徑成正比、與壁厚成反比**。急劇擴張時，最順應的部位（胃底、大彎）壁應力最大 → 黏膜灌流下降 → 線狀缺血。同樣機轉見於大 bowel obstruction 時的**盲腸缺血**。氣體經壞死黏膜進入胃壁，再沿引流胃的 SMV 分支進入門靜脈。
 
 ## 鑑別診斷的演變
 

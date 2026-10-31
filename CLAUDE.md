@@ -94,6 +94,8 @@ Young 會提供 paper、指引或 textbook 內容，請 Claude 讀取後整理�
 - **筆記名稱 = 最終診斷**（`中文診斷 English Diagnosis`）；檔名用診斷的英文
 - frontmatter 必填：`nejm_title`（原文標題）、`nejm_doi`、`nejm_year`、`chief`（病人怎麼來，一句話）、`pivot`（推理轉折點，一句話）、tags 含 `NEJM個案`
 - 內容**以作者的推理邏輯為主軸**（依 medical-ddx-reasoning 框架）：個案一覽 → 多個 Checkpoint（每個檢查先寫「為什麼做」，鑑別診斷用 🔴 HIGH／🟠 POSSIBLE／⚪ LOW／❌ RULED OUT／✅ CONFIRMED 標狀態）→ `> [!important] 🔀 轉折點` → 鑑別診斷演變表 → 治療與結果 → `## 🧭 推理全程回顧` 表 → Pearls & Pitfalls → 相關筆記 → 參考資料（附 DOI 與參考資料庫檔名）
+- **作者問的三個問題是精髓**：每題做成一個 `> [!question] Q1｜問題` 區塊，依序寫「**作者的用意**」（忠實呈現原文 rationale）→「**為什麼這樣問**」（詳細延伸：機轉、不同答案各指向什麼，盡量用「如果答案是… → 想到…」表格）→「**病人的答案**」→「**→ 推理結果**」（哪些診斷上升、下降）；區塊前用一段話交代問問題時已知的資訊與三題的分工
+  - 問題用自己的話忠實改寫，不逐字照抄原文
 - 全部用自己的話寫，不放原文、原圖、原表；不需要內專考點區塊
 - 總覽頁與各次專目錄頁由 `node scripts/build-nejm-index.mjs` **自動產生**（讀 frontmatter 的 chief、pivot），不要手動編輯；新增個案後執行一次再建置（GitHub Actions 部署時也會自動執行）
 

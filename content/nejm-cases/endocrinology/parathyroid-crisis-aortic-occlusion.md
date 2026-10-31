@@ -55,11 +55,59 @@ tags:
 
 ### Checkpoint 3：用三個問題縮小範圍
 
-| 作者問 | 為什麼問 | 答案 | 推理結果 |
-| --- | --- | --- | --- |
-| weight loss、night sweats、發燒？ | hypercalcemia of malignancy（頭頸與肺鱗癌、乳癌、骨髓瘤、lymphoma） | 都沒有；癌症篩檢都正常、無家族史 | ⚪ 惡性 |
-| 吃鈣片、維生素 D、補充品或相關藥物？ | Milk-alkali（**上腹痛的人可能自己吃鈣片制酸**）、維生素 D 中毒；**thiazide、lithium、omeprazole、芳香環酶抑制劑、維生素 A** | 都沒有 | ⚪ 外源性 |
-| nephrolithiasis 有做過檢查嗎？ | 鈣結石可能是 primary hyperparathyroidism 的線索 | 三次急診左腰痛，影像沒看到結石；**3 個月前 Ca 10.3**（正常高值）；沒驗過 PTH | 🟠 primary hyperparathyroidism？ |
+到這裡已經知道：Ca 超過 20 mg/dL 的**嚴重 hypercalcemia**，可以解釋她的腹痛、無力、混亂。Hypercalcemia 的病因分成 **PTH 依賴**（primary hyperparathyroidism）和 **PTH 非依賴**（腫瘤、維生素 D、鈣攝取、藥物）。作者三個問題依序排查：**腫瘤**、**補充品與藥物**、**之前的腎結石檢查**。
+
+> [!question] Q1｜她有沒有 weight loss、night sweats 或發燒？
+> **作者的用意**：如果有這些**全身症狀**，嚴重 hypercalcemia 的原因可能是**惡性腫瘤**。常和 hypercalcemia 有關的腫瘤有：**頭頸部鱗狀細胞癌、乳癌、肺癌、multiple myeloma、lymphoma**。
+>
+> **為什麼這樣問**
+> - 臨床上有一個實用的規則：==住院病人的嚴重 hypercalcemia，最常見是腫瘤；門診的輕度 hypercalcemia，最常見是 primary hyperparathyroidism==
+> - Ca > 14 這麼高，**腫瘤要先排除**。不同腫瘤用不同機轉讓血鈣上升：
+>
+> | 機轉 | 腫瘤 | 比例 |
+> | --- | --- | --- |
+> | 分泌 **PTHrP**（humoral hypercalcemia of malignancy） | 鱗狀細胞癌（肺、頭頸、食道）、腎、膀胱、乳癌、卵巢 | 約 80% |
+> | **溶骨性轉移** | 乳癌、**multiple myeloma** | 約 20% |
+> | 分泌 **1,25-(OH)₂D** | **lymphoma** | 約 1% |
+>
+> - 惡性腫瘤造成的 hypercalcemia 常常是**晚期**表現，多半已有全身症狀
+>
+> **病人的答案**：沒有 weight loss、night sweats 或發燒。依年齡做的癌症篩檢（乳房攝影、子宮頸抹片、糞便潛血）都正常，**家族沒有癌症病史**。
+>
+> **→ 推理結果**：⚪ 惡性腫瘤造成的 hypercalcemia 下降。
+
+> [!question] Q2｜她有沒有吃鈣片、維生素 D，或服用會造成 hypercalcemia 的藥？
+> **作者的用意**：Hypercalcemia 可能是**維生素 D 中毒**或**鈣攝取過多**（傳統上叫 **milk-alkali syndrome**）。病人可能會**自己吃含鈣的制酸劑**來處理上腹痛，而上腹痛正是她最初的症狀之一。維生素 D 過量可能來自刻意高劑量服用，或來自**未受管制的保健食品**。常和 hypercalcemia 有關的藥物有：**thiazide、lithium、omeprazole、aromatase inhibitor、vitamin A**。
+>
+> **為什麼這樣問**
+> - 這題的巧妙之處：作者注意到病人**一開始有上腹痛**。腹痛的人常會吃**碳酸鈣制酸劑**（例如 Tums），吃很多就可能變成 milk-alkali syndrome，形成**惡性循環**（hypercalcemia → 腹痛 → 吃更多鈣片）
+> - Milk-alkali syndrome 的三聯：**hypercalcemia＋metabolic alkalosis＋AKI**
+> - 每個藥物的機轉：
+>
+> | 藥物 | 機轉 |
+> | --- | --- |
+> | **Thiazide** | 增加遠端腎小管鈣再吸收（常揭露潛在的 hyperparathyroidism） |
+> | **Lithium** | 提高 PTH 分泌的鈣閾值 |
+> | Vitamin A、retinoid | 增加骨吸收 |
+> | 維生素 D | 增加腸道鈣吸收 |
+>
+> **病人的答案**：沒有吃鈣片、維生素 D、任何保健食品，也沒有用會造成 hypercalcemia 的藥。
+>
+> **→ 推理結果**：⚪ milk-alkali、維生素 D 中毒、藥物下降 → 剩下最主要的是 **PTH 依賴**的原因。
+
+> [!question] Q3｜她的腎結石有沒有做過病因評估？
+> **作者的用意**：**含鈣腎結石**可能是 **primary hyperparathyroidism** 的結果。病人可能之前驗過血鈣和 PTH，那些資料可以幫助了解這次的病因。
+>
+> **為什麼這樣問**
+> - Primary hyperparathyroidism 的經典表現就是「**stones, bones, groans, and moans**」：腎結石、骨痛、腹痛、精神症狀。她**每一項都有**
+> - 「之前的數據」非常有價值：
+>   - 以前的血鈣是不是**正常高值或偏高**？→ 代表 hyperparathyroidism 已經存在一段時間
+>   - 有沒有驗過 PTH？
+> - 這也是一個**系統性的提醒**：反覆腎結石的病人，一定要驗**血鈣和 PTH**
+>
+> **病人的答案**：因為左腰痛懷疑腎結石，**去過急診 3 次**，影像沒看到水腎或結石。**3 個月前血鈣 10.3**（正常範圍上限附近）。==從來沒驗過 PTH==。
+>
+> **→ 推理結果**：🔴 **primary hyperparathyroidism**：血鈣早就在正常高值，反覆腰痛可能就是相關症狀，只是沒人追。但 3 個月內從 10.3 飆到 > 20，這麼快、這麼嚴重 → 要想到 **parathyroid carcinoma** 或**大腺瘤出血**造成的 **parathyroid crisis**。
 
 ### Checkpoint 4：該驗什麼、先做什麼
 

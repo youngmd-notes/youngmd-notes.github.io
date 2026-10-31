@@ -13,7 +13,7 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 左肩痛、**吸氣加重**、肩關節檢查完全正常，加上發燒 night sweats → 要想到**轉移痛**。CT 意外發現的 ==splenomegaly== 讓問題變成「**發燒＋splenomegaly＋cytopenia**」。這個病例的教訓在**認知偏誤**：先被當成鼻竇炎、蜱媒感染，脾臟破裂又被歸給「跌倒」，直到**atypical lymphocyte、flow cytometry、PET、bone marrow biopsy**才確診 DLBCL。
+> 左肩痛、**吸氣加重**、肩關節檢查完全正常，加上發燒 night sweats → 要想到**轉移痛**。CT 意外發現的 ==splenomegaly== 讓問題變成「**發燒＋splenomegaly＋cytopenia**」。這個病例的教訓在**認知偏誤**：先被當成 sinusitis、蜱媒感染，脾臟破裂又被歸給「跌倒」，直到**atypical lymphocyte、flow cytometry、PET、bone marrow biopsy**才確診 DLBCL。
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 47-Year-Old Woman with Left Shoulder Pain〉，2025，[DOI 10.1056/EVIDmr2500031](https://doi.org/10.1056/EVIDmr2500031)。以下用自己的話整理，重點放在作者的推理過程。
@@ -21,19 +21,63 @@ tags:
 ## 個案一覽
 
 - 47 歲女性，**psoriatic arthritis、IBD**，用 **certolizumab pegol（TNF-α 抑制劑）**；7 年前 Roux-en-Y 胃繞道、膽囊切除
-- 6 週前：畏寒、疲倦、聽力下降、頭暈 → 當鼻竇炎給抗生素、再當耳咽管功能障礙給鼻噴 steroid，都沒效
+- 6 週前：畏寒、疲倦、聽力下降、頭暈 → 當 sinusitis 給抗生素、再當耳咽管功能障礙給鼻噴 steroid，都沒效
 - 4 週後：**突然左肩悶痛**，無外傷、無紅腫熱
-- 兩天前：**夜間 night sweats**濕透床單；住新英格蘭
+- 兩天前：**night sweats**濕透床單；住新英格蘭
 
 ## 推理過程
 
-### Checkpoint 1：病史——三個問題
+### Checkpoint 1：病史——作者問的三個問題
 
-| 作者問 | 為什麼問 | 答案 | 推理結果 |
-| --- | --- | --- | --- |
-| 什麼讓肩痛變好或變糟？ | 舉手痛 → 旋轉肌袖；**吸氣痛 → 肋膜性**（pneumonia、PE、pericarditis）；運動痛 → 缺血 | ==深吸氣會痛==；無放射、無麻木無力、活動度正常；ibuprofen 無效 | 🔴 肩關節以外的原因 |
-| 其他關節痛嗎？ | 多關節 → inflammatory arthritis；單／寡關節 → 化膿、結晶、反應性 | 右手幾個 IP 關節慢性痛（psoriatic arthritis，沒變） | ⚪ 新的 arthritis |
-| 性行為史？ | gonococcal arthritis、Chlamydia reactive arthritis | 4 個月前檢驗陰性，沒有新伴侶 | ⚪ |
+到這裡知道的是：47 歲女性，有 psoriatic arthritis、IBD，用 **TNF-α 抑制劑**；6 週來畏寒、疲倦，最近**突然左肩悶痛**，兩天前 night sweats 濕透床單。作者把「左肩痛」當主線：先問**痛的性質**（肩膀本身還是別的地方），再問**其他關節**（局部還是全身），最後問**性行為史**（淋菌性 arthritis）。
+
+> [!question] Q1｜什麼會讓肩膀痛變好或變糟？
+> **作者的用意**：了解加重和緩解的因素，可以分辨**肌肉骨骼**、**胸腔**和**全身性**原因。活動時（尤其**手舉過頭或外展**）加重 → rotator cuff 損傷或肩峰下夾擠。**深吸氣時加重** → 胸腔或橫膈的原因。
+>
+> **為什麼這樣問**
+> - 「肩膀痛」不一定是肩膀的問題。肩膀是**轉移痛**很常見的地方：
+>
+> | 加重因素 | 來源 | 想到… |
+> | --- | --- | --- |
+> | 舉手、外展、睡覺壓到 | 肩關節本身 | rotator cuff、夾擠、frozen shoulder、septic arthritis |
+> | 轉頭、合併手麻 | 頸椎 | cervical radiculopathy |
+> | 用力、運動 | 心臟 | **ACS**（左肩、左臂） |
+> | ==深吸氣== | **橫膈**（C3–C5 神經支配，痛轉移到肩膀＝**Kehr sign**） | ==脾臟病變（左）==、肝膽（右）、pleuritis、PE、膈下 abscess |
+>
+> - 為什麼橫膈的痛會跑到肩膀：橫膈由 **phrenic nerve**（C3–C5）支配，肩膀皮膚也由 C3–C5 支配，大腦把痛「誤認」成肩膀
+>
+> **病人的答案**：**深吸氣時更痛**。沒有放射痛、麻、刺痛、無力、胸痛、冒汗；肩關節活動範圍沒有減少。Ibuprofen 沒效。
+>
+> **→ 推理結果**：🔴 痛**不是來自肩關節**，而是**橫膈或左上腹**（脾臟、肋膜）的轉移痛。
+
+> [!question] Q2｜左肩以外，還有其他關節痛嗎？
+> **作者的用意**：關節侵犯的**分布和時間**可以分辨**局部**和**全身**原因。發炎性 arthritis（RA、psoriatic arthritis、SLE）常侵犯**多個關節**，可以對稱或不對稱。**單一或少數關節**炎則可能是**septic arthritis、結晶性關節病變、或 reactive arthritis**。
+>
+> **為什麼這樣問**
+> - 她本來就有 psoriatic arthritis，要分清楚「**新的問題**」還是「**舊病發作**」
+> - 關節數目決定鑑別：
+>
+> | 型態 | 想到… |
+> | --- | --- |
+> | 單一關節、急性、紅腫熱 | **septic arthritis**（她用 TNF 抑制劑，風險高）、gout、pseudogout |
+> | 少數關節、下肢不對稱 | reactive arthritis、psoriatic arthritis |
+> | 多關節、對稱 | RA、SLE、病毒性 arthritis |
+>
+> **病人的答案**：右手第二、三指的 PIP 和拇指 IP 關節痛、僵硬，但這是 psoriatic arthritis 的**老症狀，和平常一樣**。
+>
+> **→ 推理結果**：沒有新的關節問題 → ⚪ 發炎性 arthritis 惡化下降。左肩痛是一個**獨立的新問題**。
+
+> [!question] Q3｜她最近的性行為史是什麼？
+> **作者的用意**：有性行為的人出現單一或少數 arthritis 時，**淋菌性 arthritis**和**Chlamydia 感染後的 reactive arthritis** 都要考慮。**播散性淋菌感染**可以造成「**arthritis－皮膚炎症候群**」（發燒、腱鞘炎、膿疱疹）或**化膿性單 arthritis**，常常**沒有泌尿生殖症狀**。Reactive arthritis 是感染引發的無菌性 arthritis，典型是**下肢不對稱**，可合併結膜炎或尿道炎。
+>
+> **為什麼這樣問**
+> - 年輕、有性行為的人，**淋菌是急性 septic arthritis 最常見的原因之一**
+> - 播散性淋菌感染的病人**常常沒有尿道症狀**，所以不能只問「有沒有分泌物」，要直接問性行為史和篩檢
+> - Immunosuppression（TNF 抑制劑）會增加播散性感染的風險
+>
+> **病人的答案**：4 個月前 gonorrhea、Chlamydia 檢驗陰性，之後沒有新的性伴侶。沒有泌尿或眼睛症狀。
+>
+> **→ 推理結果**：⚪ 淋菌性和 reactive arthritis 下降。三題問完，問題變成：==immunosuppressed 病人，發燒＋night sweats＋吸氣加重的左肩痛== → 要往**左上腹**找原因（脾臟），而且要想到 TNF 抑制劑相關的**感染或 lymphoma**。
 
 ### Checkpoint 2：理學檢查
 

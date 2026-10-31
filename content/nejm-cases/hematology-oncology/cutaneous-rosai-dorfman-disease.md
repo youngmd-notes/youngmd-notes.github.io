@@ -29,13 +29,65 @@ tags:
 
 ## 推理過程
 
-### Checkpoint 1：病史——三個問題
+### Checkpoint 1：病史——作者問的三個問題
 
-| 作者問 | 為什麼問 | 答案 | 推理結果 |
-| --- | --- | --- | --- |
-| TB 暴露？latent TB 怎麼治的？ | 印度移民；cutaneous TB（scrofuloderma、papulonecrotic tuberculid、lupus vulgaris）外觀可以很像 | 無接觸史；移民前 CXR 正常、TST 陽性；**rifampin 只吃 2 個月因皮疹中斷** | 🟠 cutaneous TB |
-| 眼乾口乾？ | **Sarcoidosis**（丘疹、nodule、斑塊）、**Sjögren** 的皮膚表現 | ==4 年輕度口乾眼乾==，從沒提過 | 🟠 autoimmune |
-| 皮膚病灶治療過嗎？反應如何？ | 抗生素有效 → 細菌；steroid 有效 → autoimmune（或讓感染惡化） | prednisone 1 mg/kg 兩週＋減量**沒變化**；多次 amox/clav、cephalexin 原發病灶**沒變化**，MRSA 次發感染治得好 | ⚪ 單純細菌、⚪ steroid 敏感的 autoimmune |
+到這裡知道的是：54 歲女性，印度出生、有 **latent TB** 病史，三年來**紅褐色疼痛皮膚 nodule**從臉擴散到全身，會潰爛並反覆 MRSA 感染。多發的皮膚 nodule，鑑別包括**感染**（TB、fungal、非 TB 分枝桿菌）、**granuloma 或結締組織病**（sarcoidosis、Sjögren）、**腫瘤**（lymphoma、組織球疾病）。作者三個問題依序是：**TB 暴露與治療**、**乾燥症狀**、**之前治療的反應**。
+
+> [!question] Q1｜能不能多說一些她在印度或加拿大的 TB 暴露，以及之前 latent TB 的診斷和治療？
+> **作者的用意**：她從 **TB 盛行率較高**的地區移民。有些**cutaneous TB**的表現（例如 **scrofuloderma、papulonecrotic tuberculid、lupus vulgaris**）看起來和她的病灶很像。
+>
+> **為什麼這樣問**
+> - 她已經有 **latent TB** 的診斷，關鍵是：**有沒有治好**？latent TB 沒有完整治療 → 有機會變成活動性 TB，包括**cutaneous TB**
+> - Cutaneous TB 有很多型態，容易被誤認：
+>
+> | 型態 | 機轉 | 外觀 |
+> | --- | --- | --- |
+> | **Scrofuloderma** | 下方淋巴結或骨頭的 TB 直接蔓延到皮膚 | 破潰、流膿、形成廔管 |
+> | **Lupus vulgaris** | 已有免疫力的人的慢性皮膚 TB | 紅褐色斑塊，按壓呈「蘋果醬」色 |
+> | **Papulonecrotic tuberculid** | 對他處 TB 的免疫反應 | 對稱的丘疹，中央壞死 |
+>
+> - 問暴露的同時也在評估**風險層級**：家人有沒有 TB、住過機構（醫院、養護中心、監獄）
+>
+> **病人的答案**：家人和密切接觸者**沒有人得過活動性 TB**，沒有住過或在機構、醫療院所工作過。移民前的胸部 X 光正常，但**cutaneous TB 菌素試驗陽性**而診斷 latent TB。一年前用 **rifampin 治療 2 個月**，但因為**皮疹中斷**（和現在的 nodule 不一樣，停藥後就好了）。
+>
+> **→ 推理結果**：==latent TB 治療不完整== → 🟠 活動性 TB（包括 cutaneous TB）不能排除；不過病灶在治療前兩年就有了，時間軸不太符合 rifampin 治療失敗。
+
+> [!question] Q2｜她有沒有乾燥症狀（眼乾、口乾）？
+> **作者的用意**：很多**結締組織病**都有特徵性的皮膚表現，如果有乾燥症狀，就提示這類疾病可能是病因。例如 **sarcoidosis** 可以有丘疹、nodule、斑塊樣的病灶；**Sjögren's syndrome** 可以有皮膚乾燥、purpura、類似 urticaria 的病灶。兩者都可能有眼乾、口乾，但 Sjögren's 更常見。
+>
+> **為什麼這樣問**
+> - 這是一個病人**不會主動說**的症狀：口乾眼乾很常見，病人不會聯想到皮膚病
+> - 乾燥症狀把方向指向兩個疾病：
+>
+> | 疾病 | 乾燥的機轉 | 皮膚表現 |
+> | --- | --- | --- |
+> | **Sjögren's** | 淚腺、唾液腺被 lymphocyte 浸潤 | 皮膚乾燥、**palpable purpura**（vasculitis）、環狀紅斑 |
+> | ==Sarcoidosis== | 淚腺、唾液腺被**granuloma**浸潤 | **紅褐色丘疹、nodule、斑塊**、lupus pernio、erythema nodosum |
+> | IgG4-related disease | 腺體被 IgG4 漿細胞浸潤 | 少見 |
+>
+> - 有一個要記住的連結：==Rosai-Dorfman disease（組織球疾病）也常侵犯淋巴結和唾液腺、淚腺==，而且病理和 sarcoidosis、TB 一樣會有大量組織球
+>
+> **病人的答案**：**4 年來有輕微的口乾、眼乾**，只是之前沒想到要跟醫師說。
+>
+> **→ 推理結果**：🔴 有乾燥症狀 → **系統性疾病**同時侵犯外分泌腺和皮膚：sarcoidosis、Sjögren's 上升。這是病人自己沒想到要說的**隱藏線索**。
+
+> [!question] Q3｜她的皮膚病灶有沒有接受過治療？
+> **作者的用意**：**對治療的反應（或沒有反應）**可以提供診斷線索。例如細菌感染會對適當的抗生素有反應；**steroid** 或其他 immunosuppressant 可能讓**autoimmune 或發炎性疾病改善**，或讓**感染惡化**。
+>
+> **為什麼這樣問**
+> - 這是把「**過去的治療當成診斷性試驗**」的經典思路：
+>
+> | 對治療的反應 | 推論 |
+> | --- | --- |
+> | 抗生素有效 | 細菌感染 |
+> | 抗生素無效 | 不是一般細菌：分枝桿菌、fungal，或**根本不是感染** |
+> | Steroid 有效 | 發炎性（sarcoidosis、vasculitis、autoimmune） |
+> | ==Steroid 惡化== | **感染**（TB、fungal）被 immunosuppression 放大 |
+> | ==Steroid 沒有變化== | 不太像典型發炎性疾病，也不太像會被 steroid 放大的感染 → 想**腫瘤或組織球疾病** |
+>
+> **病人的答案**：病灶出現不久，用過 **prednisone 1 mg/kg 兩週＋四週減量**，病灶外觀和疼痛**完全沒有變化**。多次用 amoxicillin-clavulanate、cephalexin，**原本的病灶沒有改善**；次發性感染則在用了 **anti-MRSA 抗生素**後好了。
+>
+> **→ 推理結果**：==Steroid 沒變好也沒變壞、抗生素只治好次發感染== → ⚪ 單純細菌感染下降；⚪ 典型 sarcoidosis（通常對 steroid 有反應）下降；⚪ TB（steroid 應該會讓它惡化）下降 → 要往**組織球疾病或淋巴增生**去想，一定要 **skin biopsy**。
 
 ### Checkpoint 2：理學檢查
 

@@ -49,11 +49,50 @@ tags:
 | 藥物 | 維生素 A、milk-alkali、thiazide、theophylline、lithium、omeprazole |
 | 其他 | 長期臥床、hyperthyroidism、adrenal insufficiency、肢端肥大症、嗜鉻細胞瘤 |
 
-| 作者問 | 為什麼問 | 答案 | 推理結果 |
-| --- | --- | --- | --- |
-| 視力、頭痛、weight loss？ | 顱內壓、**腦下垂體腫瘤**、惡性 | 都沒有 | ⚪ 惡性 |
-| 鈣片、維生素 D、高鈣飲食？ | 上腹痛的人可能吃鈣片制酸 → milk-alkali | 沒有 | ⚪ |
-| 長期不動？ | 骨吸收增加 | 每天運動 | ❌ |
+到這裡已經知道：這位有 **nephrolithiasis**、便秘、疲倦、腦霧的男性，驗出 **hypercalcemia**（"stones, bones, groans, and moans" 都有）。作者三個問題是在排查 hypercalcemia 的**非 parathyroid 原因**：**腫瘤**、**鈣與維生素 D 攝取**、**長期不動**。
+
+> [!question] Q1｜他有沒有視力問題、頭痛或 weight loss？
+> **作者的用意**：視力問題、頭痛、weight loss 可能代表**increased ICP**，可能和 **parathyroid carcinoma** 或**有中樞神經轉移的惡性腫瘤**有關。
+>
+> **為什麼這樣問**
+> - 這題表面上在找「**惡性腫瘤**」：weight loss 是腫瘤的全身症狀；頭痛和視力問題提示**顱內病灶**（轉移）
+> - 從 MEN1 這個最終診斷回頭看，這題還有另一層意義：==頭痛＋視力問題（bitemporal hemianopia）是 pituitary tumor 的表現==，而 **pituitary adenoma** 正是 MEN1 的三個 P 之一
+>
+> | 症狀 | 想到… |
+> | --- | --- |
+> | Weight loss | 惡性腫瘤（PTHrP、骨轉移） |
+> | 頭痛＋視力問題 | 顱內轉移、**pituitary macroadenoma** 壓迫視交叉 |
+> | 合併上腹痛、潰瘍 | **gastrinoma**（MEN1 的胰臟腫瘤）|
+>
+> **病人的答案**：沒有視力問題、頭痛或 weight loss。
+>
+> **→ 推理結果**：⚪ 惡性腫瘤造成的 hypercalcemia 下降；目前也沒有 pituitary tumor 的症狀（但不代表沒有，泌乳素瘤可以很安靜）。
+
+> [!question] Q2｜他有沒有特別的飲食習慣，尤其是高鈣食物或補充品？
+> **作者的用意**：病人可能會吃**含鈣的藥片**來緩解**上腹不適**，結果造成 hypercalcemia。高劑量補充或未受管制的保健食品造成**維生素 D 過量**也會導致 hypercalcemia。
+>
+> **為什麼這樣問**
+> - 他有**兩年的上腹痛**、被當 GERD、**omeprazole 只偶爾有效** → 這樣的病人很可能自己加吃**碳酸鈣制酸劑**
+> - 大量鈣＋鹼 → **milk-alkali syndrome**：hypercalcemia＋metabolic alkalosis＋AKI
+> - 上腹痛和 hypercalcemia 還有雙向關係：
+>   - Hypercalcemia **本身會造成**上腹痛（增加 gastrin 和胃酸分泌、pancreatitis）
+>   - 所以「上腹痛＋腎結石＋hypercalcemia」要想到 ==primary hyperparathyroidism＋gastrinoma== → **MEN1**
+>
+> **病人的答案**：沒有吃高鈣食物或補充品。
+>
+> **→ 推理結果**：⚪ milk-alkali、維生素 D 中毒下降。
+
+> [!question] Q3｜他有沒有長時間不能活動？
+> **作者的用意**：**長期不動**（例如脊髓損傷、長期臥床、癱瘓）會增加**破骨細胞活性**、加速**骨吸收**，導致 hypercalcemia。
+>
+> **為什麼這樣問**
+> - 骨頭需要**機械負荷**才能維持平衡；完全不動時骨吸收遠大於骨生成，鈣被大量釋放到血液
+> - **Immobilization hypercalcemia** 特別容易發生在**骨代謝本來就快**的人：年輕人、Paget disease、本來就有 hyperparathyroidism
+> - 這是住院病人（長期臥床、ICU）hypercalcemia 的一個常被忽略的原因
+>
+> **病人的答案**：每天規律運動，**沒有長期不能活動**。
+>
+> **→ 推理結果**：⚪ immobilization 下降。三題都排除了 PTH 非依賴的原因 → 下一步**驗 PTH**；如果 PTH 偏高 → **primary hyperparathyroidism**，再加上上腹痛、反覆腎結石 → 要想到 **MEN1**。
 
 ### Checkpoint 3：PTH 與定位
 

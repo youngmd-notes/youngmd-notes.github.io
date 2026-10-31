@@ -28,11 +28,68 @@ tags:
 
 ### Checkpoint 1：病史——三個暴露問題
 
-| 作者問 | 為什麼問 | 答案 | 推理結果 |
-| --- | --- | --- | --- |
-| night sweats、weight loss？ | TB、abscess、IE、lymphoma、Still's、GCA | 都沒有 | ⚪ 慢性病程的疾病 |
-| 最近旅行？ | 急性發燒要查**地區性暴露**：地方性 fungal、蜱媒（夏秋）、蚊媒 | ==發病前一週去中西部鄉下露營、健行、打獵小動物，在溪湖游泳，被很多「蚊子」叮==，沒看到蜱 | 🔴 蜱媒、Histoplasma、leptospirosis、West Nile |
-| 動物暴露？ | 人畜共通 | 家裡有狗、後院有老鼠；**3 個月前在屠宰場處理牛屠體** | 🟠 leptospirosis、brucellosis、Q fever |
+到這裡知道的是：35 歲男性，東南亞出生、住在美國山區，夏末**兩週發燒**合併腸胃症狀、左上腹痛、關節痛、頭痛，第一次急診被當病毒感染送回。持續發燒的鑑別很廣（感染、風濕、腫瘤），作者用三個問題把「**時間、地點、接觸**」問清楚。
+
+> [!question] Q1｜有沒有 night sweats、weight loss 這類全身症狀？
+> **作者的用意**：持續發燒的鑑別包括感染、風濕病、腫瘤。感染原因依地區不同：例如 **TB** 在許多地區（包括亞洲）很常見，可以有 night sweats、weight loss。合併全身症狀時，也要考慮**隱藏的 abscess、endocarditis、osteomyelitis**。**Lymphoma、leukemia** 會造成持續發燒，常合併 weight loss。**Adult-onset Still's disease**、**giant cell arteritis** 等風濕病也會持續發燒。
+>
+> **為什麼這樣問**
+> - 全身症狀是區分「**急性、自限性感染**」和「**慢性、嚴重疾病**」的分水嶺：
+>
+> | 答案 | 想到… |
+> | --- | --- |
+> | 有 night sweats、明顯 weight loss | **TB**（病人來自東南亞）、lymphoma、leukemia、endocarditis、深部 abscess |
+> | 有關節痛＋皮疹＋高燒 | Still's disease、SLE |
+> | 老人＋頭痛＋顎跛行 | giant cell arteritis |
+> | ==沒有全身症狀、病程只有兩週== | 比較像**急性感染**：病毒、蟲媒感染、人畜共通感染 |
+>
+> - 這也是決定檢查順序的關鍵：有 B symptoms 就要早一點做影像、骨髓等找腫瘤
+>
+> **病人的答案**：沒有 night sweats、食慾不振或 weight loss。
+>
+> **→ 推理結果**：⚪ TB、lymphoma 下降，方向轉向**急性感染**，接著就要問「在哪裡被感染」。
+
+> [!question] Q2｜最近有沒有旅行？
+> **作者的用意**：發燒是**急性**起始的，最近的旅遊史對評估**地區性的感染暴露**非常關鍵，包括地方性 fungal 和**病媒傳染**的病原。到美國西南部、中西部旅遊會增加 **coccidioidomycosis**（valley fever）和 **histoplasmosis** 的風險；在高傳播季節（**夏、秋**）到流行區，是**蜱媒疾病**的危險因子。到東北部做戶外活動要想 Lyme disease、anaplasmosis、babesiosis、Powassan virus；**rickettsial 感染**（包括 RMSF）和 **ehrlichiosis** 則好發於中南部與東南部。
+>
+> **為什麼這樣問**
+> - 美國國內旅遊也很重要：不同州的病媒和 fungal 差很多，「沒出國」不等於沒有旅遊風險
+> - 地區 × 季節 × 活動，幾乎就能列出鑑別：
+>
+> | 地區 | 病原 |
+> | --- | --- |
+> | 西南部 | Coccidioides |
+> | 中西部（俄亥俄、密西西比河谷） | Histoplasma、Blastomyces |
+> | 東北部、上中西部 | Lyme、**Anaplasma**、Babesia、Powassan |
+> | ==中南部、東南部、中西部南側== | **Ehrlichia chaffeensis**（lone star tick）、RMSF |
+>
+> - 要問活動：露營、健行、打獵（蜱）、淡水游泳（leptospirosis）、喝什麼水
+> - **沒看到蜱不能排除蜱媒疾病**：多數 ehrlichiosis、RMSF 病人不記得被咬過，幼蜱非常小
+>
+> **病人的答案**：症狀在和兩位家人到**中西部鄉下度假一週後**開始。做了很多戶外活動：**露營、健行、獵小動物**；在淡水溪流和湖裡游泳，但只喝瓶裝水。被很多蟲咬，他認為是蚊子；他和同行的人**都沒看到或拔過蜱**。
+>
+> **→ 推理結果**：🔴 **蜱媒疾病**（ehrlichiosis、RMSF、anaplasmosis）一下子上升；🟠 淡水游泳 → leptospirosis；🟠 中西部 → histoplasmosis。
+
+> [!question] Q3｜在家裡、旅途中或工作上，有沒有接觸動物？
+> **作者的用意**：家畜和野生動物是**許多人畜共通感染**的重要宿主，其中一些和病人的表現相符。**狗和齧齒類**與 **leptospirosis** 有關；齧齒類也和「**鼠咬熱**」有關（美國是 Streptobacillus moniliformis，亞洲是 Spirillum minus）。接觸**牛、羊等家畜**會增加 **Q fever**、**brucellosis** 的風險。
+>
+> **為什麼這樣問**
+> - 這題問的是**三種情境**：家裡（寵物、老鼠）、旅途（打獵、野生動物）、工作（屠宰場、農場、獸醫）
+> - 每種動物對應不同病原：
+>
+> | 動物 | 病原 |
+> | --- | --- |
+> | 狗（尤其沒打疫苗）、齧齒類 | **Leptospira**、蜱的攜帶者 |
+> | 齧齒類 | 鼠咬熱、hantavirus |
+> | 牛、羊、山羊（尤其**接生、胎盤**） | **Coxiella**（Q fever）、**Brucella** |
+> | 生肉、屠宰 | Brucella、Q fever、erysipeloid |
+> | 野兔 | tularemia |
+>
+> - 職業史常常被忽略，但屠宰、農場工作是 brucellosis、Q fever 的經典危險因子
+>
+> **病人的答案**：家裡養了一隻成犬，健康，但**沒有定期看獸醫、不確定有沒有打疫苗**。院子裡看過老鼠，屋內沒有。在中西部打獵時因為下雨沒抓到動物。==入院前 3 個月還在屠宰場工作==，處理牛屠體和生牛肉；沒有參與接生，沒有處理羊、豬、山羊。
+>
+> **→ 推理結果**：🟠 brucellosis、Q fever（屠宰場）、🟠 leptospirosis（狗、老鼠、淡水）都加入鑑別。三題問完，鑑別集中在**病媒與人畜共通感染**，其中最符合「夏季、中西部戶外、發燒＋腸胃症狀」的是蜱媒疾病。
 
 ### Checkpoint 2：理學檢查
 

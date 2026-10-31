@@ -14,14 +14,14 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 腦轉移、全腦放療後的混亂，很容易被歸給「腫瘤進展」或「放療副作用」。但**放療後長期嘔吐、吃不下**，加上**gaze-evoked nystagmus＋gait ataxia＋記憶差**，就是 Wernicke 三徵；MRI ==乳頭體（mammillary bodies）顯影==是轉折點。**沒有可靠的確診檢驗，懷疑就先給高劑量 IV thiamine**。
+> Brain metastasis、全腦放療後的混亂，很容易被歸給「腫瘤進展」或「放療副作用」。但**放療後長期嘔吐、吃不下**，加上**gaze-evoked nystagmus＋gait ataxia＋記憶差**，就是 Wernicke 三徵；MRI ==乳頭體（mammillary bodies）顯影==是轉折點。**沒有可靠的確診檢驗，懷疑就先給高劑量 IV thiamine**。
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 47-Year-Old Woman with Confusion and Weakness〉，2023，[DOI 10.1056/EVIDmr2300176](https://doi.org/10.1056/EVIDmr2300176)。以下用自己的話整理，重點放在作者的推理過程。
 
 ## 個案一覽
 
-- 47 歲女性，**三陰性乳癌**（肺、皮膚、骨轉移），4 個月前發現**腦轉移**並接受**全腦放療**
+- 47 歲女性，**三陰性乳癌**（肺、皮膚、骨轉移），4 個月前發現**brain metastasis**並接受**全腦放療**
 - 目前用 sacituzumab govitecan；以前用過 nab-paclitaxel＋atezolizumab、eribulin
 - 放療後**嚴重噁心嘔吐、吃喝都減少**，多次就醫找不到原因，用了 ondansetron、metoclopramide、prochlorperazine、dexamethasone；**姊姊說不提醒就不吃東西**
 - 放療後一個月：記不住密碼、腿常「軟掉」差點跌倒、雙腿麻刺、**走路像在跺腳**
@@ -29,13 +29,58 @@ tags:
 
 ## 推理過程
 
-### Checkpoint 1：病史——三個問題
+### Checkpoint 1：病史——作者問的三個問題
 
-| 作者問 | 為什麼問 | 答案 | 推理結果 |
-| --- | --- | --- | --- |
-| 化療最近改過？新藥？ | 多重用藥、化療引起電解質異常或周邊神經病變 | 沒改，只多了止吐藥 | ⚪ 新藥 |
-| 發燒、感染症狀？ | 化療後骨髓抑制 → CNS 伺機感染、sepsis 腦病變 | 沒有 | 🟠 仍不能排除 |
-| seizure？ | 腦轉移可成為癲癇病灶 → 發作後混亂 | 沒有 | ⚪ |
+到這裡知道的是：47 歲 metastatic 乳癌女性，4 個月前 brain metastasis 做全腦放療，之後嚴重噁心嘔吐、吃很少；一個月來**記憶變差、腿軟、雙腿麻刺、走路像在跺腳**。癌症病人的急性意識和神經功能變化，常見原因是**藥物**、**感染**、**癲癇**（以及腫瘤本身、代謝）。作者三個問題依序排查這三個。
+
+> [!question] Q1｜最近化療有沒有改變？有沒有開始吃新的藥？
+> **作者的用意**：**新的藥物或多重用藥**會造成混亂和 altered mental status。有些化療會因為**電解質失衡**造成代謝性腦病變，也會造成**周邊神經病變**和**肢體無力**。
+>
+> **為什麼這樣問**
+> - 癌症病人的混亂，藥物是**最常見也最容易逆轉**的原因之一。這位病人的症狀剛好同時有**中樞**（記憶）和**周邊**（麻、無力）
+> - 要逐一考慮她可能用到的藥：
+>
+> | 藥物 | 可能造成 |
+> | --- | --- |
+> | 止吐藥（metoclopramide、prochlorperazine） | 錐體外症狀、akathisia、嗜睡 |
+> | Dexamethasone | steroid 精神症狀、近端肌病變 |
+> | Taxane（nab-paclitaxel）、eribulin | ==周邊神經病變== |
+> | Immune checkpoint inhibitor（atezolizumab） | 免疫相關 encephalitis、GBS、myasthenia、hypophysitis |
+> | 鴉片類、benzodiazepine | 鎮靜、混亂 |
+> | 化療造成的 hyponatremia、hypomagnesemia、hypercalcemia | 代謝性腦病變 |
+>
+> **病人的答案**：化療沒有改變，除了止吐藥之外沒有新藥。
+>
+> **→ 推理結果**：🟠 藥物副作用機率下降，但止吐藥和之前的化療造成的神經病變仍不能完全排除。
+
+> [!question] Q2｜她有沒有發燒、畏寒或任何感染症狀？
+> **作者的用意**：化療會造成**骨髓抑制**和**immunocompromised**，容易感染。**全身性感染**會造成代謝性腦病變（septic encephalopathy）。immunocompromised 的人也可能有**惰性病原**造成的**中樞神經感染**，表現為亞急性症狀。
+>
+> **為什麼這樣問**
+> - 兩個層次的感染都要找：
+>
+> | 層次 | 例子 | 表現 |
+> | --- | --- | --- |
+> | 全身感染 → 腦病變 | pneumonia、UTI、bacteremia | 混亂、注意力不集中，神經學檢查沒有局部徵象 |
+> | 中樞神經感染 | **Listeria**、Cryptococcus、**HSV**、**PML**（JC virus）、toxoplasmosis | 亞急性混亂、頭痛、局部缺損 |
+>
+> - Immunocompromised 的人**不一定會發燒**，steroid 也會掩蓋發燒，所以要問其他感染症狀
+>
+> **病人的答案**：沒有發燒、畏寒、咳嗽、解尿痛或其他感染症狀。
+>
+> **→ 推理結果**：🟠 感染機率下降，但中樞神經感染仍要靠 LP 排除。
+
+> [!question] Q3｜她有沒有 seizure 的動作？
+> **作者的用意**：brain metastasis 病人可能發生**癲癇**，發作時有 seizure 動作。雖然她的 brain metastasis 已經做過全腦放療，但**新的腦病灶**可以成為 epileptogenic focus，造成發作和**postictal confusion**（postictal confusion）。
+>
+> **為什麼這樣問**
+> - Brain metastasis 病人約 20–40% 會發生癲癇。混亂可能是**發作後狀態**或**nonconvulsive status epilepticus**（NCSE）
+> - Seizure 後也可以有**暫時性無力**（Todd's paralysis），能解釋她的腿軟
+> - 問「有沒有 seizure」的同時也要問：有沒有咬到舌頭、urinary incontinence、莫名的失神、短暫意識中斷
+>
+> **病人的答案**：沒有 seizure 動作，沒有類似癲癇的活動，也沒有發作後的變化。
+>
+> **→ 推理結果**：⚪ 癲癇下降（NCSE 仍要靠 EEG 排除）。三題問完，藥物、感染、癲癇都不像 → 回頭看最突出的病史：==放療後幾個月吃很少、一直嘔吐==。長期營養不良＋嘔吐＋記憶障礙＋步態不穩 → 🔴 **Wernicke encephalopathy**（thiamine 缺乏）要放到最前面。
 
 ### Checkpoint 2：理學檢查
 
@@ -55,7 +100,7 @@ tags:
 | --- | --- | --- |
 | CNS 感染 | Listeria、Nocardia、TB、syphilis、Cryptococcus、Toxoplasma、CMV、HSV、JC | 🟠 |
 | 全身感染 | pneumonia、UTI | ⚪ |
-| 神經 | **新腦轉移**、**leptomeningeal metastasis**、stroke、**放療後認知障礙** | 🔴 |
+| 神經 | **新 brain metastasis**、**leptomeningeal metastasis**、stroke、**放療後認知障礙** | 🔴 |
 | 代謝 | ==維生素 B12、葉酸、thiamine 缺乏==、thyroid、hepatic encephalopathy、尿毒、hypercalcemia、低／高血鈉 | 🔴 長期吃不下 |
 
 ### Checkpoint 3：檢查——每一項對應一個假說
@@ -88,7 +133,7 @@ tags:
 
 | 診斷 | 病史後 | 理學後 | 檢驗＋MRI＋CSF 後 | thiamine 後 |
 | --- | --- | --- | --- | --- |
-| 新腦轉移／leptomeningeal metastasis | 🔴 | 🔴 | ❌ | ❌ |
+| 新 brain metastasis／leptomeningeal metastasis | 🔴 | 🔴 | ❌ | ❌ |
 | 放療後認知障礙 | 🔴 | 🟠 | ⚪ | ❌ |
 | CNS 伺機感染 | 🟠 | 🟠 | 🟠（lymphocyte CSF） | ⚪ |
 | hypercalcemia、肝性、尿毒 | 🟠 | 🟠 | ❌ | ❌ |

@@ -22,7 +22,7 @@ tags:
 
 ## 個案一覽
 
-- 47 歲男性，中國出生、8 年前移居多倫多；B 型 hepatitis 已自行痊癒
+- 47 歲男性，中國出生、8 年前移居多倫多；hepatitis B 已自行痊癒
 - 三天**發燒**（最高 38.2°C）、畏寒、全身肌肉痠痛；**皮疹從四肢擴散到胸背**
 - 最近剛治療完**左大腳趾軟組織感染**（已好）
 
@@ -30,11 +30,60 @@ tags:
 
 ### Checkpoint 1：病史——三個問題，第三題是關鍵
 
-| 作者問 | 為什麼問 | 答案 | 推理結果 |
-| --- | --- | --- | --- |
-| 有其他感染症狀嗎？ | 逐系統找感染源 | **右上腹痛** | 肝膽要納入 |
-| arthritis、關節痛、神經病變？ | vasculitis、RA、SLE、皮肌炎；以及相關的 hepatitis、IBD、腫瘤 | 都沒有 | ⚪ 結締組織病 |
-| **吃了什麼藥？多久？** | 藥物過敏的**時間**決定類型：立即型（分鐘到小時）vs **延遲型（數天到數週）**；以前用過會更快 | ==先 clindamycin 2 週，再 TMP-SMX 5 週==（擔心骨髓炎所以延長）；起疹當天自行停藥；兩種藥都是第一次用 | 🔴 延遲型藥物過敏 |
+到這裡知道的是：47 歲男性，三天發燒、畏寒、肌肉痠痛，**皮疹從四肢擴散到胸背**，最近剛治療完大腳趾的軟組織感染。「發燒＋皮疹」的三大方向是：**感染**、**autoimmune**、**藥物反應**。作者三個問題正好一題對一個方向。
+
+> [!question] Q1｜他還有沒有其他感染的症狀？
+> **作者的用意**：評估發燒要問**可以指出感染部位的症狀**，逐一系統問：中樞神經（頭痛、nuchal rigidity、視力改變）、心肺（鼻塞、流鼻水、喉嚨痛、咳嗽、胸痛、喘）、腸胃（噁心、嘔吐、腹痛、腹瀉、血便）、泌尿生殖（解尿痛、hematuria、頻尿）、肌肉骨骼（關節痛、肌肉痛）、皮膚（皮疹、傷口、紅腫）。
+>
+> **為什麼這樣問**
+> - 發燒＋皮疹最需要先排除的是**危及生命的感染**：meningococcemia、toxic shock syndrome、RMSF、endocarditis、播散性病毒感染
+> - 系統性回顧可以找到「**感染的焦點**」：有焦點的話，發燒和皮疹很可能是同一個感染；完全找不到焦點，就要往非感染方向去想
+> - 這位病人剛有腳趾感染，所以也要問傷口是不是**又惡化**、有沒有 osteomyelitis 或 bacteremia
+>
+> **病人的答案**：只有**右上腹痛**，沒有其他感染症狀。
+>
+> **→ 推理結果**：沒有明確的感染焦點。右上腹痛是新的線索 → 肝臟可能受到侵犯（hepatitis）。
+
+> [!question] Q2｜他有沒有 arthritis、關節痛或神經病變？
+> **作者的用意**：很多**autoimmune 疾病**都會有發燒和皮疹：vasculitis、RA、SLE、dermatomyositis 等。要問這些疾病的相關表現：**arthritis、關節痛、肌肉無力、周邊神經病變、lymphadenopathy、night sweats、weight loss**。也要問和 vasculitis 相關的疾病：**viral hepatitis、IBD、惡性腫瘤**。
+>
+> **為什麼這樣問**
+> - 每一個症狀都對應一類 autoimmune 疾病：
+>
+> | 症狀 | 想到… |
+> | --- | --- |
+> | 對稱小 arthritis | RA、SLE |
+> | proximal muscle weakness＋特殊皮疹（heliotrope、Gottron） | dermatomyositis |
+> | ==多發性單神經病變（mononeuritis multiplex）＋purpura== | **vasculitis**：PAN、ANCA vasculitis、cryoglobulinemia |
+> | 高燒＋關節痛＋鮭魚色疹 | adult-onset Still's disease |
+>
+> - **Hepatitis B** 是重點：HBV 和 **polyarteritis nodosa** 有關，HCV 和 cryoglobulinemic vasculitis 有關。這位病人有 hepatitis B 病史，所以要特別問
+>
+> **病人的答案**：都沒有。hepatitis B 已經自己好了，醫師告訴過他沒有慢性肝病。
+>
+> **→ 推理結果**：⚪ autoimmune、vasculitis 下降。
+
+> [!question] Q3｜發病前他吃了哪些藥？吃了多久？
+> **作者的用意**：要評估急性或延遲性**過敏反應**，必須做完整的暴露史：**處方藥、成藥、草藥、娛樂性藥物、靜脈顯影劑、疫苗**。藥物暴露的**時間軸**很重要，可以判斷過敏的可能性，也可以分辨類型：**立即型**（例如 anaphylaxis）在**幾分鐘到幾小時**內發生，**延遲型**則在用藥**幾天到幾週**後才出現。也要問**以前有沒有用過**同一個藥，因為曾經用過會縮短潛伏期。
+>
+> **為什麼這樣問**
+> - 發燒＋皮疹＋肝臟侵犯，**藥物反應**一定在名單上。而判斷是不是藥物反應，最重要的就是時間
+> - 不同的藥物反應有各自典型的潛伏期：
+>
+> | 反應 | 典型潛伏期 | 特徵 |
+> | --- | --- | --- |
+> | Anaphylaxis、urticaria | 分鐘到小時 | IgE 媒介 |
+> | 單純 morbilliform eruption | 4–14 天 | 只有皮疹 |
+> | SJS／TEN | 4–28 天 | 黏膜侵犯、皮膚剝落 |
+> | ==DRESS== | ==2–8 週== | 發燒、皮疹、**eosinophilia**、**器官侵犯**（肝最常見）、lymphadenopathy |
+> | AGEP | 1–2 天 | 很多小膿疱 |
+>
+> - 用過同一個藥的人（**再次暴露**）潛伏期會縮短很多，可以只有一兩天
+> - 要問「**所有**」吃進去的東西：很多人不會主動說成藥、草藥、保健食品
+>
+> **病人的答案**：發病前已經用 **TMP-SMX 5 週**，在那之前用 clindamycin 2 週。因為傷口癒合慢、擔心 osteomyelitis 所以療程拉長。**3 天前發現皮疹時自己停掉 TMP-SMX**。以前**沒用過**這兩種藥，也沒有其他新藥。
+>
+> **→ 推理結果**：==TMP-SMX 用了 5 週後出現發燒＋皮疹＋右上腹痛（肝臟）== → 時間完全符合 🔴 **DRESS**。這是本個案的轉折點。
 
 > [!important] 🔀 轉折點：TMP-SMX 第 5 週
 > 延遲型藥物過敏通常在==持續用藥 2–6 週==後出現。TMP-SMX 是 DRESS 的常見元兇之一（另有 allopurinol、carbamazepine、oxcarbazepine、phenytoin、phenobarbital、abacavir、vancomycin、dapsone）。
@@ -57,7 +106,7 @@ tags:
 
 | 類別 | 疾病 | 此時判斷 |
 | --- | --- | --- |
-| 細菌 | 蜂窩性組織炎、二期 syphilis、淋菌播散、meningitis 球 bacteremia、TSS、猩紅熱 | 🟠 |
+| 細菌 | cellulitis、二期 syphilis、淋菌播散、meningitis 球 bacteremia、TSS、猩紅熱 | 🟠 |
 | 病毒 | EBV、CMV、HIV、B／C hepatitis、HHV-6、parvovirus、麻疹、COVID 等 | 🟠 |
 | **藥物** | **DRESS**、血清病樣反應 | 🔴 |
 | 其他 | Sweet's、MIS-A、Still's、SLE、皮肌炎、sarcoidosis | ⚪ |
@@ -104,7 +153,7 @@ tags:
 | SJS／TEN、AGEP | 🟠 | ❌ | ❌ | ❌ | ❌ |
 | vasculitis | 🟠 | ⚪ | ⚪ | ❌ | ❌ |
 | EBV／CMV | 🟠 | 🟠 | 🟠（heterophile 陰性） | ⚪ | ❌（ISH 陰性） |
-| B／C 型 hepatitis | 🟠 | 🟠 | 🟠 | ❌ | ❌ |
+| hepatitis B／C | 🟠 | 🟠 | 🟠 | ❌ | ❌ |
 | cholecystitis、cholangitis | 🟠 | 🟠 | ⚪ | ❌ | ❌ |
 | 二期 syphilis、HIV | 🟠 | ⚪ | ⚪ | ⚪ | ⚪（未驗，可能性低） |
 

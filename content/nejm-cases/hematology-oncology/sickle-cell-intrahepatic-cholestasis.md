@@ -28,13 +28,58 @@ tags:
 
 ## 推理過程
 
-### Checkpoint 1：病史——三個問題
+### Checkpoint 1：病史——作者問的三個問題
 
-| 作者問 | 為什麼問 | 答案 | 推理結果 |
-| --- | --- | --- | --- |
-| 以前有過類似腹痛？ | biliary colic 史 → choledocholithiasis、膽源性 pancreatitis；血管阻塞 → mesenteric ischemia、肝臟併發症 | 沒有，以前的疼痛危機在背和膝 | 新的問題 |
-| 有額外吃藥嗎？ | **Acetaminophen** 過量 → 肝毒性 | 只由護理之家給、無法自行多拿 | ⚪ 藥物肝毒性 |
-| 最近輸血？ | 多次輸血 → **同種 antibody → hemolysis**（間接型膽紅素上升） | 小時候每週輸血，**近 10 年沒輸** | ⚪ delayed hemolytic transfusion reaction |
+到這裡知道的是：52 歲 **HbSS sickle cell disease** 男性，3 個月持續腹痛、疲倦、**眼白變黃**，越來越痛。Sickle cell 病人的黃疸有很多來源：**hemolysis**、**膽道結石**、**肝臟本身**（血管阻塞、藥物、病毒、鐵沉積）。作者三個問題依序對應：**以前有沒有一樣的痛**（膽道與血管阻塞）、**有沒有額外的藥**（藥物性肝損傷）、**有沒有輸血**（hemolysis 與輸血相關的肝病）。
+
+> [!question] Q1｜他以前有沒有過類似的腹痛？
+> **作者的用意**：以前有沒有類似的腹痛，可能是找出原因的重要線索。例如有 **biliary colic** 病史，會增加 **choledocholithiasis**、**gallstone pancreatitis** 的風險，兩者都會造成腹痛和黃疸。Sickle cell 病人的腹痛也可能來自**血管阻塞事件**，造成 **mesenteric ischemia** 或肝膽併發症，例如 **hepatic sequestration**。
+>
+> **為什麼這樣問**
+> - Sickle cell 病人長期 hemolysis → bilirubin 高 → ==色素性 gallstone 非常常見==（成人盛行率高達一半以上）。以前有 biliary colic，就要先想結石掉到總膽管
+> - 也要知道病人「**平常的痛**」長什麼樣子：血管阻塞危機的痛有固定的部位和模式，**新的、不一樣的痛**就要找別的原因
+>
+> | 過去病史 | 想到… |
+> | --- | --- |
+> | 反覆飯後右上腹痛 | **choledocholithiasis**、cholangitis、gallstone pancreatitis |
+> | 以前血管阻塞危機也會腹痛 | **abdominal crisis**、mesenteric ischemia |
+> | 以前有 hepatomegaly、Hb 突然下降 | **hepatic sequestration** |
+> | 從來沒有這樣痛過 | 新的病程：肝內病變、藥物、感染 |
+>
+> **病人的答案**：以前**沒有**類似的腹痛。以前的血管阻塞疼痛主要在**背和膝蓋**。
+>
+> **→ 推理結果**：這是**新的痛** → ⚪ 典型 vaso-occlusive crisis 下降；結石仍不能排除（第一次掉到總膽管也可能）。
+
+> [!question] Q2｜除了醫師開的藥，他還有沒有用其他藥？
+> **作者的用意**：**成藥**，尤其是 **acetaminophen**，常被用來止痛，但劑量過高或使用不當會造成**肝毒性**，導致腹痛和黃疸。問這題是為了評估**藥物性肝損傷**。
+>
+> **為什麼這樣問**
+> - Sickle cell 病人長期疼痛，**自行加藥**很常見；acetaminophen 存在很多複方成藥中，病人常常不知道自己吃了多少
+> - Acetaminophen 肝毒性在**營養不良、長期飲酒、禁食**的人門檻更低（glutathione 存量少）
+> - 他的藥物清單裡還有很多精神科藥物（quetiapine、venlafaxine、haloperidol），有些也和肝損傷或 cholestasis 有關
+> - 也要問草藥、保健食品：DILI 很常來自「病人不認為是藥」的東西
+>
+> **病人的答案**：護理之家的工作人員依需要給 acetaminophen，他**自己拿不到額外的劑量**。
+>
+> **→ 推理結果**：⚪ acetaminophen 過量下降（劑量受控）；其他藥物的 DILI 仍在名單上。
+
+> [!question] Q3｜他最近有沒有輸血？
+> **作者的用意**：Sickle cell 病人**經常輸血**會產生**同種 antibody**（alloantibody），增加**antibody 媒介 hemolysis**的風險。hemolysis 會讓**間接 bilirubin** 上升，病人可能以黃疸表現。
+>
+> **為什麼這樣問**
+> - 輸血和黃疸有好幾層關係：
+>
+> | 機轉 | 時間 | 特徵 |
+> | --- | --- | --- |
+> | ==Delayed hemolytic transfusion reaction== | 輸血後 3–14 天 | 同種 antibody 造成 hemolysis，Hb 比輸血前還低（hyperhemolysis） |
+> | 長期輸血 → **鐵沉積** | 數年 | 肝纖維化、cirrhosis |
+> | 輸血傳染的病毒性 hepatitis | 數年 | 尤其是 1990 年代以前輸血 → **HCV** |
+>
+> - 判斷黃疸是「**hemolysis 為主**」（間接 bilirubin）還是「**肝臟或膽道為主**」（直接 bilirubin），是 sickle cell 黃疸的第一步
+>
+> **病人的答案**：小時候**每週輸血**，但**過去 10 年都沒有輸過血**。
+>
+> **→ 推理結果**：⚪ 輸血後 hemolysis 反應下降（10 年沒輸）。但小時候大量輸血 → **鐵沉積**和**陳舊的 HCV** 要追蹤。三題問完，常見的結石、藥物、hemolysis 原因都不明顯，要考慮 sickle cell 特有的**肝內病變**，例如 ==sickle cell intrahepatic cholestasis==。
 
 ### Checkpoint 2：理學檢查
 

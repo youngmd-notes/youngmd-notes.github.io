@@ -28,16 +28,57 @@ tags:
 
 ## 推理過程
 
-### Checkpoint 1：病史——三個問題各排除一類
+### Checkpoint 1：病史——作者問的三個問題
 
-| 作者問 | 為什麼問 | 答案 | 推理結果 |
-| --- | --- | --- | --- |
-| 有沒有胸部撞擊？ | 找 **commotio cordis** | 沒有 | ❌ Commotio cordis |
-| 以前運動時有沒有喘、暈、心悸、胸痛？ | 運動時缺氧 → HOCM（需求↑）或冠狀動脈異常（供給↓）；暈厥 → 阻塞或心律不整 | **跑步時胸痛**，被當成氣喘，但 ==albuterol 無效== | 🔴 結構性心臟病上升 |
-| 家族有沒有年輕猝死或早發心臟病？ | 遺傳性 cardiomyopathy、channelopathy | 沒有 | 遺傳性疾病不能因此排除，但沒有加分 |
+到這裡知道的是：一個年輕運動員在跑步時突然 cardiac arrest，經 CPR 和電擊後恢復循環。年輕人的 sudden cardiac arrest 原因大致分成三類：**外力造成的**、**結構性心臟病**、**遺傳性心律不整**。作者的三個問題正好一題對一類。
+
+> [!question] Q1｜失去意識前，胸口有沒有被撞到？
+> **作者的用意**：要找 **commotio cordis**。胸口受到鈍力撞擊時，心肌的電氣活動會不穩定，可能引發 sudden cardiac death。
+>
+> **為什麼這樣問**
+> - Commotio cordis 是**年輕運動員猝死**的重要原因之一，常見於棒球、曲棍球、武術等會被球或身體撞到胸口的運動
+> - 機轉：撞擊剛好落在 T 波上升段（心室復極的易損期），誘發 VF。心臟結構本身完全正常
+> - 這題是**最容易問、也最先該問**的。答案是「有」的話，診斷方向完全不同：不需要找 cardiomyopathy，重點是運動防護
+> - 這題答「沒有」，就代表要往**心臟本身有問題**的方向走
+>
+> **病人的答案**：沒有任何胸部外傷。
+>
+> **→ 推理結果**：❌ Commotio cordis。原因在心臟本身。
+
+> [!question] Q2｜以前有沒有運動時喘、暈倒、頭暈、palpitation 或胸痛？
+> **作者的用意**：如果之前就有運動時的心肺症狀，表示有一個**早就存在的心臟病**，而這些症狀的種類可以指出是哪一種。
+>
+> **為什麼這樣問**
+> - Sudden cardiac arrest 常常不是「第一個」症狀，回頭問往往會發現之前就有警訊被忽略
+> - 每一個症狀都對應不同的機轉：
+>
+> | 症狀 | 機轉 | 想到… |
+> | --- | --- | --- |
+> | ==運動時胸痛== | 心肌缺氧：**需求增加**或**供給減少** | 需求↑：**HOCM**（心肌肥厚＋出口阻塞）；供給↓：**先天性冠狀動脈異常**（例如冠狀動脈走在主動脈和肺動脈之間，運動時被夾住） |
+> | 運動時喘 | heart failure 的典型表現，但也可能是心律不整、肺血管疾病、氣喘 | dilated cardiomyopathy、pulmonary hypertension |
+> | 暈倒、頭暈 | 心輸出量突然下降 | **阻塞性**（HOCM、aortic stenosis）、冠狀動脈異常、**心律不整** |
+> | palpitation | 心律不整 | WPW、long QT、ARVC |
+>
+> - 特別要注意：年輕人運動時的症狀很容易被歸成「氣喘」或「體能不好」，要問**治療有沒有效**
+>
+> **病人的答案**：他在比賽跑步時有過**胸痛**，被診斷為 exercise-induced asthma，但吸 albuterol **沒有改善**。
+>
+> **→ 推理結果**：==運動時胸痛＋氣喘藥無效== → 不是氣喘，🔴 **結構性心臟病**（HOCM、冠狀動脈異常）上升。這是這三題中最關鍵的答案。
+
+> [!question] Q3｜家族中有沒有人年紀輕輕就不明原因猝死，或很早就被診斷心臟病？
+> **作者的用意**：早發心血管疾病的家族史，提示 **cardiomyopathy** 或**遺傳性心律不整**（channelopathy）。
+>
+> **為什麼這樣問**
+> - HOCM、ARVC、dilated cardiomyopathy、long QT、Brugada、CPVT 大多是**體染色體顯性遺傳**，家族中常有人猝死、溺水、不明原因車禍或「心臟麻痺」
+> - 要具體問：年輕時猝死、溺水、seizure 後死亡、裝過去顫器或心律調節器、心臟移植
+> - 這題同時也決定**家族篩檢**：如果確診遺傳性疾病，一等親都要做 ECG 和 echocardiography
+>
+> **病人的答案**：家族中沒有 sudden cardiac arrest、心律不整或 cardiomyopathy 的病史。
+>
+> **→ 推理結果**：沒有家族史**不能排除**遺傳性疾病（可能是新突變、外顯率不完全，或家人還沒發病），只是沒有加分。結構性心臟病仍是第一名，下一步看 ECG 和 echocardiography。
 
 > [!important] 🔀 轉折點：「氣喘」藥物無效
-> 運動誘發的症狀，如果**bronchiectasis 劑沒有用**，就要懷疑不是氣道問題。這一題的答案把「運動時心肌缺氧」的疾病（HOCM、冠狀動脈起源異常）拉到最前面，也解釋了為什麼之前的「氣喘」其實都是同一個病。
+> 運動誘發的症狀，如果**bronchodilator沒有用**，就要懷疑不是氣道問題。這一題的答案把「運動時心肌缺氧」的疾病（HOCM、冠狀動脈起源異常）拉到最前面，也解釋了為什麼之前的「氣喘」其實都是同一個病。
 
 ### Checkpoint 2：理學檢查與急救
 
@@ -53,7 +94,7 @@ tags:
 | cardiomyopathy | **HCM**、DCM、RCM、ARVC | 🔴 HCM（運動症狀＋hyperdynamic precordium） |
 | 冠狀動脈 | **冠狀動脈起源異常（AAOCA）**、Kawasaki、家族性高膽固醇 | 🔴 |
 | 原發性心律不整 | Long QT、Brugada、CPVT、WPW、short QT、complete heart block | 🟠 |
-| 其他 | Myocarditis、風濕熱、MVP、主 aneurysm 破裂、commotio cordis | 🟠／❌ |
+| 其他 | Myocarditis、風濕熱、MVP、aortic aneurysm 破裂、commotio cordis | 🟠／❌ |
 
 ### Checkpoint 4：第一線檢查
 
@@ -111,7 +152,7 @@ tags:
 
 > [!tip] Pearl
 > - 年輕人猝死的鑑別三大類：**可逆因素、結構性心臟病、原發性心律不整**
-> - ==運動誘發的胸痛或喘，對 bronchiectasis 劑沒反應==，要想到 HOCM 和冠狀動脈起源異常
+> - ==運動誘發的胸痛或喘，對 bronchodilator沒反應==，要想到 HOCM 和冠狀動脈起源異常
 > - Cardiac MRI 一次回答三件事：septum 厚度、疤痕（LGE）、冠狀動脈走向
 
 > [!warning] Pitfall

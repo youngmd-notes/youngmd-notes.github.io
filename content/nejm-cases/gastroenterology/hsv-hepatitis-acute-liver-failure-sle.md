@@ -28,13 +28,60 @@ tags:
 
 ## 推理過程
 
-### Checkpoint 1：病史——三個問題
+### Checkpoint 1：病史——作者問的三個問題
 
-| 作者問 | 為什麼問 | 答案 | 推理結果 |
-| --- | --- | --- | --- |
-| 吃東西後會更痛嗎？ | gallstone 相關疼痛典型在油膩飲食後 | 持續痛、與進食無關 | ⚪ biliary colic |
-| 最近有性行為嗎？ | PID 合併 **Fitz-Hugh–Curtis** 肝周圍炎、輸卵管卵巢 abscess | 沒有 | ⚪ |
-| 最近出國嗎？ | 傷寒、阿米巴 liver abscess（潛伏期可達 6 個月）、包蟲囊腫 | 兩年內沒出美國中西部 | ⚪ 旅遊感染 |
+到這裡知道的是：20 歲 SLE 女性，吃 prednisone 40 mg/day 加 azathioprine，兩天前開始發燒、右上腹痛。immunosuppressed 病人 的「發燒＋右上腹痛」範圍很大。作者先問最常見的原因（**膽道**），再問兩個容易漏掉的病史（**性行為**、**旅遊**）。
+
+> [!question] Q1｜吃東西後腹痛會不會變嚴重？
+> **作者的用意**：發燒＋右上腹痛最常見的原因是 **gallstone 疾病**：biliary colic、acute cholecystitis、acute cholangitis。Gallstone 引起的疼痛典型是在**吃了油膩食物後加重**。
+>
+> **為什麼這樣問**
+> - 吃油膩食物 → 十二指腸分泌 **CCK** → 膽囊收縮 → 如果膽囊管被結石堵住，膽囊內壓上升 → 痛
+> - 所以「吃了會痛」是 biliary 來源最直接的病史線索
+>
+> | 答案 | 想到… |
+> | --- | --- |
+> | 飯後 30–60 分鐘開始痛、持續數小時 | **biliary colic** |
+> | 飯後誘發、但痛超過 6 小時＋發燒 | **acute cholecystitis** |
+> | 發燒＋黃疸＋右上腹痛（Charcot triad） | **acute cholangitis** |
+> | ==持續痛、和吃東西無關== | 比較不像膽道；想肝臟本身（hepatitis、liver abscess）、肝周圍發炎 |
+>
+> **病人的答案**：痛是持續的，**和吃東西無關**。
+>
+> **→ 推理結果**：⚪ biliary colic 下降；cholecystitis 仍要靠影像確認。痛的來源可能在**肝臟本身**。
+
+> [!question] Q2｜最近有性行為嗎？
+> **作者的用意**：**性傳染病**也可以表現為發燒和腹痛，例如 PID 合併肝周圍炎（**Fitz-Hugh–Curtis syndrome**）或輸卵管卵巢 abscess（tubo-ovarian abscess）。
+>
+> **為什麼這樣問**
+> - 年輕女性的右上腹痛很容易只想到膽囊，但 **Fitz-Hugh–Curtis syndrome** 是典型陷阱：
+>   - Chlamydia 或 gonorrhea 從骨盆上行，沿著右側結腸旁溝到達**肝臟包膜**，造成肝周圍炎
+>   - 表現就是**右上腹痛＋發燒**，吸氣時加重，很像 cholecystitis；肝指數常常正常或只輕度上升
+> - 性行為史也和其他會造成 hepatitis 的感染有關：**HSV**、HBV、HIV、syphilis
+> - 年輕人自己不一定會主動說，一定要直接、不帶評價地問
+>
+> **病人的答案**：超過一年沒有性行為。
+>
+> **→ 推理結果**：⚪ PID、Fitz-Hugh–Curtis、tubo-ovarian abscess 下降。
+
+> [!question] Q3｜最近有沒有出國旅行？
+> **作者的用意**：病人會不定期出國探親，所以要考慮**旅遊相關**的診斷。旅遊回來發燒＋腹痛的鑑別包括 **enteric fever**（typhoid）、**amebic liver abscess**、感染的**包蟲囊腫**，以及更常見的 **viral hepatitis**。潛伏期差很多，enteric fever 只要幾天，amebic liver abscess 可以長達 **6 個月**。
+>
+> **為什麼這樣問**
+> - 病人在墨西哥出生、會回去探親（**VFR traveler**：visiting friends and relatives）。這類旅客的感染風險**比觀光客高**，因為住在當地家裡、吃當地食物、比較少做旅遊門診預防
+> - 墨西哥是 **Entamoeba histolytica** 流行區
+> - ==潛伏期決定要問多久以前的旅遊==：只問「最近一個月」會漏掉 amebic liver abscess
+>
+> | 疾病 | 潛伏期 | 線索 |
+> | --- | --- | --- |
+> | Enteric fever | 6–30 天 | 長期發燒、腹痛、相對 bradycardia |
+> | Amebic liver abscess | ==數週到 6 個月以上== | 右上腹痛、發燒、單一 liver abscess，常沒有腹瀉 |
+> | 包蟲囊腫 | 數年 | 肝囊腫、牧羊地區 |
+> | HAV、HEV | 2–8 週 | 黃疸、肝指數很高 |
+>
+> **病人的答案**：過去兩年沒有離開美國中西部。
+>
+> **→ 推理結果**：⚪ 旅遊相關感染下降。三題問完，常見的膽道、性傳染、旅遊原因都不像 → 要回到她最特別的地方：==高劑量 steroid＋azathioprine 的 immunosuppression==，想**伺機性感染**（HSV、VZV、CMV、adenovirus hepatitis）。
 
 ### Checkpoint 2：理學檢查
 
@@ -95,7 +142,7 @@ tags:
 - 再問口腔潰瘍：**家醫科最近才因為疑似皰疹開了外用藥膏** → 🔴 HSV
 - 立刻加上 **IV acyclovir**，並 empiric 給 **N-acetylcysteine**
 - 數小時內**confusion、嗜睡**（hepatic encephalopathy）；PLT 降到 6、AST 14,775、ALT 5699、**INR 3.6**、酸中毒惡化
-- → ==hepatic encephalopathy＋INR > 1.5＋肝細胞損傷 = acute liver failure== → 啟動肝移植評估
+- → ==hepatic encephalopathy＋INR > 1.5＋肝細胞損傷 ＝ acute liver failure== → 啟動肝移植評估
 
 ### Checkpoint 6：結果出爐
 

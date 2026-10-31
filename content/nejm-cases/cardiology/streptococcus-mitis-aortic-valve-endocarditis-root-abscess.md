@@ -14,7 +14,7 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 「老人跌倒」的評估最後變成了 endocarditis：跌倒時**心悸**、telemetry 看到**陣發性 AF**、**troponin 920 但持平**、聽到**新的主動脈瓣 diastolic murmur**。把這些和**兩個月前只治療 10 天的 S. mitis bacteremia**連起來 → TTE 看到 vegetation、MRI 看到**多發 cerebral emboli** → TEE＋心臟 CT 找到**aortic root abscess** → 手術。
+> 「老人跌倒」的評估最後變成了 endocarditis：跌倒時**palpitation**、telemetry 看到**陣發性 AF**、**troponin 920 但持平**、聽到**新的主動脈瓣 diastolic murmur**。把這些和**兩個月前只治療 10 天的 S. mitis bacteremia**連起來 → TTE 看到 vegetation、MRI 看到**多發 cerebral emboli** → TEE＋心臟 CT 找到**aortic root abscess** → 手術。
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 73-Year-Old Woman with a Fall〉，2023，[DOI 10.1056/EVIDmr2300254](https://doi.org/10.1056/EVIDmr2300254)。以下用自己的話整理，重點放在作者的推理過程。另見 [[nejm-cases/cardiology/frostbite-mimicking-acute-limb-ischemia|凍傷（偽裝成急性肢體缺血）]]：疑似 IE 但不是的對照個案。
@@ -27,13 +27,62 @@ tags:
 
 ## 推理過程
 
-### Checkpoint 1：病史——三個問題
+### Checkpoint 1：病史——作者問的三個問題
 
-| 作者問 | 為什麼問 | 答案 | 推理結果 |
-| --- | --- | --- | --- |
-| 心跳很快或不規則？ | **心律不整** → 短暫腦灌流不足；也可能是 sepsis、電解質的徵象 | ==跌倒當下心跳很快==（之前沒有） | 🔴 心律不整 |
-| 上次住院有併發症或新問題？ | 老人住院 → 衰弱、新藥（抗憂鬱、安眠、降壓）造成跌倒 | **S. mitis bacteremia**，治療 10 天；沒有新藥 | 🟠 |
-| 術後吃得少、併發症？ | 食慾差、腸阻塞 → 脫水 | 朋友說術後**走路越來越不穩** | 🟠 |
+到這裡知道的是：73 歲女性，**兩個月前**cholecystitis 合併 **S. mitis bacteremia**、只治療 10 天；這次走路時突然無力往後跌、撞到頭。老人跌倒的原因要分成**心因性**（心律不整、hypotension）、**住院後的後遺症**（衰弱、新藥）、**身體狀況變差**（脫水、營養不良）。作者三個問題依序對應這三個方向。
+
+> [!question] Q1｜她有沒有覺得心跳很快或不規則？
+> **作者的用意**：**心律不整**會造成**腦灌流短暫下降**，因而跌倒。心律不整也可能是**潛在心臟病**或**全身性疾病**（例如 **sepsis、電解質異常**）的徵象，而這些也會造成跌倒。
+>
+> **為什麼這樣問**
+> - 老人「**跌倒**」常常其實是「**syncope**」，病人自己不一定分得清楚（她不確定有沒有失去意識）
+> - Palpitation 是心因性 syncope 最重要的病史線索：
+>
+> | palpitation 的時間 | 意義 |
+> | --- | --- |
+> | ==跌倒當下才出現== | **新發的心律不整**：AF、VT、SVT |
+> | 以前就常有 | 慢性心律不整、WPW |
+> | 沒有 palpitation，但突然倒下沒有前兆 | 傳導阻滯（**Stokes-Adams**）、VT |
+>
+> - 新的心律不整要問「**為什麼現在發生**」：感染（sepsis、**endocarditis**）、電解質、thyroid、缺血、瓣膜病
+>
+> **病人的答案**：**跌倒當下**覺得心跳很快，**以前沒有**。
+>
+> **→ 推理結果**：🔴 **新發心律不整**造成的跌倒或 syncope 上升；而且要找誘因。
+
+> [!question] Q2｜上次因為 cholecystitis 住院時，有沒有併發症或新的問題？
+> **作者的用意**：急性病住院，尤其是老人，可能造成**多種併發症**。例如嚴重的**體能衰退**會影響姿勢控制、增加跌倒風險。另外，住院期間可能開始**新藥**，例如**抗憂鬱、安眠、降壓藥**，也會增加跌倒風險。
+>
+> **為什麼這樣問**
+> - 老人出院後的幾週到幾個月是**跌倒高風險期**。要逐一看：
+>
+> | 住院後的問題 | 怎麼造成跌倒 |
+> | --- | --- |
+> | 臥床 → 肌肉流失、體能衰退 | 步態不穩 |
+> | 新的鎮靜藥、安眠藥、抗憂鬱藥 | 嗜睡、平衡變差 |
+> | 新的降壓藥、利尿劑 | 姿勢性 hypotension |
+> | 住院時的 delirium | 認知變差、判斷力下降 |
+> | ==住院時的感染沒有完全治好== | **復發**、併發症（例如 bacteremia 種到心臟） |
+>
+> - 這題也在回頭檢視上次住院的**醫療決策**：診斷和療程是否完整
+>
+> **病人的答案**：住院時有 **S. mitis bacteremia**，推測是**腸胃來源**；用 piperacillin-tazobactam 3 天＋amoxicillin-clavulanate 7 天，治療 bacteremia 和推測的多菌種 cholecystitis。**沒有其他新藥**。
+>
+> **→ 推理結果**：這是本個案的**伏筆**：==S. mitis（草綠色 Streptococcus）是口腔共生菌、是 IE 的經典病原，卻被歸為腸胃來源、只治 10 天==（自體瓣 IE 要治 4 週）。現在合併新發心律不整 → 🟠 **IE** 要放進名單。
+
+> [!question] Q3｜膽囊切除後，她有沒有吃得少，或任何術後併發症？
+> **作者的用意**：最近開過刀的病人可能**持續食慾不好**或**排便習慣改變**。止痛用的**鴉片類**也會影響腸胃蠕動，誘發**術後 bowel obstruction**。這些術後併發症會造成**hypovolemia**或**營養吸收不良**，因而跌倒。
+>
+> **為什麼這樣問**
+> - 老人術後最常見的跌倒原因之一是「**沒吃沒喝**」：
+>   - 吃得少、嘔吐 → **脫水** → 姿勢性 hypotension → 跌倒
+>   - 營養不良 → 肌肉無力、維生素 B12 或 thiamine 缺乏 → 步態不穩
+> - 鴉片類 → 便秘、bowel obstruction → 吃不下
+> - 要問**家人或照顧者**，因為獨居、輕度認知障礙的病人自己不一定說得清楚
+>
+> **病人的答案**：陪同來醫院的**朋友**說，她術後**走路越來越不穩**。
+>
+> **→ 推理結果**：🟠 **漸進的步態不穩** → 可能是衰弱、營養問題，但也可能是**神經系統**的問題（例如 cerebral emboli）。三題問完：==新發心律不整＋未治療完全的 S. mitis bacteremia＋術後越走越不穩== → 理學檢查一定要仔細**聽心 murmur**（後來果然聽到新的主動脈瓣 diastolic murmur）。
 
 ### Checkpoint 2：理學檢查與初步檢查
 
@@ -117,7 +166,7 @@ tags:
 
 | 步驟 | 關鍵發現 | 學到什麼 |
 | --- | --- | --- |
-| 病史 | 跌倒時心悸、**兩個月前 S. mitis bacteremia 只治 10 天** | bacteremia 療程不足是伏筆 |
+| 病史 | 跌倒時 palpitation、**兩個月前 S. mitis bacteremia 只治 10 天** | bacteremia 療程不足是伏筆 |
 | 理學 | **新的 diastolic murmur** | 瓣膜受侵犯 |
 | Troponin＋telemetry | 920 持平、陣發性 AF | 供需失衡，而非 ACS |
 | **TTE＋MRI** | **主動脈瓣 vegetation＋多發 cerebral emboli** | **轉折點：IE** |

@@ -28,13 +28,59 @@ tags:
 
 ## 推理過程
 
-### Checkpoint 1：病史——三個問題
+### Checkpoint 1：病史——作者問的三個問題
 
-| 作者問 | 為什麼問 | 答案 | 推理結果 |
-| --- | --- | --- | --- |
-| 呼吸困難、運動不耐、胸痛、edema？ | 修補後＋IE → **heart failure** → 腎灌流不足 | 沒有心臟症狀，但**小腿輕微腫** | 🟠 |
-| 排尿痛、頻尿、急尿、失禁？UTI 病史？ | 大男孩 UTI 少見，除非有結構、神經或便秘問題；腰痛 → 腎盂腎炎 | 都沒有，無腰痛 | ⚪ UTI |
-| 尿是什麼顏色？整段都深嗎？ | 鮮紅＋血塊 → **下泌尿道**；**深褐（可樂色）→ 腎臟**；也可能是血紅素、肌紅素、膽紅素、紫質；開始時 → 尿道、結束時 → 膀胱頸、**全程 → 腎、膀胱** | ==可樂色、整段都是、沒有血塊== | 🔴 腎臟來源 |
+到這裡知道的是：7 歲男童，一年前修補 tetralogy of Fallot（有**人工肺動脈瓣**），7 個月前 **Aggregatibacter** bacteremia 合併肺動脈瓣 vegetation，治療 6 週；停藥 4 週後疲倦、間歇低燒，**一天前尿變深色**。作者三個問題依序是：**有沒有 heart failure**（心臟造成的腎問題）、**有沒有泌尿道症狀**（UTI）、**尿是什麼顏色**（是不是 hematuria、從哪裡來）。
+
+> [!question] Q1｜他有沒有呼吸窘迫、運動耐受度下降、胸痛或周邊 edema？
+> **作者的用意**：手術修補過的先天性心臟病又合併過 infective endocarditis，**heart failure 的風險增加**。如果有這些症狀，就要懷疑**acute heart failure 造成腎損傷**和尿液變色。
+>
+> **為什麼這樣問**
+> - 心臟和腎臟會互相影響（**cardiorenal syndrome**）：心輸出量下降或靜脈壓上升 → 腎灌流下降 → AKI
+> - 他的心臟有很多弱點：修補過的 TOF、人工瓣膜、之前的 endocarditis 可能破壞瓣膜 → 瓣膜逆流 → heart failure
+> - 兒童 heart failure 的表現和成人不同：**tachypnea、餵食或活動耐受差、hepatomegaly、多汗**，腳腫反而不一定明顯
+>
+> **病人的答案**：沒有呼吸窘迫或心臟症狀，但有注意到**下肢輕微腫**。
+>
+> **→ 推理結果**：🟠 heart failure 不像，但**edema**是新的線索：可能是心臟，也可能是**腎臟**（proteinuria、鈉滯留）。
+
+> [!question] Q2｜他有沒有解尿痛、頻尿、尿急，或新出現的 urinary incontinence？
+> **作者的用意**：**解尿痛、頻尿、尿急或新的 urinary incontinence**，再加上發燒，是 **UTI** 的常見症狀。男孩的 UTI 最常見於**未割包皮、小於 3 個月**的嬰兒。年紀較大的男孩，UTI 是相對少見的發燒原因，除非有**泌尿生殖結構異常**、**神經疾病造成膀胱功能受損**、或**便秘造成的腸道功能障礙**。腹痛和腰痛要考慮**上行感染和 pyelonephritis**。
+>
+> **為什麼這樣問**
+> - 「發燒＋深色尿＋腹部不適」最直覺的答案是 **UTI／pyelonephritis**，一定要先問清楚
+> - 但作者也強調**流行病學**：7 歲男孩、沒有結構異常 → UTI 的**事前機率本來就低**。如果找不到 UTI 的典型症狀，就不該把發燒和深色尿歸給 UTI
+>
+> | 線索 | 想到… |
+> | --- | --- |
+> | 解尿痛、頻尿、尿急 | 下泌尿道感染（cystitis） |
+> | ==發燒＋腰痛、腰部敲痛== | **pyelonephritis** |
+> | 沒有泌尿症狀，但深色尿＋edema | **glomerular disease** |
+>
+> **病人的答案**：除了深色尿，**沒有其他泌尿症狀**。有輕微瀰漫性腹部壓痛，但**沒有腰痛**。以前沒有 UTI 或已知的泌尿生殖結構異常。
+>
+> **→ 推理結果**：⚪ UTI、pyelonephritis 下降 → 深色尿的來源要往**腎臟本身**找。
+
+> [!question] Q3｜深色尿是什麼顏色？
+> **作者的用意**：病人和家屬口中的「**深色尿**」差異很大。**紅、粉紅或棕色**通常代表**hematuria**，但血以外的物質也可以造成類似的顏色。評估**肉眼 hematuria**時，顏色可以幫忙分辨**下泌尿道出血**（膀胱或尿道，**鮮紅或粉紅**，有時有**血塊**）和**上泌尿道出血**（腎臟，**深棕色**）。深棕色尿也可能是 **hemoglobinuria、myoglobinuria、bilirubinuria、porphyria** 等。
+>
+> **為什麼這樣問**
+> - 這是一個**開放式、要求具體描述**的問題，答案可以直接定位出血來源：
+>
+> | 顏色與特徵 | 來源 | 想到… |
+> | --- | --- | --- |
+> | 鮮紅、粉紅、**有血塊** | **下泌尿道** | 結石、膀胱炎、腫瘤、外傷 |
+> | 只有**一開始**有血 | 尿道 | |
+> | 只有**最後**有血 | 膀胱頸、攝護腺 | |
+> | ==可樂色、茶色、整段都有、沒有血塊== | **腎絲球** | **glomerulonephritis**（RBC 通過腎絲球變形、血紅素在腎小管被氧化成棕色） |
+> | 深棕色、但**尿沉渣沒有 RBC** | 色素 | hemoglobinuria（hemolysis）、myoglobinuria（rhabdomyolysis） |
+> | 深黃到棕色、搖晃有黃色泡沫 | 膽紅素 | 肝膽疾病 |
+>
+> - 為什麼腎絲球出血沒有血塊：尿液中的**尿激酶**會溶解血塊，而且腎絲球出血量少、混合均勻
+>
+> **病人的答案**：尿是**深棕色、像可樂**；**整段尿都有顏色**，**沒有血塊**。
+>
+> **→ 推理結果**：🔴 **腎絲球來源的 hematuria** → **glomerulonephritis**（另外 hemoglobinuria、myoglobinuria 要靠尿沉渣排除）。三題問完：==剛治療過 endocarditis＋發燒＋可樂色尿＋edema== → 🔴 **infection-related glomerulonephritis**，而且要擔心 **endocarditis 復發**（後面果然聽到新的 murmur）。
 
 ### Checkpoint 2：理學檢查
 
@@ -76,7 +122,7 @@ tags:
 | 顯影 CT | 腎梗塞、septic emboli | 無 | ❌ 栓塞 |
 
 > [!important] 🔀 轉折點：dysmorphic RBC＋proteinuria
-> ==可樂色尿＋dysmorphic RBC＋heavy proteinuria = glomerulonephritis==。小兒 glomerulonephritis 依免疫螢光分四類：**免疫複合體型、ANCA、anti-GBM、C3 腎絲球病變**。
+> ==可樂色尿＋dysmorphic RBC＋heavy proteinuria ＝ glomerulonephritis==。小兒 glomerulonephritis 依免疫螢光分四類：**免疫複合體型、ANCA、anti-GBM、C3 腎絲球病變**。
 
 ### Checkpoint 6：分型與確診
 
