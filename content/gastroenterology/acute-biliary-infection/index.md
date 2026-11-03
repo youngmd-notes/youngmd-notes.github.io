@@ -52,6 +52,21 @@ cssclasses:
 </a>
 </div>
 
+## 🧭 決策思維：引流與手術時機
+
+兩種疾病的「關鍵處置」不同，決策邏輯也不同：
+
+| | Acute cholangitis | Acute cholecystitis |
+| --- | --- | --- |
+| 病灶 | **膽管阻塞**，膽道高壓把細菌擠進血流 | **膽囊本身**發炎 |
+| 關鍵處置 | **膽道引流**（減壓） | **Cholecystectomy**（根治）；GB drainage 只給不能開的人 |
+| 抗生素的角色 | 爭取時間，讓緊急引流變成擇期 | 控制發炎，讓不能開的人等到能開 |
+| 決定時機的主軸 | **Grade 越高越早引流**：III 穩定後盡快、II 早期（24–48 h）、I 抗生素 24 h 沒反應才引流 | **能不能開**（CCI、ASA-PS、negative predictive factor、FOSF）＋**抗生素有沒有效**＋**醫院做不做得到** |
+| 為什麼要早 | Grade II 早引流降低死亡率 | 纖維化越來越重，延後期間 6–23% 復發；early LC 不增加 bile duct injury、住院更短 |
+
+- 詳細推理與時間軸：<a class="internal" href="/gastroenterology/acute-biliary-infection/tg18-3-cholangitis#-決策思維什麼時候引流">③ 什麼時候引流？</a>　<span class="af-where">③</span>
+- 詳細推理與時間軸：<a class="internal" href="/gastroenterology/acute-biliary-infection/tg18-4-cholecystitis#-決策思維什麼時候開刀什麼時候引流">④ 什麼時候開刀？什麼時候引流？</a>　<span class="af-where">④</span>
+
 ## 依臨床情境找重點
 
 ### 急診遇到 RUQ pain＋發燒

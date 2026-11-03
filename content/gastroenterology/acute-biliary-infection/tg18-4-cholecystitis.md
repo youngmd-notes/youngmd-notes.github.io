@@ -21,7 +21,82 @@ tags:
 >
 > ① [[gastroenterology/acute-biliary-infection/tg18-1-diagnosis|診斷與嚴重度]]｜② [[gastroenterology/acute-biliary-infection/tg18-2-initial-management|初始處置與 bundle]]｜③ [[gastroenterology/acute-biliary-infection/tg18-3-cholangitis|Cholangitis 處置與膽道引流]]｜④ Cholecystitis 處置與膽囊引流（本篇）｜⑤ [[gastroenterology/acute-biliary-infection/tg18-5-antimicrobial|抗生素]]｜⑥ [[gastroenterology/acute-biliary-infection/tg18-exam|內專考點]]
 >
-> 本篇來源：Okamoto 2018（flowchart）、Mori 2018（膽囊引流）、Wakabayashi 2018（手術安全）
+> 本篇來源：Okamoto 2018（flowchart）、Mori 2018（膽囊引流）、Wakabayashi 2018（手術安全）、Mayumi 2018（bundle）、Gomi 2018（抗生素角色）
+
+## 🧭 決策思維：什麼時候開刀？什麼時候引流？
+
+### 先懂兩件事
+
+**1. Cholecystitis 的根治是切掉膽囊，引流只是「橋接」**
+
+- 和 cholangitis 不同，cholecystitis 的病灶就是膽囊本身；**cholecystectomy 同時是 source control 和根治**
+- **GB drainage（PTGBD）是給「現在不能開」的人**，讓他撐過急性期，之後通常還是要切
+- 能開的人先引流**沒有好處**：研究中術前做 drainage 的病人，手術時間、住院天數反而更長，轉開腹率沒有下降
+
+**2. 為什麼「能開就早開」？時間在跟纖維化賽跑**
+
+- 發炎早期纖維化還不明顯；隨著發炎持續，**纖維化、瘢痕**越來越重，Calot's triangle 越難剝，**bile duct injury 風險上升**
+- 等延後手術（傳統 ≥ 6 週）期間，有 **6–23%** 復發、被迫緊急開刀；每次復發都讓組織更難開
+- 15 個 RCT meta-analysis：early LC 的 bile duct injury、併發症**不比延後手術多**，**總住院天數更短、費用更低**；超過 72 h（72 h–1 週）早開仍有好處
+- 但「早期」≠「半夜急開」：24 h 內開並沒有比 72 h 內好；要由**有經驗的外科醫師在適合的時段**做
+
+### 決策三問
+
+| 問題 | 為什麼要問 | 答案怎麼改變決定 |
+| --- | --- | --- |
+| **① 病人撐得住手術嗎？** | 手術本身有風險；高共病的人急性期開刀死亡率明顯上升 | **Grade I／II**：CCI ≥ 6 或 ASA-PS ≥ III 算高風險<br/>**Grade III**：CCI ≥ 4 或 ASA-PS ≥ III、或有 **negative predictive factor**（**T-bil ≥ 2、意識障礙、呼吸衰竭**）→ 不開；衰竭只有**心血管或腎、且很快恢復（FOSF）** → 仍可開 |
+| **② 抗生素控制得住發炎嗎？** | 控制住 → 有時間等；控制不住 → 膽囊持續化膿、可能穿孔或 sepsis，必須立刻 source control | **控制住**：低風險 → 早開；高風險 → 等發炎消退後延後開<br/>**控制不住**＋不能開 → **urgent／early GB drainage** |
+| **③ 醫院做得到嗎？** | Grade II、III 發炎重、手術難，要**熟練 advanced LC 的醫師＋ICU** | 做不到 → **轉院**，或先引流 |
+
+> [!important] 一句話記決策
+> ==**能開（風險低）＋做得到 → 早開**；**不能開＋抗生素有效 → 等，延後開**；**不能開＋抗生素無效 → 先引流，延後開**。==
+> Grade 決定「發炎多重、手術多難」，CCI／ASA／predictive factor 決定「病人撐不撐得住」，兩者一起看。
+
+### 三種結局的比較
+
+| 路徑 | 適合誰 | 時機 |
+| --- | --- | --- |
+| **Early LC** | 風險低、在做得到的醫院 | **發病 72 h 內最好，7 天內都算早期**；只要能耐受，超過 72 h 也不必放棄早開 |
+| **保守治療 → delayed LC** | 風險高但抗生素有效 | 發炎消退、全身狀況改善後；RCT 中「延後」多定義為 **≥ 6 週** |
+| **GB drainage → delayed LC** | 風險高且抗生素無效；或 Grade III 不符合開刀條件 | 引流後何時開**沒有共識**；太早開（< 72 h–2 週）出血多、手術久，研究顯示**等 4–6 週**結果較好 |
+| **GB drainage → 不開** | PS 差到之後也無法手術 | 觀察；必要時長期引流 |
+
+### 時間軸
+
+<div class="tl"><div class="tl-grid">
+<div></div>
+<div class="tl-axis">到院 24 h</div>
+<div class="tl-axis">24–72 h</div>
+<div class="tl-axis">72 h–1 週</div>
+<div class="tl-axis">1–6 週</div>
+<div class="tl-axis">≥ 6 週</div>
+<div class="tl-label" style="grid-row:2;grid-column:1">Grade I／II 低風險</div>
+<div class="tl-bar tl-dual" style="grid-row:2;grid-column:2 / span 1">抗生素＋支持療法</div>
+<div class="tl-bar tl-triple" style="grid-row:2;grid-column:3 / span 2">Early LC（72 h 內最好，7 天內）</div>
+<div class="tl-label" style="grid-row:3;grid-column:1">I／II 高風險，抗生素有效</div>
+<div class="tl-bar tl-oac" style="grid-row:3;grid-column:2 / span 3">抗生素、觀察，等發炎消退</div>
+<div class="tl-bar tl-oac" style="grid-row:3;grid-column:5 / span 2">Delayed／elective LC</div>
+<div class="tl-label" style="grid-row:4;grid-column:1">抗生素無效（II）</div>
+<div class="tl-bar tl-dual" style="grid-row:4;grid-column:2 / span 1">抗生素</div>
+<div class="tl-bar tl-triple" style="grid-row:4;grid-column:3 / span 1">Urgent／early GB drainage</div>
+<div class="tl-bar tl-oac" style="grid-row:4;grid-column:5 / span 2">Delayed LC（常等 4–6 週）</div>
+<div class="tl-label" style="grid-row:5;grid-column:1">Grade III 符合條件</div>
+<div class="tl-bar tl-dual" style="grid-row:5;grid-column:2 / span 1">器官支持，確認 FOSF 恢復</div>
+<div class="tl-bar tl-triple" style="grid-row:5;grid-column:3 / span 1">Early LC（advanced center）</div>
+<div class="tl-label" style="grid-row:6;grid-column:1">Grade III 不符合</div>
+<div class="tl-bar tl-dual" style="grid-row:6;grid-column:2 / span 1">器官支持＋抗生素</div>
+<div class="tl-bar tl-triple" style="grid-row:6;grid-column:3 / span 1">Urgent／early GB drainage</div>
+<div class="tl-bar tl-oac" style="grid-row:6;grid-column:5 / span 2">PS 好 → delayed LC；差 → 觀察</div>
+</div><div class="tl-legend"><span class="l-triple">關鍵處置</span><span class="l-dual">初始治療</span><span class="l-oac">擇期</span></div></div>
+
+### 中途改變計畫的時機
+
+- **Grade I 選了保守治療，24 h 沒改善或惡化** → 重新評估：發病 **< 7 天且 PS 好 → 改 early LC**；不能開 → **GB drainage**
+- **嚴重度要每天重評**（診斷時、24 h 內、24–48 h）：Grade I 可能惡化成 II、III，路徑跟著改
+- **手術中發現太難**（無法達到 critical view of safety）→ **bail-out**（subtotal cholecystectomy、轉開腹），不要硬切
+
+> [!warning] Pitfall：把 cholangitis 的邏輯套到 cholecystitis
+> Cholangitis 的關鍵處置是**引流**（越重越早）；cholecystitis 的關鍵處置是**切除**，引流只用在「不能切」的人。==Grade III cholecystitis 不是一律引流，符合條件的人 TG18 允許 early LC。==
 
 ## 先懂兩個風險工具
 

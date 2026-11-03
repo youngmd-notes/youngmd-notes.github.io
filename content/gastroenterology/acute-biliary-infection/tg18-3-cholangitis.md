@@ -20,7 +20,74 @@ tags:
 >
 > ① [[gastroenterology/acute-biliary-infection/tg18-1-diagnosis|診斷與嚴重度]]｜② [[gastroenterology/acute-biliary-infection/tg18-2-initial-management|初始處置與 bundle]]｜③ Cholangitis 處置與膽道引流（本篇）｜④ [[gastroenterology/acute-biliary-infection/tg18-4-cholecystitis|Cholecystitis 處置與膽囊引流]]｜⑤ [[gastroenterology/acute-biliary-infection/tg18-5-antimicrobial|抗生素]]｜⑥ [[gastroenterology/acute-biliary-infection/tg18-exam|內專考點]]
 >
-> 本篇來源：Miura 2018（flowchart）、Mukai 2017（膽道引流技術）
+> 本篇來源：Miura 2018（flowchart）、Mukai 2017（膽道引流技術）、Kiriyama 2018（引流時機資料）、Gomi 2018（抗生素的角色）
+
+## 🧭 決策思維：什麼時候引流？
+
+### 先懂一件事：cholangitis 是「阻塞」造成的感染
+
+膽管阻塞 → **膽道壓力升高** → 感染的膽汁裡的細菌與 endotoxin 被**擠回血流** → 全身發炎、sepsis。所以：
+
+- **抗生素治不好阻塞**：膽道一阻塞，抗生素就**不會分泌到膽汁裡**；真正的 source control 是**減壓（引流）**
+- **抗生素的角色是「爭取時間」**：讓病人能從「必須緊急引流」變成「可以擇期引流」（老研究中約一半對抗生素反應好的病人因此改成擇期處理）
+- 所以引流時機的問題其實是：==**這個病人能不能靠抗生素撐到擇期？撐不住的代價多大？**==
+
+### 決策三問
+
+| 問題 | 為什麼要問 | 答案怎麼改變決定 |
+| --- | --- | --- |
+| **① 已經有器官衰竭了嗎？**（Grade III） | 已經 sepsis 合併器官衰竭，阻塞不解除就不會好 | 有 → **先穩定呼吸循環，然後盡快引流**；穩定與引流幾乎同步進行，不是等「完全穩定」 |
+| **② 還沒衰竭，但危險因子 ≥ 2 項嗎？**（Grade II） | Grade II 是「**還沒衰竭、但正在往衰竭走**」的人；日台資料中只有這群人早引流能**降低死亡率**（24 h 內 1.7% vs 3.4%） | 是 → **不等抗生素反應，早期引流**（與初始治療同時開始） |
+| **③ 對抗生素有反應嗎？**（Grade I） | Grade I 多數靠抗生素就會好，早引流的死亡率沒有差異 | **24 h 內有反應** → 完成抗生素、擇期處理病因；**沒反應或 CBD 有結石** → 比照 Grade II 引流 |
+
+> [!important] 一句話記決策
+> ==Grade III：救命 → 盡快引流；Grade II：預防惡化 → 早期引流；Grade I：給抗生素機會 → 24 h 沒反應才引流。==
+> Grade 越高，「等抗生素」的空間越小。
+
+### 時間軸
+
+TG 研究對時機的定義：**urgent = 入院當天（24 h 內）**、**early = 入院隔天（24–48 h）**。
+
+<div class="tl"><div class="tl-grid">
+<div></div>
+<div class="tl-axis">到院</div>
+<div class="tl-axis">24 h 內</div>
+<div class="tl-axis">24–48 h</div>
+<div class="tl-axis">全身狀況改善後</div>
+<div class="tl-axis">Cholangitis 緩解後</div>
+<div class="tl-label" style="grid-row:2;grid-column:1">Grade III</div>
+<div class="tl-bar tl-triple" style="grid-row:2;grid-column:2 / span 1">穩定呼吸循環＋抗生素</div>
+<div class="tl-bar tl-triple" style="grid-row:2;grid-column:3 / span 1">盡快 urgent drainage</div>
+<div class="tl-bar tl-oac" style="grid-row:2;grid-column:5 / span 1">處理病因（取石等）</div>
+<div class="tl-bar tl-oac" style="grid-row:2;grid-column:6 / span 1">有 GB stone → LC</div>
+<div class="tl-label" style="grid-row:3;grid-column:1">Grade II</div>
+<div class="tl-bar tl-dual" style="grid-row:3;grid-column:2 / span 1">抗生素＋支持療法</div>
+<div class="tl-bar tl-triple" style="grid-row:3;grid-column:3 / span 2">Early drainage（24 h 內最好，至遲 48 h）</div>
+<div class="tl-bar tl-oac" style="grid-row:3;grid-column:5 / span 1">處理病因＊</div>
+<div class="tl-bar tl-oac" style="grid-row:3;grid-column:6 / span 1">有 GB stone → LC</div>
+<div class="tl-label" style="grid-row:4;grid-column:1">Grade I</div>
+<div class="tl-bar tl-oac" style="grid-row:4;grid-column:2 / span 2">抗生素，觀察反應</div>
+<div class="tl-bar tl-dual" style="grid-row:4;grid-column:4 / span 1">24 h 無反應 → 引流</div>
+<div class="tl-bar tl-oac" style="grid-row:4;grid-column:5 / span 1">處理病因＊</div>
+<div class="tl-bar tl-oac" style="grid-row:4;grid-column:6 / span 1">有 GB stone → LC</div>
+</div><div class="tl-legend"><span class="l-triple">必須盡快做</span><span class="l-dual">視反應決定</span><span class="l-oac">可擇期</span></div></div>
+
+＊Mild／moderate 的 CBD stone、沒有抗凝或凝血異常 → **可以在引流時一起 EST＋取石**（single-stage），不必等到「改善後」。
+
+### 為什麼 Grade III「穩定後」才引流，不是「立刻衝 ERCP」？
+
+- 指引提醒：重症病人遇到**又長又不順的引流處置**，容易發生嚴重併發症；所以先把**呼吸、循環**穩住（必要時插管、升壓劑），再做
+- 這時的引流目標是**最快、最短的減壓**：放 stent 或 ENBD 就收工，**不要在同一次做 EST、取石**（Grade III 常合併凝血異常，EST 出血風險高）；若真要手術引流，也只放 T-tube 不取石
+- 日台資料中 Grade III 在 24 h 內引流和沒有引流的死亡率沒有差異，作者推測**可能需要更早（< 12 h）**才看得出效果，所以不是「可以慢慢來」，而是「穩定後要非常快」
+
+### 病因治療（取石）什麼時候做？
+
+| 情境 | 取石時機 | 理由 |
+| --- | --- | --- |
+| Mild／moderate、沒有凝血異常或抗凝 | **可以和引流同一次**（EST 後取石） | 治癒率、出血率和兩階段相同，住院較短 |
+| **Severe**、凝血異常、抗凝 | **先引流（stent），改善後再取** | Cholangitis 本身就增加 EST 出血，凝血異常更危險 |
+| **大顆或多顆結石**（需要 EPLBD） | **兩階段** | 發炎的膽管脆，一次大氣球擴張易出血或穿孔 |
+| 合併 GB stone | Cholangitis **緩解後做 cholecystectomy** | 膽囊結石仍是 CBD stone 的來源，不處理容易再發 |
 
 ## Figure 2：TG18 acute cholangitis 處置流程
 
