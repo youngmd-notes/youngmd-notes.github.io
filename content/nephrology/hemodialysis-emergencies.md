@@ -291,8 +291,73 @@ Dialyzer reaction 是對**透析膜本身**或**滅菌用的物質**過敏，現
 
 ## 🎯 內專考點
 
-> [!example] 待補
-> 這個主題的內專考古題重點卡尚未整理，之後補上。
+> [!example] 出題規律
+> 內專的 HD 題目大多考透析充分性、PD vs HD、何時開始透析等（不在本篇範圍）。和本篇相關的是**透析中低血壓的機轉**與 **AVF 理學檢查**（inflow vs outflow stenosis）。本篇的 DDS、air embolism、dialyzer reaction 目前沒有考古題，但是臨床上必須會的急症。
+
+題號格式為「年份-題號」，可到 [內專刷題網站](http://imboard.dirty-wolf.com/) 用「依年份練習」→「跳題」查看原題與詳解。每張卡片點開即可看到內容。
+
+### 透析中低血壓
+
+> [!note]- 111-66｜透析中低血壓的機轉，何者為非
+> **情境**：27 歲 ESKD 女性，血液透析中出現低血壓
+>
+> **問**：下列潛在機轉何者為非？
+> - 降壓藥 → 對（削弱血管收縮代償）
+> - 過度超濾脫水 → 對（最主要）
+> - 自律神經反應受損 → 對（DM、尿毒）
+> - 滲透壓變化 → 對（溶質快速清除，水移入細胞）
+> - 動靜脈瘻管血流較大 → **錯**
+>
+> **答**：**動靜脈瘻管血流較大**
+>
+> **重點**：透析中低血壓 = 血管內容積下降速度**超過** plasma refilling＋心血管與自律神經代償不足。高血流 AVF 造成的是 high-output heart failure、steal syndrome。處置：Trendelenburg、暫停或降低 UF、輸 saline；預防：延長時間或增加次數以降低 UF rate、重估乾體重、透析日延後吃降壓藥、避免透析中進食、**調低透析液溫度**（見上方「預防策略」表）。
+
+### Vascular access 理學檢查
+
+> [!note]- 111-55｜AVF 動脈端（inflow）狹窄的徵象
+> **情境**：例行檢查 AVF，找出 inflow stenosis 與灌流不足的徵象
+>
+> **問**：下列哪些符合？
+> - (1) 收縮期 pulsatility 增加、water hammer pulse → 錯（outflow stenosis）
+> - (2) 收縮期 pulsatility 減少 → 對
+> - (3) 舒張期塌陷、摸起來「空空的」 → 對
+> - (4) 高頻、不連續的 bruit → 對
+> - (5) Thrill 微弱 → 對
+> - (6) Pulse augmentation test 增強 → 錯（inflow 狹窄時 augmentation **差**）
+>
+> **答**：**(2)+(3)+(4)+(5)**
+>
+> **重點**：把徵象分成「**進不來**」（inflow：搏動弱、塌陷、thrill 弱、augmentation 差）與「**出不去**」（outflow：搏動強如 water hammer、**舉手時不會塌**、瘻管脹）。Outflow stenosis 也會提高 access 內壓，讓 aneurysm／pseudoaneurysm 變大（見上方 vascular access hemorrhage）。
+
+### 模擬題
+
+> [!question]- 模擬題 1（點開作答）
+> 70 歲男性，BUN 165、HCO₃⁻ 11，今天第一次血液透析。下列處方何者最能降低 dialysis disequilibrium syndrome 的風險？
+>
+> (A) 血流 400 mL/min、透析 4 小時
+> (B) 血流 200 mL/min、透析 2 小時
+> (C) 降低透析液 Na
+> (D) 提高脫水量
+> (E) 使用最大面積的高效率 dialyzer
+>
+> > [!success]- 答案與詳解
+> > **答案：(B)**
+> >
+> > 首次透析、BUN 很高、酸中毒都是 DDS 危險因子。預防重點是**低效率**：低血流（約 200 mL/min）、短時間（約 2 小時），BUN 降幅不超過 40%；提高（不是降低）透析液 Na 也有幫助。
+
+> [!question]- 模擬題 2（點開作答）
+> 透析開始約 10 分鐘，病人全身搔癢、喘、wheezing，血壓從 150/90 降到 80/50。下列處置何者**錯誤**？
+>
+> (A) 立即停止透析
+> (B) 將管路內的血液回輸給病人以減少失血
+> (C) 給予 epinephrine
+> (D) 下次改用不同滅菌方式的 dialyzer
+> (E) 若病人服用 ACEI 且使用 AN69 膜，應避免此組合
+>
+> > [!success]- 答案與詳解
+> > **答案：(B)**
+> >
+> > 開始 20–30 分鐘內的嚴重過敏 → **type A dialyzer reaction**。要停機且**不回輸**管路血（避免再接觸致敏物）；依需要給 epinephrine、輸液、類固醇、抗組織胺。
 
 ## 相關筆記
 

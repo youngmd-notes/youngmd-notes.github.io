@@ -6,7 +6,7 @@ title: 內專考點總覽
 > 這頁會**自動彙整**所有筆記裡的「🎯 內專考點」，每次網站更新時重新產生，不需要手動編輯。
 > 「考過次數」把重複出現的同一題分開計算（例如 106-132／108-94 算 2 次），越多次代表越常考。
 
-目前共整理 **55 次考題**，分布在 **4 篇筆記、20 個考點**。
+目前共整理 **83 次考題**，分布在 **9 篇筆記、38 個考點**。
 
 ## 最常考的考點
 
@@ -18,20 +18,130 @@ title: 內專考點總覽
 | [[cardiology/atrial-fibrillation/af-exam#中風風險評估：CHA₂DS₂-VASc\|中風風險評估：CHA₂DS₂-VASc]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 104、105、114 |
 | [[cardiology/atrial-fibrillation/af-exam#抗凝中出血、中風或要做處置\|抗凝中出血、中風或要做處置]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 104、108、112、114 |
 | [[cardiology/atrial-fibrillation/af-exam#Rate 與 rhythm control\|Rate 與 rhythm control]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 108、109、111 |
+| [[nephrology/calcium-phosphate-disorders#CKD-MBD 的病生理\|CKD-MBD 的病生理]] | [[nephrology/calcium-phosphate-disorders#🎯 內專考點\|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]] | 3 | 105、107、114 |
+| [[nephrology/high-anion-gap-metabolic-acidosis#酸鹼判讀：AG＋Winter's formula\|酸鹼判讀：AG＋Winter's formula]] | [[nephrology/high-anion-gap-metabolic-acidosis#🎯 內專考點\|高陰離子間隙代謝性酸中毒 High Anion Gap Metabolic Acidosis]] | 3 | 106、107、114 |
+| [[nephrology/calcium-phosphate-disorders#低血鎂\|低血鎂]] | [[nephrology/calcium-phosphate-disorders#🎯 內專考點\|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]] | 3 | 107、112、113 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#膽管擴張：CBD stone 還是其他？\|膽管擴張：CBD stone 還是其他？]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 109、110、113 |
 | [[endocrinology/dka-hhs#SGLT2 inhibitor\|SGLT2 inhibitor]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 3 | 108、109、113 |
 | [[endocrinology/dka-hhs#酸鹼與電解質\|酸鹼與電解質]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 3 | 110、112 |
+| [[nephrology/renal-tubular-acidosis#Type 4 RTA：糖尿病\|Type 4 RTA：糖尿病]] | [[nephrology/renal-tubular-acidosis#🎯 內專考點\|腎小管酸中毒 Renal Tubular Acidosis]] | 3 | 104、106、109 |
 | [[cardiology/atrial-fibrillation/af-exam#DOAC 的機轉與解毒劑\|DOAC 的機轉與解毒劑]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 105、107、109 |
 | [[endocrinology/dka-hhs#鑑別診斷\|鑑別診斷]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 3 | 106、107、109 |
+| [[nephrology/renal-tubular-acidosis#鑑別：低血鉀但是鹼中毒\|鑑別：低血鉀但是鹼中毒]] | [[nephrology/renal-tubular-acidosis#🎯 內專考點\|腎小管酸中毒 Renal Tubular Acidosis]] | 2 | 104、114 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#Gallstone pancreatitis\|Gallstone pancreatitis]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 109、114 |
+| [[nephrology/renal-tubular-acidosis#Distal RTA：Sjögren syndrome\|Distal RTA：Sjögren syndrome]] | [[nephrology/renal-tubular-acidosis#🎯 內專考點\|腎小管酸中毒 Renal Tubular Acidosis]] | 2 | 107、112 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#Cholecystitis 的手術時機\|Cholecystitis 的手術時機]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 111、112 |
 | [[cardiology/atrial-fibrillation/af-exam#Cardioversion 前後的抗凝\|Cardioversion 前後的抗凝]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 107、109 |
 | [[pulmonology/emergent-airway-management#HFNC 的生理效應\|HFNC 的生理效應]] | [[pulmonology/emergent-airway-management#🎯 內專考點\|緊急呼吸道處置 Emergent Airway Management]] | 1 | 114 |
+| [[nephrology/calcium-phosphate-disorders#低血鈣\|低血鈣]] | [[nephrology/calcium-phosphate-disorders#🎯 內專考點\|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]] | 1 | 113 |
+| [[nephrology/hemodialysis-emergencies#透析中低血壓\|透析中低血壓]] | [[nephrology/hemodialysis-emergencies#🎯 內專考點\|血液透析急症 Hemodialysis Emergencies]] | 1 | 111 |
+| [[nephrology/hemodialysis-emergencies#Vascular access 理學檢查\|Vascular access 理學檢查]] | [[nephrology/hemodialysis-emergencies#🎯 內專考點\|血液透析急症 Hemodialysis Emergencies]] | 1 | 111 |
 | [[cardiology/atrial-fibrillation/af-exam#瓣膜性 AF 與機械瓣\|瓣膜性 AF 與機械瓣]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 1 | 111 |
 | [[pulmonology/emergent-airway-management#氧氣治療裝置\|氧氣治療裝置]] | [[pulmonology/emergent-airway-management#🎯 內專考點\|緊急呼吸道處置 Emergent Airway Management]] | 1 | 111 |
+| [[nephrology/calcium-phosphate-disorders#低血磷\|低血磷]] | [[nephrology/calcium-phosphate-disorders#🎯 內專考點\|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]] | 1 | 110 |
+| [[nephrology/calcium-phosphate-disorders#高血磷\|高血磷]] | [[nephrology/calcium-phosphate-disorders#🎯 內專考點\|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]] | 1 | 110 |
+| [[nephrology/high-anion-gap-metabolic-acidosis#Lactic acidosis：Metformin\|Lactic acidosis：Metformin]] | [[nephrology/high-anion-gap-metabolic-acidosis#🎯 內專考點\|高陰離子間隙代謝性酸中毒 High Anion Gap Metabolic Acidosis]] | 1 | 110 |
 | [[endocrinology/dka-hhs#DKA 處置\|DKA 處置]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 1 | 110 |
+| [[nephrology/calcium-phosphate-disorders#高血鈣：Primary hyperparathyroidism\|高血鈣：Primary hyperparathyroidism]] | [[nephrology/calcium-phosphate-disorders#🎯 內專考點\|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]] | 1 | 109 |
+| [[nephrology/renal-tubular-acidosis#Normal AG acidosis 的下一步\|Normal AG acidosis 的下一步]] | [[nephrology/renal-tubular-acidosis#🎯 內專考點\|腎小管酸中毒 Renal Tubular Acidosis]] | 1 | 109 |
+| [[nephrology/skin-disorders-in-kidney-disease#Cutaneous lupus\|Cutaneous lupus]] | [[nephrology/skin-disorders-in-kidney-disease#🎯 內專考點\|腎臟病的皮膚疾病 Skin Disorders in Kidney Disease]] | 1 | 109 |
+| [[nephrology/calcium-phosphate-disorders#CKD 鈣磷藥物\|CKD 鈣磷藥物]] | [[nephrology/calcium-phosphate-disorders#🎯 內專考點\|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]] | 1 | 108 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#Cholecystitis 的影像\|Cholecystitis 的影像]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 1 | 108 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#Cholangitis：引流＋抗生素\|Cholangitis：引流＋抗生素]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 1 | 107 |
+| [[nephrology/high-anion-gap-metabolic-acidosis#Toxic alcohol 與 osmolal gap\|Toxic alcohol 與 osmolal gap]] | [[nephrology/high-anion-gap-metabolic-acidosis#🎯 內專考點\|高陰離子間隙代謝性酸中毒 High Anion Gap Metabolic Acidosis]] | 1 | 106 |
+| [[nephrology/skin-disorders-in-kidney-disease#血管鈣化與 calciphylaxis 的藥物\|血管鈣化與 calciphylaxis 的藥物]] | [[nephrology/skin-disorders-in-kidney-disease#🎯 內專考點\|腎臟病的皮膚疾病 Skin Disorders in Kidney Disease]] | 1 | 104 |
+
+## 腎臟科 Nephrology
+
+### 鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders
+
+**[[nephrology/calcium-phosphate-disorders#CKD-MBD 的病生理|CKD-MBD 的病生理]]**（3 次）
+
+- 105-82／107-69｜CKD 礦物質代謝，方向判斷
+- 114-60｜腎性骨病變，哪一個最早發生
+
+**[[nephrology/calcium-phosphate-disorders#CKD 鈣磷藥物|CKD 鈣磷藥物]]**（1 次）
+
+- 108-67｜CKD 鈣磷治療，何者錯誤
+
+**[[nephrology/calcium-phosphate-disorders#高血鈣：Primary hyperparathyroidism|高血鈣：Primary hyperparathyroidism]]**（1 次）
+
+- 109-67｜反覆腎結石、Ca 13、iPTH 150、sestamibi 有攝取
+
+**[[nephrology/calcium-phosphate-disorders#低血鈣|低血鈣]]**（1 次）
+
+- 113-72｜全甲狀腺切除後 4 天，Trousseau sign 陽性
+
+**[[nephrology/calcium-phosphate-disorders#低血磷|低血磷]]**（1 次）
+
+- 110-60｜T1DM 營養不良，靜脈營養第 3 天 P 0.8
+
+**[[nephrology/calcium-phosphate-disorders#高血磷|高血磷]]**（1 次）
+
+- 110-63｜哪些會造成高血磷
+
+**[[nephrology/calcium-phosphate-disorders#低血鎂|低血鎂]]**（3 次）
+
+- 107-83｜DM 病人用 thiazide 與 PPI 後手足抽搐
+- 113-64｜補充鎂有幫助的情境，何者除外
+- 112-62｜小細胞肺癌合併 Cushing、cisplatin，K 1.9
+
+### 血液透析急症 Hemodialysis Emergencies
+
+**[[nephrology/hemodialysis-emergencies#透析中低血壓|透析中低血壓]]**（1 次）
+
+- 111-66｜透析中低血壓的機轉，何者為非
+
+**[[nephrology/hemodialysis-emergencies#Vascular access 理學檢查|Vascular access 理學檢查]]**（1 次）
+
+- 111-55｜AVF 動脈端（inflow）狹窄的徵象
+
+### 高陰離子間隙代謝性酸中毒 High Anion Gap Metabolic Acidosis
+
+**[[nephrology/high-anion-gap-metabolic-acidosis#酸鹼判讀：AG＋Winter's formula|酸鹼判讀：AG＋Winter's formula]]**（3 次）
+
+- 114-61｜意識混亂、呼吸急促，HAGMA 合併 respiratory alkalosis
+- 106-76｜結核病人用 INH 後抽搐，HAGMA 代償適當
+- 107-88｜ICU 病人 pH 正常但 PaCO₂ 67、HCO₃⁻ 42
+
+**[[nephrology/high-anion-gap-metabolic-acidosis#Toxic alcohol 與 osmolal gap|Toxic alcohol 與 osmolal gap]]**（1 次）
+
+- 106-86｜酒癮病人倒臥旅館，HAGMA＋osmolal gap 35
+
+**[[nephrology/high-anion-gap-metabolic-acidosis#Lactic acidosis：Metformin|Lactic acidosis：Metformin]]**（1 次）
+
+- 110-64｜CKD G4 病人用口服降血糖藥，AG 26、補 bicarbonate 無效
+
+### 腎小管酸中毒 Renal Tubular Acidosis
+
+**[[nephrology/renal-tubular-acidosis#Type 4 RTA：糖尿病|Type 4 RTA：糖尿病]]**（3 次）
+
+- 106-69／109-78｜糖尿病造成的 RTA，何者正確
+- 104-90｜DM 20 年、renin 與 aldosterone 都低，預測酸鹼
+
+**[[nephrology/renal-tubular-acidosis#Distal RTA：Sjögren syndrome|Distal RTA：Sjögren syndrome]]**（2 次）
+
+- 107-68｜關節痛＋乾眼的女性，低血鉀 normal AG acidosis
+- 112-71｜Sjögren 病人，尿 pH 6.0、UAG 正值
+
+**[[nephrology/renal-tubular-acidosis#鑑別：低血鉀但是鹼中毒|鑑別：低血鉀但是鹼中毒]]**（2 次）
+
+- 114-59｜血壓正常、低血鉀、代謝性鹼中毒、高尿鈣
+- 104-66｜年輕女性抽筋、低血鉀鹼中毒、血鎂正常
+
+**[[nephrology/renal-tubular-acidosis#Normal AG acidosis 的下一步|Normal AG acidosis 的下一步]]**（1 次）
+
+- 109-73｜腹瀉＋自行吃瀉劑與利尿劑，下一步檢查
+
+### 腎臟病的皮膚疾病 Skin Disorders in Kidney Disease
+
+**[[nephrology/skin-disorders-in-kidney-disease#血管鈣化與 calciphylaxis 的藥物|血管鈣化與 calciphylaxis 的藥物]]**（1 次）
+
+- 104-70｜CKD 病人哪些藥物不會加重血管鈣化
+
+**[[nephrology/skin-disorders-in-kidney-disease#Cutaneous lupus|Cutaneous lupus]]**（1 次）
+
+- 109-200｜年輕男性臉部紫紅色鱗屑斑塊（看圖）
 
 ## 心臟科 Cardiology
 
@@ -162,12 +272,7 @@ title: 內專考點總覽
 
 ## 還沒有內專考點的筆記
 
-- [[nephrology/calcium-phosphate-disorders|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]]（腎臟科 Nephrology）
-- [[nephrology/hemodialysis-emergencies|血液透析急症 Hemodialysis Emergencies]]（腎臟科 Nephrology）
-- [[nephrology/high-anion-gap-metabolic-acidosis|高陰離子間隙代謝性酸中毒 High Anion Gap Metabolic Acidosis]]（腎臟科 Nephrology）
 - [[nephrology/hyponatremia|低血鈉 Hyponatremia]]（腎臟科 Nephrology）
-- [[nephrology/renal-tubular-acidosis|腎小管酸中毒 Renal Tubular Acidosis]]（腎臟科 Nephrology）
 - [[nephrology/siadh|SIADH]]（腎臟科 Nephrology）
-- [[nephrology/skin-disorders-in-kidney-disease|腎臟病的皮膚疾病 Skin Disorders in Kidney Disease]]（腎臟科 Nephrology）
 
 點開各考點即可跳到筆記裡的題目重點卡；原題與詳解請到 [內專刷題網站](http://imboard.dirty-wolf.com/) 依題號查詢。

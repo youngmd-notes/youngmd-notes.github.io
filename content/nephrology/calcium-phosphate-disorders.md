@@ -363,8 +363,182 @@ flowchart LR
 
 ## 🎯 內專考點
 
-> [!example] 待補
-> 這個主題的內專考古題重點卡尚未整理，之後補上。
+> [!example] 出題規律
+> 最常考 **CKD-MBD 的連鎖方向**（FGF-23 ↑、1,25(OH)₂D ↓、Ca ↓、PTH ↑，考了 3 次）與 **CKD 鈣磷藥物的副作用**（cinacalcet 造成**低**血鈣）。其次是**低血鎂**（PPI＋thiazide 造成 tetany、補鎂的適應症）、**術後低血鈣的急救**、**refeeding 低血磷**。
+
+題號格式為「年份-題號」，可到 [內專刷題網站](http://imboard.dirty-wolf.com/) 用「依年份練習」→「跳題」查看原題與詳解。每張卡片點開即可看到內容。
+
+### CKD-MBD 的病生理
+
+> [!note]- 105-82／107-69｜CKD 礦物質代謝，方向判斷
+> **情境**：CKD 病人的礦物質代謝（107 年：CKD stage 5，Ca 8.7、P 6.8）
+>
+> **問**：下列敘述何者正確（105 年）／何者不正確（107 年）？
+> - PTH 生成增加 → 對
+> - **FGF-23 生成減少** → 錯（FGF-23 是**增加**，而且最早上升）
+> - 腎臟排磷總量增加 → 錯（每個殘存 nephron 的 FEPO₄ 上升，但**總排磷量下降**、磷滯留）
+> - 1,25(OH)₂D 生成減少 → 對
+> - 血鈣下降 → 對
+> - 高血磷刺激 PTH、磷滯留造成低血鈣、低 calcitriol 使腸道鈣吸收減少 → 都對
+>
+> **答**：105 年選 **PTH ↑＋1,25(OH)₂D ↓＋Ca ↓**；107 年選「**低血鈣與 FGF-23 減少**造成腎性骨病變」為不正確
+>
+> **重點**：連鎖是 **磷滯留 → FGF-23 ↑ → 1,25(OH)₂D ↓ → 腸道鈣吸收 ↓、Ca ↓ → PTH ↑**。FGF-23 的方向是最常見陷阱。
+
+> [!note]- 114-60｜腎性骨病變，哪一個最早發生
+> **情境**：CKD 腎功能惡化，腎性骨病變的致病機轉
+>
+> **問**：何者最早發生？（nephron 減少使 1,25(OH)₂D 合成減少／磷滯留造成高血磷／osteocyte 增加 FGF-23 合成／低 ionized Ca／副甲狀腺增生與 secondary HPT）
+>
+> **答**：**磷滯留造成高血磷**（官方答案）
+>
+> **重點**：官方依傳統鏈條「磷滯留是起點」作答。但現代研究（CRIC）與本篇參考資料都指出 **FGF-23 上升最早**，血磷要到很晚期、代償撐不住才升高，這題有爭議。作答照官方，觀念要知道 FGF-23 先升。
+
+### CKD 鈣磷藥物
+
+> [!note]- 108-67｜CKD 鈣磷治療，何者錯誤
+> **情境**：CKD 病人常合併鈣磷異常
+>
+> **問**：有關治療何者錯誤？
+> - 低磷飲食有助預防 secondary HPT → 對
+> - Calcitriol 抑制 PTH，副作用高血鈣 → 對
+> - **Cinacalcet 抑制 PTH，副作用高血鈣** → 錯
+> - 含鈣磷結合劑抑制 PTH，副作用高血鈣 → 對
+> - Sevelamer、lanthanum 抑制磷吸收、不會高血鈣 → 對
+>
+> **答**：**Cinacalcet 的副作用是高血鈣**（錯）
+>
+> **重點**：Calcimimetic 活化副甲狀腺 **CaSR** → PTH ↓，同時**血鈣下降**，主要副作用是**低血鈣**與噁心嘔吐。不要和 active vitamin D（會高血鈣）搞混。
+
+### 高血鈣：Primary hyperparathyroidism
+
+> [!note]- 109-67｜反覆腎結石、Ca 13、iPTH 150、sestamibi 有攝取
+> **情境**：49 歲男性，近幾年反覆排出尿路結石，無其他症狀
+> - Cr 1.4（eGFR 57）、**Ca 13**、**iPTH 150**
+> - Sestamibi：右側甲狀腺位置 intense uptake
+>
+> **問**：處置何者正確？
+> - (1) 低鈣高磷飲食 → 錯（不建議限鈣）
+> - (2) 用 thiazide 預防結石 → 錯（thiazide 減少尿鈣排泄，**讓血鈣更高**）
+> - (3) Bisphosphonate 預防骨質疏鬆 → 對
+> - (4) Cinacalcet 降血鈣 → 對
+> - (5) 副甲狀腺切除 → 對
+>
+> **答**：**(3)+(4)+(5)**
+>
+> **重點**：高血鈣時 PTH 不被抑制 → primary HPT；有症狀（結石）→ **手術**。無症狀者若血鈣超過上限 1 mg/dL、< 50 歲、骨質疏鬆或骨折、eGFR < 60、腎結石或高尿鈣，也建議手術。Cinacalcet 降鈣、bisphosphonate 護骨，兩者互補。
+
+### 低血鈣
+
+> [!note]- 113-72｜全甲狀腺切除後 4 天，Trousseau sign 陽性
+> **情境**：41 歲男性，4 天前做全甲狀腺切除；2 天噁心、腹瀉，24 小時內口周麻木、上肢肌肉痙攣；量血壓時壓脈帶引起腕部痙攣（**Trousseau sign**）
+> - Na 138、K 4.2、Cl 102、HCO₃⁻ 25、**Mg 1.7 mg/dL（正常）**、P 4.3
+> - 25(OH)D 20 ng/mL、**PTH 2 pg/mL**
+>
+> **問**：最合適的初始藥物治療？（口服 vitamin D／皮下 PTH／IV 鎂／IV calcium gluconate／IV NaHCO₃）
+>
+> **答**：**IV calcium gluconate**
+>
+> **重點**：術後 **hypoparathyroidism** 造成有症狀的急性低血鈣 → 先 IV 鈣。Mg 正常不需先補；口服 vitamin D 太慢（且缺 PTH 時要用 active vitamin D）；**bicarbonate 造成鹼中毒會讓 ionized Ca 更低**。和 hungry bone syndrome 區分：後者 PTH 正常或高、低磷、低鎂。
+
+### 低血磷
+
+> [!note]- 110-60｜T1DM 營養不良，靜脈營養第 3 天 P 0.8
+> **情境**：26 歲 T1DM 女性，食慾差，一個月體重減 3 kg（6%）；住院後因厭食給 partial parenteral nutrition，第 3 天 **P 0.8 mg/dL**
+>
+> **問**：急性低血磷最可能的機轉？（DKA 急性期／hungry bone／primary hypoparathyroidism／腎臟漏磷／磷移入細胞內）
+>
+> **答**：**磷移入細胞內**
+>
+> **重點**：**Refeeding syndrome**：營養不良後重新給熱量 → insulin 上升 → 葡萄糖與磷進入細胞。DKA 治療**前**血磷常正常或偏高（治療後才低）；hypoparathyroidism 是**高**血磷；腎臟漏磷要有尿磷流失的證據。
+
+### 高血磷
+
+> [!note]- 110-63｜哪些會造成高血磷
+> **情境**：高血磷的原因
+>
+> **問**：下列哪些會造成高血磷？
+> - (1) Vitamin D 中毒 → 對（腸道吸收增加）
+> - (2) 代謝性鹼中毒 → 錯（磷移入細胞，偏向低血磷）
+> - (3) Primary hyperparathyroidism → 錯（PTH 排磷 → 低血磷）
+> - (4) 嚴重低血鎂 → 對（官方：功能性 hypoparathyroidism → 腎排磷減少；機轉間接）
+> - (5) Tumor lysis syndrome → 對
+>
+> **答**：**(1)+(4)+(5)**
+>
+> **重點**：Primary HPT 是**高鈣低磷**，hypoparathyroidism 是**低鈣高磷**。(4) 並非教科書常列的高磷原因，靠排除 (2)(3) 選出答案。
+
+### 低血鎂
+
+> [!note]- 107-83｜DM 病人用 thiazide 與 PPI 後手足抽搐
+> **情境**：55 歲糖尿病，因蛋白尿、高血壓開始用 thiazide／valsartan，近兩個月因胃食道逆流加 **PPI**；這次容易手足抽搐（tetany）
+>
+> **問**：新症狀最可能與哪一個電解質異常相關？（低血鈉／低血鉀／代謝性鹼中毒／低血鎂／低血鈣）
+>
+> **答**：**低血鎂**
+>
+> **重點**：**Thiazide** 讓腎臟流失鎂，**PPI** 減少腸道 TRPM6／7 吸收鎂，兩者疊加。低血鎂直接增加神經肌肉興奮性，也抑制 PTH 造成**續發**低血鈣——低血鈣不是根本原因，不補鎂就矯正不了。
+
+> [!note]- 113-64｜補充鎂有幫助的情境，何者除外
+> **情境**：鎂離子異常常被忽略；適當補充有助於治療或預防併發症
+>
+> **問**：何者除外？
+> - CKD 合併低血鈣與**低血磷** → **除外**
+> - Torsades de pointes → 補鎂有益（IV MgSO₄ 首選）
+> - 急性致命性氣喘發作 → 補鎂有益
+> - Preeclampsia／eclampsia → 補鎂有益
+> - 頑固性低血鉀 → 補鎂有益
+>
+> **答**：**CKD 合併低血鈣與低血磷**
+>
+> **重點**：CKD 傾向**高血鎂、高血磷**，補鎂反而有累積風險。頑固性低血鉀要先補鎂：低血鎂解除對 ROMK 的抑制 → 腎臟持續排鉀。
+
+> [!note]- 112-62｜小細胞肺癌合併 Cushing、cisplatin，K 1.9
+> **情境**：SCLC 合併 Cushing syndrome，接受 cisplatin 化療，因低血鉀照會
+> - Albumin 2.9、BUN 40、Cr 2.6、Na 146、**K 1.9**、Cl 89、**Mg 1.7 mg/dL**、plasma osm 300
+> - ABG（鼻導管 4 L）：pH 7.48、PaO₂ 91、**PaCO₂ 58**、HCO₃⁻ 40
+> - 尿液：Na 34、K 22、Cl 46、osm 320
+>
+> **問**：哪些判讀合理？
+> - (1) 低血鉀可能與 Cushing 有關 → 對（大量 cortisol 活化 mineralocorticoid receptor）
+> - (2) 算 TTKG 可排除腎臟流失 → 錯（TTKG ≈ 10.9 → 腎臟流失）
+> - (3) 同時矯正低血鎂有助矯正低血鉀 → 對
+> - (4) Metabolic alkalosis 合併適當呼吸代償 → 錯
+> - (5) 混合型：metabolic alkalosis＋respiratory acidosis → 對（預期 PaCO₂ 約 48，實測 58 太高）
+>
+> **答**：**(1)+(3)+(5)**
+>
+> **重點**：Cisplatin 造成腎臟流失鎂；低血鎂讓 ROMK 去抑制 → 遠端持續排鉀，**要一起補鎂**低血鉀才補得起來。
+
+### 模擬題
+
+> [!question]- 模擬題 1（點開作答）
+> 肝硬化病人因車禍出血改用 citrate 抗凝做 CRRT，第 3 天血壓變差、AG 再度升高。下列檢驗變化何者最符合 citrate accumulation？
+>
+> (A) Total Ca ↓、ionized Ca ↓
+> (B) Total Ca ↑、ionized Ca ↑
+> (C) Total Ca ↑、ionized Ca ↓
+> (D) Total Ca ↓、ionized Ca ↑
+> (E) Total／ionized Ca 比值下降
+>
+> > [!success]- 答案與詳解
+> > **答案：(C)**
+> >
+> > 肝臟代謝 citrate 的能力不足 → citrate 累積、結合 Ca → **ionized Ca 下降**，但 total Ca 會連結合 citrate 的 Ca 一起測到而**上升**；**total／ionized 比值 > 2.5（都用 mmol/L）**、AG 升高。
+
+> [!question]- 模擬題 2（點開作答）
+> 年輕女性月經過多造成缺鐵，打 ferric carboxymaltose 兩次後全身無力，P 0.9 mg/dL，Ca 正常。下列何者錯誤？
+>
+> (A) 機轉是 FGF-23 急性升高
+> (B) 尿磷排泄會增加
+> (C) 低血磷可能持續 1–3 個月以上
+> (D) 下次缺鐵可再打同一種藥物，只要預先補磷即可
+> (E) 重複療程可能造成 osteomalacia、骨折
+>
+> > [!success]- 答案與詳解
+> > **答案：(D)**
+> >
+> > Ferric carboxymaltose 讓有活性的 FGF-23 急性上升 → 腎臟漏磷（腎漏磷＋**沒有高血鈣** → FGF-23 過多）。曾發生過的病人下次應**改用其他 IV iron**（ferric derisomaltose、iron sucrose 等低血磷風險較低）。
 
 ## 相關筆記
 

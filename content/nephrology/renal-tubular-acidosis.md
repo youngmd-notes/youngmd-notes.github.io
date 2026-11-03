@@ -255,8 +255,136 @@ flowchart TD
 
 ## 🎯 內專考點
 
-> [!example] 待補
-> 這個主題的內專考古題重點卡尚未整理，之後補上。
+> [!example] 出題規律
+> 兩大題型反覆出現：**糖尿病 → type 4 RTA（高血鉀）**（考了 3 次），以及 **Sjögren＋低血鉀 normal AG acidosis＋尿液無法酸化 → distal RTA**（考了 2 次）。另外常用「低血鉀但其實是**鹼中毒**」的 Bartter／Gitelman 來混淆。
+
+題號格式為「年份-題號」，可到 [內專刷題網站](http://imboard.dirty-wolf.com/) 用「依年份練習」→「跳題」查看原題與詳解。每張卡片點開即可看到內容。
+
+> [!tip] 考題用 UAG，本篇參考資料建議 UOG
+> 考古題詳解都用 **urine anion gap（UAG）** 判斷 NH₄⁺ 排泄（正值 → RTA；負值 → 腸胃道流失）。本篇的 Core Curriculum 2025 則建議改用**直接測 NH₄⁺ 或 urine osmolal gap**，因為 UAG 在低血容、尿中有其他陰離子時不準。考試照題目給的數據算即可。
+
+### Type 4 RTA：糖尿病
+
+> [!note]- 106-69／109-78｜糖尿病造成的 RTA，何者正確
+> **情境**：長期糖尿病造成的腎小管酸中毒
+>
+> **問**：何者正確？
+> - 常出現 hyperkalemia → **對**
+> - 最常是 type 2 RTA → 錯（DM 造成的是 type 4）
+> - 酸中毒很嚴重，需要 IV bicarbonate → 錯（通常輕度）
+> - 因為 aldosterone（106 年）／renin 與 aldosterone（109 年）很高 → 錯（兩者都**低**）
+> - Collecting tubule 無法排 H⁺（106 年）／尿液無法酸化、urine pH > 6.5（109 年）→ 錯（這是 **type 1** 的特徵）
+>
+> **答**：**常出現 hyperkalemia**
+>
+> **重點**：DM nephropathy → **hyporeninemic hypoaldosteronism** → K⁺ 與 H⁺ 排不出去；高血鉀又抑制近端 NH₃ 生成。遠端還能酸化，**urine pH < 5.5**。
+
+> [!note]- 104-90｜DM 20 年、renin 與 aldosterone 都低，預測酸鹼
+> **情境**：72 歲男性，糖尿病 20 年，BUN 32、Cr 1.8，**renin 與 aldosterone 都偏低**
+>
+> **問**：預測酸鹼與鉀？（完全正常／低鉀＋代謝性酸中毒／低鉀＋代謝性鹼中毒／高鉀＋代謝性鹼中毒／高鉀＋代謝性酸中毒）
+>
+> **答**：**高鉀＋代謝性酸中毒**
+>
+> **重點**：Aldosterone 不足 → 留 K⁺、少排酸 → **type 4 RTA**（normal AG）。低鉀＋鹼中毒是 aldosterone **過多**的表現，方向剛好相反。
+
+### Distal RTA：Sjögren syndrome
+
+> [!note]- 107-68｜關節痛＋乾眼的女性，低血鉀 normal AG acidosis
+> **情境**：55 歲女性，長期關節痛、**乾眼**、常用 NSAID；疲倦無力
+> - Cr 1.0、Na 139、**K 3.3**、Cl 115；pH 7.26、HCO₃⁻ 14
+> - 尿液：**pH 7.0**、glucose (−)、protein (−)；Na 35、K 40、Cl 18
+>
+> **問**：酸中毒最符合？（chronic diarrhea／type 1／type 2／type 4 RTA／DKA）
+>
+> **答**：**Type 1（distal）RTA**
+>
+> **重點**：
+> - AG = 139 − 115 − 14 = 10 → normal AG acidosis＋低血鉀
+> - UAG = 35 + 40 − 18 = **+57** → NH₄⁺ 排不夠 → 腎臟問題，不是 diarrhea
+> - 酸中毒時尿 pH 仍 7.0 → 遠端無法酸化；Sjögren 是典型病因
+> - Type 2：常合併 Fanconi（尿糖），穩定期尿 pH < 5.5；type 4：高血鉀；DKA：high AG
+
+> [!note]- 112-71｜Sjögren 病人，尿 pH 6.0、UAG 正值
+> **情境**：Sjögren syndrome 病史
+> - Na 139、Cl 115、HCO₃⁻ 15、**K 3.0**
+> - 尿液：**pH 6.0**、Na 35、K 20、Cl 42
+>
+> **問**：最可能的診斷？（chronic diarrhea／type I／type II／type III／type IV RTA）
+>
+> **答**：**Type I RTA**
+>
+> **重點**：AG = 9；UAG = 35 + 20 − 42 = **+13**（正值）；低鉀＋尿 pH > 5.5 → distal RTA。Type III 是 carbonic anhydrase II 缺乏的混合型（合併 osteopetrosis），非常罕見。
+
+### 鑑別：低血鉀但是鹼中毒
+
+> [!note]- 114-59｜血壓正常、低血鉀、代謝性鹼中毒、高尿鈣
+> **情境**：36 歲女性倦怠，**血壓正常、無水腫**；低血鉀、**metabolic alkalosis**；尿蛋白 (−)、尿糖 (−)、**hypercalciuria**
+>
+> **問**：最可能的診斷？（Bartter／Gitelman／Liddle／Fanconi／Sjögren syndrome）
+>
+> **答**：**Bartter syndrome**
+>
+> **重點**：
+> - **鹼中毒** → 排除 Fanconi（proximal RTA）與 Sjögren（distal RTA），兩者都是**酸中毒**
+> - **血壓正常** → 排除 Liddle（高血壓、低 renin）
+> - **高尿鈣** → Bartter（像 loop diuretic）；Gitelman 是低尿鈣＋低血鎂（像 thiazide）
+
+> [!note]- 104-66｜年輕女性抽筋、低血鉀鹼中毒、血鎂正常
+> **情境**：24 歲女性，肌肉抽筋、全身無力；BP 112/70
+> - K 2.6、Cl 85、HCO₃⁻ 41、pH 7.53；**Mg 0.9 mmol/L（正常）**、Ca 2.38 mmol/L
+> - 尿 K 33 mmol/d、TTKG 11.7；renin、aldosterone 都升高；附腎臟超音波
+>
+> **問**：哪一組診斷正確？（Fanconi、Bartter、Gitelman、長期用 thiazide、長期用 loop diuretic 的組合）
+>
+> **答**：**Bartter syndrome＋長期用 loop diuretic**
+>
+> **重點**：血壓正常的低血鉀鹼中毒＋renin、aldosterone 高 → 像利尿劑的表現型。**血鎂正常** → 不支持 Gitelman／thiazide 那一組；Fanconi 是酸中毒。機轉相同的配對才是答案（Bartter ≈ loop、Gitelman ≈ thiazide）。
+
+### Normal AG acidosis 的下一步
+
+> [!note]- 109-73｜腹瀉＋自行吃瀉劑與利尿劑，下一步檢查
+> **情境**：39 歲女性，多日腹瀉、無力、喘；常用瀉劑、自行服用利尿劑；BP 85/55、皮膚張力差
+> - Na 125、K 2.8、Cl 101、glucose 94、BUN 34、Cr 1.6
+> - pH 7.29、pCO₂ 25.6、HCO₃⁻ 14
+>
+> **問**：何者正確？（應為 HAGMA／HAGMA＋metabolic alkalosis／明顯是 lactic acidosis／應檢測 urine anion gap／應檢測 osmolar gap 與 delta ratio）
+>
+> **答**：**應繼續檢測 urine anion gap**
+>
+> **重點**：
+> - AG = 125 − 101 − 14 = **10** → **normal AG acidosis**，不是 HAGMA，也不是 lactic acidosis（陷阱：看到低血壓就想 lactate）
+> - Normal AG acidosis 下一步要分**腸胃道流失 vs RTA** → 看腎臟 NH₄⁺ 排泄（UAG）
+> - Osmolal gap、delta ratio 是 HAGMA 才用的工具
+> - 注意：嚴重低血容時 UAG 可能不準（見上方 UOG 說明）
+
+<div class="calc" data-title="109-73 計算機" data-example="na=125,cl=101,hco3=14,pco2=25.6"></div>
+
+### 模擬題
+
+> [!question]- 模擬題 1（點開作答）
+> 60 歲男性 multiple myeloma，治療中出現 normal AG acidosis，K 3.1，血糖 95 但尿糖 2+，尿 pH 5.2。開始口服 NaHCO₃ 後 K 降到 2.6、尿 pH 升到 7.2。下列何者正確？
+>
+> (A) 最可能是 distal RTA
+> (B) 補鹼前應先矯正低血鉀
+> (C) 補鹼所需劑量通常只要 1 mmol/kg/d
+> (D) 尿液 NH₄⁺ 排泄應明顯偏低
+> (E) 常合併 calcium phosphate 結石
+>
+> > [!success]- 答案與詳解
+> > **答案：(B)**
+> >
+> > 血糖正常的尿糖＋穩定期尿 pH < 5.5、補鹼後 bicarbonaturia 與 K 下降 → **proximal RTA（Fanconi）**。補鹼會加重排 K，所以要**先補鉀**。Proximal RTA 補鹼量很大（可達 20 mEq/kg/d）、NH₄⁺ 排泄接近正常；calcium phosphate 結石是 distal RTA 的特徵。
+
+> [!question]- 模擬題 2（點開作答）
+> 腎移植後用 tacrolimus 的病人，K 6.0、HCO₃⁻ 18、AG 正常、尿 pH 5.0。最可能的診斷？
+>
+> (A) Type 1 RTA　(B) Type 2 RTA　(C) Type 4 RTA　(D) Voltage-dependent distal RTA　(E) Diarrhea
+>
+> > [!success]- 答案與詳解
+> > **答案：(C)**
+> >
+> > 高血鉀＋normal AG acidosis＋**尿 pH < 5.5（遠端還能酸化）** → **type 4 RTA**；calcineurin inhibitor 是常見原因。若尿 pH > 6，才考慮 voltage-dependent distal RTA。
 
 ## 相關筆記
 

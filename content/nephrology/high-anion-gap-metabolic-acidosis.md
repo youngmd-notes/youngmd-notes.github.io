@@ -291,8 +291,121 @@ flowchart LR
 
 ## 🎯 內專考點
 
-> [!example] 待補
-> 這個主題的內專考古題重點卡尚未整理，之後補上。
+> [!example] 出題規律
+> 最常考**酸鹼判讀組合題**：算 AG（是否升高）＋ Winter's formula（呼吸代償是否適當、有沒有合併第二個異常）。其次是 **HAGMA＋高 osmolal gap → toxic alcohol** 與 **CKD 病人用 metformin 造成 lactic acidosis**。
+
+題號格式為「年份-題號」，可到 [內專刷題網站](http://imboard.dirty-wolf.com/) 用「依年份練習」→「跳題」查看原題與詳解。每張卡片點開即可看到內容。
+
+### 酸鹼判讀：AG＋Winter's formula
+
+> [!note]- 114-61｜意識混亂、呼吸急促，HAGMA 合併 respiratory alkalosis
+> **情境**：44 歲男性，意識混亂、呼吸急促
+> - pH 7.32、PaCO₂ 20、HCO₃⁻ 13
+> - Na 144、K 4.1、Cl 102；BUN 52、Cr 1.8、glucose 148
+>
+> **問**：下列組合何者正確？（單純代償的 metabolic acidosis／合併 respiratory alkalosis／合併 respiratory acidosis／normal AG／high AG）
+>
+> **答**：**合併 respiratory alkalosis＋high AG**
+>
+> **重點**：
+> - AG = 144 − 102 − 13 = **29** → HAGMA
+> - Winter 預期 PaCO₂ = 1.5 × 13 + 8 ± 2 = **25.5–29.5**；實測 20 **低於預期** → 不是單純代償，合併 **respiratory alkalosis**
+> - Delta ratio ≈ (29 − 12)/(24 − 13) ≈ 1.5 → 沒有另外的 NAGMA 或 metabolic alkalosis
+> - HAGMA＋respiratory alkalosis 的經典組合：**salicylate**、sepsis、肝衰竭
+> - 「合併 respiratory acidosis」要 PaCO₂ **高於**預期才成立
+
+> [!note]- 106-76｜結核病人用 INH 後抽搐，HAGMA 代償適當
+> **情境**：44 歲男性，肺結核用 rifampin＋isoniazid；意識混亂、呼吸急促、四肢顫抖抽搐
+> - pH 7.26、HCO₃⁻ 11、PaCO₂ 21
+> - Na 133、K 6.1、Cl 94；BUN 34、Cr 1.8、glucose 160
+>
+> **問**：最符合的組合？（metabolic／respiratory acidosis；代償適當／不足；normal／high AG）
+>
+> **答**：**Metabolic acidosis＋代償適當＋high AG**
+>
+> **重點**：
+> - AG = 133 − 94 − 11 = **28** → HAGMA；病因推測為 INH 造成抽搐後的 **lactic acidosis**
+> - Winter 預期 22.5–26.5，實測 21 只略低於下限 → 官方判定**代償適當**（嚴格說略有過度換氣）
+> - 選項的「代償不足」指 PaCO₂ **偏高**，本題 PaCO₂ 偏低，所以不選
+> - 和 114-61 對照：PaCO₂ **明顯**低於預期（20 vs 25.5）才判定合併 respiratory alkalosis
+
+<div class="calc" data-title="114-61 計算機" data-example="na=144,cl=102,hco3=13,glu=148,bun=52,pco2=20"></div>
+
+> [!note]- 107-88｜ICU 病人 pH 正常但 PaCO₂ 67、HCO₃⁻ 42
+> **情境**：ICU 病人
+> - pH 7.42、PaO₂ 88、PaCO₂ 67、HCO₃⁻ 42
+> - Na 140、K 3.5、Cl 88
+>
+> **問**：最符合哪種病人？（sepsis／尿毒症＋利尿劑／COPD＋利尿劑／methanol＋lactic acidosis／肺炎用呼吸器治肺水腫）
+>
+> **答**：**COPD with diuretics**
+>
+> **重點**：
+> - pH 正常，但 PaCO₂ 與 HCO₃⁻ 都大幅升高 → 想到**混合型**
+> - AG = 140 − 88 − 42 = 10（正常）
+> - 若只是 chronic respiratory acidosis：HCO₃⁻ 每 10 mmHg PaCO₂ 上升 3.5–4 → 預期約 33–35；實測 **42 太高** → 合併 **metabolic alkalosis**
+> - 低 Cl、偏低 K → 利尿劑造成的 chloride-depletion alkalosis
+> - Sepsis、尿毒症、methanol 都是 HCO₃⁻ 下降的酸中毒，方向不符
+
+### Toxic alcohol 與 osmolal gap
+
+> [!note]- 106-86｜酒癮病人倒臥旅館，HAGMA＋osmolal gap 35
+> **情境**：50 歲男性，酒精成癮，被發現躺在旅館地板
+> - BP 120/66、HR 100、RR 30
+> - Na 140、K 5.8、Cl 103、BUN 25、Cr 1.4、glucose 150
+> - pH 7.16、PaCO₂ 23、HCO₃⁻ 8；**measured osmolality 332**；**血中酒精陰性**
+>
+> **問**：最可能的診斷？（DKA／starvation ketoacidosis／alcoholic ketoacidosis／methanol intoxication／salicylate）
+>
+> **答**：**Methanol intoxication**
+>
+> **重點**：
+> - AG = 140 − 103 − 8 = **29**
+> - Calculated osmolality ≈ 280 + 150/18 + 25/2.8 ≈ 297 → **osmolal gap ≈ 35**
+> - **HAGMA＋高 osmolal gap＋ethanol 陰性** → toxic alcohol
+> - DKA：血糖只有 150；starvation：酸中毒輕微；AKA：osmolal gap 不會這麼大；salicylate：典型合併 respiratory alkalosis，osmolal gap 不升高
+
+<div class="calc" data-title="106-86 計算機" data-example="na=140,cl=103,hco3=8,glu=150,bun=25,mosm=332,pco2=23"></div>
+
+### Lactic acidosis：Metformin
+
+> [!note]- 110-64｜CKD G4 病人用口服降血糖藥，AG 26、補 bicarbonate 無效
+> **情境**：74 歲女性，糖尿病合併 **CKD stage 4**，口服降血糖藥＋胰島素；意識不清，metabolic acidosis、**AG 26**，積極補 NaHCO₃ 仍矯正不了
+>
+> **問**：哪一種口服降血糖藥最可能是誘因？（DPP-4 inhibitor／TZD／α-glucosidase inhibitor／metformin／sulfonylurea）
+>
+> **答**：**Metformin**
+>
+> **重點**：
+> - Metformin 經腎排除，CKD 時累積 → **metformin-associated lactic acidosis**（type B）
+> - Sulfonylurea 也會意識不清，但是**低血糖**，不會有 AG 26
+> - TZD：水腫、心衰竭、骨折；AGI：腸胃症狀；DPP-4i：不會造成乳酸中毒
+
+### 模擬題
+
+> [!question]- 模擬題 1（點開作答）
+> 35 歲男性被發現意識不清，旁邊有空的汽車防凍劑瓶。Na 140、Cl 102、HCO₃⁻ 10、glucose 100、BUN 14、measured osmolality 330；尿液可見針狀與信封狀結晶。下列何者**錯誤**？
+>
+> (A) AG 約 28，屬於 HAGMA
+> (B) Osmolal gap 約 40
+> (C) 尿中結晶為 calcium oxalate
+> (D) 應先等血中濃度報告確認後再給 fomepizole
+> (E) 合併 AKI 或嚴重酸中毒時應考慮 hemodialysis
+>
+> > [!success]- 答案與詳解
+> > **答案：(D)**
+> >
+> > Calculated osmolality ≈ 280 + 5.6 + 5 ≈ 290，osmolal gap ≈ 40；HAGMA＋高 osmolal gap＋calcium oxalate crystals → **ethylene glycol**。高度懷疑時應**立即給 fomepizole**，不必等濃度報告；嚴重酸中毒、AKI 時加做 hemodialysis。
+
+> [!question]- 模擬題 2（點開作答）
+> 70 歲營養不良女性，長期每天服用 acetaminophen 止痛。Na 138、Cl 104、HCO₃⁻ 12，lactate、β-hydroxybutyrate 正常，osmolal gap 正常，salicylate 測不到，acetaminophen 濃度在治療範圍。最可能的酸是？
+>
+> (A) D-lactate　(B) 5-oxoproline　(C) Formic acid　(D) Hippuric acid　(E) Glycolic acid
+>
+> > [!success]- 答案與詳解
+> > **答案：(B)**
+> >
+> > AG = 22，HAGMA 但常見原因都排除；營養不良＋長期治療劑量 acetaminophen → glutathione 耗竭 → **5-oxoproline（pyroglutamic acid）**。處置是停藥＋支持治療。
 
 ## 相關筆記
 

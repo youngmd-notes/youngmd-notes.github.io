@@ -312,8 +312,63 @@ tags:
 
 ## 🎯 內專考點
 
-> [!example] 待補
-> 這個主題的內專考古題重點卡尚未整理，之後補上。
+> [!example] 出題規律
+> 腎臟病專屬的皮膚問題（CKD-aP、APD、calciphylaxis）目前沒有直接考題；相關的是**哪些藥物會加重血管鈣化**（calciphylaxis 的危險因子），以及皮膚科的 **discoid lupus 看圖題**。
+
+題號格式為「年份-題號」，可到 [內專刷題網站](http://imboard.dirty-wolf.com/) 用「依年份練習」→「跳題」查看原題與詳解。每張卡片點開即可看到內容。
+
+### 血管鈣化與 calciphylaxis 的藥物
+
+> [!note]- 104-70｜CKD 病人哪些藥物不會加重血管鈣化
+> **情境**：慢性腎臟病人使用的藥物
+>
+> **問**：哪些不會加重血管鈣化？
+> - (1) 含鈣磷結合劑 → 會（額外鈣負荷）
+> - (2) 非含鈣磷結合劑 → **不會**
+> - (3) Vitamin D → 會（增加腸道 Ca、P 吸收）
+> - (4) 高鈣透析液 → 會
+> - (5) Warfarin → 會（阻斷 vitamin K 依賴的 **MGP carboxylation**，鈣化抑制因子失效）
+>
+> **答**：**只有 (2)**
+>
+> **重點**：鈣化 = **鈣磷負荷增加＋鈣化抑制因子失效**。這幾個會加重的藥物，正好也是 calciphylaxis 的藥物危險因子，calciphylaxis 病人要停掉或換藥（抗凝改 apixaban 或 UFH）。
+
+### Cutaneous lupus
+
+> [!note]- 109-200｜年輕男性臉部紫紅色鱗屑斑塊（看圖）
+> **情境**：26 歲男性，臉頰、耳前、下顎多個邊界清楚的紫紅色斑塊，表面有附著鱗屑，中央色素沉著與萎縮、周邊紅色活動邊緣（附圖）
+>
+> **問**：最可能的診斷？（discoid lupus erythematosus／dermatomyositis／deep fungal infection／scleroderma／atrophic scar）
+>
+> **答**：**Discoid lupus erythematosus（DLE）**
+>
+> **重點**：DLE 特徵是紫紅斑塊＋**附著鱗屑**＋毛囊角栓＋**中央萎縮與色素異常**，頭皮會造成**疤痕性禿髮**。DM 看 heliotrope、Gottron；morphea 是硬化、沒有鱗屑；deep fungal infection 呈疣狀結節，需切片與培養；疤痕沒有活動性發炎。治療：防曬、戒菸（吸菸降低 hydroxychloroquine 效果）、外用或病灶內類固醇，**hydroxychloroquine 第一線**。
+
+### 模擬題
+
+> [!question]- 模擬題 1（點開作答）
+> 透析病人，用 warfarin、calcium acetate、calcitriol，大腿出現劇痛的 retiform purpura，2 週後中央變成黑色焦痂。下列處置何者**錯誤**？
+>
+> (A) 停用 warfarin，改用 apixaban
+> (B) 停用 calcium acetate，改用 sevelamer
+> (C) PTH 很高時優先用 cinacalcet，反應不佳再考慮 parathyroidectomy
+> (D) 給予 sodium thiosulfate，注意 AG metabolic acidosis
+> (E) 常規做積極外科清創，並以傷口培養結果決定抗生素
+>
+> > [!success]- 答案與詳解
+> > **答案：(E)**
+> >
+> > 這是 **calciphylaxis**。未感染的傷口優先**化學清創**（外科清創可能誘發疾病活動）；潰瘍多被細菌移生，**傷口培養不可靠**，有感染徵象時考慮廣效抗生素。其他選項都是正確的危險因子處理與藥物治療。
+
+> [!question]- 模擬題 2（點開作答）
+> 透析病人全身劇癢 6 個月，透析中不會加劇；Kt/V 1.4、P 3.9、PTH 670；皮膚乾燥、魚鱗狀變化。首選藥物治療？
+>
+> (A) Emollient　(B) IV diphenhydramine　(C) Difelikefalin　(D) Gabapentin 300 mg 每天三次　(E) Cinacalcet
+>
+> > [!success]- 答案與詳解
+> > **答案：(A)**
+> >
+> > **CKD-associated pruritus** 的第一線藥物是 **emollient**（便宜安全，洗澡後皮膚潮濕時擦）。抗組織胺未證實有效；difelikefalin 有效但需 IV、昂貴；gabapentin 在透析病人必須大幅減量。
 
 ## 相關筆記
 
