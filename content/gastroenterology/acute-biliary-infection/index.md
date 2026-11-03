@@ -48,7 +48,7 @@ cssclasses:
 </a>
 <a class="af-card internal" href="/gastroenterology/acute-biliary-infection/tg18-exam">
 <div class="af-num">⑥</div>
-<div class="af-body"><div class="af-title">內專考點</div><div class="af-desc">104–114 年 TG18 相關考古題 4 題，每組連到對應的指引圖表；附 2 題模擬題</div><div class="af-cover">Cholangitis 處置、cholecystitis 影像、手術時機</div></div>
+<div class="af-body"><div class="af-title">內專考點</div><div class="af-desc">104–114 年膽道相關考古題 14 題（TG18 本身 4 題＋CBD stone、gallstone pancreatitis、膽結石手術適應症），附 2 題模擬題</div><div class="af-cover">Cholangitis 處置、cholecystitis 影像與手術時機、膽管擴張鑑別</div></div>
 </a>
 </div>
 
