@@ -67,6 +67,25 @@ cssclasses:
 - 詳細推理與時間軸：<a class="internal" href="/gastroenterology/acute-biliary-infection/tg18-3-cholangitis#-決策思維什麼時候引流">③ 什麼時候引流？</a>　<span class="af-where">③</span>
 - 詳細推理與時間軸：<a class="internal" href="/gastroenterology/acute-biliary-infection/tg18-4-cholecystitis#-決策思維什麼時候開刀什麼時候引流">④ 什麼時候開刀？什麼時候引流？</a>　<span class="af-where">④</span>
 
+### ⏱️ Urgent、early、delayed 到底是多久？
+
+**不是都 72 h。** 先看是「引流」還是「開刀」，==兩者的起算點不同：引流從入院算、以小時計；開刀從發病算、以天計==。
+
+| 用語 | 用在 | 多久 | 從何時起算 | TG18 的依據 |
+| --- | --- | --- | --- | --- |
+| **Urgent drainage** | Cholangitis（Grade III） | **入院當天，24 h 內**（另有研究定義為 **12 h 內**） | **入院** | 日台大型研究的定義（Kiriyama） |
+| **Early drainage** | Cholangitis（Grade II） | **入院隔天，24–48 h** | **入院** | 同上；Grade II 在 24 h 內或 48 h 內引流，死亡率都較低 |
+| 「24 h 沒反應」 | Grade I cholangitis、選保守治療的 Grade I cholecystitis | 初始治療後 **24 h** 評估 | 開始治療 | Bundle：沒反應 → 引流（或改 early LC） |
+| **Early LC** | Cholecystitis（Grade I、II，符合條件的 III） | **72 h 內最好，7 天內都算** | **發病（症狀開始）** | Bundle；RCT 把 early 定義為 72 h 內或 1 週內 |
+| Grade II 的手術上限 | Cholecystitis Grade II | LC 應在**發病 96 h 內**做 | 發病 | Yokoe Table 7 表註 |
+| **Urgent LC／urgent GB drainage** | Cholecystitis | **TG18 沒有給明確時數**；字義上比 early 更急，越快越好 | — | 流程圖只寫「urgent／early」並列 |
+| **Delayed／elective LC** | Cholecystitis 高風險或先引流者 | 發炎消退後；RCT 多為**發病 ≥ 6 週**；PTGBD 後常**等 4–6 週** | 發病或引流 | Okamoto Q3、Q4 |
+
+> [!warning] Pitfall：72 h 是「膽囊炎開刀」的數字，不是「膽管炎引流」的數字
+> - 看到 cholangitis 想 **24／48 h（從入院算）**；看到 cholecystitis 想 **72 h／7 天（從發病算）**
+> - Cholecystitis 的病人常到院時已經發病好幾天：72 h 是「最好」，**超過 72 h 只要能耐受仍建議早開**，不是過了 72 h 就只能等 6 週
+> - 「Early」不等於「半夜急開」：24 h 內開刀沒有比 72 h 內好，應由有經驗的醫師在適合的時段做
+
 ## 依臨床情境找重點
 
 ### 急診遇到 RUQ pain＋發燒

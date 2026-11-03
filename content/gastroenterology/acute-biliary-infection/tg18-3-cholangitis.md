@@ -46,7 +46,10 @@ tags:
 
 ### 時間軸
 
-TG 研究對時機的定義：**urgent = 入院當天（24 h 內）**、**early = 入院隔天（24–48 h）**。
+TG 研究對時機的定義：**urgent = 入院當天（24 h 內）**、**early = 入院隔天（24–48 h）**，都是**從入院起算、以小時計**。
+
+> [!warning] 不是 72 h
+> 72 h 是 **cholecystitis 開刀**的時間窗（從**發病**算）；cholangitis 引流看的是**入院後 24／48 h**。完整對照見 [[gastroenterology/acute-biliary-infection/index#⏱️ Urgent、early、delayed 到底是多久？|總覽頁：urgent、early、delayed 到底是多久？]]
 
 <div class="tl"><div class="tl-grid">
 <div></div>

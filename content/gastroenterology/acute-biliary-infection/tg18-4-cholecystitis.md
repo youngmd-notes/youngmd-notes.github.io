@@ -63,6 +63,8 @@ tags:
 
 ### 時間軸
 
+這裡的時間都是**從發病（症狀開始）起算**：early LC = **72 h 內最好、7 天內都算**；delayed = **≥ 6 週**。TG18 對「urgent」LC 或 GB drainage **沒有給明確時數**，字義上就是比 early 更快。和 cholangitis 引流（從入院算 24／48 h）的對照見 [[gastroenterology/acute-biliary-infection/index#⏱️ Urgent、early、delayed 到底是多久？|總覽頁：urgent、early、delayed 到底是多久？]]
+
 <div class="tl"><div class="tl-grid">
 <div></div>
 <div class="tl-axis">到院 24 h</div>
