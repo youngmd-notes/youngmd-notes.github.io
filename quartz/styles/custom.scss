@@ -140,6 +140,61 @@ a.af-card {
   }
 }
 
+// 筆記開頭的「總綱」一頁複習卡（.ov）
+.ov {
+  margin: 1rem 0 1.75rem;
+  --ov-1: #3d7cc9;
+  --ov-2: #2e9e6b;
+  --ov-3: #e0a100;
+  --ov-4: #d64b4b;
+  --ov-5: #8a5cc2;
+  --ov-6: #2a9bb0;
+  --ov-7: #c2618f;
+
+  .ov-head {
+    padding: 0.55rem 0.9rem;
+    border-radius: 8px;
+    background: var(--secondary);
+    color: var(--light);
+    font-weight: 700;
+    font-size: 1.05rem;
+  }
+  .ov-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+    gap: 0.6rem;
+    margin-top: 0.6rem;
+  }
+  .ov-card {
+    border: 1px solid var(--lightgray);
+    border-top: 4px solid var(--ov-c, var(--secondary));
+    border-radius: 8px;
+    padding: 0.5rem 0.75rem 0.6rem;
+    background: var(--light);
+  }
+  .ov-card:nth-child(7n + 1) { --ov-c: var(--ov-1); }
+  .ov-card:nth-child(7n + 2) { --ov-c: var(--ov-2); }
+  .ov-card:nth-child(7n + 3) { --ov-c: var(--ov-3); }
+  .ov-card:nth-child(7n + 4) { --ov-c: var(--ov-4); }
+  .ov-card:nth-child(7n + 5) { --ov-c: var(--ov-5); }
+  .ov-card:nth-child(7n + 6) { --ov-c: var(--ov-6); }
+  .ov-card:nth-child(7n + 7) { --ov-c: var(--ov-7); }
+  .ov-t {
+    font-weight: 700;
+    color: var(--ov-c, var(--secondary));
+    margin-bottom: 0.25rem;
+  }
+  ul {
+    margin: 0;
+    padding-left: 1.1rem;
+    font-size: 0.86rem;
+    line-height: 1.5;
+  }
+  li {
+    margin: 0.1rem 0;
+  }
+}
+
 .af-where {
   color: var(--gray);
   font-size: 0.85em;

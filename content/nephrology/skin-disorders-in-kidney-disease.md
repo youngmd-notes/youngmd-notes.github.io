@@ -22,41 +22,17 @@ tags:
 
 ## 🗺️ 總綱
 
-```mermaid
-mindmap
-  root((腎臟病皮膚))
-    CKD-aP
-      透析 40%、CKD 20%
-      先排除肝膽、過敏、透析中才癢
-      第一線 emollient
-      Difelikefalin、gabapentinoid 減量
-    APD
-      DM 透析病人
-      火山口結節、中央角栓
-      抓出來的 Koebner
-      先止癢、keratolytic
-    Calcinosis cutis
-      Metastatic：鈣磷異常
-      關節旁白色粉筆樣
-      低磷飲食、停鈣片
-      非鈣磷結合劑、cinacalcet
-    Calciphylaxis
-      痛不成比例、脂肪多處
-      Retiform purpura → 黑痂
-      Warfarin、鈣、vit D、IV iron、類固醇
-      停藥、加強透析、thiosulfate
-      化學清創、培養不可靠
-    Lupus
-      ACLE 約 90% 合併 SLE
-      SCLE 25–40% 藥物
-      PPI、thiazide、CCB、terbinafine
-      DLE 疤痕禿髮、HCQ 第一線
-    Vasculitis
-      AAV：purpura 最常見
-      Cryo：HCV、purpura、RF 陽性
-      IgA：腰以上病灶 → 腎臟
-      成人 HSP 找癌症
-```
+<div class="ov">
+<div class="ov-head">🗺️ 腎臟病皮膚：搔癢、結節、鈣化、壞死，加上 lupus 與血管炎</div>
+<div class="ov-grid">
+<div class="ov-card"><div class="ov-t">CKD-aP</div><ul><li>透析 40%、CKD 20%</li><li>先排除肝膽、過敏、透析中才癢</li><li>第一線 emollient</li><li>Difelikefalin、gabapentinoid 減量</li></ul></div>
+<div class="ov-card"><div class="ov-t">APD</div><ul><li>DM 透析病人</li><li>火山口結節、中央角栓</li><li>抓出來的 Koebner</li><li>先止癢、keratolytic</li></ul></div>
+<div class="ov-card"><div class="ov-t">Calcinosis cutis</div><ul><li>Metastatic：鈣磷異常</li><li>關節旁白色粉筆樣</li><li>低磷飲食、停鈣片</li><li>非鈣磷結合劑、cinacalcet</li></ul></div>
+<div class="ov-card"><div class="ov-t">Calciphylaxis</div><ul><li>痛不成比例、脂肪多處</li><li>Retiform purpura → <b>黑痂</b></li><li>Warfarin、鈣、vit D、IV iron、類固醇</li><li>停藥、加強透析、thiosulfate</li><li>化學清創、培養不可靠</li></ul></div>
+<div class="ov-card"><div class="ov-t">Lupus</div><ul><li>ACLE 約 90% 合併 SLE</li><li>SCLE 25–40% 藥物</li><li>PPI、thiazide、CCB、terbinafine</li><li>DLE 疤痕禿髮、HCQ 第一線</li></ul></div>
+<div class="ov-card"><div class="ov-t">Vasculitis</div><ul><li>AAV：purpura 最常見</li><li>Cryo：HCV、purpura、RF 陽性</li><li>IgA：腰以上病灶 → <b>腎臟</b></li><li>成人 HSP 找癌症</li></ul></div>
+</div>
+</div>
 
 
 ## 三個共通機轉

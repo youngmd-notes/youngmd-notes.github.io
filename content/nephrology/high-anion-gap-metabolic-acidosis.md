@@ -18,37 +18,17 @@ tags:
 
 ## 🗺️ 總綱
 
-```mermaid
-mindmap
-  root((HAGMA))
-    1 算對 AG
-      Na − Cl − HCO₃⁻，正常約 10
-      Albumin 每低 1 g/dL，AG 加 2.5
-      高血糖時用未校正 Na
-    2 看呼吸代償
-      Winter：1.5 × HCO₃⁻ ＋ 8 ± 2
-      PaCO₂ 太高 → 合併呼吸性酸中毒
-      PaCO₂ 太低 → 合併呼吸性鹼中毒
-    3 ΔAG ／ ΔHCO₃⁻
-      約 1 → 單純 HAGMA
-      明顯大於 1 → 合併代謝性鹼中毒
-      明顯小於 1 → 合併 NAGMA
-    GOLDMARK
-      Glycols、5-oxoproline
-      L-lactate、D-lactate
-      Methanol、Aspirin
-      Renal failure、Ketoacidosis
-    Osmolal gap 高
-      Toxic alcohol 或 DKA 的 acetone
-      早期 gap 高 → 晚期 AG 高
-      Ca oxalate 結晶 → ethylene glycol
-      Isopropanol 有 gap 沒有酸
-    找不到原因
-      長期 acetaminophen → 5-oxoproline
-      Short bowel＋ataxia → D-lactate
-      Salicylate → 合併呼吸性鹼中毒
-      AG 比 −5 還負 → 檢驗干擾
-```
+<div class="ov">
+<div class="ov-head">🗺️ HAGMA：先算對 AG → 看呼吸代償 → ΔAG／ΔHCO₃⁻ → 找病因</div>
+<div class="ov-grid">
+<div class="ov-card"><div class="ov-t">1. 算對 AG</div><ul><li>Na − Cl − HCO₃⁻，正常約 10</li><li>Albumin 每低 1 g/dL，AG 加 2.5</li><li>高血糖時用未校正 Na</li></ul></div>
+<div class="ov-card"><div class="ov-t">2. 看呼吸代償</div><ul><li>Winter：1.5 × HCO₃⁻ ＋ 8 ± 2</li><li>PaCO₂ 太高 → <b>合併呼吸性酸中毒</b></li><li>PaCO₂ 太低 → <b>合併呼吸性鹼中毒</b></li></ul></div>
+<div class="ov-card"><div class="ov-t">3. ΔAG ／ ΔHCO₃⁻</div><ul><li>約 1 → <b>單純 HAGMA</b></li><li>明顯大於 1 → <b>合併代謝性鹼中毒</b></li><li>明顯小於 1 → <b>合併 NAGMA</b></li></ul></div>
+<div class="ov-card"><div class="ov-t">GOLDMARK</div><ul><li>Glycols、5-oxoproline</li><li>L-lactate、D-lactate</li><li>Methanol、Aspirin</li><li>Renal failure、Ketoacidosis</li></ul></div>
+<div class="ov-card"><div class="ov-t">Osmolal gap 高</div><ul><li>Toxic alcohol 或 DKA 的 acetone</li><li>早期 gap 高 → <b>晚期 AG 高</b></li><li>Ca oxalate 結晶 → <b>ethylene glycol</b></li><li>Isopropanol 有 gap 沒有酸</li></ul></div>
+<div class="ov-card"><div class="ov-t">找不到原因</div><ul><li>長期 acetaminophen → <b>5-oxoproline</b></li><li>Short bowel＋ataxia → <b>D-lactate</b></li><li>Salicylate → <b>合併呼吸性鹼中毒</b></li><li>AG 比 −5 還負 → <b>檢驗干擾</b></li></ul></div>
+</div>
+</div>
 
 
 ## 基本工具

@@ -19,37 +19,17 @@ tags:
 
 ## 🗺️ 總綱
 
-```mermaid
-mindmap
-  root((Normal AG acidosis))
-    1 尿液 NH₄⁺ 夠嗎
-      夠：大於 40 mEq/d、UOG 大於 200
-      → Diarrhea 或 proximal RTA
-      不夠：UOG 小於 150 → RTA
-      考題用 UAG：正值 → RTA
-    Proximal type 2
-      K 低，未補鹼時尿 pH 小於 5.5
-      HCO₃⁻ 閾值降到 16–18
-      Fanconi：血糖正常卻有尿糖
-      Myeloma、tenofovir、topiramate、zoledronate
-      補鹼量大，先補鉀
-    Distal type 1
-      K 低，尿 pH 大於 6
-      Sjögren、SLE、amphotericin B、lithium
-      Ca phosphate 結石、nephrocalcinosis
-      Potassium citrate 約 1 mmol/kg/d
-    Type 4
-      K 高，尿 pH 小於 5.5
-      DM：低 renin 低 aldosterone
-      ACEI、ARB、MRA、NSAID、CNI、heparin
-      加 thiazide 或 loop、續用 ACEI
-    Voltage-dependent
-      K 高，尿 pH 大於 6
-      Amiloride、trimethoprim、阻塞
-    鑑別：低鉀但是鹼中毒
-      Bartter 像 loop：高尿鈣
-      Gitelman 像 thiazide：低尿鈣、低血鎂
-```
+<div class="ov">
+<div class="ov-head">🗺️ Normal AG acidosis：先看 NH₄⁺ 排泄 → 再看 K⁺ → 最後看尿 pH</div>
+<div class="ov-grid">
+<div class="ov-card"><div class="ov-t">1. 尿液 NH₄⁺ 夠嗎</div><ul><li>夠：大於 40 mEq/d、UOG 大於 200</li><li>→ <b>Diarrhea 或 proximal RTA</b></li><li>不夠：UOG 小於 150 → <b>RTA</b></li><li>考題用 UAG：正值 → <b>RTA</b></li></ul></div>
+<div class="ov-card"><div class="ov-t">Proximal type 2</div><ul><li>K 低，未補鹼時尿 pH 小於 5.5</li><li>HCO₃⁻ 閾值降到 16–18</li><li>Fanconi：血糖正常卻有尿糖</li><li>Myeloma、tenofovir、topiramate、zoledronate</li><li>補鹼量大，先補鉀</li></ul></div>
+<div class="ov-card"><div class="ov-t">Distal type 1</div><ul><li>K 低，尿 pH 大於 6</li><li>Sjögren、SLE、amphotericin B、lithium</li><li>Ca phosphate 結石、nephrocalcinosis</li><li>Potassium citrate 約 1 mmol/kg/d</li></ul></div>
+<div class="ov-card"><div class="ov-t">Type 4</div><ul><li>K 高，尿 pH 小於 5.5</li><li>DM：低 renin 低 aldosterone</li><li>ACEI、ARB、MRA、NSAID、CNI、heparin</li><li>加 thiazide 或 loop、續用 ACEI</li></ul></div>
+<div class="ov-card"><div class="ov-t">Voltage-dependent</div><ul><li>K 高，尿 pH 大於 6</li><li>Amiloride、trimethoprim、阻塞</li></ul></div>
+<div class="ov-card"><div class="ov-t">鑑別：低鉀但是鹼中毒</div><ul><li>Bartter 像 loop：高尿鈣</li><li>Gitelman 像 thiazide：低尿鈣、低血鎂</li></ul></div>
+</div>
+</div>
 
 
 ## 腎臟怎麼排酸

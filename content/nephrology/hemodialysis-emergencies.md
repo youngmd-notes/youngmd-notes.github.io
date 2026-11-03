@@ -20,44 +20,19 @@ tags:
 
 ## 🗺️ 總綱
 
-```mermaid
-mindmap
-  root((透析急症))
-    管路血不回輸
-      Dialyzer reaction type A
-      Air embolism
-      Hemolysis
-    Dialyzer reaction
-      Type A：20–30 分鐘內、IgE
-      Ethylene oxide、ACEI＋AN69
-      Type B：較晚較輕、可繼續
-    DDS
-      首次透析、BUN 很高
-      頭痛 → seizure、腦水腫
-      血流約 200、2 小時
-      BUN 降幅 40% 以內
-    Pericarditis
-      8 週內 uremic、之後 dialysis-associated
-      少有 diffuse ST elevation
-      加強透析、不用 heparin
-      Tamponade → 先引流不要洗
-    Air embolism
-      100% O₂
-      靜脈：左側臥
-      動脈：平躺
-    出血
-      針脫落警報可能不響
-      Access 破裂：直接壓迫
-      多發生在家裡
-    Hemolysis 與水污染
-      櫻桃紅管路血、粉紅血清
-      巧克力色血 → chloramine
-      Fluoride、aluminum
-    猝死
-      長週末後最多
-      Bradyarrhythmia 較常見
-      避免 K 小於 2、Ca 小於 2.5 的透析液
-```
+<div class="ov">
+<div class="ov-head">🗺️ 透析急症：先決定管路血要不要回輸，再依急症處理</div>
+<div class="ov-grid">
+<div class="ov-card"><div class="ov-t">管路血不回輸</div><ul><li>Dialyzer reaction type A</li><li>Air embolism</li><li>Hemolysis</li></ul></div>
+<div class="ov-card"><div class="ov-t">Dialyzer reaction</div><ul><li>Type A：20–30 分鐘內、IgE</li><li>Ethylene oxide、ACEI＋AN69</li><li>Type B：較晚較輕、可繼續</li></ul></div>
+<div class="ov-card"><div class="ov-t">DDS</div><ul><li>首次透析、BUN 很高</li><li>頭痛 → <b>seizure、腦水腫</b></li><li>血流約 200、2 小時</li><li>BUN 降幅 40% 以內</li></ul></div>
+<div class="ov-card"><div class="ov-t">Pericarditis</div><ul><li>8 週內 uremic、之後 dialysis-associated</li><li>少有 diffuse ST elevation</li><li>加強透析、不用 heparin</li><li>Tamponade → <b>先引流不要洗</b></li></ul></div>
+<div class="ov-card"><div class="ov-t">Air embolism</div><ul><li>100% O₂</li><li>靜脈：左側臥</li><li>動脈：平躺</li></ul></div>
+<div class="ov-card"><div class="ov-t">出血</div><ul><li>針脫落警報可能不響</li><li>Access 破裂：直接壓迫</li><li>多發生在家裡</li></ul></div>
+<div class="ov-card"><div class="ov-t">Hemolysis 與水污染</div><ul><li>櫻桃紅管路血、粉紅血清</li><li>巧克力色血 → <b>chloramine</b></li><li>Fluoride、aluminum</li></ul></div>
+<div class="ov-card"><div class="ov-t">猝死</div><ul><li>長週末後最多</li><li>Bradyarrhythmia 較常見</li><li>避免 K 小於 2、Ca 小於 2.5 的透析液</li></ul></div>
+</div>
+</div>
 
 
 ## 總覽
