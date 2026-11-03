@@ -144,3 +144,206 @@ a.af-card {
   color: var(--gray);
   font-size: 0.85em;
 }
+
+// 膽道感染決策樹（acute-biliary-infection 總覽頁）
+.bdt {
+  --bdt-red: #d64b4b;
+  --bdt-amber: #e0a100;
+  --bdt-green: #2e9e6b;
+  --bdt-blue: #3d7cc9;
+  margin: 1.25rem 0 1.75rem;
+  font-size: 0.86rem;
+  line-height: 1.4;
+  color: var(--dark);
+
+  .bdt-start {
+    max-width: 30rem;
+    margin: 0 auto;
+    text-align: center;
+    padding: 0.55rem 0.9rem;
+    border-radius: 10px;
+    background: var(--secondary);
+    color: var(--light);
+    font-weight: 700;
+  }
+  .bdt-q {
+    max-width: 34rem;
+    margin: 0 auto;
+    text-align: center;
+    padding: 0.5rem 0.8rem;
+    border: 2px dashed var(--secondary);
+    border-radius: 10px;
+    font-weight: 600;
+  }
+  .bdt-down {
+    text-align: center;
+    color: var(--gray);
+    font-size: 1.1rem;
+    line-height: 1.2;
+    margin: 0.15rem 0;
+  }
+  .bdt-cols {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin-top: 0.4rem;
+  }
+  .bdt-col {
+    border: 1px solid var(--lightgray);
+    border-radius: 12px;
+    padding: 0.75rem;
+    background: var(--light);
+  }
+  .bdt-head {
+    text-align: center;
+    margin-bottom: 0.6rem;
+    .bdt-name {
+      font-size: 1.05rem;
+      font-weight: 800;
+      color: var(--secondary);
+    }
+    .bdt-sub {
+      color: var(--darkgray);
+      font-size: 0.78rem;
+    }
+    .bdt-key {
+      display: inline-block;
+      margin-top: 0.3rem;
+      padding: 0.1rem 0.6rem;
+      border-radius: 999px;
+      background: var(--secondary);
+      color: var(--light);
+      font-weight: 700;
+      font-size: 0.8rem;
+    }
+  }
+  .bdt-row {
+    display: grid;
+    grid-template-columns: 5.2rem 1fr;
+    gap: 0.45rem;
+    align-items: stretch;
+    margin: 0.45rem 0;
+  }
+  .bdt-grade {
+    border-radius: 8px;
+    padding: 0.35rem 0.4rem;
+    font-weight: 700;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid var(--gray);
+    small {
+      font-weight: 400;
+      font-size: 0.72rem;
+      color: var(--darkgray);
+    }
+  }
+  .bdt-path {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.15rem;
+  }
+  .bdt-step {
+    padding: 0.3rem 0.5rem;
+    border-radius: 7px;
+    border: 1px solid var(--gray);
+    background: transparent;
+  }
+  .bdt-arrow {
+    color: var(--gray);
+    text-align: center;
+    line-height: 1;
+  }
+  .bdt-branch {
+    display: grid;
+    gap: 0.3rem;
+    width: 100%;
+  }
+  .bdt-lab {
+    font-size: 0.74rem;
+    color: var(--darkgray);
+    font-weight: 600;
+  }
+  .r {
+    background: #d64b4b22;
+    border-color: var(--bdt-red);
+  }
+  .a {
+    background: #e0a10022;
+    border-color: var(--bdt-amber);
+  }
+  .g {
+    background: #2e9e6b22;
+    border-color: var(--bdt-green);
+  }
+  .b {
+    background: #3d7cc922;
+    border-color: var(--bdt-blue);
+  }
+  .bdt-gate {
+    margin: 0.5rem 0;
+    padding: 0.45rem 0.6rem;
+    border: 2px dashed var(--secondary);
+    border-radius: 9px;
+    font-size: 0.8rem;
+    b {
+      color: var(--secondary);
+    }
+  }
+  .bdt-foot {
+    margin-top: 0.6rem;
+    padding-top: 0.5rem;
+    border-top: 1px dashed var(--lightgray);
+    font-size: 0.78rem;
+    color: var(--darkgray);
+  }
+  .bdt-legend {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.4rem 1rem;
+    margin-top: 0.7rem;
+    font-size: 0.78rem;
+    color: var(--darkgray);
+    span::before {
+      content: "";
+      display: inline-block;
+      width: 0.9rem;
+      height: 0.6rem;
+      border-radius: 3px;
+      margin-right: 0.3rem;
+      vertical-align: middle;
+      border: 1px solid;
+    }
+    .l-r::before {
+      background: #d64b4b22;
+      border-color: #d64b4b;
+    }
+    .l-a::before {
+      background: #e0a10022;
+      border-color: #e0a100;
+    }
+    .l-g::before {
+      background: #2e9e6b22;
+      border-color: #2e9e6b;
+    }
+    .l-b::before {
+      background: #3d7cc922;
+      border-color: #3d7cc9;
+    }
+  }
+  .bdt-note {
+    text-align: center;
+    font-size: 0.72rem;
+    color: var(--gray);
+    margin-top: 0.3rem;
+  }
+}
+
+@media (max-width: 760px) {
+  .bdt .bdt-cols {
+    grid-template-columns: 1fr;
+  }
+}

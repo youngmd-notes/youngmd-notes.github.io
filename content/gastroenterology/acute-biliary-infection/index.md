@@ -18,6 +18,34 @@ cssclasses:
 > [!abstract] 一句話重點
 > TG18 沿用 TG13 的診斷與分級，改的是處置：**Cholangitis**＝抗生素＋**依 grade 決定引流時機**（I：無反應才引流；**II：早期引流**；III：穩定後緊急引流），首選 **ERCP 引流**；**Cholecystitis**＝依 grade＋**CCI／ASA-PS** 決定 **early LC 或 GB drainage（PTGBD）**，**Grade III 在嚴格條件下也可以 early LC**。抗生素：cholangitis 引流後 **4–7 天**，cholecystitis Grade I／II **開完刀 24 h 內停**。
 
+## 🌳 一張圖看懂：引流還是開刀？
+
+<div class="bdt">
+<div class="bdt-start">RUQ pain＋發燒（懷疑 acute biliary infection）</div>
+<div class="bdt-down">↓</div>
+<div class="bdt-q">膽管擴張或 jaundice／膽汁淤積，而且有全身發炎？</div>
+<div class="bdt-cols">
+<div class="bdt-col">
+<div class="bdt-head"><div class="bdt-sub">是 → 阻塞在<b>膽管</b></div><div class="bdt-name">Acute cholangitis</div><div class="bdt-key">關鍵處置＝引流（減壓）</div><div class="bdt-sub">時間從<b>入院</b>算，以<b>小時</b>計</div></div>
+<div class="bdt-row"><div class="bdt-grade r">Grade III<small>任一器官衰竭</small></div><div class="bdt-path"><span class="bdt-step a">穩定呼吸循環＋抗生素</span><span class="bdt-arrow">↓</span><span class="bdt-step r"><b>Urgent drainage</b><br/>入院 24 h 內</span></div></div>
+<div class="bdt-row"><div class="bdt-grade a">Grade II<small>5 項中 ≥ 2 項</small></div><div class="bdt-path"><span class="bdt-step a">抗生素（不等反應）</span><span class="bdt-arrow">↓</span><span class="bdt-step r"><b>Early drainage</b><br/>入院 24–48 h</span></div></div>
+<div class="bdt-row"><div class="bdt-grade g">Grade I<small>其餘</small></div><div class="bdt-path"><span class="bdt-step g">抗生素</span><span class="bdt-arrow">↓</span><div class="bdt-branch"><span class="bdt-step g"><span class="bdt-lab">24 h 有反應</span><br/>完成療程，擇期處理病因</span><span class="bdt-step a"><span class="bdt-lab">24 h 沒反應或 CBD 有結石</span><br/><b>引流</b>（比照 Grade II）</span></div></div></div>
+<div class="bdt-foot">🔧 引流首選 <b>ERCP</b>（ENBD 或 EBS），單純引流不必 EST<br/>➡️ 之後：取石；合併 GB stone → cholangitis 緩解後 <b>LC</b><br/>💊 抗生素：source control 後 <b>4–7 天</b></div>
+</div>
+<div class="bdt-col">
+<div class="bdt-head"><div class="bdt-sub">否，Murphy's＋膽囊影像 → 發炎在<b>膽囊</b></div><div class="bdt-name">Acute cholecystitis</div><div class="bdt-key">關鍵處置＝切膽囊（根治）</div><div class="bdt-sub">時間從<b>發病</b>算，以<b>天</b>計</div></div>
+<div class="bdt-gate"><b>Q1 撐得住手術嗎？</b><br/>Grade I／II：CCI ≤ 5 且 ASA-PS ≤ II<br/>Grade III：無 negative PF（T-bil ≥ 2、意識、呼吸）＋衰竭屬 FOSF（心血管或腎、很快恢復）＋CCI ≤ 3、ASA-PS ≤ II＋advanced center</div>
+<div class="bdt-row"><div class="bdt-grade b">撐得住</div><div class="bdt-path"><span class="bdt-step a">抗生素</span><span class="bdt-arrow">↓</span><span class="bdt-step b"><b>Early LC</b><br/>發病 72 h 內最好，7 天內都算</span></div></div>
+<div class="bdt-gate"><b>Q2 撐不住：抗生素控制得住發炎嗎？</b></div>
+<div class="bdt-row"><div class="bdt-grade g">控制得住</div><div class="bdt-path"><span class="bdt-step g">抗生素，等發炎消退</span><span class="bdt-arrow">↓</span><span class="bdt-step b"><b>Delayed LC</b><br/>多為 ≥ 6 週</span></div></div>
+<div class="bdt-row"><div class="bdt-grade r">控制不住<small>或 Grade III 不符條件</small></div><div class="bdt-path"><span class="bdt-step r"><b>Urgent／early GB drainage</b><br/>首選 PTGBD</span><span class="bdt-arrow">↓</span><span class="bdt-step b"><b>Delayed LC</b><br/>常等 4–6 週；PS 差則觀察</span></div></div>
+<div class="bdt-foot">🏥 Grade II、III 的 LC 要在有 advanced LC 技術＋ICU 的中心，做不到就轉院<br/>💊 抗生素：Grade I／II <b>開完刀 24 h 內停</b>；Grade III source control 後 4–7 天</div>
+</div>
+</div>
+<div class="bdt-legend"><span class="l-r">盡快做</span><span class="l-a">初始治療／看反應決定</span><span class="l-g">可擇期</span><span class="l-b">膽囊切除（根治）</span></div>
+<div class="bdt-note">依 Tokyo Guidelines 2018 內容自製（Miura Figure 2、Okamoto Figure 8–10、Mayumi bundle）</div>
+</div>
+
 ## 📌 必看表一：Cholangitis vs Cholecystitis 終極對照
 
 | | Acute cholangitis | Acute cholecystitis |
