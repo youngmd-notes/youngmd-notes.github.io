@@ -354,13 +354,22 @@ flowchart TD
 ### 氧氣治療裝置
 
 > [!note]- 111-24｜各種給氧裝置的特性何者錯誤
-> **情境**：比較 nasal cannula（流量上限）、simple face mask（換氣量增加時 FiO₂ 的變化）、NRM（可達的 FiO₂）、Venturi mask（FiO₂ 是否固定）、HFNC（是否產生 PEEP）
+> **情境**：比較各種給氧裝置的流量與 FiO₂ 特性
 >
 > **問**：何者錯誤？
+> - Nasal cannula 流量原則上不超過 6 L/min → 對
+> - Simple face mask 固定 5 L/min，病人 minute ventilation 上升時 FiO₂ 下降 → 對
+> - NRM 的 FiO₂ 可達 0.6–1.0 → 錯
+> - Venturi mask 提供相對固定的 FiO₂ → 對
+> - HFNC 可產生 PEEP、減少肺泡塌陷 → 對
 >
-> **答**：待補（本次讀取詳解時連線中斷，答案尚未確認）
+> **答**：**NRM 的 FiO₂ 可達 0.6–1.0**
 >
-> **重點**：同型題 114-35 的詳解確認「HFNC 可產生小量 PEEP」為正確敘述
+> **重點**：NRM 雖有 reservoir bag 與單向瓣膜，但面罩邊緣漏氣、混入室內空氣，實際 FiO₂ 約 **0.6–0.8，到不了 1.0**
+> - **Low-flow 裝置**（nasal cannula、simple mask、NRM）：給氧流量低於病人吸氣流速，其餘由室內空氣補足 → **換氣量越大，FiO₂ 越低**
+> - **Venturi mask**：靠 entrainment 原理給固定 FiO₂（約 0.24–0.60），適合 hypercapnic 風險病人
+> - **HFNC**：流量最高約 60 L/min、FiO₂ 可近 1.0，閉口時約產生 2–3 cmH₂O 的低度 PEEP
+> - 這也是為什麼插管前 preoxygenation 會用 **NIV＋HFNC**，而不是只靠 NRM
 
 ### 模擬題
 
@@ -416,4 +425,4 @@ flowchart TD
 - Prekker ME, Driver BE, Trent SA, et al. Video versus direct laryngoscopy for tracheal intubation of critically ill adults. *N Engl J Med*. 2023;389(5):418–429.
 - Gibbs KW, Semler MW, Driver BE, et al. Noninvasive ventilation for preoxygenation during emergency intubation. *N Engl J Med*. 2024;390(23):2165–2177.
 - Casey JD, Seitz KP, Driver BE, et al. Ketamine or etomidate for tracheal intubation of critically ill adults. *N Engl J Med*. 2025. DOI: 10.1056/NEJMoa2511420
-- 內專考古題詳解：[內專刷題網站](http://imboard.dirty-wolf.com/)（114-35）
+- 內專考古題詳解：[內專刷題網站](http://imboard.dirty-wolf.com/)（111-24、114-35）
