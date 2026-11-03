@@ -20,6 +20,45 @@ tags:
 > [!abstract] 一句話重點
 > 透析病人的皮膚問題記四個：**CKD-aP**（先擦 **emollient**）、**acquired perforating dermatosis**（抓出來的中央角栓結節，先止癢）、**metastatic calcinosis cutis**（關節旁白色粉筆樣結節，矯正鈣磷）、**calciphylaxis**（==疼痛不成比例、脂肪多的部位、retiform purpura → 黑痂==，停 warfarin、鈣與 vitamin D，用 sodium thiosulfate）。另外，皮膚也可以是 **lupus、vasculitis** 這類「同時打到腎臟」的疾病線索。
 
+## 🗺️ 總綱
+
+```mermaid
+mindmap
+  root((腎臟病皮膚))
+    CKD-aP
+      透析 40%、CKD 20%
+      先排除肝膽、過敏、透析中才癢
+      第一線 emollient
+      Difelikefalin、gabapentinoid 減量
+    APD
+      DM 透析病人
+      火山口結節、中央角栓
+      抓出來的 Koebner
+      先止癢、keratolytic
+    Calcinosis cutis
+      Metastatic：鈣磷異常
+      關節旁白色粉筆樣
+      低磷飲食、停鈣片
+      非鈣磷結合劑、cinacalcet
+    Calciphylaxis
+      痛不成比例、脂肪多處
+      Retiform purpura → 黑痂
+      Warfarin、鈣、vit D、IV iron、類固醇
+      停藥、加強透析、thiosulfate
+      化學清創、培養不可靠
+    Lupus
+      ACLE 約 90% 合併 SLE
+      SCLE 25–40% 藥物
+      PPI、thiazide、CCB、terbinafine
+      DLE 疤痕禿髮、HCQ 第一線
+    Vasculitis
+      AAV：purpura 最常見
+      Cryo：HCV、purpura、RF 陽性
+      IgA：腰以上病灶 → 腎臟
+      成人 HSP 找癌症
+```
+
+
 ## 三個共通機轉
 
 | 機轉 | 例子 |

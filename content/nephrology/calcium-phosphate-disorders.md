@@ -19,6 +19,49 @@ tags:
 > [!abstract] 一句話重點
 > 三個荷爾蒙分工：**PTH 管每分每秒的 ionized Ca**、**FGF-23 管磷**、**1,25(OH)₂D 管腸道吸收**。評估鈣異常 **==先測 ionized Ca（不要用 albumin 校正）==**，高血鈣第一步看 **PTH**；低血鈣先看 **Mg 與 PTH**；低血磷看 **腎臟有沒有在漏磷**（尿磷 > 100 mg/d 或 FEPO₄ > 20%）。
 
+## 🗺️ 總綱
+
+```mermaid
+mindmap
+  root((鈣磷鎂))
+    三荷爾蒙
+      PTH：分秒管 ionized Ca
+      FGF-23：管磷、煞車 1,25D
+      1,25D：腸道吸收
+    高血鈣
+      先測 ionized Ca
+      PTH 不低 → Primary HPT、FHH、tertiary
+      FHH：低尿鈣、不要開刀
+      PTH 低 → PTHrP、1,25D、25D
+      肉芽腫、lymphoma 自製 1,25D
+      CYP24A1 突變：懷孕揭露
+    低血鈣
+      先看 Mg 與 PTH
+      術後 hypoPTH → IV calcium gluconate
+      Hungry bone：鈣磷鎂都低
+      透析快速矯正酸 → iCa 驟降
+      Citrate：total 升、ionized 降
+    低血磷
+      尿磷大於 100 或 FEPO₄ 大於 20% → 腎漏
+      腎漏＋高鈣 → PTH
+      腎漏、鈣正常 → FGF-23
+      Ferric carboxymaltose、TIO、移植後
+      Refeeding → 移入細胞
+    高血磷
+      TLS：高 K、高尿酸、低 Ca
+      CKD 晚期才升高
+      Liposomal ampho B → 假性
+    低血鎂
+      PPI、thiazide、cisplatin、cetuximab
+      造成低 Ca 與頑固低 K
+      先補鎂
+    CKD-MBD
+      FGF-23 最早升高
+      1,25D 降、Ca 降、PTH 升
+      Cinacalcet → 低血鈣
+```
+
+
 ## 調控軸：PTH、FGF-23、1,25(OH)₂D
 
 | | PTH | FGF-23 | 1,25(OH)₂D（calcitriol） |

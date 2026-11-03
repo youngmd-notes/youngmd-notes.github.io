@@ -18,6 +18,48 @@ tags:
 > [!abstract] 一句話重點
 > 透析中出事，先想「**管路裡的血要不要回輸**」：**==Dialyzer reaction（type A）、air embolism、hemolysis → 停機且不回血==**。另外三個高頻考點：**DDS 用低血流（約 200 mL/min、2 小時、BUN 降幅 ≤ 40%）預防**、**uremic pericarditis 透析時不用 heparin、有 tamponade 不能洗**、**HD 病人猝死最常在長週末後**。
 
+## 🗺️ 總綱
+
+```mermaid
+mindmap
+  root((透析急症))
+    管路血不回輸
+      Dialyzer reaction type A
+      Air embolism
+      Hemolysis
+    Dialyzer reaction
+      Type A：20–30 分鐘內、IgE
+      Ethylene oxide、ACEI＋AN69
+      Type B：較晚較輕、可繼續
+    DDS
+      首次透析、BUN 很高
+      頭痛 → seizure、腦水腫
+      血流約 200、2 小時
+      BUN 降幅 40% 以內
+    Pericarditis
+      8 週內 uremic、之後 dialysis-associated
+      少有 diffuse ST elevation
+      加強透析、不用 heparin
+      Tamponade → 先引流不要洗
+    Air embolism
+      100% O₂
+      靜脈：左側臥
+      動脈：平躺
+    出血
+      針脫落警報可能不響
+      Access 破裂：直接壓迫
+      多發生在家裡
+    Hemolysis 與水污染
+      櫻桃紅管路血、粉紅血清
+      巧克力色血 → chloramine
+      Fluoride、aluminum
+    猝死
+      長週末後最多
+      Bradyarrhythmia 較常見
+      避免 K 小於 2、Ca 小於 2.5 的透析液
+```
+
+
 ## 總覽
 
 | 急症 | 關鍵線索 | 立即處置 | 管路血回輸？ |

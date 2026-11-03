@@ -16,6 +16,41 @@ tags:
 > [!abstract] 一句話重點
 > 每次看到電解質就算 AG：**==先用 albumin 校正 AG==**，再用 **Winter's formula** 看呼吸代償、用 **ΔAG/ΔHCO₃⁻** 找藏起來的第二、第三個酸鹼異常；HAGMA 合併 **osmolal gap** 時要想到 toxic alcohol／glycol。AG 太低甚至是負的，也一定要找原因。
 
+## 🗺️ 總綱
+
+```mermaid
+mindmap
+  root((HAGMA))
+    1 算對 AG
+      Na − Cl − HCO₃⁻，正常約 10
+      Albumin 每低 1 g/dL，AG 加 2.5
+      高血糖時用未校正 Na
+    2 看呼吸代償
+      Winter：1.5 × HCO₃⁻ ＋ 8 ± 2
+      PaCO₂ 太高 → 合併呼吸性酸中毒
+      PaCO₂ 太低 → 合併呼吸性鹼中毒
+    3 ΔAG ／ ΔHCO₃⁻
+      約 1 → 單純 HAGMA
+      明顯大於 1 → 合併代謝性鹼中毒
+      明顯小於 1 → 合併 NAGMA
+    GOLDMARK
+      Glycols、5-oxoproline
+      L-lactate、D-lactate
+      Methanol、Aspirin
+      Renal failure、Ketoacidosis
+    Osmolal gap 高
+      Toxic alcohol 或 DKA 的 acetone
+      早期 gap 高 → 晚期 AG 高
+      Ca oxalate 結晶 → ethylene glycol
+      Isopropanol 有 gap 沒有酸
+    找不到原因
+      長期 acetaminophen → 5-oxoproline
+      Short bowel＋ataxia → D-lactate
+      Salicylate → 合併呼吸性鹼中毒
+      AG 比 −5 還負 → 檢驗干擾
+```
+
+
 ## 基本工具
 
 ### 1. 代謝性酸中毒的呼吸代償：Winter's formula

@@ -17,6 +17,41 @@ tags:
 > [!abstract] 一句話重點
 > Normal AG acidosis 先問「**腎臟有沒有在排 NH₄⁺**」：==尿液 NH₄⁺ 夠（> 40 mEq/d、urine osmolal gap 高）→ 腸胃道丟 HCO₃⁻；不夠 → RTA==。再用 **serum K⁺** 分低鉀（proximal、classic distal）與高鉀（type 4、voltage-dependent），最後用 **urine pH** 定型。
 
+## 🗺️ 總綱
+
+```mermaid
+mindmap
+  root((Normal AG acidosis))
+    1 尿液 NH₄⁺ 夠嗎
+      夠：大於 40 mEq/d、UOG 大於 200
+      → Diarrhea 或 proximal RTA
+      不夠：UOG 小於 150 → RTA
+      考題用 UAG：正值 → RTA
+    Proximal type 2
+      K 低，未補鹼時尿 pH 小於 5.5
+      HCO₃⁻ 閾值降到 16–18
+      Fanconi：血糖正常卻有尿糖
+      Myeloma、tenofovir、topiramate、zoledronate
+      補鹼量大，先補鉀
+    Distal type 1
+      K 低，尿 pH 大於 6
+      Sjögren、SLE、amphotericin B、lithium
+      Ca phosphate 結石、nephrocalcinosis
+      Potassium citrate 約 1 mmol/kg/d
+    Type 4
+      K 高，尿 pH 小於 5.5
+      DM：低 renin 低 aldosterone
+      ACEI、ARB、MRA、NSAID、CNI、heparin
+      加 thiazide 或 loop、續用 ACEI
+    Voltage-dependent
+      K 高，尿 pH 大於 6
+      Amiloride、trimethoprim、阻塞
+    鑑別：低鉀但是鹼中毒
+      Bartter 像 loop：高尿鈣
+      Gitelman 像 thiazide：低尿鈣、低血鎂
+```
+
+
 ## 腎臟怎麼排酸
 
 - 肺每天排掉約 15,000 mmol CO₂（揮發性酸），但**排不掉固定酸**
