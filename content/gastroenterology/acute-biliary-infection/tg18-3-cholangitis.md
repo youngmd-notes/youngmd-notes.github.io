@@ -17,6 +17,7 @@ tags:
 
 > [!info] 系列導覽
 > ↑ 回到 [[gastroenterology/acute-biliary-infection/index|急性膽道感染 TG18 總覽]]
+> 📌 [[gastroenterology/acute-biliary-infection/index#📌 必看表一：Cholangitis vs Cholecystitis 終極對照|必看表一：終極對照]]｜[[gastroenterology/acute-biliary-infection/index#📌 必看表二：Urgent、early、delayed 到底是多久？|必看表二：urgent／early／delayed 多久]]
 >
 > ① [[gastroenterology/acute-biliary-infection/tg18-1-diagnosis|診斷與嚴重度]]｜② [[gastroenterology/acute-biliary-infection/tg18-2-initial-management|初始處置與 bundle]]｜③ Cholangitis 處置與膽道引流（本篇）｜④ [[gastroenterology/acute-biliary-infection/tg18-4-cholecystitis|Cholecystitis 處置與膽囊引流]]｜⑤ [[gastroenterology/acute-biliary-infection/tg18-5-antimicrobial|抗生素]]｜⑥ [[gastroenterology/acute-biliary-infection/tg18-exam|內專考點]]
 >
@@ -49,7 +50,7 @@ tags:
 TG 研究對時機的定義：**urgent = 入院當天（24 h 內）**、**early = 入院隔天（24–48 h）**，都是**從入院起算、以小時計**。
 
 > [!warning] 不是 72 h
-> 72 h 是 **cholecystitis 開刀**的時間窗（從**發病**算）；cholangitis 引流看的是**入院後 24／48 h**。完整對照見 [[gastroenterology/acute-biliary-infection/index#⏱️ Urgent、early、delayed 到底是多久？|總覽頁：urgent、early、delayed 到底是多久？]]
+> 72 h 是 **cholecystitis 開刀**的時間窗（從**發病**算）；cholangitis 引流看的是**入院後 24／48 h**。完整對照見 [[gastroenterology/acute-biliary-infection/index#📌 必看表二：Urgent、early、delayed 到底是多久？|總覽頁必看表二：urgent、early、delayed 到底是多久？]]
 
 <div class="tl"><div class="tl-grid">
 <div></div>

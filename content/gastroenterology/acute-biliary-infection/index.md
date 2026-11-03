@@ -18,6 +18,60 @@ cssclasses:
 > [!abstract] 一句話重點
 > TG18 沿用 TG13 的診斷與分級，改的是處置：**Cholangitis**＝抗生素＋**依 grade 決定引流時機**（I：無反應才引流；**II：早期引流**；III：穩定後緊急引流），首選 **ERCP 引流**；**Cholecystitis**＝依 grade＋**CCI／ASA-PS** 決定 **early LC 或 GB drainage（PTGBD）**，**Grade III 在嚴格條件下也可以 early LC**。抗生素：cholangitis 引流後 **4–7 天**，cholecystitis Grade I／II **開完刀 24 h 內停**。
 
+## 📌 必看表一：Cholangitis vs Cholecystitis 終極對照
+
+| | Acute cholangitis | Acute cholecystitis |
+| --- | --- | --- |
+| **病灶** | **膽管阻塞**：膽道高壓把細菌與 endotoxin 擠進血流 | **膽囊本身**發炎（多為 cystic duct 被結石卡住） |
+| **典型線索** | Charcot's triad（fever＋RUQ pain＋jaundice）：specificity 高但只有約 2 成病人三項都有 | **Murphy's sign**、RUQ 壓痛或腫塊 |
+| **診斷 A** | **全身發炎**（fever > 38°C、WBC < 4k 或 > 10k、CRP ≥ 1）＝**必備** | **局部徵象**（Murphy's、RUQ mass／pain／tenderness） |
+| **診斷 B** | **Cholestasis**（T-bil ≥ 2 或 ALP、GGT、AST、ALT > 1.5 × ULN） | **全身發炎**（fever、CRP↑、WBC↑） |
+| **診斷 C** | **膽管擴張**或看到病因（stone、stricture、stent） | **典型膽囊影像**（壁 ≥ 4 mm、腫大、周圍積液、sonographic Murphy's） |
+| **Suspected／Definite** | A＋（B 或 C）／A＋B＋C | A＋B／A＋B＋C |
+| **膽管會擴張嗎？** | ==會==（阻塞在膽管） | ==不會==；若擴張要想合併 CBD stone 或 cholangitis |
+| **第一線影像** | US（或 CT）；不確定再 MRCP | US；不確定再 MRI／MRCP；懷疑 gangrenous 用 contrast CT／MRI，emphysematous 用 CT |
+| **Grade III** | 任一器官衰竭（**兩者完全相同**）：需 dopamine ≥ 5 或任何 NE、意識障礙、P/F < 300、oliguria 或 Cr > 2.0、INR > 1.5、PLT < 10 萬 | 同左 |
+| **Grade II** | 5 項中 **≥ 2 項**：WBC > 12k 或 < 4k、BT ≥ 39°C、**年齡 ≥ 75**、**T-bil ≥ 5**、albumin < 0.7 × LLN | 4 項中 **任 1 項**：**WBC > 18k**、RUQ 腫塊、**症狀 > 72 h**、明顯局部發炎（gangrenous、abscess、emphysematous、biliary peritonitis） |
+| **30 天死亡率** | Grade I／II／III 約 2.4%／4.7%／8.4% | 整體約 1%；Grade III 約 5.4% |
+| **關鍵處置** | **膽道引流**（減壓） | **Cholecystectomy**（根治）；GB drainage 只給不能開的人 |
+| **抗生素的角色** | 爭取時間：把緊急引流變成擇期 | 控制發炎：讓不能開的人撐到能開 |
+| **Grade I** | 抗生素；**24 h 沒反應才引流** | 低風險 → **early LC**；高風險 → 抗生素，改善後 LC |
+| **Grade II** | 抗生素＋**early drainage** | 低風險＋有技術 → **urgent／early LC**；抗生素無效 → GB drainage → 延後 LC |
+| **Grade III** | 穩定呼吸循環 → **urgent drainage** | 無 negative PF＋FOSF＋PS 好＋advanced center → **early LC**；否則 **GB drainage** |
+| **決定時機的主軸** | **Grade 越高越早引流** | **能不能開**（CCI、ASA-PS、negative PF、FOSF）＋**抗生素有沒有效**＋**醫院做不做得到** |
+| **時間怎麼算** | 從**入院**算、以**小時**計（24／48 h） | 從**發病**算、以**天**計（72 h／7 天） |
+| **為什麼要早** | Grade II 早引流降低死亡率（1.7% vs 3.4%） | 纖維化越來越重；等待期間 6–23% 復發；early LC 不增加 bile duct injury、住院更短 |
+| **引流首選** | **Endoscopic transpapillary**（ENBD 或 EBS）；做不到用 PTCD；專家中心可用 EUS-BD | **PTGBD**；高流量中心可用 ETGBD 或 EUS-GBD |
+| **凝血異常／抗凝** | 放 stent；**避免 EST 和 PTCD** | Clopidogrel 停 5 天、INR < 1.5；抗血小板＋抗凝併用避免 PTGBD → 改 ETGBD |
+| **培養** | Grade II、III 送 blood／bile culture；引流時一定送膽汁 | Grade II、III 送 blood／bile culture；**社區型 Grade I 不需常規 blood culture** |
+| **經驗性抗生素** | **相同**：依嚴重度＋社區或醫療照護相關選藥；Grade III 與醫療照護相關要 cover Pseudomonas（± vancomycin） | 同左 |
+| **抗生素療程** | **Source control 後 4–7 天** | Grade I／II：**開完刀 24 h 內停**；Grade III：source control 後 4–7 天 |
+| **兩者共通** | GPC 菌血症（Enterococcus、Streptococcus）**至少 2 週**；有殘石或阻塞持續治療到解決；liver abscess 治療到影像消失 | 同左 |
+| **後續** | 處理病因（取石）；合併 GB stone → cholangitis 緩解後 **LC** | 沒有早開者 → **delayed LC** |
+| **轉院** | Grade II、III：院內無法引流或 ICU 就轉 | Grade II：無法 early LC 或緊急引流就轉；Grade III：非 advanced center 就轉 |
+
+詳細推理與時間軸：<a class="internal" href="/gastroenterology/acute-biliary-infection/tg18-3-cholangitis#-決策思維什麼時候引流">③ 什麼時候引流？</a>　<span class="af-where">③</span>　<a class="internal" href="/gastroenterology/acute-biliary-infection/tg18-4-cholecystitis#-決策思維什麼時候開刀什麼時候引流">④ 什麼時候開刀？什麼時候引流？</a>　<span class="af-where">④</span>
+
+## 📌 必看表二：Urgent、early、delayed 到底是多久？
+
+**不是都 72 h。** 先看是「引流」還是「開刀」，==兩者的起算點不同：引流從入院算、以小時計；開刀從發病算、以天計==。
+
+| 用語 | 用在 | 多久 | 從何時起算 | TG18 的依據 |
+| --- | --- | --- | --- | --- |
+| **Urgent drainage** | Cholangitis（Grade III） | **入院當天，24 h 內**（另有研究定義為 **12 h 內**） | **入院** | 日台大型研究的定義（Kiriyama） |
+| **Early drainage** | Cholangitis（Grade II） | **入院隔天，24–48 h** | **入院** | 同上；Grade II 在 24 h 內或 48 h 內引流，死亡率都較低 |
+| 「24 h 沒反應」 | Grade I cholangitis、選保守治療的 Grade I cholecystitis | 初始治療後 **24 h** 評估 | 開始治療 | Bundle：沒反應 → 引流（或改 early LC） |
+| **Early LC** | Cholecystitis（Grade I、II，符合條件的 III） | **72 h 內最好，7 天內都算** | **發病（症狀開始）** | Bundle；RCT 把 early 定義為 72 h 內或 1 週內 |
+| Grade II 的手術上限 | Cholecystitis Grade II | LC 應在**發病 96 h 內**做 | 發病 | Yokoe Table 7 表註 |
+| **Urgent LC／urgent GB drainage** | Cholecystitis | **TG18 沒有給明確時數**；字義上比 early 更急，越快越好 | — | 流程圖只寫「urgent／early」並列 |
+| **Delayed／elective LC** | Cholecystitis 高風險或先引流者 | 發炎消退後；RCT 多為**發病 ≥ 6 週**；PTGBD 後常**等 4–6 週** | 發病或引流 | Okamoto Q3、Q4 |
+
+> [!warning] Pitfall：72 h 是「膽囊炎開刀」的數字，不是「膽管炎引流」的數字
+> - 看到 cholangitis 想 **24／48 h（從入院算）**；看到 cholecystitis 想 **72 h／7 天（從發病算）**
+> - Cholecystitis 的病人常到院時已經發病好幾天：72 h 是「最好」，**超過 72 h 只要能耐受仍建議早開**，不是過了 72 h 就只能等 6 週
+> - 「Early」不等於「半夜急開」：24 h 內開刀沒有比 72 h 內好，應由有經驗的醫師在適合的時段做
+
+
 本系列依 **Tokyo Guidelines 2018** 的 9 篇論文，整理成 5 篇指引筆記，加上第 6 篇內專考點，點下方卡片進入各篇。
 
 > [!tip] 原圖
@@ -51,40 +105,6 @@ cssclasses:
 <div class="af-body"><div class="af-title">內專考點</div><div class="af-desc">104–114 年膽道相關考古題 14 題（TG18 本身 4 題＋CBD stone、gallstone pancreatitis、膽結石手術適應症），附 2 題模擬題</div><div class="af-cover">Cholangitis 處置、cholecystitis 影像與手術時機、膽管擴張鑑別</div></div>
 </a>
 </div>
-
-## 🧭 決策思維：引流與手術時機
-
-兩種疾病的「關鍵處置」不同，決策邏輯也不同：
-
-| | Acute cholangitis | Acute cholecystitis |
-| --- | --- | --- |
-| 病灶 | **膽管阻塞**，膽道高壓把細菌擠進血流 | **膽囊本身**發炎 |
-| 關鍵處置 | **膽道引流**（減壓） | **Cholecystectomy**（根治）；GB drainage 只給不能開的人 |
-| 抗生素的角色 | 爭取時間，讓緊急引流變成擇期 | 控制發炎，讓不能開的人等到能開 |
-| 決定時機的主軸 | **Grade 越高越早引流**：III 穩定後盡快、II 早期（24–48 h）、I 抗生素 24 h 沒反應才引流 | **能不能開**（CCI、ASA-PS、negative predictive factor、FOSF）＋**抗生素有沒有效**＋**醫院做不做得到** |
-| 為什麼要早 | Grade II 早引流降低死亡率 | 纖維化越來越重，延後期間 6–23% 復發；early LC 不增加 bile duct injury、住院更短 |
-
-- 詳細推理與時間軸：<a class="internal" href="/gastroenterology/acute-biliary-infection/tg18-3-cholangitis#-決策思維什麼時候引流">③ 什麼時候引流？</a>　<span class="af-where">③</span>
-- 詳細推理與時間軸：<a class="internal" href="/gastroenterology/acute-biliary-infection/tg18-4-cholecystitis#-決策思維什麼時候開刀什麼時候引流">④ 什麼時候開刀？什麼時候引流？</a>　<span class="af-where">④</span>
-
-### ⏱️ Urgent、early、delayed 到底是多久？
-
-**不是都 72 h。** 先看是「引流」還是「開刀」，==兩者的起算點不同：引流從入院算、以小時計；開刀從發病算、以天計==。
-
-| 用語 | 用在 | 多久 | 從何時起算 | TG18 的依據 |
-| --- | --- | --- | --- | --- |
-| **Urgent drainage** | Cholangitis（Grade III） | **入院當天，24 h 內**（另有研究定義為 **12 h 內**） | **入院** | 日台大型研究的定義（Kiriyama） |
-| **Early drainage** | Cholangitis（Grade II） | **入院隔天，24–48 h** | **入院** | 同上；Grade II 在 24 h 內或 48 h 內引流，死亡率都較低 |
-| 「24 h 沒反應」 | Grade I cholangitis、選保守治療的 Grade I cholecystitis | 初始治療後 **24 h** 評估 | 開始治療 | Bundle：沒反應 → 引流（或改 early LC） |
-| **Early LC** | Cholecystitis（Grade I、II，符合條件的 III） | **72 h 內最好，7 天內都算** | **發病（症狀開始）** | Bundle；RCT 把 early 定義為 72 h 內或 1 週內 |
-| Grade II 的手術上限 | Cholecystitis Grade II | LC 應在**發病 96 h 內**做 | 發病 | Yokoe Table 7 表註 |
-| **Urgent LC／urgent GB drainage** | Cholecystitis | **TG18 沒有給明確時數**；字義上比 early 更急，越快越好 | — | 流程圖只寫「urgent／early」並列 |
-| **Delayed／elective LC** | Cholecystitis 高風險或先引流者 | 發炎消退後；RCT 多為**發病 ≥ 6 週**；PTGBD 後常**等 4–6 週** | 發病或引流 | Okamoto Q3、Q4 |
-
-> [!warning] Pitfall：72 h 是「膽囊炎開刀」的數字，不是「膽管炎引流」的數字
-> - 看到 cholangitis 想 **24／48 h（從入院算）**；看到 cholecystitis 想 **72 h／7 天（從發病算）**
-> - Cholecystitis 的病人常到院時已經發病好幾天：72 h 是「最好」，**超過 72 h 只要能耐受仍建議早開**，不是過了 72 h 就只能等 6 週
-> - 「Early」不等於「半夜急開」：24 h 內開刀沒有比 72 h 內好，應由有經驗的醫師在適合的時段做
 
 ## 依臨床情境找重點
 
