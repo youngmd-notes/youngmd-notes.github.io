@@ -22,6 +22,9 @@ interface RenderComponents {
 }
 
 const headerRegex = new RegExp(/h[1-6]/)
+// 每次建置的版本號：讓瀏覽器與 SPA 換頁都會載入最新的 index.css
+const CSS_VERSION = Date.now().toString(36)
+
 export function pageResources(
   baseDir: FullSlug | RelativeURL,
   staticResources: StaticResources,
@@ -32,7 +35,7 @@ export function pageResources(
   const resources: StaticResources = {
     css: [
       {
-        content: joinSegments(baseDir, "index.css"),
+        content: `${joinSegments(baseDir, "index.css")}?v=${CSS_VERSION}`,
       },
       ...staticResources.css,
     ],

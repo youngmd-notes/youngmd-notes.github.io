@@ -114,6 +114,16 @@ async function _navigate(url: URL, isBack: boolean = false) {
     }
   }
 
+  // 網站更新後，SPA 換頁不會重新載入保留的樣式表；版本不同就換成新的 index.css
+  const sel = 'link[rel="stylesheet"][spa-preserve][href*="index.css"]'
+  const oldCss = document.head.querySelector<HTMLLinkElement>(sel)
+  const newCss = html.head.querySelector<HTMLLinkElement>(sel)
+  const newHref = newCss?.getAttribute("href")
+  if (oldCss && newHref) {
+    const abs = new URL(newHref, url).href
+    if (oldCss.href !== abs) oldCss.href = abs
+  }
+
   // now, patch head, re-executing scripts
   const elementsToRemove = document.head.querySelectorAll(":not([spa-preserve])")
   elementsToRemove.forEach((el) => el.remove())
