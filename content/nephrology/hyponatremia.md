@@ -84,6 +84,7 @@ ODS（osmotic demyelination syndrome）通常在矯正過快後 **==2–6 天==*
 
 - [[SIADH]]
 - [[dka-hhs|DKA & HHS]]：高血糖造成的稀釋性低血鈉
+- [[high-anion-gap-metabolic-acidosis|HAGMA]]：osmolal gap、高血糖時 AG 的算法
 
 ## 參考資料
 

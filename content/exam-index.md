@@ -162,7 +162,12 @@ title: 內專考點總覽
 
 ## 還沒有內專考點的筆記
 
+- [[nephrology/calcium-phosphate-disorders|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]]（腎臟科 Nephrology）
+- [[nephrology/hemodialysis-emergencies|血液透析急症 Hemodialysis Emergencies]]（腎臟科 Nephrology）
+- [[nephrology/high-anion-gap-metabolic-acidosis|高陰離子間隙代謝性酸中毒 High Anion Gap Metabolic Acidosis]]（腎臟科 Nephrology）
 - [[nephrology/hyponatremia|低血鈉 Hyponatremia]]（腎臟科 Nephrology）
+- [[nephrology/renal-tubular-acidosis|腎小管酸中毒 Renal Tubular Acidosis]]（腎臟科 Nephrology）
 - [[nephrology/siadh|SIADH]]（腎臟科 Nephrology）
+- [[nephrology/skin-disorders-in-kidney-disease|腎臟病的皮膚疾病 Skin Disorders in Kidney Disease]]（腎臟科 Nephrology）
 
 點開各考點即可跳到筆記裡的題目重點卡；原題與詳解請到 [內專刷題網站](http://imboard.dirty-wolf.com/) 依題號查詢。

@@ -571,6 +571,8 @@ flowchart TD
 ## 相關筆記
 
 - [[hyponatremia|低血鈉 Hyponatremia]]：高血糖造成的稀釋性低血鈉與校正
+- [[high-anion-gap-metabolic-acidosis|高陰離子間隙代謝性酸中毒 HAGMA]]：DKA 的三重酸鹼異常、acetone 造成的 osmolal gap、恢復期 hyperchloremic acidosis
+- [[calcium-phosphate-disorders|鈣磷鎂異常]]：DKA 治療中的低血磷
 
 ## 參考資料
 
