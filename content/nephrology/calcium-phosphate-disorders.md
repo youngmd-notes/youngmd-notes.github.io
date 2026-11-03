@@ -27,7 +27,7 @@ tags:
 <div class="ov-card"><div class="ov-t">三荷爾蒙</div><ul><li>PTH：分秒管 ionized Ca</li><li>FGF-23：管磷、煞車 1,25D</li><li>1,25D：腸道吸收</li></ul></div>
 <div class="ov-card"><div class="ov-t">高血鈣</div><ul><li>先測 ionized Ca</li><li>PTH 不低 → <b>Primary HPT、FHH、tertiary</b></li><li>FHH：低尿鈣、不要開刀</li><li>PTH 低 → <b>PTHrP、1,25D、25D</b></li><li>肉芽腫、lymphoma 自製 1,25D</li><li>CYP24A1 突變：懷孕揭露</li></ul></div>
 <div class="ov-card"><div class="ov-t">低血鈣</div><ul><li>先看 Mg 與 PTH</li><li>術後 hypoPTH → <b>IV calcium gluconate</b></li><li>Hungry bone：鈣磷鎂都低</li><li>透析快速矯正酸 → <b>iCa 驟降</b></li><li>Citrate：total 升、ionized 降</li></ul></div>
-<div class="ov-card"><div class="ov-t">低血磷</div><ul><li>尿磷大於 100 或 FEPO₄ 大於 20% → <b>腎漏</b></li><li>腎漏＋高鈣 → <b>PTH</b></li><li>腎漏、鈣正常 → <b>FGF-23</b></li><li>Ferric carboxymaltose、TIO、移植後</li><li>Refeeding → <b>移入細胞</b></li></ul></div>
+<div class="ov-card"><div class="ov-t">低血磷</div><ul><li>尿磷&gt; 100 或 FEPO₄ &gt; 20% → <b>腎漏</b></li><li>腎漏＋高鈣 → <b>PTH</b></li><li>腎漏、鈣正常 → <b>FGF-23</b></li><li>Ferric carboxymaltose、TIO、移植後</li><li>Refeeding → <b>移入細胞</b></li></ul></div>
 <div class="ov-card"><div class="ov-t">高血磷</div><ul><li>TLS：高 K、高尿酸、低 Ca</li><li>CKD 晚期才升高</li><li>Liposomal ampho B → <b>假性</b></li></ul></div>
 <div class="ov-card"><div class="ov-t">低血鎂</div><ul><li>PPI、thiazide、cisplatin、cetuximab</li><li>造成低 Ca 與頑固低 K</li><li>先補鎂</li></ul></div>
 <div class="ov-card"><div class="ov-t">CKD-MBD</div><ul><li>FGF-23 最早升高</li><li>1,25D 降、Ca 降、PTH 升</li><li>Cinacalcet → <b>低血鈣</b></li></ul></div>

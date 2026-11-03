@@ -30,7 +30,7 @@ tags:
 <div class="ov-card"><div class="ov-t">Air embolism</div><ul><li>100% O₂</li><li>靜脈：左側臥</li><li>動脈：平躺</li></ul></div>
 <div class="ov-card"><div class="ov-t">出血</div><ul><li>針脫落警報可能不響</li><li>Access 破裂：直接壓迫</li><li>多發生在家裡</li></ul></div>
 <div class="ov-card"><div class="ov-t">Hemolysis 與水污染</div><ul><li>櫻桃紅管路血、粉紅血清</li><li>巧克力色血 → <b>chloramine</b></li><li>Fluoride、aluminum</li></ul></div>
-<div class="ov-card"><div class="ov-t">猝死</div><ul><li>長週末後最多</li><li>Bradyarrhythmia 較常見</li><li>避免 K 小於 2、Ca 小於 2.5 的透析液</li></ul></div>
+<div class="ov-card"><div class="ov-t">猝死</div><ul><li>長週末後最多</li><li>Bradyarrhythmia 較常見</li><li>避免 K &lt; 2、Ca &lt; 2.5 的透析液</li></ul></div>
 </div>
 </div>
 
