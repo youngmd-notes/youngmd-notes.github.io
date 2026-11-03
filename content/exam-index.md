@@ -6,7 +6,7 @@ title: 內專考點總覽
 > 這頁會**自動彙整**所有筆記裡的「🎯 內專考點」，每次網站更新時重新產生，不需要手動編輯。
 > 「考過次數」把重複出現的同一題分開計算（例如 106-132／108-94 算 2 次），越多次代表越常考。
 
-目前共整理 **39 次考題**，分布在 **2 篇筆記、12 個考點**。
+目前共整理 **41 次考題**，分布在 **3 篇筆記、14 個考點**。
 
 ## 最常考的考點
 
@@ -22,7 +22,9 @@ title: 內專考點總覽
 | [[cardiology/atrial-fibrillation/af-exam#DOAC 的機轉與解毒劑\|DOAC 的機轉與解毒劑]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 105、107、109 |
 | [[endocrinology/dka-hhs#鑑別診斷\|鑑別診斷]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 3 | 106、107、109 |
 | [[cardiology/atrial-fibrillation/af-exam#Cardioversion 前後的抗凝\|Cardioversion 前後的抗凝]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 107、109 |
+| [[pulmonology/emergent-airway-management#HFNC 的生理效應\|HFNC 的生理效應]] | [[pulmonology/emergent-airway-management#🎯 內專考點\|緊急呼吸道處置 Emergent Airway Management]] | 1 | 114 |
 | [[cardiology/atrial-fibrillation/af-exam#瓣膜性 AF 與機械瓣\|瓣膜性 AF 與機械瓣]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 1 | 111 |
+| [[pulmonology/emergent-airway-management#氧氣治療裝置\|氧氣治療裝置]] | [[pulmonology/emergent-airway-management#🎯 內專考點\|緊急呼吸道處置 Emergent Airway Management]] | 1 | 111 |
 | [[endocrinology/dka-hhs#DKA 處置\|DKA 處置]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 1 | 110 |
 
 ## 心臟科 Cardiology
@@ -72,6 +74,18 @@ title: 內專考點總覽
 - 109-021｜AF 合併 HFrEF，何者錯誤？
 - 111-011｜心衰竭合併 AF，rhythm control 首選哪個藥？
 - 111-010｜WPW 病人突發 AF、心跳 180、血壓穩定
+
+## 胸腔科 Pulmonology
+
+### 緊急呼吸道處置 Emergent Airway Management
+
+**[[pulmonology/emergent-airway-management#HFNC 的生理效應|HFNC 的生理效應]]**（1 次）
+
+- 114-35｜HFNC 生理效應何者錯誤
+
+**[[pulmonology/emergent-airway-management#氧氣治療裝置|氧氣治療裝置]]**（1 次）
+
+- 111-24｜各種給氧裝置的特性何者錯誤
 
 ## 內分泌科 Endocrinology
 
