@@ -167,6 +167,10 @@ cssclasses:
 - <a class="internal" href="/gastroenterology/acute-biliary-infection/tg18-5-antimicrobial#table-3經驗性抗生素">Gomi Table 3</a>：經驗性用藥　<span class="af-where">⑤</span>
 - <a class="internal" href="/gastroenterology/acute-biliary-infection/tg18-5-antimicrobial#table-5建議療程">Gomi Table 5</a>：療程　<span class="af-where">⑤</span>
 
+## 相關筆記
+
+- [[gastroenterology/acute-pancreatitis|急性胰臟炎 Acute Pancreatitis]]：gallstone pancreatitis 合併 cholangitis 時的 early ERCP/ES 與切膽囊時機
+
 ## 參考資料
 
 Tokyo Guidelines 2018 系列，*J Hepatobiliary Pancreat Sci*（參考資料庫：腸胃肝膽科）：

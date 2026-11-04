@@ -562,6 +562,7 @@ flowchart LR
 - [[skin-disorders-in-kidney-disease|腎臟病的皮膚疾病]]（calciphylaxis、calcinosis cutis）
 - [[renal-tubular-acidosis|腎小管酸中毒 RTA]]（Fanconi syndrome）
 - [[high-anion-gap-metabolic-acidosis|HAGMA]]（ethylene glycol、citrate 造成的 AG 升高）
+- [[gastroenterology/acute-pancreatitis|急性胰臟炎]]（hypercalcemia 是病因；AP 造成 hypocalcemia，Ca ≤ 7.5 mg/dL 是 JSS 預後因子）
 - [[nejm-cases/endocrinology/parathyroid-crisis-aortic-occlusion|NEJM 個案：Parathyroid crisis]]
 - [[nejm-cases/endocrinology/men1-syndrome|NEJM 個案：MEN1]]
 

@@ -207,6 +207,7 @@ EST 的好處只在兩種情況：放**大口徑 stent**（> 10 Fr plastic 或 S
 - [[gastroenterology/acute-biliary-infection/tg18-1-diagnosis|① 診斷與嚴重度]]
 - [[gastroenterology/acute-biliary-infection/tg18-2-initial-management|② 初始處置與 bundle]]
 - [[gastroenterology/acute-biliary-infection/tg18-5-antimicrobial|⑤ 抗生素]]：引流後抗生素療程 4–7 天
+- [[gastroenterology/acute-pancreatitis|急性胰臟炎]]：gallstone pancreatitis 只有合併 cholangitis 或膽道持續阻塞才做 early ERCP/ES
 
 ## 參考資料
 
