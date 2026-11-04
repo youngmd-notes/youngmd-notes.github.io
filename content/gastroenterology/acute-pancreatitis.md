@@ -16,6 +16,23 @@ tags:
 > [!abstract] 一句話重點
 > 診斷看 **upper abdominal pain＋pancreatic enzyme（首選 lipase）＋imaging 三項中兩項**；確診後**立刻、並在 48 小時內反覆**做 severity assessment（JSS）。早期處置的核心是 **Ringer's lactate 輸液到 MAP ≥ 65、UO ≥ 0.5 mL/kg/h**、止痛、**早期 enteral nutrition**；第一件要分辨的病因是 **gallstone**（合併 cholangitis／膽道阻塞才做 early ERCP/ES，出院前把膽囊拿掉）。Necrosis 先保守，真的要介入也**等到 4 週後 WON 期**，用 step-up approach。
 
+## 🗺️ 總綱
+
+<div class="ov">
+<div class="ov-head">🗺️ AP：確診 → 48 h 內反覆評估嚴重度 → 輸液＋止痛＋早期灌食 → 先找 gallstone → necrosis 等 4 週</div>
+<div class="ov-grid">
+<div class="ov-card"><div class="ov-t">1. 診斷（三項中兩項）</div><ul><li>上腹 abdominal pain＋tenderness</li><li>Pancreatic enzyme 上升 → <b>首選 lipase</b></li><li>US、CT 或 MRI 有異常</li><li>Atlanta：lipase／amylase <b>≥ 3 × ULN</b></li></ul></div>
+<div class="ov-card"><div class="ov-t">2. 嚴重度（JSS）</div><ul><li>確診時、24 h 內、24–48 h <b>反覆評估</b></li><li>9 項 prognostic factor 各 1 分</li><li><b>≥ 3 分或 CT Grade ≥ 2 → severe</b></li><li>Atlanta severe：organ failure <b>&gt; 48 h</b></li></ul></div>
+<div class="ov-card"><div class="ov-t">3. 影像</div><ul><li>先做 US，同時找 gallstone</li><li>CECT 在<b>發病 4–10 天</b>判斷 necrosis 最準</li><li>一週內顯影差可能只是 ischemia</li><li>病因不明、年紀大 → contrast CT 找<b>腫瘤</b></li></ul></div>
+<div class="ov-card"><div class="ov-t">4. 輸液</div><ul><li><b>Ringer's lactate</b></li><li>Shock／脫水：<b>150–600 mL/h</b></li><li>沒脫水：130–150 mL/h</li><li><b>MAP ≥ 65 且 UO ≥ 0.5 mL/kg/h → 降速</b></li></ul></div>
+<div class="ov-card"><div class="ov-t">5. 支持治療與抗生素</div><ul><li>充分止痛；<b>不常規放 NG</b></li><li>Mild：<b>不給</b>預防性抗生素</li><li>Severe／necrotizing：72 h 內給（JPN 2015）</li><li>不常規 antifungal、peritoneal lavage</li></ul></div>
+<div class="ov-card"><div class="ov-t">6. 營養</div><ul><li>避免單用 TPN</li><li><b>48 h 內少量 enteral</b>，沒腸蠕動也開始</li><li>Jejunal 優先，胃管也可以</li><li>腹痛緩解＋lipase 決定何時由口進食</li></ul></div>
+<div class="ov-card"><div class="ov-t">7. Gallstone AP</div><ul><li>病因中<b>第一優先</b>確認</li><li>合併 <b>cholangitis 或持續膽道阻塞 → early ERCP/ES</b></li><li>沒有這兩者 → 不做 early ERCP</li><li>緩解就<b>切膽囊</b>（出院 6 週內復發高）</li></ul></div>
+<div class="ov-card"><div class="ov-t">8. Necrosis 與 ACS</div><ul><li>APFC → PPC、ANC → WON（約 4 週）</li><li>感染：臨床惡化、CT 有 gas；<b>不常規 FNA</b></li><li><b>等 4 週 WON</b>：drainage → necrosectomy</li><li>ACS：IAP &gt; 20＋器官衰竭；目標 ≤ 15</li></ul></div>
+<div class="ov-card"><div class="ov-t">9. Post-ERCP pancreatitis</div><ul><li>沒禁忌症 → <b>全部給 rectal NSAIDs</b></li><li>Guidewire cannulation 當首選</li><li>高風險才放 pancreatic stent</li><li>高風險：SOD、插管困難、precut、balloon dilatation</li></ul></div>
+</div>
+</div>
+
 > [!info] 本篇來源與建議強度
 > 主要依據 **JPN Guidelines 2015**（Yokoe et al.，日本肝膽胰外科學會，39 個 CQ、43 條建議，GRADE 方法）；revised Atlanta 分類與病因清單取自網路權威來源補充（見參考資料）。
 > - 建議強度：**1＝recommend（強）**、**2＝suggest（弱）**；證據等級 **A（SR/MA/RCT）→ D（case series）**。例如「(1B)」＝強建議、中等證據
