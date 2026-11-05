@@ -79,7 +79,7 @@ tags:
 ```mermaid
 flowchart TD
     A["新發 edema<br/>疑 nephrotic syndrome"] --> S1
-    S1["① 確認 NS<br/>Dipstick 2–4+<br/>晨尿 UPCR > 3–3.5 g/g<br/>Serum albumin"] --> S2
+    S1["① 確認 NS<br/>Dipstick 2–4+<br/>晨尿 UPCR 超過 3–3.5 g/g<br/>Serum albumin"] --> S2
     S2["② 常見原因初篩<br/>UA：hematuria、casts → nephritis<br/>CBC、coagulation<br/>Creatinine、electrolytes<br/>Liver panel、glucose"] --> S3
     S3["③ 依病史找潛在疾病<br/>疑 CTD → ANA、anti-dsDNA、C3/C4<br/>Transaminase 高 → viral hepatitis panel<br/>GFR 低 → renal US"] --> S4
     S4["④ 依症狀找併發症<br/>疑 VTE → LE Doppler、chest CT、V/Q scan<br/>疑 HF → echo；ascites → abdominal US"] --> S5
