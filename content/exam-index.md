@@ -6,7 +6,7 @@ title: 內專考點總覽
 > 這頁會**自動彙整**所有筆記裡的「🎯 內專考點」，每次網站更新時重新產生，不需要手動編輯。
 > 「考過次數」把重複出現的同一題分開計算（例如 106-132／108-94 算 2 次），越多次代表越常考。
 
-目前共整理 **148 次考題**，分布在 **12 篇筆記、56 個考點**。
+目前共整理 **160 次考題**，分布在 **13 篇筆記、59 個考點**。
 
 ## 最常考的考點
 
@@ -18,10 +18,12 @@ title: 內專考點總覽
 | [[gastroenterology/abnormal-liver-tests/liver-exam#ALD、NAFLD／MASLD\|ALD、NAFLD／MASLD]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 6 | 108、110、111、113、114 |
 | [[cardiology/atrial-fibrillation/af-exam#抗凝的原則：不能用 aspirin、不看 AF 類型\|抗凝的原則：不能用 aspirin、不看 AF 類型]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 6 | 105、106、109、110、111、113 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#有症狀膽結石與膽囊疾病\|有症狀膽結石與膽囊疾病]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 5 | 105、107、113、114 |
+| [[nephrology/nephrotic-syndrome#Membranous nephropathy：anti-PLA2R 與治療時機\|Membranous nephropathy：anti-PLA2R 與治療時機]] | [[nephrology/nephrotic-syndrome#🎯 內專考點\|腎病症候群 Nephrotic Syndrome]] | 5 | 104、108、110、112、113 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#肝指數型態判讀\|肝指數型態判讀]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 5 | 105、109、110、113 |
 | [[endocrinology/dka-hhs#初始輸液\|初始輸液]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 5 | 104、105、106、107、108 |
 | [[cardiology/atrial-fibrillation/af-exam#中風風險評估：CHA₂DS₂-VASc\|中風風險評估：CHA₂DS₂-VASc]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 104、105、114 |
 | [[cardiology/atrial-fibrillation/af-exam#抗凝中出血、中風或要做處置\|抗凝中出血、中風或要做處置]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 104、108、112、114 |
+| [[nephrology/nephrotic-syndrome#從臨床與病理判斷 MCD、FSGS\|從臨床與病理判斷 MCD、FSGS]] | [[nephrology/nephrotic-syndrome#🎯 內專考點\|腎病症候群 Nephrotic Syndrome]] | 4 | 105、107、111、113 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#VT 與 wide complex tachycardia\|VT 與 wide complex tachycardia]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 4 | 104、108、109、113 |
 | [[cardiology/atrial-fibrillation/af-exam#Rate 與 rhythm control\|Rate 與 rhythm control]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 108、109、111 |
 | [[cardiology/dyslipidemia-esc/lipid-esc-exam#生活型態與次發性血脂異常\|生活型態與次發性血脂異常]] | [[cardiology/dyslipidemia-esc/lipid-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 4 | 105、107、109、110 |
@@ -37,6 +39,7 @@ title: 內專考點總覽
 | [[cardiology/atrial-fibrillation/af-exam#DOAC 的機轉與解毒劑\|DOAC 的機轉與解毒劑]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 105、107、109 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#HCM：猝死危險因子\|HCM：猝死危險因子]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 3 | 104、108、109 |
 | [[endocrinology/dka-hhs#鑑別診斷\|鑑別診斷]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 3 | 106、107、109 |
+| [[nephrology/nephrotic-syndrome#高凝血狀態與 renal vein thrombosis\|高凝血狀態與 renal vein thrombosis]] | [[nephrology/nephrotic-syndrome#🎯 內專考點\|腎病症候群 Nephrotic Syndrome]] | 3 | 104、105、108 |
 | [[nephrology/renal-tubular-acidosis#鑑別：低血鉀但是鹼中毒\|鑑別：低血鉀但是鹼中毒]] | [[nephrology/renal-tubular-acidosis#🎯 內專考點\|腎小管酸中毒 Renal Tubular Acidosis]] | 2 | 104、114 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#HCM：型態與 murmur 動態變化\|HCM：型態與 murmur 動態變化]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 2 | 111、114 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#Gallstone pancreatitis\|Gallstone pancreatitis]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 109、114 |
@@ -129,6 +132,28 @@ title: 內專考點總覽
 **[[nephrology/high-anion-gap-metabolic-acidosis#Lactic acidosis：Metformin|Lactic acidosis：Metformin]]**（1 次）
 
 - 110-64｜CKD G4 病人用口服降血糖藥，AG 26、補 bicarbonate 無效
+
+### 腎病症候群 Nephrotic Syndrome
+
+**[[nephrology/nephrotic-syndrome#高凝血狀態與 renal vein thrombosis|高凝血狀態與 renal vein thrombosis]]**（3 次）
+
+- 104-078｜NS 病人水腫加劇、蛋白尿暴增，懷疑 VTE：何者不正確？
+- 105-078／108-074｜MN 病人突發腰痛、血尿、腎功能惡化；哪種 GN 最容易 renal vein thrombosis？
+
+**[[nephrology/nephrotic-syndrome#Membranous nephropathy：anti-PLA2R 與治療時機|Membranous nephropathy：anti-PLA2R 與治療時機]]**（5 次）
+
+- 108-081｜Stage II MN、蛋白尿 5 g：anti-PLA2R 的用途哪些正確？
+- 113-067｜Primary MN、腎功能正常：哪種組合最可能自發緩解？
+- 104-082｜MN 追蹤一年，蛋白尿 1.6 g/day、albumin 正常：怎麼處理？
+- 110-069｜68 歲 MN、PLA2R 血清與組織都陰性：何者錯誤？
+- 112-069｜50 年菸齡、體重減輕、右上肺腫塊合併 NS：最可能的病理？
+
+**[[nephrology/nephrotic-syndrome#從臨床與病理判斷 MCD、FSGS|從臨床與病理判斷 MCD、FSGS]]**（4 次）
+
+- 107-092｜24 歲女性 2 個月水腫、UPCR 9、尿潛血陰性：最可能診斷？
+- 111-071｜肥胖女性、UPCR 5.9、切片 60% 腎絲球節段性瘢痕：診斷？
+- 113-059｜肥胖相關腎病：哪一種治療「沒有」減少蛋白尿或改善預後的證據？
+- 105-077｜哪個全身性疾病「不會」造成腎臟 TMA（慢性期呈 secondary FSGS）？
 
 ### 腎小管酸中毒 Renal Tubular Acidosis
 
@@ -413,7 +438,6 @@ title: 內專考點總覽
 ## 還沒有內專考點的筆記
 
 - [[nephrology/hyponatremia|低血鈉 Hyponatremia]]（腎臟科 Nephrology）
-- [[nephrology/nephrotic-syndrome|腎病症候群 Nephrotic Syndrome]]（腎臟科 Nephrology）
 - [[nephrology/siadh|SIADH]]（腎臟科 Nephrology）
 - [[cardiology/syncope/index|暈厥 Syncope]]（心臟科 Cardiology）
 - [[cardiology/syncope/symptom-to-diagnosis/index|①教科書整理 Symptom to Diagnosis]]（心臟科 Cardiology）

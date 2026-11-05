@@ -271,7 +271,232 @@ flowchart TD
 
 ## 🎯 內專考點
 
-待補（這次無法讀取刷題網站題庫，之後補上）。
+> [!example] 出題規律
+> 腎臟科 GN-Nephrotic 共 12 題，集中在 **membranous nephropathy（MN）**：**① NS 的高凝血機轉與 renal vein thrombosis（MN 最容易）**；**② anti-PLA2R 抗體的用途**（診斷、預後、追蹤、預測自發緩解）；**③ MN 何時「不需要」立刻免疫抑制**（依風險分層，先 supportive care）；**④ 老年或抽菸者的 MN 要找惡性腫瘤**。另有從病理或臨床表現判斷 **MCD、FSGS** 的題目。
+
+題號格式為「年份-題號」，來源為 [內專刷題網站](http://imboard.dirty-wolf.com/)（每題沒有獨立網址，請在網站選「依科目 → 腎臟 → GN-Nephrotic」查詢）。
+
+### 高凝血狀態與 renal vein thrombosis
+
+> [!note]- 104-078｜NS 病人水腫加劇、蛋白尿暴增，懷疑 VTE：何者不正確？
+> **情境**：
+> - 52 歲男性，NS 病史 3 年
+> - 近一個月雙下肢水腫、體重增加 4 kg
+> - 尿蛋白 **2.8 → 10.6 g/day**，懷疑 VTE
+>
+> **問**：何者不正確？
+> - 可能是 DVT 或 renal vein thrombosis → 對
+> - **原因通常是血小板增加或 antithrombin III 活性增加 → 錯**
+> - 可能和 protein C 或 protein S 減少有關 → 對
+> - 先用超音波篩檢，必要時 CT 或 MRI → 對
+> - 用 heparin 或 warfarin 治療 → 對
+>
+> **答**：**「antithrombin III 活性增加」那一項**
+>
+> **重點**：
+> - 機轉口訣：**==抗凝因子從尿中流失、促凝因子由肝臟增加==**
+> - 流失：**antithrombin III**、free protein S、plasminogen（分子量小）
+> - 增加：fibrinogen、factor V、VIII；再加上 diuretic 造成的血液濃縮、血小板凝集增加、活動減少
+> - 📖 對照：[[nephrology/nephrotic-syndrome#Venous thromboembolism（VTE）|VTE]]
+
+> [!note]- 105-078／108-074｜MN 病人突發腰痛、血尿、腎功能惡化；哪種 GN 最容易 renal vein thrombosis？
+> **情境**：
+> - 105-078：38 歲女性，MN，蛋白尿 4.5 g/day；突然 **flank pain、tenderness、hematuria、腎功能快速下降**
+> - 108-074：直接問哪一種原發性腎病造成的 NS 最容易合併 renal vein thrombosis
+>
+> **問**：最可能的診斷？（renal stone 合併 UTI／**renal vein thrombosis**／renal artery stenosis／malignant hypertension／TMA）；最容易 RVT 的 GN？（FSGS／IgAN／**MN**／MCD／MPGN type I）
+>
+> **答**：**Renal vein thrombosis**；**membranous nephropathy**
+>
+> **重點**：
+> - **==MN 是 NS 中 VTE、RVT 風險最高的病理型==**（以 IgAN 為參考，校正蛋白尿與 albumin 後 MN HR 約 10.8，FSGS 約 5.9）
+> - 風險在**診斷後頭 2 年**最高；**albumin 越低風險越高**（< 2.8 g/dL 最高）
+> - 急性 RVT 的典型表現：腰痛、血尿、腎功能惡化
+> - 📖 對照：[[nephrology/nephrotic-syndrome#Venous thromboembolism（VTE）|VTE]]、[[nephrology/nephrotic-syndrome#抗凝（VTE prevention）|抗凝（VTE prevention）]]
+
+### Membranous nephropathy：anti-PLA2R 與治療時機
+
+> [!note]- 108-081｜Stage II MN、蛋白尿 5 g：anti-PLA2R 的用途哪些正確？
+> **情境**：
+> - 男性，高血壓，下肢水腫 6 個月
+> - 24 小時尿蛋白 **5 g**、albumin 3 g/dL、Cr 1.7 mg/dL
+> - 切片：**stage II membranous nephropathy**
+>
+> **問**：哪些正確？
+> - (1) 應檢測血清 anti-PLA2R 抗體 → 對
+> - (2) 可由切片 GBM 增厚與發炎細胞多寡判斷預後 → 錯
+> - (3) 抗體不高就表示會自行緩解 → 錯
+> - (4) 抗體高就應建議免疫抑制治療 → 對
+> - (5) 抗體高且開始治療後，仍要持續追蹤抗體 → 對
+>
+> **答**：**(1)＋(4)＋(5)**
+>
+> **重點**：
+> - **Anti-PLA2R** 用於**診斷、風險分層、追蹤治療反應與復發**；抗體下降或轉陰常**早於**蛋白尿緩解
+> - 預後看**蛋白尿、eGFR、albumin、抗體濃度**，不是看病理 GBM 增厚程度
+> - 抗體低不代表「一定」會自行緩解（說法過度絕對）
+> - 📖 對照：[[nephrology/nephrotic-syndrome#免疫抑制治療|免疫抑制治療（KDIGO 2021 補充）]]
+
+> [!note]- 113-067｜Primary MN、腎功能正常：哪種組合最可能自發緩解？
+> **問**：哪一種血清與腎組織 PLA2R 的組合，最可能預測**自發性緩解**？
+> - **血清 anti-PLA2R 陰性＋腎絲球 PLA2R1 抗原陽性 → 對**
+> - 血清陰性＋組織陰性 → 錯
+> - 血清陽性＋組織陽性 → 錯
+> - 血清陽性＋組織陰性 → 錯
+> - 與 anti-PLA2R 無關 → 錯
+>
+> **答**：**血清抗體陰性、組織抗原陽性**
+>
+> **重點**：
+> - 組織 PLA2R1 陽性 → 確實是 PLA2R-associated MN；血清抗體已經陰性 → **==循環抗體已清除（immunologic remission）==** → 最可能自發緩解
+> - 抗體**低或下降**預測自發緩解；**高或上升**預測不緩解、需要免疫抑制
+> - 📖 對照：[[nephrology/nephrotic-syndrome#免疫抑制治療|免疫抑制治療（KDIGO 2021 補充）]]
+
+> [!note]- 104-082｜MN 追蹤一年，蛋白尿 1.6 g/day、albumin 正常：怎麼處理？
+> **情境**：
+> - 54 歲，一年前切片診斷 MN，門診追蹤
+> - 最近（和一年前類似）：**albumin 3.8 g/dL、Cr 1.2 mg/dL、蛋白尿 1.6 g/day**
+> - 輕度高血壓，**沒有水腫**
+>
+> **問**：最合適的處置？（低劑量 prednisolone／cyclosporine 或 tacrolimus／單用 MMF／**不需免疫抑制，用 ACEI 控制血壓**／再切片一次）
+>
+> **答**：**暫不需要 prednisolone 或其他免疫抑制劑，用 ACEI 控制血壓**
+>
+> **重點**：
+> - MN 依**進展風險**決定治療：**eGFR 正常、蛋白尿 < 3.5 g/day、albumin > 3.0 g/dL → ==低風險，只做 supportive care==**（最大耐受 ACEI／ARB、控制血壓、限鹽），觀察是否自發緩解
+> - 中、高風險（持續 nephrotic-range 蛋白尿、低 albumin、eGFR 下降、高 anti-PLA2R）才加免疫抑制（rituximab、cyclophosphamide＋steroid、CNI）
+> - 📖 對照：[[nephrology/nephrotic-syndrome#ACEI／ARB（antiproteinuric）|ACEI／ARB]]、[[nephrology/nephrotic-syndrome#免疫抑制治療|免疫抑制治療]]
+
+> [!note]- 110-069｜68 歲 MN、PLA2R 血清與組織都陰性：何者錯誤？
+> **情境**：
+> - 68 歲女性，NS：蛋白尿 3.5 g/day、**albumin 2.2 g/dL**、腎功能正常
+> - 切片 MN；**血清 PLA2R 與腎組織染色都陰性**
+>
+> **問**：何者錯誤？
+> - 應進一步檢查惡性腫瘤 → 對
+> - **應開始交替使用 cyclophosphamide 和類固醇 → 錯**
+> - 血栓風險高，出血風險低者可考慮預防性抗凝 → 對
+> - 應篩檢 B 型肝炎 → 對
+> - 6 個月後蛋白尿仍持續，可能有進行性腎病風險 → 對
+>
+> **答**：**「應開始 cyclophosphamide＋類固醇」那一項**
+>
+> **重點**：
+> - **PLA2R 陰性＋年長 → ==積極找 secondary cause==**：惡性腫瘤、HBV／HCV、藥物（NSAID 等）、SLE
+> - albumin 低 → 血栓風險高，出血風險低者考慮預防性抗凝
+> - eGFR 正常、沒有危及生命的併發症 → 先 supportive care 並做風險分層，**不是一確診就上 cyclophosphamide**
+> - 📖 對照：[[nephrology/nephrotic-syndrome#次發性原因（Secondary causes）|次發性原因]]、[[nephrology/nephrotic-syndrome#抗凝（VTE prevention）|抗凝]]
+
+> [!note]- 112-069｜50 年菸齡、體重減輕、右上肺腫塊合併 NS：最可能的病理？
+> **情境**：
+> - 66 歲男性，疲倦、下肢水腫 2 週；6 個月體重減輕 3.8 kg
+> - 抽菸近 50 年（每天一包）；看起來很瘦，脛前水腫 2+
+> - Hb 11.2、PLT 13 萬；Cr 1.6、**albumin 1.8**、**膽固醇 475**
+> - 尿液：潛血陰性、**蛋白 4+**、**fatty cast 多量**
+> - CT：**右上葉 2.5 × 3.5 × 2 cm 腫塊**
+>
+> **問**：最可能的診斷？（FSGS／IgAN／MPGN／RPGN／**MN**）
+>
+> **答**：**Membranous nephropathy**
+>
+> **重點**：
+> - **==成人 NS＋實體腫瘤（肺癌等）→ malignancy-associated MN==**；年紀越大、抽菸者越要想到
+> - 潛血陰性、fatty cast → 典型 nephrotic 而非 nephritic，排除 IgAN、RPGN
+> - 📖 對照：[[nephrology/nephrotic-syndrome#次發性原因（Secondary causes）|次發性原因：Neoplastic]]
+
+### 從臨床與病理判斷 MCD、FSGS
+
+> [!note]- 107-092｜24 歲女性 2 個月水腫、UPCR 9、尿潛血陰性：最可能診斷？
+> **情境**：
+> - 24 歲女性，無病史；2 個月內水腫、體重增加 8 kg
+> - **albumin 2.8**、Cr 0.8、TC 280、LDL 163
+> - **UPCR 約 9 mg/mg**、**尿潛血陰性**；K、Ca、Hb 正常
+>
+> **問**：最可能的診斷？（IgAN／**MCD**／multiple myeloma／lupus nephritis／MPGN）
+>
+> **答**：**Minimal change disease**
+>
+> **重點**：
+> - **==年輕、急性發作的「純」nephrotic、沉渣乾淨（無血尿）、腎功能正常 → MCD==**
+> - IgAN、lupus、MPGN 常有血尿（nephritic 成分）；myeloma 年紀大、常有貧血、高鈣或腎功能不良
+> - 📖 對照：[[nephrology/nephrotic-syndrome#診斷流程|診斷流程]]
+
+> [!note]- 111-071｜肥胖女性、UPCR 5.9、切片 60% 腎絲球節段性瘢痕：診斷？
+> **情境**：
+> - 48 歲肥胖女性（167.6 cm、91 kg，BMI 約 32），輕度高血壓 5 年，CCB 控制
+> - BP 130/80、JVP 升高、S4、輕微足部水腫
+> - Cr 0.9、eGFR 79；尿蛋白 3+、hyaline cast、**UPCR 5.9 g/g**
+> - 切片：**60% 腎絲球有節段性瘢痕**，其餘看起來正常
+>
+> **問**：最可能的診斷？（高血壓性腎硬化／**FSGS**／MCD／MN／crescentic GN）
+>
+> **答**：**Focal segmental glomerulosclerosis**
+>
+> **重點**：
+> - **Focal**（部分腎絲球）＋**segmental**（腎絲球的部分區段）硬化 = FSGS
+> - **肥胖**是 secondary（adaptive）FSGS 的常見原因：glomerulomegaly、hyperfiltration
+> - 📖 對照：[[nephrology/nephrotic-syndrome#Renal biopsy 的角色|Renal biopsy 的角色]]
+
+> [!note]- 113-059｜肥胖相關腎病：哪一種治療「沒有」減少蛋白尿或改善預後的證據？
+> **問**：何者除外？
+> - GLP-1 RA（如 semaglutide）→ 有證據
+> - **傳統減重藥（orlistat、bupropion-naltrexone）→ 沒有腎臟證據**
+> - Bariatric surgery → 有證據
+> - 生活型態介入（低熱量飲食、運動）→ 有證據
+> - RAAS blocker → 有證據
+>
+> **答**：**傳統減重藥（orlistat、bupropion-naltrexone）**
+>
+> **重點**：
+> - Obesity-related glomerulopathy：glomerulomegaly ± perihilar FSGS，機轉為 hyperfiltration、RAAS 與 leptin 活化、lipotoxicity
+> - 有證據的：**減重（生活型態、手術）、RAAS blockade、GLP-1 RA**（FLOW：T2DM＋CKD 腎臟複合終點降 24%）
+> - **Orlistat** 還可能造成 enteric hyperoxaluria → **oxalate nephropathy**
+
+> [!note]- 105-077｜哪個全身性疾病「不會」造成腎臟 TMA（慢性期呈 secondary FSGS）？
+> **問**：何者不屬於造成腎臟 thrombotic microangiopathy 的全身性疾病？
+> - HUS → 屬於
+> - **Hepatitis B virus infection → 不屬於**
+> - Malignant hypertension → 屬於
+> - Antiphospholipid syndrome → 屬於
+> - 骨髓移植後 radiation nephropathy → 屬於
+>
+> **答**：**HBV infection**
+>
+> **重點**：
+> - TMA 是**內皮損傷 → 微血管血栓**；慢性化後腎絲球缺血、hyperfiltration 可呈 secondary FSGS
+> - 其他 TMA 原因：scleroderma renal crisis、藥物（CNI、VEGF inhibitor、gemcitabine）
+> - **HBV 腎病以 MN 為主**（immune complex），也可 MPGN 或 PAN，**不是 TMA**
+> - 📖 對照：[[nephrology/nephrotic-syndrome#次發性原因（Secondary causes）|次發性原因：Infection（HBV）]]
+
+### 模擬題
+
+> [!question]- 模擬題 1｜MN 合併低 albumin：要不要預防性抗凝？
+> 45 歲男性，切片證實 primary MN，anti-PLA2R 高效價，蛋白尿 8 g/day，**albumin 2.1 g/dL**，eGFR 85，無出血病史。下列敘述何者最正確？
+>
+> (A) MN 的 VTE 風險和 MCD 相近，不需考慮抗凝　(B) Albumin 越低 VTE 風險越高，出血風險低者可考慮預防性抗凝　(C) 高凝血是因為 antithrombin III 合成增加　(D) 抗體高效價代表會自行緩解，只需觀察　(E) 一旦開始免疫抑制治療，就不需要再追蹤 anti-PLA2R
+>
+> > [!success]- 答案與詳解
+> > **答：(B)**
+> >
+> > - (A) 錯：**MN 是 NS 中 VTE 風險最高**的病理型
+> > - (B) 對：albumin 低（尤其 < 2.5–2.8 g/dL）風險最高，出血風險低者可考慮預防性抗凝
+> > - (C) 錯：antithrombin III 是**從尿中流失**而下降
+> > - (D) 錯：**高**抗體效價預測**不會**自行緩解，屬中高風險，需要免疫抑制
+> > - (E) 錯：要持續追蹤，**免疫學緩解比臨床緩解早**
+
+> [!question]- 模擬題 2｜NS 病理型與臨床線索配對
+> 下列「臨床線索 → 最可能病理型」的配對，何者**錯誤**？
+>
+> (A) 20 歲、急性 NS、沉渣乾淨、腎功能正常 → MCD　(B) 70 歲、重度抽菸、肺部腫塊合併 NS → MN　(C) BMI 35、緩慢出現 nephrotic-range 蛋白尿、albumin 接近正常 → secondary FSGS　(D) NS 合併 HBV 感染 → TMA　(E) 突發腰痛、血尿、腎功能惡化的 MN 病人 → renal vein thrombosis
+>
+> > [!success]- 答案與詳解
+> > **答：(D)**
+> >
+> > - (A) → 對：年輕、純 nephrotic、無血尿是 MCD 的典型
+> > - (B) → 對：malignancy-associated MN
+> > - (C) → 對：肥胖造成 adaptive FSGS，常是 nephrotic-range 蛋白尿但不一定有完整 NS
+> > - (D) → **錯**：HBV 相關腎病以 **MN** 為主，也可 MPGN、PAN，**不是 TMA**
+> > - (E) → 對：MN 最容易 RVT
 
 ## 相關筆記
 
