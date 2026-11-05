@@ -53,6 +53,8 @@ flowchart TD
 
 > [!tip] Pearl
 > 高 bilirubin 的**第一個 pivotal point 是判斷升高的是哪一種 bilirubin**。
+>
+> Bilirubin 分型和肝指數型態（hepatocellular vs cholestatic）是**兩個不同的判斷**，兩者怎麼搭配、什麼時候要做哪一個，見 [[gastroenterology/abnormal-liver-tests/index#🧭 兩個判斷動作：意義一樣嗎？都要做嗎？|總覽頁的比較]]。
 
 ## Unconjugated hyperbilirubinemia（> 50% 是 unconjugated）
 
