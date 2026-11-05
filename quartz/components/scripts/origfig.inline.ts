@@ -78,7 +78,12 @@ function render(box: HTMLElement) {
   box.innerHTML = ""
   const head = document.createElement("div")
   head.className = "of-head"
-  head.innerHTML = `<span class="of-title">📷 原圖：${label}<span class="of-src">（2024 ESC 指引）</span></span>`
+  const folder = paths[0]?.split("/")[1] ?? ""
+  const source =
+    box.dataset.source ??
+    ({ "af-originals": "2024 ESC 指引", "tg18-originals": "Tokyo Guidelines 2018", "jpn2015-originals": "JPN 2015 指引", "liver-originals": "Symptom to Diagnosis Ch 26", "airway-originals": "緊急呼吸道處置的觀念更新" } as Record<string, string>)[folder] ??
+    ""
+  head.innerHTML = `<span class="of-title">📷 原圖：${label}${source ? `<span class="of-src">（${source}）</span>` : ""}</span>`
   box.appendChild(head)
   const body = document.createElement("div")
   body.className = "of-body"
