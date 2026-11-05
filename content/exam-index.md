@@ -6,13 +6,14 @@ title: 內專考點總覽
 > 這頁會**自動彙整**所有筆記裡的「🎯 內專考點」，每次網站更新時重新產生，不需要手動編輯。
 > 「考過次數」把重複出現的同一題分開計算（例如 106-132／108-94 算 2 次），越多次代表越常考。
 
-目前共整理 **133 次考題**，分布在 **11 篇筆記、52 個考點**。
+目前共整理 **148 次考題**，分布在 **12 篇筆記、56 個考點**。
 
 ## 最常考的考點
 
 | 考點 | 筆記 | 考過次數 | 年份 |
 | --- | --- | --- | --- |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#病毒性肝炎的血清學\|病毒性肝炎的血清學]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 10 | 105、106、108、109、112、113、114 |
+| [[cardiology/dyslipidemia-esc/lipid-esc-exam#嚴重高 TG：先控糖，LDL-C 已達標就加 fenofibrate\|嚴重高 TG：先控糖，LDL-C 已達標就加 fenofibrate]] | [[cardiology/dyslipidemia-esc/lipid-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 7 | 104、105、106、108、111、112、114 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#AS 與動態聽診\|AS 與動態聽診]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 6 | 104、107、108、114 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#ALD、NAFLD／MASLD\|ALD、NAFLD／MASLD]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 6 | 108、110、111、113、114 |
 | [[cardiology/atrial-fibrillation/af-exam#抗凝的原則：不能用 aspirin、不看 AF 類型\|抗凝的原則：不能用 aspirin、不看 AF 類型]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 6 | 105、106、109、110、111、113 |
@@ -23,6 +24,7 @@ title: 內專考點總覽
 | [[cardiology/atrial-fibrillation/af-exam#抗凝中出血、中風或要做處置\|抗凝中出血、中風或要做處置]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 104、108、112、114 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#VT 與 wide complex tachycardia\|VT 與 wide complex tachycardia]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 4 | 104、108、109、113 |
 | [[cardiology/atrial-fibrillation/af-exam#Rate 與 rhythm control\|Rate 與 rhythm control]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 108、109、111 |
+| [[cardiology/dyslipidemia-esc/lipid-esc-exam#生活型態與次發性血脂異常\|生活型態與次發性血脂異常]] | [[cardiology/dyslipidemia-esc/lipid-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 4 | 105、107、109、110 |
 | [[nephrology/calcium-phosphate-disorders#CKD-MBD 的病生理\|CKD-MBD 的病生理]] | [[nephrology/calcium-phosphate-disorders#🎯 內專考點\|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]] | 3 | 105、107、114 |
 | [[nephrology/high-anion-gap-metabolic-acidosis#酸鹼判讀：AG＋Winter's formula\|酸鹼判讀：AG＋Winter's formula]] | [[nephrology/high-anion-gap-metabolic-acidosis#🎯 內專考點\|高陰離子間隙代謝性酸中毒 High Anion Gap Metabolic Acidosis]] | 3 | 106、107、114 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#AV block 與 pacing\|AV block 與 pacing]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 3 | 105、109、114 |
@@ -38,11 +40,13 @@ title: 內專考點總覽
 | [[nephrology/renal-tubular-acidosis#鑑別：低血鉀但是鹼中毒\|鑑別：低血鉀但是鹼中毒]] | [[nephrology/renal-tubular-acidosis#🎯 內專考點\|腎小管酸中毒 Renal Tubular Acidosis]] | 2 | 104、114 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#HCM：型態與 murmur 動態變化\|HCM：型態與 murmur 動態變化]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 2 | 111、114 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#Gallstone pancreatitis\|Gallstone pancreatitis]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 109、114 |
+| [[cardiology/dyslipidemia-esc/lipid-esc-exam#Statin 機轉、副作用與指引演變\|Statin 機轉、副作用與指引演變]] | [[cardiology/dyslipidemia-esc/lipid-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 2 | 104、113 |
 | [[nephrology/renal-tubular-acidosis#Distal RTA：Sjögren syndrome\|Distal RTA：Sjögren syndrome]] | [[nephrology/renal-tubular-acidosis#🎯 內專考點\|腎小管酸中毒 Renal Tubular Acidosis]] | 2 | 107、112 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#Cholecystitis 的手術時機\|Cholecystitis 的手術時機]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 111、112 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#Brugada syndrome\|Brugada syndrome]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 2 | 105、111 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#WPW\|WPW]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 2 | 106、111 |
 | [[cardiology/atrial-fibrillation/af-exam#Cardioversion 前後的抗凝\|Cardioversion 前後的抗凝]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 107、109 |
+| [[cardiology/dyslipidemia-esc/lipid-esc-exam#DM 的血脂與血壓目標\|DM 的血脂與血壓目標]] | [[cardiology/dyslipidemia-esc/lipid-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 2 | 108、109 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#Hyperbilirubinemia 與 Gilbert\|Hyperbilirubinemia 與 Gilbert]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 107、108 |
 | [[pulmonology/emergent-airway-management#HFNC 的生理效應\|HFNC 的生理效應]] | [[pulmonology/emergent-airway-management#🎯 內專考點\|緊急呼吸道處置 Emergent Airway Management]] | 1 | 114 |
 | [[nephrology/calcium-phosphate-disorders#低血鈣\|低血鈣]] | [[nephrology/calcium-phosphate-disorders#🎯 內專考點\|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]] | 1 | 113 |
@@ -204,6 +208,32 @@ title: 內專考點總覽
 - 109-021｜AF 合併 HFrEF，何者錯誤？
 - 111-011｜心衰竭合併 AF，rhythm control 首選哪個藥？
 - 111-010｜WPW 病人突發 AF、心跳 180、血壓穩定
+
+### ⑧內專考點 Board Exam Points
+
+**[[cardiology/dyslipidemia-esc/lipid-esc-exam#嚴重高 TG：先控糖，LDL-C 已達標就加 fenofibrate|嚴重高 TG：先控糖，LDL-C 已達標就加 fenofibrate]]**（7 次）
+
+- 104-131｜DM 控制變差合併 TG 803：選什麼藥？
+- 105-135｜DM＋CAD 支架、LDL 62、TG 682：哪個藥有必要？
+- 106-133｜DM＋CAD 支架、LDL 55、TG 756、背景型視網膜病變：哪個藥有必要？
+- 108-137／112-111｜DM＋CAD 支架、LDL 50–52、TG 828：再加哪個藥？
+- 111-109｜三條血管疾病放支架、macroalbuminuria、TG 628：再加哪個藥？
+- 114-108｜72 歲 DM＋CAD、LDL 46、TG 625：再加哪個藥？
+
+**[[cardiology/dyslipidemia-esc/lipid-esc-exam#生活型態與次發性血脂異常|生活型態與次發性血脂異常]]**（4 次）
+
+- 107-135／109-137／110-112｜血脂異常的疾病狀態何者錯誤？（酒精與 HDL）
+- 105-122｜高脂血症敘述：ApoB-100、甲狀腺低下、CKD、Friedewald
+
+**[[cardiology/dyslipidemia-esc/lipid-esc-exam#DM 的血脂與血壓目標|DM 的血脂與血壓目標]]**（2 次）
+
+- 108-139｜DM 合併高血壓、高血脂治療的錯誤敘述
+- 109-139｜依 2017 台灣高危險病患血脂指引，DM 的錯誤敘述
+
+**[[cardiology/dyslipidemia-esc/lipid-esc-exam#Statin 機轉、副作用與指引演變|Statin 機轉、副作用與指引演變]]**（2 次）
+
+- 113-012｜Statin 的敘述何者錯誤？
+- 104-007｜2013 年新的美國降膽固醇指引，何者不是新規定？
 
 ### ⑧內專考點 Board Exam Review
 

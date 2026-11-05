@@ -275,6 +275,8 @@ flowchart TD
 
 ## 相關筆記
 
+- [[cardiology/dyslipidemia-esc/index|血脂異常 ESC/EAS 指引]]（降血脂藥物、LDL-C 目標）
+
 - [[nejm-cases/nephrology/minimal-change-disease-chylothorax|NEJM 個案：微小變化腎病合併乳糜胸]]（edema 的鑑別推理、MCD）
 - [[nejm-cases/nephrology/infective-endocarditis-associated-glomerulonephritis|NEJM 個案：IE 相關腎絲球腎炎]]（nephritic 的對照；IE 也是 NS 的次發原因）
 

@@ -9,7 +9,7 @@ title: 首頁
 | 分類 | 內容 |
 | --- | --- |
 | [[nephrology/index\|腎臟科]] | 電解質、酸鹼、AKI、CKD、腎絲球疾病 |
-| [[cardiology/index\|心臟科]] | ACS、心衰竭、心律不整、瓣膜疾病 |
+| [[cardiology/index\|心臟科]] | ACS、心衰竭、心律不整、瓣膜疾病、暈厥、血脂異常 |
 | [[pulmonology/index\|胸腔科]] | COPD、氣喘、肺炎、間質性肺病、肺栓塞 |
 | [[infectious-disease/index\|感染科]] | 抗生素選擇、敗血症、各系統感染 |
 | [[gastroenterology/index\|腸胃肝膽科]] | GI bleeding、肝硬化、胰臟炎、膽道疾病 |
