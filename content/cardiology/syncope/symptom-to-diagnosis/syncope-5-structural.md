@@ -1,6 +1,7 @@
 ---
 title: ⑤結構性心因暈厥 Structural Cardiac Syncope
 aliases:
+  - cardiology/syncope/syncope-5-structural
   - Obstructive cardiac syncope
   - HCM syncope
   - Hypertrophic cardiomyopathy
@@ -19,9 +20,9 @@ tags:
 > 會造成 syncope 的 structural（obstructive）病因有 **HCM、AS、PE**，再加上少見的 ACS。**HCM 是年輕人與年輕運動員心血管死亡的第一名**，murmur **站起來（preload ↓）變大、squatting 或抬腿變小**；🆕 **近期疑似 arrhythmic syncope 是 ICD 的 major risk factor**，有症狀的 obstructive HCM 在 beta-blocker／CCB 之後可加 **mavacamten**，**多數人可以運動**（2024 AHA/ACC）。**AS 一旦出現 angina、syncope、dyspnea，不換瓣膜的話死亡率急升（syncope 50% 3 年）**，**懷疑 critical AS 不能做 stress test**；🆕 **≥ 70 歲首選 TAVI**、無症狀 severe AS 也可考慮早期介入（2025 ESC/EACTS）。**PE 造成的 syncope 代表大量栓塞，25% 沒有其他症狀**，不明原因 syncope 要想到 PE。
 
 > [!info] 系列導覽
-> ↑ 回到 [[cardiology/syncope/index|暈厥 Syncope 總覽]]
+> ↑ 回到 [[cardiology/syncope/symptom-to-diagnosis/index|① 教科書整理總覽]]
 >
-> ① [[cardiology/syncope/syncope-1-approach|診斷三步驟]]｜② [[cardiology/syncope/syncope-2-reflex|Reflex syncope]]｜③ [[cardiology/syncope/syncope-3-orthostatic|Orthostatic hypotension]]｜④ [[cardiology/syncope/syncope-4-arrhythmia|Arrhythmic syncope]]｜⑤ Structural cardiac syncope（本篇）｜⑥ [[cardiology/syncope/syncope-6-mimics|Nonsyncopal TLOC]]｜⑦ [[cardiology/syncope/syncope-7-cases|四個病例推理]]｜⑧ [[cardiology/syncope/syncope-exam|內專考點]]
+> ① [[cardiology/syncope/symptom-to-diagnosis/syncope-1-approach|診斷三步驟]]｜② [[cardiology/syncope/symptom-to-diagnosis/syncope-2-reflex|Reflex syncope]]｜③ [[cardiology/syncope/symptom-to-diagnosis/syncope-3-orthostatic|Orthostatic hypotension]]｜④ [[cardiology/syncope/symptom-to-diagnosis/syncope-4-arrhythmia|Arrhythmic syncope]]｜⑤ Structural cardiac syncope（本篇）｜⑥ [[cardiology/syncope/symptom-to-diagnosis/syncope-6-mimics|Nonsyncopal TLOC]]｜⑦ [[cardiology/syncope/symptom-to-diagnosis/syncope-7-cases|四個病例推理]]｜⑧ [[cardiology/syncope/symptom-to-diagnosis/syncope-exam|內專考點]]
 
 ## 四個病因一覽
 
@@ -112,7 +113,7 @@ tags:
 | **Passive leg elevation** | **Murmur 變小** | 85% | 91% | **9.4** | 0.16 |
 
 > [!tip] Pearl
-> **==HCM murmur 會因 chamber size 變小（preload ↓）而變大==** —— 這是 HCM 和 AS 最大的分別：AS 的 murmur 在 squatting 時反而變大（見 [[cardiology/syncope/syncope-exam|⑧ 內專考點]]）。
+> **==HCM murmur 會因 chamber size 變小（preload ↓）而變大==** —— 這是 HCM 和 AS 最大的分別：AS 的 murmur 在 squatting 時反而變大（見 [[cardiology/syncope/symptom-to-diagnosis/syncope-exam|⑧ 內專考點]]）。
 
 **ECG**：
 
@@ -355,9 +356,9 @@ flowchart TD
 
 ## 相關筆記
 
-- [[cardiology/syncope/syncope-1-approach|① 診斷三步驟]]
-- [[cardiology/syncope/syncope-4-arrhythmia|④ Arrhythmic syncope]]（VT、ICD）
-- [[cardiology/syncope/syncope-7-cases|⑦ 病例 1：年輕人要不要擔心 HCM、long QT]]
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-1-approach|① 診斷三步驟]]
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-4-arrhythmia|④ Arrhythmic syncope]]（VT、ICD）
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-7-cases|⑦ 病例 1：年輕人要不要擔心 HCM、long QT]]
 - [[cardiology/atrial-fibrillation/af-esc-2024-2-anticoagulation|AF 抗凝]]（HCM 合併 AF 一律抗凝；機械瓣用 warfarin）
 
 ## 參考資料

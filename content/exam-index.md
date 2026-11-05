@@ -13,7 +13,7 @@ title: 內專考點總覽
 | 考點 | 筆記 | 考過次數 | 年份 |
 | --- | --- | --- | --- |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#病毒性肝炎的血清學\|病毒性肝炎的血清學]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 10 | 105、106、108、109、112、113、114 |
-| [[cardiology/syncope/syncope-exam#AS 與動態聽診\|AS 與動態聽診]] | [[cardiology/syncope/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 6 | 104、107、108、114 |
+| [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#AS 與動態聽診\|AS 與動態聽診]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 6 | 104、107、108、114 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#ALD、NAFLD／MASLD\|ALD、NAFLD／MASLD]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 6 | 108、110、111、113、114 |
 | [[cardiology/atrial-fibrillation/af-exam#抗凝的原則：不能用 aspirin、不看 AF 類型\|抗凝的原則：不能用 aspirin、不看 AF 類型]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 6 | 105、106、109、110、111、113 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#有症狀膽結石與膽囊疾病\|有症狀膽結石與膽囊疾病]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 5 | 105、107、113、114 |
@@ -21,11 +21,11 @@ title: 內專考點總覽
 | [[endocrinology/dka-hhs#初始輸液\|初始輸液]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 5 | 104、105、106、107、108 |
 | [[cardiology/atrial-fibrillation/af-exam#中風風險評估：CHA₂DS₂-VASc\|中風風險評估：CHA₂DS₂-VASc]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 104、105、114 |
 | [[cardiology/atrial-fibrillation/af-exam#抗凝中出血、中風或要做處置\|抗凝中出血、中風或要做處置]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 104、108、112、114 |
-| [[cardiology/syncope/syncope-exam#VT 與 wide complex tachycardia\|VT 與 wide complex tachycardia]] | [[cardiology/syncope/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 4 | 104、108、109、113 |
+| [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#VT 與 wide complex tachycardia\|VT 與 wide complex tachycardia]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 4 | 104、108、109、113 |
 | [[cardiology/atrial-fibrillation/af-exam#Rate 與 rhythm control\|Rate 與 rhythm control]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 108、109、111 |
 | [[nephrology/calcium-phosphate-disorders#CKD-MBD 的病生理\|CKD-MBD 的病生理]] | [[nephrology/calcium-phosphate-disorders#🎯 內專考點\|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]] | 3 | 105、107、114 |
 | [[nephrology/high-anion-gap-metabolic-acidosis#酸鹼判讀：AG＋Winter's formula\|酸鹼判讀：AG＋Winter's formula]] | [[nephrology/high-anion-gap-metabolic-acidosis#🎯 內專考點\|高陰離子間隙代謝性酸中毒 High Anion Gap Metabolic Acidosis]] | 3 | 106、107、114 |
-| [[cardiology/syncope/syncope-exam#AV block 與 pacing\|AV block 與 pacing]] | [[cardiology/syncope/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 3 | 105、109、114 |
+| [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#AV block 與 pacing\|AV block 與 pacing]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 3 | 105、109、114 |
 | [[nephrology/calcium-phosphate-disorders#低血鎂\|低血鎂]] | [[nephrology/calcium-phosphate-disorders#🎯 內專考點\|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]] | 3 | 107、112、113 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#膽管擴張：CBD stone 還是其他？\|膽管擴張：CBD stone 還是其他？]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 109、110、113 |
 | [[endocrinology/dka-hhs#SGLT2 inhibitor\|SGLT2 inhibitor]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 3 | 108、109、113 |
@@ -33,15 +33,15 @@ title: 內專考點總覽
 | [[gastroenterology/abnormal-liver-tests/liver-exam#藥物性肝損傷（DILI）與 liver biopsy\|藥物性肝損傷（DILI）與 liver biopsy]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 104、111 |
 | [[nephrology/renal-tubular-acidosis#Type 4 RTA：糖尿病\|Type 4 RTA：糖尿病]] | [[nephrology/renal-tubular-acidosis#🎯 內專考點\|腎小管酸中毒 Renal Tubular Acidosis]] | 3 | 104、106、109 |
 | [[cardiology/atrial-fibrillation/af-exam#DOAC 的機轉與解毒劑\|DOAC 的機轉與解毒劑]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 105、107、109 |
-| [[cardiology/syncope/syncope-exam#HCM：猝死危險因子\|HCM：猝死危險因子]] | [[cardiology/syncope/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 3 | 104、108、109 |
+| [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#HCM：猝死危險因子\|HCM：猝死危險因子]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 3 | 104、108、109 |
 | [[endocrinology/dka-hhs#鑑別診斷\|鑑別診斷]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 3 | 106、107、109 |
 | [[nephrology/renal-tubular-acidosis#鑑別：低血鉀但是鹼中毒\|鑑別：低血鉀但是鹼中毒]] | [[nephrology/renal-tubular-acidosis#🎯 內專考點\|腎小管酸中毒 Renal Tubular Acidosis]] | 2 | 104、114 |
-| [[cardiology/syncope/syncope-exam#HCM：型態與 murmur 動態變化\|HCM：型態與 murmur 動態變化]] | [[cardiology/syncope/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 2 | 111、114 |
+| [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#HCM：型態與 murmur 動態變化\|HCM：型態與 murmur 動態變化]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 2 | 111、114 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#Gallstone pancreatitis\|Gallstone pancreatitis]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 109、114 |
 | [[nephrology/renal-tubular-acidosis#Distal RTA：Sjögren syndrome\|Distal RTA：Sjögren syndrome]] | [[nephrology/renal-tubular-acidosis#🎯 內專考點\|腎小管酸中毒 Renal Tubular Acidosis]] | 2 | 107、112 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#Cholecystitis 的手術時機\|Cholecystitis 的手術時機]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 111、112 |
-| [[cardiology/syncope/syncope-exam#Brugada syndrome\|Brugada syndrome]] | [[cardiology/syncope/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 2 | 105、111 |
-| [[cardiology/syncope/syncope-exam#WPW\|WPW]] | [[cardiology/syncope/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 2 | 106、111 |
+| [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#Brugada syndrome\|Brugada syndrome]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 2 | 105、111 |
+| [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#WPW\|WPW]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 2 | 106、111 |
 | [[cardiology/atrial-fibrillation/af-exam#Cardioversion 前後的抗凝\|Cardioversion 前後的抗凝]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 107、109 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#Hyperbilirubinemia 與 Gilbert\|Hyperbilirubinemia 與 Gilbert]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 107、108 |
 | [[pulmonology/emergent-airway-management#HFNC 的生理效應\|HFNC 的生理效應]] | [[pulmonology/emergent-airway-management#🎯 內專考點\|緊急呼吸道處置 Emergent Airway Management]] | 1 | 114 |
@@ -61,7 +61,7 @@ title: 內專考點總覽
 | [[gastroenterology/acute-biliary-infection/tg18-exam#Cholecystitis 的影像\|Cholecystitis 的影像]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 1 | 108 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#Cholangitis：引流＋抗生素\|Cholangitis：引流＋抗生素]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 1 | 107 |
 | [[nephrology/high-anion-gap-metabolic-acidosis#Toxic alcohol 與 osmolal gap\|Toxic alcohol 與 osmolal gap]] | [[nephrology/high-anion-gap-metabolic-acidosis#🎯 內專考點\|高陰離子間隙代謝性酸中毒 High Anion Gap Metabolic Acidosis]] | 1 | 106 |
-| [[cardiology/syncope/syncope-exam#Syncope vs seizure 的病史鑑別\|Syncope vs seizure 的病史鑑別]] | [[cardiology/syncope/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 1 | 106 |
+| [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#Syncope vs seizure 的病史鑑別\|Syncope vs seizure 的病史鑑別]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 1 | 106 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#胰臟癌造成的阻塞性黃疸\|胰臟癌造成的阻塞性黃疸]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 1 | 106 |
 | [[nephrology/skin-disorders-in-kidney-disease#血管鈣化與 calciphylaxis 的藥物\|血管鈣化與 calciphylaxis 的藥物]] | [[nephrology/skin-disorders-in-kidney-disease#🎯 內專考點\|腎臟病的皮膚疾病 Skin Disorders in Kidney Disease]] | 1 | 104 |
 
@@ -207,22 +207,22 @@ title: 內專考點總覽
 
 ### ⑧內專考點 Board Exam Review
 
-**[[cardiology/syncope/syncope-exam#Syncope vs seizure 的病史鑑別|Syncope vs seizure 的病史鑑別]]**（1 次）
+**[[cardiology/syncope/symptom-to-diagnosis/syncope-exam#Syncope vs seizure 的病史鑑別|Syncope vs seizure 的病史鑑別]]**（1 次）
 
 - 106-002｜哪些病史偏向 tachyarrhythmia 造成的 syncope？
 
-**[[cardiology/syncope/syncope-exam#HCM：猝死危險因子|HCM：猝死危險因子]]**（3 次）
+**[[cardiology/syncope/symptom-to-diagnosis/syncope-exam#HCM：猝死危險因子|HCM：猝死危險因子]]**（3 次）
 
 - 104-088｜哪些 HCM 屬於高猝死風險？
 - 109-006｜HCM 臨床特質何者錯誤？
 - 108-004｜熬夜後 OHCA、冠狀動脈乾淨的 67 歲男性：原因？
 
-**[[cardiology/syncope/syncope-exam#HCM：型態與 murmur 動態變化|HCM：型態與 murmur 動態變化]]**（2 次）
+**[[cardiology/syncope/symptom-to-diagnosis/syncope-exam#HCM：型態與 murmur 動態變化|HCM：型態與 murmur 動態變化]]**（2 次）
 
 - 114-012｜HOCM 的敘述哪些正確？
 - 111-006｜心導管顯示心尖到 LVOT 有壓差：哪一型心肌病變？
 
-**[[cardiology/syncope/syncope-exam#AS 與動態聽診|AS 與動態聽診]]**（6 次）
+**[[cardiology/syncope/symptom-to-diagnosis/syncope-exam#AS 與動態聽診|AS 與動態聽診]]**（6 次）
 
 - 104-001｜動態聽診何者錯誤？
 - 108-011｜Severe AS 的老太太：哪一項不是 AS 應有的 PE？
@@ -231,25 +231,25 @@ title: 內專考點總覽
 - 104-003｜無症狀 77 歲女性的 AS：哪些決策正確？
 - 114-015｜Exertional dyspnea＋頭暈、AVA 0.9 cm² 但 gradient 30：怎麼處理？
 
-**[[cardiology/syncope/syncope-exam#VT 與 wide complex tachycardia|VT 與 wide complex tachycardia]]**（4 次）
+**[[cardiology/syncope/symptom-to-diagnosis/syncope-exam#VT 與 wide complex tachycardia|VT 與 wide complex tachycardia]]**（4 次）
 
 - 108-022｜CABG 後的 wide complex tachycardia：何者錯誤？
 - 113-014｜心跳 160、LBBB 型寬 QRS、lead II 有 fusion wave：診斷？
 - 109-005｜VT 的診斷與治療何者錯誤？
 - 104-011｜從小有心臟病、兩年五次昏倒的 47 歲女性：診斷？
 
-**[[cardiology/syncope/syncope-exam#Brugada syndrome|Brugada syndrome]]**（2 次）
+**[[cardiology/syncope/symptom-to-diagnosis/syncope-exam#Brugada syndrome|Brugada syndrome]]**（2 次）
 
 - 105-016｜25 歲男性 syncope、右胸導程 ST 變化、心臟結構正常：何者錯誤？
 - 111-004｜36 歲男性半夜 agonal breathing、seizure、K⁺ 2.8：診斷？
 
-**[[cardiology/syncope/syncope-exam#AV block 與 pacing|AV block 與 pacing]]**（3 次）
+**[[cardiology/syncope/symptom-to-diagnosis/syncope-exam#AV block 與 pacing|AV block 與 pacing]]**（3 次）
 
 - 109-020｜70 歲女性 syncope，Holter 昏倒時 P 持續出現卻不傳導：診斷？
 - 114-014｜78 歲 CAD 男性頭暈、P 90 bpm 與寬 QRS 38 bpm 分離：怎麼處理？
 - 105-001｜Left anterior fascicular block 的敘述何者錯誤？
 
-**[[cardiology/syncope/syncope-exam#WPW|WPW]]**（2 次）
+**[[cardiology/syncope/symptom-to-diagnosis/syncope-exam#WPW|WPW]]**（2 次）
 
 - 106-017｜30 歲男性，平時 ECG 與心悸時 ECG：哪些敘述錯誤？
 - 111-010｜已知 WPW，突發 AF 心跳 180、血壓穩定：怎麼處理？
@@ -386,13 +386,14 @@ title: 內專考點總覽
 - [[nephrology/nephrotic-syndrome|腎病症候群 Nephrotic Syndrome]]（腎臟科 Nephrology）
 - [[nephrology/siadh|SIADH]]（腎臟科 Nephrology）
 - [[cardiology/syncope/index|暈厥 Syncope]]（心臟科 Cardiology）
-- [[cardiology/syncope/syncope-1-approach|①診斷三步驟 Diagnostic Approach]]（心臟科 Cardiology）
-- [[cardiology/syncope/syncope-2-reflex|②反射性暈厥 Reflex Syncope]]（心臟科 Cardiology）
-- [[cardiology/syncope/syncope-3-orthostatic|③姿勢性低血壓 Orthostatic Hypotension]]（心臟科 Cardiology）
-- [[cardiology/syncope/syncope-4-arrhythmia|④心律不整性暈厥 Arrhythmic Syncope]]（心臟科 Cardiology）
-- [[cardiology/syncope/syncope-5-structural|⑤結構性心因暈厥 Structural Cardiac Syncope]]（心臟科 Cardiology）
-- [[cardiology/syncope/syncope-6-mimics|⑥非暈厥性意識喪失 Nonsyncopal TLOC]]（心臟科 Cardiology）
-- [[cardiology/syncope/syncope-7-cases|⑦四個病例推理 Case-Based Reasoning]]（心臟科 Cardiology）
+- [[cardiology/syncope/symptom-to-diagnosis/index|①教科書整理 Symptom to Diagnosis]]（心臟科 Cardiology）
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-1-approach|①診斷三步驟 Diagnostic Approach]]（心臟科 Cardiology）
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-2-reflex|②反射性暈厥 Reflex Syncope]]（心臟科 Cardiology）
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-3-orthostatic|③姿勢性低血壓 Orthostatic Hypotension]]（心臟科 Cardiology）
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-4-arrhythmia|④心律不整性暈厥 Arrhythmic Syncope]]（心臟科 Cardiology）
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-5-structural|⑤結構性心因暈厥 Structural Cardiac Syncope]]（心臟科 Cardiology）
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-6-mimics|⑥非暈厥性意識喪失 Nonsyncopal TLOC]]（心臟科 Cardiology）
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-7-cases|⑦四個病例推理 Case-Based Reasoning]]（心臟科 Cardiology）
 - [[gastroenterology/abnormal-liver-tests/index|肝功能異常與黃疸 Jaundice & Abnormal Liver Tests]]（腸胃肝膽科 GI & Hepatology）
 - [[gastroenterology/abnormal-liver-tests/liver-1-approach|①判讀架構 Diagnostic Approach]]（腸胃肝膽科 GI & Hepatology）
 - [[gastroenterology/abnormal-liver-tests/liver-2-ald-nafld|②酒精相關肝病與脂肪肝病 ALD & MASLD]]（腸胃肝膽科 GI & Hepatology）

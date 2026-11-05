@@ -394,7 +394,7 @@ tags:
 - [[cardiology/atrial-fibrillation/af-esc-2024-2-anticoagulation|②抗凝血與出血]]：CHA₂DS₂-VA、DOAC 劑量、出血處置
 - [[cardiology/atrial-fibrillation/af-esc-2024-3-rate-rhythm|③心率與節律控制]]：rate／rhythm control 時機、cardioversion
 - [[cardiology/atrial-fibrillation/af-esc-2024-5-recommendations|⑤新增、修訂與必做／不做]]
-- [[cardiology/syncope/syncope-exam|暈厥 Syncope 內專考點]]：WPW 合併 AF 禁用 AV nodal blockers、HCM 合併 AF 要抗凝
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-exam|暈厥 Syncope 內專考點]]：WPW 合併 AF 禁用 AV nodal blockers、HCM 合併 AF 要抗凝
 
 ## 參考資料
 

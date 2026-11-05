@@ -1,6 +1,7 @@
 ---
 title: ⑥新增修訂、Key Messages 與必做／不做 What's New, Key Messages & Do/Don't
 aliases:
+  - cardiology/syncope-esc-2018/esc-syncope-6-key-messages
   - ESC 暈厥指引圖表⑥新增修訂與必做不做 2018 ESC Syncope Guideline Tables & Figures (6)
   - 2018 ESC syncope key messages
 tags:
@@ -13,9 +14,9 @@ tags:
 > **Figure 1** 是 2009 → 2018 的變化：**tilt test 全面降級**（I → IIa／IIb）、**HV ≥ 70 ms 的 pacing 升為 I**、**empirical pacing 降為 IIb**、**high-risk HCM 的 ICD 升為 I**、**ARVC 的 ICD 降為 IIb**；新增 **ED 風險分層三條 I-B** 和 **ILR 的新適應症**。最後用 **19 條 key messages** 與 **Class I／III 清單**收尾。
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
-> ↑ 回到 [[cardiology/syncope-esc-2018/index|暈厥 2018 ESC 指引總覽]]
+> ↑ 回到 [[cardiology/syncope/esc-2018/index|② 2018 ESC 指引總覽]]
 >
-> ① [[cardiology/syncope-esc-2018/esc-syncope-1-overview|定義、分類與初步評估]]｜② [[cardiology/syncope-esc-2018/esc-syncope-2-ed|急診風險分層]]｜③ [[cardiology/syncope-esc-2018/esc-syncope-3-tests|診斷檢查]]｜④ [[cardiology/syncope-esc-2018/esc-syncope-4-treatment|治療]]｜⑤ [[cardiology/syncope-esc-2018/esc-syncope-5-special|特殊族群、mimics 與 syncope unit]]｜⑥ 新增修訂、Key messages 與必做／不做（本篇）｜⑦ [[cardiology/syncope-esc-2018/esc-syncope-exam|內專考點]]
+> ① [[cardiology/syncope/esc-2018/esc-syncope-1-overview|定義、分類與初步評估]]｜② [[cardiology/syncope/esc-2018/esc-syncope-2-ed|急診風險分層]]｜③ [[cardiology/syncope/esc-2018/esc-syncope-3-tests|診斷檢查]]｜④ [[cardiology/syncope/esc-2018/esc-syncope-4-treatment|治療]]｜⑤ [[cardiology/syncope/esc-2018/esc-syncope-5-special|特殊族群、mimics 與 syncope unit]]｜⑥ 新增修訂、Key messages 與必做／不做（本篇）｜⑦ [[cardiology/syncope/esc-2018/esc-syncope-exam|內專考點]]
 >
 > 本篇涵蓋：Figure 1；Section 10 Key messages；Section 12 What to do／What not to do
 
@@ -135,9 +136,9 @@ tags:
 
 ## 相關筆記
 
-- [[cardiology/syncope-esc-2018/esc-syncope-3-tests|③ 診斷檢查]]
-- [[cardiology/syncope-esc-2018/esc-syncope-4-treatment|④ 治療]]
-- 另見：教科書整理的 [[cardiology/syncope/index|暈厥 Syncope（Symptom to Diagnosis）]]
+- [[cardiology/syncope/esc-2018/esc-syncope-3-tests|③ 診斷檢查]]
+- [[cardiology/syncope/esc-2018/esc-syncope-4-treatment|④ 治療]]
+- 另見：教科書整理的 [[cardiology/syncope/symptom-to-diagnosis/index|① 教科書整理（Symptom to Diagnosis）]]
 
 ## 參考資料
 

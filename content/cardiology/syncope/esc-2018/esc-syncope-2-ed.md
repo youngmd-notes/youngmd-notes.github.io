@@ -1,6 +1,7 @@
 ---
 title: ②急診風險分層 ED Management & Risk Stratification
 aliases:
+  - cardiology/syncope-esc-2018/esc-syncope-2-ed
   - ESC 暈厥指引圖表②急診風險分層 2018 ESC Syncope Guideline Tables & Figures (2)
   - 2018 ESC syncope 急診處置
   - Syncope high-risk features
@@ -14,9 +15,9 @@ tags:
 > 急診要回答 **3 個問題：有沒有嚴重的潛在病因？嚴重預後的風險多高？要不要住院？** 依 **Table 6** 分層：**只有 low-risk → 直接出院（I-B）**；**任一 high-risk → 不可出院，早期密集評估（syncope unit、ED observation unit 或住院，I-B）**；**兩者皆無 → ED 或 syncope unit 觀察，不必住院（I-B）**。Risk score 不比臨床判斷好（IIb-B，不可單獨使用）。
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
-> ↑ 回到 [[cardiology/syncope-esc-2018/index|暈厥 2018 ESC 指引總覽]]
+> ↑ 回到 [[cardiology/syncope/esc-2018/index|② 2018 ESC 指引總覽]]
 >
-> ① [[cardiology/syncope-esc-2018/esc-syncope-1-overview|定義、分類與初步評估]]｜② 急診風險分層（本篇）｜③ [[cardiology/syncope-esc-2018/esc-syncope-3-tests|診斷檢查]]｜④ [[cardiology/syncope-esc-2018/esc-syncope-4-treatment|治療]]｜⑤ [[cardiology/syncope-esc-2018/esc-syncope-5-special|特殊族群、mimics 與 syncope unit]]｜⑥ [[cardiology/syncope-esc-2018/esc-syncope-6-key-messages|新增修訂、Key messages 與必做／不做]]｜⑦ [[cardiology/syncope-esc-2018/esc-syncope-exam|內專考點]]
+> ① [[cardiology/syncope/esc-2018/esc-syncope-1-overview|定義、分類與初步評估]]｜② 急診風險分層（本篇）｜③ [[cardiology/syncope/esc-2018/esc-syncope-3-tests|診斷檢查]]｜④ [[cardiology/syncope/esc-2018/esc-syncope-4-treatment|治療]]｜⑤ [[cardiology/syncope/esc-2018/esc-syncope-5-special|特殊族群、mimics 與 syncope unit]]｜⑥ [[cardiology/syncope/esc-2018/esc-syncope-6-key-messages|新增修訂、Key messages 與必做／不做]]｜⑦ [[cardiology/syncope/esc-2018/esc-syncope-exam|內專考點]]
 >
 > 本篇涵蓋：Figure 5–6；Table 6–7；急診處置建議表
 
@@ -169,10 +170,10 @@ flowchart TD
 
 ## 相關筆記
 
-- [[cardiology/syncope-esc-2018/esc-syncope-1-overview|① 初步評估與診斷標準]]
-- [[cardiology/syncope-esc-2018/esc-syncope-3-tests|③ 診斷檢查（monitoring、ILR、EPS）]]
-- [[cardiology/syncope-esc-2018/esc-syncope-5-special|⑤ Syncope unit（Table 11–14）]]
-- 另見：教科書整理的 [[cardiology/syncope/index|暈厥 Syncope（Symptom to Diagnosis）]]
+- [[cardiology/syncope/esc-2018/esc-syncope-1-overview|① 初步評估與診斷標準]]
+- [[cardiology/syncope/esc-2018/esc-syncope-3-tests|③ 診斷檢查（monitoring、ILR、EPS）]]
+- [[cardiology/syncope/esc-2018/esc-syncope-5-special|⑤ Syncope unit（Table 11–14）]]
+- 另見：教科書整理的 [[cardiology/syncope/symptom-to-diagnosis/index|① 教科書整理（Symptom to Diagnosis）]]
 
 ## 參考資料
 

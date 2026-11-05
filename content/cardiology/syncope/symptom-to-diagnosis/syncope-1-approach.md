@@ -1,6 +1,7 @@
 ---
 title: ①診斷三步驟 Diagnostic Approach
 aliases:
+  - cardiology/syncope/syncope-1-approach
   - Syncope 診斷流程
   - 暈厥 診斷三步驟
   - Transient loss of consciousness
@@ -14,9 +15,9 @@ tags:
 > Syncope 的評估是**三個 pivotal step**：① 先確定是 syncope（**abrupt onset、brief、spontaneous complete recovery**）而不是 seizure、hypoglycemia 等 nonsyncopal TLOC → ② 用 **history＋PE（含 orthostatic vital signs）＋ECG** 分成 **reflex、orthostatic、cardiac** 三類 → ③ 懷疑 **cardiac syncope 就住院**，再找出特定病因。三類裡只有 cardiac syncope 會**猝死**，所以每一位病人都要先回答「有沒有 cardiac 的線索」。
 
 > [!info] 系列導覽
-> ↑ 回到 [[cardiology/syncope/index|暈厥 Syncope 總覽]]
+> ↑ 回到 [[cardiology/syncope/symptom-to-diagnosis/index|① 教科書整理總覽]]
 >
-> ① 診斷三步驟（本篇）｜② [[cardiology/syncope/syncope-2-reflex|Reflex syncope]]｜③ [[cardiology/syncope/syncope-3-orthostatic|Orthostatic hypotension]]｜④ [[cardiology/syncope/syncope-4-arrhythmia|Arrhythmic syncope]]｜⑤ [[cardiology/syncope/syncope-5-structural|Structural cardiac syncope]]｜⑥ [[cardiology/syncope/syncope-6-mimics|Nonsyncopal TLOC]]｜⑦ [[cardiology/syncope/syncope-7-cases|四個病例推理]]｜⑧ [[cardiology/syncope/syncope-exam|內專考點]]
+> ① 診斷三步驟（本篇）｜② [[cardiology/syncope/symptom-to-diagnosis/syncope-2-reflex|Reflex syncope]]｜③ [[cardiology/syncope/symptom-to-diagnosis/syncope-3-orthostatic|Orthostatic hypotension]]｜④ [[cardiology/syncope/symptom-to-diagnosis/syncope-4-arrhythmia|Arrhythmic syncope]]｜⑤ [[cardiology/syncope/symptom-to-diagnosis/syncope-5-structural|Structural cardiac syncope]]｜⑥ [[cardiology/syncope/symptom-to-diagnosis/syncope-6-mimics|Nonsyncopal TLOC]]｜⑦ [[cardiology/syncope/symptom-to-diagnosis/syncope-7-cases|四個病例推理]]｜⑧ [[cardiology/syncope/symptom-to-diagnosis/syncope-exam|內專考點]]
 
 ## 定義：syncope 只是 TLOC 的一部分
 
@@ -31,7 +32,7 @@ Transient loss of consciousness（TLOC）的原因很多：trauma、intoxication
 | **Spontaneous、unaided、complete recovery** | 血流一恢復，意識自己就回來 |
 
 > [!tip] Pearl：問「你記得的下一件事是什麼？」
-> 這個問題最能分辨 syncope 與 nonsyncopal TLOC。**醒來後 ==confusion 持續超過 1–2 分鐘==**，就要想到 postictal state 等 nonsyncopal 原因；不記得救護車、事後失憶 > 5 分鐘 → 要評估 seizure（見 [[cardiology/syncope/syncope-6-mimics|⑥]]）。
+> 這個問題最能分辨 syncope 與 nonsyncopal TLOC。**醒來後 ==confusion 持續超過 1–2 分鐘==**，就要想到 postictal state 等 nonsyncopal 原因；不記得救護車、事後失憶 > 5 分鐘 → 要評估 seizure（見 [[cardiology/syncope/symptom-to-diagnosis/syncope-6-mimics|⑥]]）。
 
 ## 三步驟總覽
 
@@ -159,9 +160,9 @@ flowchart TD
 
 ## 相關筆記
 
-- [[cardiology/syncope/syncope-2-reflex|② Reflex syncope]]、[[cardiology/syncope/syncope-3-orthostatic|③ Orthostatic hypotension]]
-- [[cardiology/syncope/syncope-4-arrhythmia|④ Arrhythmic syncope]]、[[cardiology/syncope/syncope-5-structural|⑤ Structural cardiac syncope]]
-- [[cardiology/syncope/syncope-6-mimics|⑥ Nonsyncopal TLOC]]
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-2-reflex|② Reflex syncope]]、[[cardiology/syncope/symptom-to-diagnosis/syncope-3-orthostatic|③ Orthostatic hypotension]]
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-4-arrhythmia|④ Arrhythmic syncope]]、[[cardiology/syncope/symptom-to-diagnosis/syncope-5-structural|⑤ Structural cardiac syncope]]
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-6-mimics|⑥ Nonsyncopal TLOC]]
 - [[cardiology/atrial-fibrillation/index|心房顫動 AF]]
 - [[nejm-cases/cardiology/streptococcus-mitis-aortic-valve-endocarditis-root-abscess|NEJM 個案：老人跌倒其實是 syncope]]
 

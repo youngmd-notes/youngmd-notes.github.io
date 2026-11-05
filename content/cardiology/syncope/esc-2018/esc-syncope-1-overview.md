@@ -1,6 +1,7 @@
 ---
 title: ①定義、分類與初步評估 Definitions, Classification & Initial Evaluation
 aliases:
+  - cardiology/syncope-esc-2018/esc-syncope-1-overview
   - ESC 暈厥指引圖表①定義、分類與初步評估 2018 ESC Syncope Guideline Tables & Figures (1)
   - 2018 ESC syncope 定義與分類
 tags:
@@ -13,9 +14,9 @@ tags:
 > 2018 ESC 定義 **syncope = cerebral hypoperfusion 造成的 TLOC**（rapid onset、short duration、spontaneous complete recovery）。分三大類：**reflex、OH、cardiac**。每個病人都做 **initial syncope evaluation：history＋PE（含 supine 與 standing BP）＋ECG**，能確診的就治療，不能確診的就進入 **risk stratification**。
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
-> ↑ 回到 [[cardiology/syncope-esc-2018/index|暈厥 2018 ESC 指引總覽]]
+> ↑ 回到 [[cardiology/syncope/esc-2018/index|② 2018 ESC 指引總覽]]
 >
-> ① 定義、分類與初步評估（本篇）｜② [[cardiology/syncope-esc-2018/esc-syncope-2-ed|急診風險分層]]｜③ [[cardiology/syncope-esc-2018/esc-syncope-3-tests|診斷檢查]]｜④ [[cardiology/syncope-esc-2018/esc-syncope-4-treatment|治療]]｜⑤ [[cardiology/syncope-esc-2018/esc-syncope-5-special|特殊族群、mimics 與 syncope unit]]｜⑥ [[cardiology/syncope-esc-2018/esc-syncope-6-key-messages|新增修訂、Key messages 與必做／不做]]｜⑦ [[cardiology/syncope-esc-2018/esc-syncope-exam|內專考點]]
+> ① 定義、分類與初步評估（本篇）｜② [[cardiology/syncope/esc-2018/esc-syncope-2-ed|急診風險分層]]｜③ [[cardiology/syncope/esc-2018/esc-syncope-3-tests|診斷檢查]]｜④ [[cardiology/syncope/esc-2018/esc-syncope-4-treatment|治療]]｜⑤ [[cardiology/syncope/esc-2018/esc-syncope-5-special|特殊族群、mimics 與 syncope unit]]｜⑥ [[cardiology/syncope/esc-2018/esc-syncope-6-key-messages|新增修訂、Key messages 與必做／不做]]｜⑦ [[cardiology/syncope/esc-2018/esc-syncope-exam|內專考點]]
 >
 > 本篇涵蓋：Table 1–5；Figure 2–4；Central illustration；初步評估的診斷標準（建議表）
 
@@ -37,7 +38,7 @@ tags:
 | **C** | 專家共識、小型研究、回溯性研究或登錄資料 |
 
 > [!tip] Pearl
-> 這份指引的建議**絕大多數是 Level C**：syncope 領域 RCT 很少，很多「Class I」其實是專家共識。看到 I-A 的反而要特別記（例如 **ILR 的兩個 I-A 適應症**，見 [[cardiology/syncope-esc-2018/esc-syncope-3-tests|③]]）。
+> 這份指引的建議**絕大多數是 Level C**：syncope 領域 RCT 很少，很多「Class I」其實是專家共識。看到 I-A 的反而要特別記（例如 **ILR 的兩個 I-A 適應症**，見 [[cardiology/syncope/esc-2018/esc-syncope-3-tests|③]]）。
 
 ## Central illustration：2018 版的新觀念
 
@@ -127,7 +128,7 @@ flowchart TD
 
 | 情況 | 和 syncope 不同的地方 |
 | --- | --- |
-| **Generalized seizure** | 見 [[cardiology/syncope-esc-2018/esc-syncope-5-special#Table 10：Syncope vs epileptic seizure|⑤ Table 10]] |
+| **Generalized seizure** | 見 [[cardiology/syncope/esc-2018/esc-syncope-5-special#Table 10：Syncope vs epileptic seizure|⑤ Table 10]] |
 | **Complex partial seizure、absence** | **不會跌倒**，但沒有反應、事後 amnesia |
 | **PPS（pseudocoma）** | 「失去意識」持續**數分鐘到數小時**；頻率高，一天可好幾次 |
 | **Falls without TLOC** | 沒有 unresponsiveness 或 amnesia |
@@ -231,9 +232,9 @@ flowchart TD
 
 ## 相關筆記
 
-- [[cardiology/syncope-esc-2018/esc-syncope-2-ed|② 急診風險分層（Table 6、Figure 6）]]
-- [[cardiology/syncope-esc-2018/esc-syncope-5-special|⑤ Syncope vs seizure（Table 10）]]
-- 另見：教科書整理的 [[cardiology/syncope/index|暈厥 Syncope（Symptom to Diagnosis）]]
+- [[cardiology/syncope/esc-2018/esc-syncope-2-ed|② 急診風險分層（Table 6、Figure 6）]]
+- [[cardiology/syncope/esc-2018/esc-syncope-5-special|⑤ Syncope vs seizure（Table 10）]]
+- 另見：教科書整理的 [[cardiology/syncope/symptom-to-diagnosis/index|① 教科書整理（Symptom to Diagnosis）]]
 
 ## 參考資料
 

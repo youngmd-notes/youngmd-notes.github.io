@@ -1,6 +1,7 @@
 ---
 title: ⑤特殊族群、Mimics 與 Syncope Unit Special Issues, Mimics & Syncope Unit
 aliases:
+  - cardiology/syncope-esc-2018/esc-syncope-5-special
   - ESC 暈厥指引圖表⑤特殊族群與 syncope unit 2018 ESC Syncope Guideline Tables & Figures (5)
   - 2018 ESC syncope vs seizure
   - Syncope unit
@@ -14,9 +15,9 @@ tags:
 > **老人**：多重原因一起評估（I-B），**unexplained fall 要當 unexplained syncope 評估（IIa-C）**。**Syncope vs seizure（Table 10）**：看 **myoclonus 的數量與時機、咬舌頭位置、恢復時間、事後 confusion**。**EEG、頸動脈超音波、腦部 CT／MRI 不是 syncope 的常規檢查（III-B）**。**Syncope unit** 是 2018 版的組織面重點（Table 11–14）。
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
-> ↑ 回到 [[cardiology/syncope-esc-2018/index|暈厥 2018 ESC 指引總覽]]
+> ↑ 回到 [[cardiology/syncope/esc-2018/index|② 2018 ESC 指引總覽]]
 >
-> ① [[cardiology/syncope-esc-2018/esc-syncope-1-overview|定義、分類與初步評估]]｜② [[cardiology/syncope-esc-2018/esc-syncope-2-ed|急診風險分層]]｜③ [[cardiology/syncope-esc-2018/esc-syncope-3-tests|診斷檢查]]｜④ [[cardiology/syncope-esc-2018/esc-syncope-4-treatment|治療]]｜⑤ 特殊族群、mimics 與 syncope unit（本篇）｜⑥ [[cardiology/syncope-esc-2018/esc-syncope-6-key-messages|新增修訂、Key messages 與必做／不做]]｜⑦ [[cardiology/syncope-esc-2018/esc-syncope-exam|內專考點]]
+> ① [[cardiology/syncope/esc-2018/esc-syncope-1-overview|定義、分類與初步評估]]｜② [[cardiology/syncope/esc-2018/esc-syncope-2-ed|急診風險分層]]｜③ [[cardiology/syncope/esc-2018/esc-syncope-3-tests|診斷檢查]]｜④ [[cardiology/syncope/esc-2018/esc-syncope-4-treatment|治療]]｜⑤ 特殊族群、mimics 與 syncope unit（本篇）｜⑥ [[cardiology/syncope/esc-2018/esc-syncope-6-key-messages|新增修訂、Key messages 與必做／不做]]｜⑦ [[cardiology/syncope/esc-2018/esc-syncope-exam|內專考點]]
 >
 > 本篇涵蓋：Figure 16–17；Table 10–14；老人、PPS、神經學評估的建議表
 
@@ -196,9 +197,9 @@ flowchart TD
 
 ## 相關筆記
 
-- [[cardiology/syncope-esc-2018/esc-syncope-1-overview|① Table 4：容易被誤認為 syncope 的情況]]
-- [[cardiology/syncope-esc-2018/esc-syncope-2-ed|② 急診與 syncope unit 的分流]]
-- 另見：教科書整理的 [[cardiology/syncope/syncope-6-mimics|⑥ Nonsyncopal TLOC（Symptom to Diagnosis）]]
+- [[cardiology/syncope/esc-2018/esc-syncope-1-overview|① Table 4：容易被誤認為 syncope 的情況]]
+- [[cardiology/syncope/esc-2018/esc-syncope-2-ed|② 急診與 syncope unit 的分流]]
+- 另見：教科書整理的 [[cardiology/syncope/symptom-to-diagnosis/syncope-6-mimics|⑥ Nonsyncopal TLOC（Symptom to Diagnosis）]]
 
 ## 參考資料
 

@@ -1,6 +1,7 @@
 ---
 title: ④治療 Treatment
 aliases:
+  - cardiology/syncope-esc-2018/esc-syncope-4-treatment
   - ESC 暈厥指引圖表④治療 2018 ESC Syncope Guideline Tables & Figures (4)
   - 2018 ESC syncope 治療
   - Reflex syncope pacing
@@ -14,9 +15,9 @@ tags:
 > 治療依 **Figure 8** 分三條路：**reflex／OH → 衛教是基礎，嚴重者依「年齡」選加強治療**；**cardiac → 治療 culprit arrhythmia 或結構性疾病**；**unexplained＋SCD 高風險 → 權衡 ICD**。Reflex syncope 的 **pacemaker 只給 > 40 歲、有記錄到 asystole（症狀 > 3 秒或無症狀 > 6 秒）、CI-CSS 或 tilt asystole** 的人（🆕 2021 ESC pacing 指引升為 **I-A**），**tilt 陽性（有低血壓傾向）療效較差**；**beta-blocker 無效（III-A）**。
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
-> ↑ 回到 [[cardiology/syncope-esc-2018/index|暈厥 2018 ESC 指引總覽]]
+> ↑ 回到 [[cardiology/syncope/esc-2018/index|② 2018 ESC 指引總覽]]
 >
-> ① [[cardiology/syncope-esc-2018/esc-syncope-1-overview|定義、分類與初步評估]]｜② [[cardiology/syncope-esc-2018/esc-syncope-2-ed|急診風險分層]]｜③ [[cardiology/syncope-esc-2018/esc-syncope-3-tests|診斷檢查]]｜④ 治療（本篇）｜⑤ [[cardiology/syncope-esc-2018/esc-syncope-5-special|特殊族群、mimics 與 syncope unit]]｜⑥ [[cardiology/syncope-esc-2018/esc-syncope-6-key-messages|新增修訂、Key messages 與必做／不做]]｜⑦ [[cardiology/syncope-esc-2018/esc-syncope-exam|內專考點]]
+> ① [[cardiology/syncope/esc-2018/esc-syncope-1-overview|定義、分類與初步評估]]｜② [[cardiology/syncope/esc-2018/esc-syncope-2-ed|急診風險分層]]｜③ [[cardiology/syncope/esc-2018/esc-syncope-3-tests|診斷檢查]]｜④ 治療（本篇）｜⑤ [[cardiology/syncope/esc-2018/esc-syncope-5-special|特殊族群、mimics 與 syncope unit]]｜⑥ [[cardiology/syncope/esc-2018/esc-syncope-6-key-messages|新增修訂、Key messages 與必做／不做]]｜⑦ [[cardiology/syncope/esc-2018/esc-syncope-exam|內專考點]]
 >
 > 本篇涵蓋：Figure 8–15；Table 9；reflex、OH、arrhythmia 與 SCD 高風險 unexplained syncope 的建議表
 
@@ -348,9 +349,9 @@ flowchart TD
 
 ## 相關筆記
 
-- [[cardiology/syncope-esc-2018/esc-syncope-3-tests|③ 診斷檢查（CSM、tilt、ILR、EPS）]]
-- [[cardiology/syncope-esc-2018/esc-syncope-6-key-messages|⑥ 新增與修訂建議（Figure 1）]]
-- 另見：教科書整理的 [[cardiology/syncope/index|暈厥 Syncope（Symptom to Diagnosis）]]
+- [[cardiology/syncope/esc-2018/esc-syncope-3-tests|③ 診斷檢查（CSM、tilt、ILR、EPS）]]
+- [[cardiology/syncope/esc-2018/esc-syncope-6-key-messages|⑥ 新增與修訂建議（Figure 1）]]
+- 另見：教科書整理的 [[cardiology/syncope/symptom-to-diagnosis/index|① 教科書整理（Symptom to Diagnosis）]]
 
 ## 參考資料
 

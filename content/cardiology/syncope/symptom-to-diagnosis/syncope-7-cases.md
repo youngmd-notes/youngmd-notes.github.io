@@ -1,6 +1,7 @@
 ---
 title: ⑦四個病例推理 Case-Based Reasoning
 aliases:
+  - cardiology/syncope/syncope-7-cases
   - Syncope 病例
   - 暈厥 病例推理
 tags:
@@ -13,9 +14,9 @@ tags:
 > 原書用四個病例走完 syncope 的三步驟，每個病例的**轉折點**都是一個值得記住的臨床習慣：① **典型 vasovagal 也要排除 HCM 與 long QT** → ② **心臟病史＋坐著昏倒 → 想 VT，telemetry 正常也不夠** → ③ **醒來很久還 confused、咬到舌頭 → seizure，新發 seizure 一定要 imaging** → ④ **站起來量血壓才抓到 orthostatic hypotension，再回到主訴（腹痛）找到出血**。
 
 > [!info] 系列導覽
-> ↑ 回到 [[cardiology/syncope/index|暈厥 Syncope 總覽]]
+> ↑ 回到 [[cardiology/syncope/symptom-to-diagnosis/index|① 教科書整理總覽]]
 >
-> ① [[cardiology/syncope/syncope-1-approach|診斷三步驟]]｜② [[cardiology/syncope/syncope-2-reflex|Reflex syncope]]｜③ [[cardiology/syncope/syncope-3-orthostatic|Orthostatic hypotension]]｜④ [[cardiology/syncope/syncope-4-arrhythmia|Arrhythmic syncope]]｜⑤ [[cardiology/syncope/syncope-5-structural|Structural cardiac syncope]]｜⑥ [[cardiology/syncope/syncope-6-mimics|Nonsyncopal TLOC]]｜⑦ 四個病例推理（本篇）｜⑧ [[cardiology/syncope/syncope-exam|內專考點]]
+> ① [[cardiology/syncope/symptom-to-diagnosis/syncope-1-approach|診斷三步驟]]｜② [[cardiology/syncope/symptom-to-diagnosis/syncope-2-reflex|Reflex syncope]]｜③ [[cardiology/syncope/symptom-to-diagnosis/syncope-3-orthostatic|Orthostatic hypotension]]｜④ [[cardiology/syncope/symptom-to-diagnosis/syncope-4-arrhythmia|Arrhythmic syncope]]｜⑤ [[cardiology/syncope/symptom-to-diagnosis/syncope-5-structural|Structural cardiac syncope]]｜⑥ [[cardiology/syncope/symptom-to-diagnosis/syncope-6-mimics|Nonsyncopal TLOC]]｜⑦ 四個病例推理（本篇）｜⑧ [[cardiology/syncope/symptom-to-diagnosis/syncope-exam|內專考點]]
 
 狀態標示：🔴 HIGH｜🟠 POSSIBLE｜⚪ LOW｜❌ RULED OUT｜✅ CONFIRMED
 
@@ -68,7 +69,7 @@ tags:
 > [!important] 🔀 轉折點
 > 診斷本身不難，關鍵是**在下診斷前主動問自己 must not miss 排除了沒**：年輕人的 vasovagal 要排除 **HCM 與 long QT**，而 **ECG 是兩者共同的必要檢查**。
 
-**處置**：衛教與 reassurance，說明病生理，給預防發作的標準建議（見 [[cardiology/syncope/syncope-2-reflex|②]]）。**單次、典型的 vasovagal syncope 不需要 tilt-table**。
+**處置**：衛教與 reassurance，說明病生理，給預防發作的標準建議（見 [[cardiology/syncope/symptom-to-diagnosis/syncope-2-reflex|②]]）。**單次、典型的 vasovagal syncope 不需要 tilt-table**。
 
 ---
 
@@ -95,7 +96,7 @@ tags:
 | Orthostatic | ⚪ LOW | 坐姿、沒有 volume loss 或出血、**姿勢變化 BP 不變** |
 | Reflex | ⚪ LOW | 沒有 trigger 或 prodrome、發生在坐著時 |
 
-→ **住院評估**，用 [[cardiology/syncope/syncope-1-approach|① 的「線索 → 假說 → 檢查」表]] 的思路找特定病因。
+→ **住院評估**，用 [[cardiology/syncope/symptom-to-diagnosis/syncope-1-approach|① 的「線索 → 假說 → 檢查」表]] 的思路找特定病因。
 
 ### Checkpoint 3：哪一種 cardiac syncope？
 
@@ -231,9 +232,9 @@ tags:
 
 ## 相關筆記
 
-- [[cardiology/syncope/syncope-1-approach|① 診斷三步驟]]
-- [[cardiology/syncope/syncope-2-reflex|② Reflex syncope]]、[[cardiology/syncope/syncope-3-orthostatic|③ Orthostatic hypotension]]
-- [[cardiology/syncope/syncope-4-arrhythmia|④ Arrhythmic syncope]]、[[cardiology/syncope/syncope-6-mimics|⑥ Nonsyncopal TLOC]]
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-1-approach|① 診斷三步驟]]
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-2-reflex|② Reflex syncope]]、[[cardiology/syncope/symptom-to-diagnosis/syncope-3-orthostatic|③ Orthostatic hypotension]]
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-4-arrhythmia|④ Arrhythmic syncope]]、[[cardiology/syncope/symptom-to-diagnosis/syncope-6-mimics|⑥ Nonsyncopal TLOC]]
 
 ## 參考資料
 

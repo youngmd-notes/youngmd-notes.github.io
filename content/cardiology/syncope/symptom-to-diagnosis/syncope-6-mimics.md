@@ -1,6 +1,7 @@
 ---
 title: ⑥非暈厥性意識喪失 Nonsyncopal TLOC
 aliases:
+  - cardiology/syncope/syncope-6-mimics
   - Seizure vs syncope
   - Convulsive syncope
   - 癲癇與暈厥鑑別
@@ -15,9 +16,9 @@ tags:
 > 醒來後 **prolonged confusion（postictal period）** 是 nonsyncopal TLOC 的 **pivotal clue**。Seizure 最 specific 的線索是 **tongue laceration、head turning、unusual posturing**（specificity 97%、LR+ 12–15）；**沒有 postictal confusion 就不太像 generalized seizure（LR− 0.09）**。**Limb jerking 不 specific**：15–90% 的 syncope 也會抽動（**convulsive syncope**）。**Carotid artery obstruction 不會造成 syncope**，syncope 病人不需要評估 anterior circulation。
 
 > [!info] 系列導覽
-> ↑ 回到 [[cardiology/syncope/index|暈厥 Syncope 總覽]]
+> ↑ 回到 [[cardiology/syncope/symptom-to-diagnosis/index|① 教科書整理總覽]]
 >
-> ① [[cardiology/syncope/syncope-1-approach|診斷三步驟]]｜② [[cardiology/syncope/syncope-2-reflex|Reflex syncope]]｜③ [[cardiology/syncope/syncope-3-orthostatic|Orthostatic hypotension]]｜④ [[cardiology/syncope/syncope-4-arrhythmia|Arrhythmic syncope]]｜⑤ [[cardiology/syncope/syncope-5-structural|Structural cardiac syncope]]｜⑥ Nonsyncopal TLOC（本篇）｜⑦ [[cardiology/syncope/syncope-7-cases|四個病例推理]]｜⑧ [[cardiology/syncope/syncope-exam|內專考點]]
+> ① [[cardiology/syncope/symptom-to-diagnosis/syncope-1-approach|診斷三步驟]]｜② [[cardiology/syncope/symptom-to-diagnosis/syncope-2-reflex|Reflex syncope]]｜③ [[cardiology/syncope/symptom-to-diagnosis/syncope-3-orthostatic|Orthostatic hypotension]]｜④ [[cardiology/syncope/symptom-to-diagnosis/syncope-4-arrhythmia|Arrhythmic syncope]]｜⑤ [[cardiology/syncope/symptom-to-diagnosis/syncope-5-structural|Structural cardiac syncope]]｜⑥ Nonsyncopal TLOC（本篇）｜⑦ [[cardiology/syncope/symptom-to-diagnosis/syncope-7-cases|四個病例推理]]｜⑧ [[cardiology/syncope/symptom-to-diagnosis/syncope-exam|內專考點]]
 
 ## 三個主要 mimics 一覽
 
@@ -144,8 +145,8 @@ Generalized seizure 典型是 **tonic-clonic activity、失去意識與 postural
 
 ## 相關筆記
 
-- [[cardiology/syncope/syncope-1-approach|① 診斷三步驟]]
-- [[cardiology/syncope/syncope-7-cases|⑦ 病例 3：吃晚餐時倒地、咬傷舌頭]]
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-1-approach|① 診斷三步驟]]
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-7-cases|⑦ 病例 3：吃晚餐時倒地、咬傷舌頭]]
 
 ## 參考資料
 

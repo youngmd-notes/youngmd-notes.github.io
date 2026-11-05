@@ -1,6 +1,7 @@
 ---
 title: ⑧內專考點 Board Exam Review
 aliases:
+  - cardiology/syncope/syncope-exam
   - Syncope 內專考題
   - 暈厥 內專考點
 tags:
@@ -13,9 +14,9 @@ tags:
 > 題庫裡標為 Syncope 的只有 1 題（**arrhythmic syncope vs seizure 的病史鑑別**），但 syncope 的病因散在各主題反覆出現：**HCM（猝死危險因子、murmur 動態變化）**、**AS（severe 定義、squatting 讓 AS murmur 變大）**、**complete AV block 要 pacing**、**Brugada（sodium channel、發燒與睡眠誘發）**、**wide complex tachycardia 當 VT**、**WPW 合併 AF 禁用 AV nodal blockers**。
 
 > [!info] 系列導覽
-> ↑ 回到 [[cardiology/syncope/index|暈厥 Syncope 總覽]]
+> ↑ 回到 [[cardiology/syncope/symptom-to-diagnosis/index|① 教科書整理總覽]]
 >
-> ① [[cardiology/syncope/syncope-1-approach|診斷三步驟]]｜② [[cardiology/syncope/syncope-2-reflex|Reflex syncope]]｜③ [[cardiology/syncope/syncope-3-orthostatic|Orthostatic hypotension]]｜④ [[cardiology/syncope/syncope-4-arrhythmia|Arrhythmic syncope]]｜⑤ [[cardiology/syncope/syncope-5-structural|Structural cardiac syncope]]｜⑥ [[cardiology/syncope/syncope-6-mimics|Nonsyncopal TLOC]]｜⑦ [[cardiology/syncope/syncope-7-cases|四個病例推理]]｜⑧ 內專考點（本篇）
+> ① [[cardiology/syncope/symptom-to-diagnosis/syncope-1-approach|診斷三步驟]]｜② [[cardiology/syncope/symptom-to-diagnosis/syncope-2-reflex|Reflex syncope]]｜③ [[cardiology/syncope/symptom-to-diagnosis/syncope-3-orthostatic|Orthostatic hypotension]]｜④ [[cardiology/syncope/symptom-to-diagnosis/syncope-4-arrhythmia|Arrhythmic syncope]]｜⑤ [[cardiology/syncope/symptom-to-diagnosis/syncope-5-structural|Structural cardiac syncope]]｜⑥ [[cardiology/syncope/symptom-to-diagnosis/syncope-6-mimics|Nonsyncopal TLOC]]｜⑦ [[cardiology/syncope/symptom-to-diagnosis/syncope-7-cases|四個病例推理]]｜⑧ 內專考點（本篇）
 >
 > 每組考點下方的「📖 對照」可以直接跳到相關的分篇。
 
@@ -28,7 +29,7 @@ tags:
 
 ### Syncope vs seizure 的病史鑑別
 
-📖 對照：[[cardiology/syncope/syncope-6-mimics|⑥ Seizure vs syncope]]、[[cardiology/syncope/syncope-4-arrhythmia|④ Cardiac syncope 的線索]]
+📖 對照：[[cardiology/syncope/symptom-to-diagnosis/syncope-6-mimics|⑥ Seizure vs syncope]]、[[cardiology/syncope/symptom-to-diagnosis/syncope-4-arrhythmia|④ Cardiac syncope 的線索]]
 
 > [!note]- 106-002｜哪些病史偏向 tachyarrhythmia 造成的 syncope？
 > **情境**：五個病史特徵：(1) 運動中昏倒；(2) incontinence＋咬舌；(3) 醒來後很快恢復對人、地的定向感；(4) 咳嗽、閉氣不能緩解症狀；(5) 躺著時突然昏倒
@@ -45,7 +46,7 @@ tags:
 
 ### HCM：猝死危險因子
 
-📖 對照：[[cardiology/syncope/syncope-5-structural|⑤ HCM 的 sudden cardiac death 危險因子與 ICD]]
+📖 對照：[[cardiology/syncope/symptom-to-diagnosis/syncope-5-structural|⑤ HCM 的 sudden cardiac death 危險因子與 ICD]]
 
 > [!note]- 104-088｜哪些 HCM 屬於高猝死風險？
 > **情境**：五個特徵：(1) apical HCM（心尖巨大 T 波）；(2) 家族有猝死；(3) LVOT pressure gradient > 50 mmHg；(4) 成年人 HCM；(5) 心肌肥厚 > 20 mm
@@ -89,7 +90,7 @@ tags:
 
 ### HCM：型態與 murmur 動態變化
 
-📖 對照：[[cardiology/syncope/syncope-5-structural|⑤ LVOTO 的病生理與 PE]]
+📖 對照：[[cardiology/syncope/symptom-to-diagnosis/syncope-5-structural|⑤ LVOTO 的病生理與 PE]]
 
 > [!note]- 114-012｜HOCM 的敘述哪些正確？
 > **情境**：五個敘述：(1) diastolic function 常受限；(2) 可見於年輕猝死；(3) echo 可見 LVOT obstruction；(4) murmur 蹲下時增加；(5) 部分病人可做 alcohol septal ablation
@@ -119,7 +120,7 @@ tags:
 
 ### AS 與動態聽診
 
-📖 對照：[[cardiology/syncope/syncope-5-structural|⑤ Aortic stenosis]]
+📖 對照：[[cardiology/syncope/symptom-to-diagnosis/syncope-5-structural|⑤ Aortic stenosis]]
 
 > [!note]- 104-001｜動態聽診何者錯誤？
 > **問**：
@@ -205,7 +206,7 @@ tags:
 
 ### VT 與 wide complex tachycardia
 
-📖 對照：[[cardiology/syncope/syncope-4-arrhythmia|④ VT 的 ECG criteria]]
+📖 對照：[[cardiology/syncope/symptom-to-diagnosis/syncope-4-arrhythmia|④ VT 的 ECG criteria]]
 
 > [!note]- 108-022｜CABG 後的 wide complex tachycardia：何者錯誤？
 > **情境**：65 歲男性，冠狀動脈繞道術後，因 palpitations 到急診
@@ -257,7 +258,7 @@ tags:
 
 ### Brugada syndrome
 
-📖 對照：[[cardiology/syncope/syncope-4-arrhythmia|④ Brugada syndrome]]
+📖 對照：[[cardiology/syncope/symptom-to-diagnosis/syncope-4-arrhythmia|④ Brugada syndrome]]
 
 > [!note]- 105-016｜25 歲男性 syncope、右胸導程 ST 變化、心臟結構正常：何者錯誤？
 > **情境**：25 歲男性因 syncope 到急診
@@ -293,7 +294,7 @@ tags:
 
 ### AV block 與 pacing
 
-📖 對照：[[cardiology/syncope/syncope-4-arrhythmia|④ AV heart block]]
+📖 對照：[[cardiology/syncope/symptom-to-diagnosis/syncope-4-arrhythmia|④ AV heart block]]
 
 > [!note]- 109-020｜70 歲女性 syncope，Holter 昏倒時 P 持續出現卻不傳導：診斷？
 > **情境**：70 歲女性，syncope 病史
@@ -335,7 +336,7 @@ tags:
 
 ### WPW
 
-📖 對照：[[cardiology/syncope/syncope-4-arrhythmia|④ WPW syndrome]]
+📖 對照：[[cardiology/syncope/symptom-to-diagnosis/syncope-4-arrhythmia|④ WPW syndrome]]
 
 > [!note]- 106-017｜30 歲男性，平時 ECG 與心悸時 ECG：哪些敘述錯誤？
 > **情境**：30 歲男性，依附圖：平時 ECG 為 WPW pattern；心悸時為 **pre-excited AF**（不規則、寬窄不一）
@@ -373,7 +374,7 @@ tags:
 > >
 > > - **只量 supine BP 與 pulse 對大量失血很不敏感**（sensitivity 12–33%），一定要**站起來量**；站立 pulse 上升 > 30 bpm 對大量失血 sensitivity 97%、specificity 98%（LR+ 48）→ (C) 對、(D) 錯
 > > - 本例 **alpha-blocker＋diarrhea** 是典型 orthostatic syncope 的原因（藥物＋volume depletion）
-> > - 📖 [[cardiology/syncope/syncope-3-orthostatic|③ Orthostatic hypotension]]
+> > - 📖 [[cardiology/syncope/symptom-to-diagnosis/syncope-3-orthostatic|③ Orthostatic hypotension]]
 
 > [!question]- 模擬題 2（點開作答）
 > 19 歲籃球選手在比賽**衝刺時**突然昏倒，數秒後清醒。叔叔 35 歲時猝死。PE 在 lower left sternal border 聽到 systolic murmur。下列何者**正確**？
@@ -391,11 +392,11 @@ tags:
 > > - HCM murmur 在 **preload ↓（squatting → standing）變大**、**passive leg elevation 變小**（B、C 都講反了）
 > > - Echo 是首選；**一等親 < 40 歲猝死、近期 unexplained syncope、massive LVH** 都是 high-risk clinical factors，考慮 ICD
 > > - 懷疑嚴重 outflow obstruction 時不應先貿然做運動試驗（E 錯）
-> > - 📖 [[cardiology/syncope/syncope-5-structural|⑤ HCM]]
+> > - 📖 [[cardiology/syncope/symptom-to-diagnosis/syncope-5-structural|⑤ HCM]]
 
 ## 相關筆記
 
-- [[cardiology/syncope/index|暈厥 Syncope 總覽]]
+- [[cardiology/syncope/symptom-to-diagnosis/index|① 教科書整理總覽]]
 - [[cardiology/atrial-fibrillation/af-exam|心房顫動 AF 內專考點]]
 
 ## 參考資料

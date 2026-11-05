@@ -1,6 +1,7 @@
 ---
 title: ③姿勢性低血壓 Orthostatic Hypotension
 aliases:
+  - cardiology/syncope/syncope-3-orthostatic
   - Orthostatic syncope
   - Postural hypotension
   - 姿勢性暈厥
@@ -14,9 +15,9 @@ tags:
 > Orthostatic syncope 的線索是**一站起來（從椅子或床上）就昏倒**。定義：站立 3 分鐘內 **SBP 下降 ≥ 20 mmHg、DBP 下降 ≥ 10 mmHg 或 pulse 上升 > 30 bpm**。**Orthostatic vital signs 一定要量「站著」的**：躺著量的 BP 與 pulse 會漏掉大量出血；**站起來 pulse 上升 > 30 bpm 對大量失血 sensitivity 97%、specificity 98%**。原因找 **hypovolemia（含 occult intra-abdominal／retroperitoneal bleeding）、藥物、autonomic failure**。
 
 > [!info] 系列導覽
-> ↑ 回到 [[cardiology/syncope/index|暈厥 Syncope 總覽]]
+> ↑ 回到 [[cardiology/syncope/symptom-to-diagnosis/index|① 教科書整理總覽]]
 >
-> ① [[cardiology/syncope/syncope-1-approach|診斷三步驟]]｜② [[cardiology/syncope/syncope-2-reflex|Reflex syncope]]｜③ Orthostatic hypotension（本篇）｜④ [[cardiology/syncope/syncope-4-arrhythmia|Arrhythmic syncope]]｜⑤ [[cardiology/syncope/syncope-5-structural|Structural cardiac syncope]]｜⑥ [[cardiology/syncope/syncope-6-mimics|Nonsyncopal TLOC]]｜⑦ [[cardiology/syncope/syncope-7-cases|四個病例推理]]｜⑧ [[cardiology/syncope/syncope-exam|內專考點]]
+> ① [[cardiology/syncope/symptom-to-diagnosis/syncope-1-approach|診斷三步驟]]｜② [[cardiology/syncope/symptom-to-diagnosis/syncope-2-reflex|Reflex syncope]]｜③ Orthostatic hypotension（本篇）｜④ [[cardiology/syncope/symptom-to-diagnosis/syncope-4-arrhythmia|Arrhythmic syncope]]｜⑤ [[cardiology/syncope/symptom-to-diagnosis/syncope-5-structural|Structural cardiac syncope]]｜⑥ [[cardiology/syncope/symptom-to-diagnosis/syncope-6-mimics|Nonsyncopal TLOC]]｜⑦ [[cardiology/syncope/symptom-to-diagnosis/syncope-7-cases|四個病例推理]]｜⑧ [[cardiology/syncope/symptom-to-diagnosis/syncope-exam|內專考點]]
 
 ## Textbook presentation
 
@@ -113,16 +114,16 @@ IV bolus 的做法：
 
 1. **Hydration**：水、湯、運動飲料
 2. **停用或減少問題藥物**：antihypertensives（尤其 beta-blockers、thiazides、alpha-blockers）、nitrates、TCA、phenothiazines
-3. **Counterpressure maneuvers**（見 [[cardiology/syncope/syncope-2-reflex|② Reflex syncope]]）
+3. **Counterpressure maneuvers**（見 [[cardiology/syncope/symptom-to-diagnosis/syncope-2-reflex|② Reflex syncope]]）
 4. 衛教：**慢慢起身**（先坐在床邊再站）、避免大餐與過熱、穿 waist-high support hose
 5. **Midodrine**（alpha-agonist）：有效；副作用 urinary retention、hypertension、HF 惡化
 6. **Fludrocortisone**：也有成功使用
 
 ## 相關筆記
 
-- [[cardiology/syncope/syncope-1-approach|① 診斷三步驟]]
-- [[cardiology/syncope/syncope-2-reflex|② Reflex syncope]]
-- [[cardiology/syncope/syncope-7-cases|⑦ 病例 4：腹痛＋站起來就昏倒]]
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-1-approach|① 診斷三步驟]]
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-2-reflex|② Reflex syncope]]
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-7-cases|⑦ 病例 4：腹痛＋站起來就昏倒]]
 
 ## 參考資料
 

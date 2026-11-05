@@ -1,6 +1,7 @@
 ---
 title: ④心律不整性暈厥 Arrhythmic Syncope
 aliases:
+  - cardiology/syncope/syncope-4-arrhythmia
   - Cardiac syncope
   - 心因性暈厥
   - VT syncope
@@ -19,9 +20,9 @@ tags:
 > Cardiac syncope 的死亡率遠高於 reflex、orthostatic 或原因不明的 syncope，**懷疑就要住院**。最常見的是 arrhythmia：**tachy（VT、WPW 等極快 SVT）**與 **brady（sick sinus syndrome、AV block）**。**有 CAD、HF 或其他心臟病的 syncope，要認真想 VT**；**wide complex tachycardia 除非有確切證據，一律當 VT**；**long QT 可以模仿 vasovagal**，所以典型 vasovagal 也要做 ECG 看 QTc。
 
 > [!info] 系列導覽
-> ↑ 回到 [[cardiology/syncope/index|暈厥 Syncope 總覽]]
+> ↑ 回到 [[cardiology/syncope/symptom-to-diagnosis/index|① 教科書整理總覽]]
 >
-> ① [[cardiology/syncope/syncope-1-approach|診斷三步驟]]｜② [[cardiology/syncope/syncope-2-reflex|Reflex syncope]]｜③ [[cardiology/syncope/syncope-3-orthostatic|Orthostatic hypotension]]｜④ Arrhythmic syncope（本篇）｜⑤ [[cardiology/syncope/syncope-5-structural|Structural cardiac syncope]]｜⑥ [[cardiology/syncope/syncope-6-mimics|Nonsyncopal TLOC]]｜⑦ [[cardiology/syncope/syncope-7-cases|四個病例推理]]｜⑧ [[cardiology/syncope/syncope-exam|內專考點]]
+> ① [[cardiology/syncope/symptom-to-diagnosis/syncope-1-approach|診斷三步驟]]｜② [[cardiology/syncope/symptom-to-diagnosis/syncope-2-reflex|Reflex syncope]]｜③ [[cardiology/syncope/symptom-to-diagnosis/syncope-3-orthostatic|Orthostatic hypotension]]｜④ Arrhythmic syncope（本篇）｜⑤ [[cardiology/syncope/symptom-to-diagnosis/syncope-5-structural|Structural cardiac syncope]]｜⑥ [[cardiology/syncope/symptom-to-diagnosis/syncope-6-mimics|Nonsyncopal TLOC]]｜⑦ [[cardiology/syncope/symptom-to-diagnosis/syncope-7-cases|四個病例推理]]｜⑧ [[cardiology/syncope/symptom-to-diagnosis/syncope-exam|內專考點]]
 
 ## Cardiac syncope 總論
 
@@ -318,13 +319,13 @@ AV node、His bundle 或 bundle branches 的傳導異常，可以是**間歇或�
 - 長期：藥物或 **radiofrequency catheter ablation of the bypass tract**；**快速 tachycardia 風險高者做 ablation**；建議會診
 
 > [!danger] 內專常考的延伸（不在原書，依考題整理）
-> **WPW 合併 AF（pre-excited AF）==禁用 AV nodal blockers==**（adenosine、verapamil、diltiazem、digoxin、beta-blocker）：擋住 AV node 會讓更多衝動走 accessory pathway → VF。不穩定 → synchronized cardioversion；穩定 → procainamide 或 ibutilide，或鎮靜後電擊。見 [[cardiology/syncope/syncope-exam|⑧ 內專考點]]。
+> **WPW 合併 AF（pre-excited AF）==禁用 AV nodal blockers==**（adenosine、verapamil、diltiazem、digoxin、beta-blocker）：擋住 AV node 會讓更多衝動走 accessory pathway → VF。不穩定 → synchronized cardioversion；穩定 → procainamide 或 ibutilide，或鎮靜後電擊。見 [[cardiology/syncope/symptom-to-diagnosis/syncope-exam|⑧ 內專考點]]。
 
 ## 相關筆記
 
-- [[cardiology/syncope/syncope-1-approach|① 診斷三步驟]]（EPS、monitoring 的工具與 yield）
-- [[cardiology/syncope/syncope-5-structural|⑤ Structural cardiac syncope]]（HCM 的 VT 與 ICD）
-- [[cardiology/syncope/syncope-7-cases|⑦ 病例 2：舊 MI＋坐著昏倒 → VT]]
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-1-approach|① 診斷三步驟]]（EPS、monitoring 的工具與 yield）
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-5-structural|⑤ Structural cardiac syncope]]（HCM 的 VT 與 ICD）
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-7-cases|⑦ 病例 2：舊 MI＋坐著昏倒 → VT]]
 - [[cardiology/atrial-fibrillation/index|心房顫動 AF]]
 
 ## 參考資料

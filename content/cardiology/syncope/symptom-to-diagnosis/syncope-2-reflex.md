@@ -1,6 +1,7 @@
 ---
 title: ②反射性暈厥 Reflex Syncope
 aliases:
+  - cardiology/syncope/syncope-2-reflex
   - Vasovagal syncope
   - Neurocardiogenic syncope
   - 血管迷走神經性暈厥
@@ -16,9 +17,9 @@ tags:
 > Reflex syncope 是**不適當的心血管反射**造成 hypotension：**cardioinhibitory（bradycardia）、vasodepressor（vasodilatation）或兩者**。最常見的是 **vasovagal syncope**（占 syncope 20–33%）：**年輕、有明確 trigger（久站、疼痛、恐懼）、典型 prodrome、ECG 正常 → 臨床診斷即可**，不需要再做檢查；**> 40 歲、非典型或反覆發作**才要找 arrhythmia、做 ILR、CSM 或 tilt-table。
 
 > [!info] 系列導覽
-> ↑ 回到 [[cardiology/syncope/index|暈厥 Syncope 總覽]]
+> ↑ 回到 [[cardiology/syncope/symptom-to-diagnosis/index|① 教科書整理總覽]]
 >
-> ① [[cardiology/syncope/syncope-1-approach|診斷三步驟]]｜② Reflex syncope（本篇）｜③ [[cardiology/syncope/syncope-3-orthostatic|Orthostatic hypotension]]｜④ [[cardiology/syncope/syncope-4-arrhythmia|Arrhythmic syncope]]｜⑤ [[cardiology/syncope/syncope-5-structural|Structural cardiac syncope]]｜⑥ [[cardiology/syncope/syncope-6-mimics|Nonsyncopal TLOC]]｜⑦ [[cardiology/syncope/syncope-7-cases|四個病例推理]]｜⑧ [[cardiology/syncope/syncope-exam|內專考點]]
+> ① [[cardiology/syncope/symptom-to-diagnosis/syncope-1-approach|診斷三步驟]]｜② Reflex syncope（本篇）｜③ [[cardiology/syncope/symptom-to-diagnosis/syncope-3-orthostatic|Orthostatic hypotension]]｜④ [[cardiology/syncope/symptom-to-diagnosis/syncope-4-arrhythmia|Arrhythmic syncope]]｜⑤ [[cardiology/syncope/symptom-to-diagnosis/syncope-5-structural|Structural cardiac syncope]]｜⑥ [[cardiology/syncope/symptom-to-diagnosis/syncope-6-mimics|Nonsyncopal TLOC]]｜⑦ [[cardiology/syncope/symptom-to-diagnosis/syncope-7-cases|四個病例推理]]｜⑧ [[cardiology/syncope/symptom-to-diagnosis/syncope-exam|內專考點]]
 
 ## 三種 reflex syncope
 
@@ -175,10 +176,10 @@ AHA 與 ESC 認為：**cardioinhibitory CSS 且 CSM 時記錄到 asystole ≥ 3 
 
 ## 相關筆記
 
-- [[cardiology/syncope/syncope-1-approach|① 診斷三步驟]]
-- [[cardiology/syncope/syncope-3-orthostatic|③ Orthostatic hypotension]]（counterpressure maneuver、midodrine 也用在慢性 orthostatic hypotension）
-- [[cardiology/syncope/syncope-4-arrhythmia|④ Arrhythmic syncope]]（long QT 可以模仿 vasovagal）
-- [[cardiology/syncope/syncope-7-cases|⑦ 病例 1：醫學生在解剖室昏倒]]
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-1-approach|① 診斷三步驟]]
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-3-orthostatic|③ Orthostatic hypotension]]（counterpressure maneuver、midodrine 也用在慢性 orthostatic hypotension）
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-4-arrhythmia|④ Arrhythmic syncope]]（long QT 可以模仿 vasovagal）
+- [[cardiology/syncope/symptom-to-diagnosis/syncope-7-cases|⑦ 病例 1：醫學生在解剖室昏倒]]
 
 ## 參考資料
 
