@@ -1,5 +1,5 @@
 ---
-title: ②酒精性與非酒精性脂肪肝病 ALD & NAFLD
+title: ②酒精相關肝病與脂肪肝病 ALD & MASLD
 aliases:
   - Alcoholic liver disease
   - ALD
@@ -10,25 +10,31 @@ aliases:
   - MASLD
   - 非酒精性脂肪肝
   - Maddrey discriminant function
+  - Alcohol-associated liver disease
+  - MASH
+  - MetALD
+  - 代謝性脂肪肝病
 tags:
   - 腸胃肝膽科
   - 肝功能異常
 ---
 
 > [!abstract] 一句話重點
-> **ALD**：靠「**有肝病＋證實過量飲酒**」診斷；**alcoholic hepatitis 的 transaminase 通常 < 6–7 倍 ULN（AST < 500、ALT < 300）、AST:ALT > 2**；**mDF ≥ 32（或 MELD > 11）是 severe → corticosteroids**；**戒酒是所有 ALD 的主要治療**。**NAFLD**：美國肝指數異常最常見的原因，**ALT > AST、transaminase 多 < 400**；**一定要先排除其他慢性肝病**才能診斷；治療核心是**減重與運動**。
+> **ALD（alcohol-associated liver disease）**：靠「**有肝病＋證實過量飲酒**」診斷；**alcohol-associated hepatitis 的 transaminase 通常 < 6–7 倍 ULN（AST < 500、ALT < 300）、AST:ALT > 2**；🆕 **MELD > 20 為 severe → prednisolone 40 mg/day，第 7 天 Lille ≥ 0.45 停藥；pentoxifylline 不建議**（ACG 2024）；**戒酒並治療 AUD 是所有 ALD 的主要治療**。**MASLD（舊稱 NAFLD）**：🆕 **steatosis＋至少一項 cardiometabolic 危險因子**，沒有其他原因；美國肝指數異常最常見的原因，**ALT > AST、transaminase 多 < 400**；🆕 **先用 FIB-4 分層 fibrosis**；治療核心是**減重與運動**，**F2–F3 的 MASH 有核准藥物（resmetirom、semaglutide）**。
 
 > [!info] 系列導覽
 > ↑ 回到 [[gastroenterology/abnormal-liver-tests/index|肝功能異常與黃疸 總覽]]
 >
 > ① [[gastroenterology/abnormal-liver-tests/liver-1-approach|判讀架構]]｜② ALD 與 NAFLD（本篇）｜③ [[gastroenterology/abnormal-liver-tests/liver-3-viral|Viral hepatitis]]｜④ [[gastroenterology/abnormal-liver-tests/liver-4-others|其他重要病因]]｜⑤ [[gastroenterology/abnormal-liver-tests/liver-5-cases|三個病例推理]]｜⑥ [[gastroenterology/abnormal-liver-tests/liver-exam|內專考點]]
 
-> [!note] 名詞更新
-> 2023 年起國際改稱 **MASLD**（metabolic dysfunction-associated steatotic liver disease）與 **MASH**；原書仍用 NAFLD、NASH，本篇照原書寫法。
+> [!info] 🆕 新版名詞（2023 多學會 Delphi 共識；AASLD 2023）
+> - **NAFLD → MASLD**（metabolic dysfunction-associated steatotic liver disease）；**NASH → MASH**；alcoholic → **alcohol-associated**
+> - **Steatotic liver disease（SLD）** 分成：**MASLD**、**MetALD**（MASLD＋飲酒較多）、**ALD**、特定病因（藥物、Wilson 等）、**cryptogenic SLD**（沒有代謝危險因子也找不到原因）
+> - 本篇保留原書的 NAFLD 內容，新版定義與處置用 🆕 標出
 
 ## ALD 與 NAFLD 的分辨
 
-| | **ALD（alcoholic hepatitis）** | **NAFLD** |
+| | **ALD（alcohol-associated hepatitis）** | **MASLD（舊稱 NAFLD）** |
 | --- | --- | --- |
 | 關鍵病史 | 長期大量飲酒 | **Metabolic syndrome、obesity、DM** |
 | Transaminase | 通常 **< 6–7 倍 ULN**（AST < 500、ALT < 300） | 通常 **< 400 U/L** |
@@ -88,15 +94,20 @@ tags:
 ### 治療
 
 1. **==戒酒是所有形式 ALD 的主要治療==**
-2. 證據不一致，但目前指引建議 **severe alcoholic hepatitis（mDF ≥ 32）給 corticosteroids**；不能用 corticosteroids 的人可考慮 pentoxifylline
+2. 證據不一致，但目前指引建議 **severe alcoholic hepatitis（mDF ≥ 32）給 corticosteroids**；不能用 corticosteroids 的人可考慮 pentoxifylline（原書；已更新，見下方 🆕）
 3. 晚期病人或 alcoholic hepatitis 要評估**營養缺乏**並補充
 
-> [!warning] 新證據（不在原書，依內專詳解整理）
-> STOPAH 隨機試驗顯示 **pentoxifylline 沒有改善存活**；ACG 2024 以 **MELD > 20** 定義 severe alcoholic hepatitis，**corticosteroids 是唯一證實有效的藥物**（排除活動性感染、GI bleeding 後使用）。
+> [!info] 🆕 新版指引（ACG Clinical Guideline: Alcohol-Associated Liver Disease 2024）
+> - **嚴重度改用 MELD**：**==MELD > 20 為 severe alcohol-associated hepatitis==**，1 個月死亡率 20–50%（mDF 仍可參考）
+> - **Severe AH → corticosteroids**：**prednisolone 40 mg PO 每天一次，共 28 天**；給藥前先排除**活動性感染、GI bleeding** 等禁忌；可合併 **IV N-acetylcysteine** 作為輔助
+> - **第 7 天算 Lille score**：**≥ 0.45 代表沒反應 → 停 steroid**（繼續給只增加感染風險）
+> - **==Pentoxifylline 不建議用於 severe AH==**（強建議反對；STOPAH 試驗沒有改善存活）
+> - **AUD 一定要治療**：篩檢並以**行為治療＋藥物**治療 alcohol use disorder，才能預防進展
+> - 對治療沒反應的 severe AH，**仔細篩選後可考慮早期肝移植**（不再一律要求先戒酒 6 個月）
 
 ---
 
-## Nonalcoholic fatty liver disease（NAFLD）
+## MASLD（舊稱 nonalcoholic fatty liver disease，NAFLD）
 
 ### Textbook presentation
 
@@ -104,7 +115,28 @@ tags:
 
 ### Disease highlights
 
-**定義**：影像或 biopsy 證實肝內脂肪過多，且**沒有造成肝臟脂肪堆積的次發原因**。
+**定義**：影像或 biopsy 證實肝內脂肪過多，且**沒有造成肝臟脂肪堆積的次發原因**（原書 NAFLD 定義；已更新，見下方 🆕）。
+
+> [!info] 🆕 新版定義（2023 Delphi 共識；AASLD 2023）
+> **MASLD＝imaging 或 biopsy 有 hepatic steatosis＋至少一項 cardiometabolic criteria＋沒有其他原因**：
+>
+> | Cardiometabolic criteria（成人，符合任一項） | 門檻 |
+> | --- | --- |
+> | 肥胖 | **BMI ≥ 25（亞洲人 ≥ 23）**，或腰圍男 > 94 cm、女 > 80 cm（或依族群調整） |
+> | 血糖 | **Fasting glucose ≥ 100 mg/dL**、2 小時 OGTT ≥ 140、**HbA1c ≥ 5.7%**，或 type 2 DM、正在治療 |
+> | 血壓 | **≥ 130/85 mmHg** 或正在用降壓藥 |
+> | Triglyceride | **≥ 150 mg/dL** 或正在用降血脂藥 |
+> | HDL | 男 **≤ 40**、女 **≤ 50 mg/dL**，或正在用降血脂藥 |
+>
+> **飲酒量決定分類**：
+>
+> | 分類 | 女性 | 男性 |
+> | --- | --- | --- |
+> | MASLD | < 140 g／週（< 20 g／天） | < 210 g／週（< 30 g／天） |
+> | **MetALD** | **140–350 g／週（20–50 g／天）** | **210–420 g／週（30–60 g／天）** |
+> | ALD | > 50 g／天 | > 60 g／天 |
+>
+> 和原書最大的差別：不再是「排除酒精才叫 NAFLD」，而是**有代謝危險因子就叫 MASLD，喝得較多就叫 MetALD**，兩者可以並存。
 
 **次發性脂肪肝的原因**（要先排除）：
 
@@ -131,7 +163,7 @@ tags:
 - 危險因子：**metabolic syndrome、obesity、type 2 DM、insulin resistance、hyperlipidemia**、NAFLD 家族史
 - 全球盛行率約 **25%**（中東與南亞更高）；NASH 3–5%
 - 北美 NAFLD 病人：80% obese、25% DM、83% hyperlipidemia
-- > 95% 接受 bariatric surgery 的人、50% 去 lipid clinic 的人有 NAFLD
+- 超過 95% 接受 bariatric surgery 的人、50% 去 lipid clinic 的人有 NAFLD
 - **肝移植第二常見原因**，可能很快超越 hepatitis C
 - **==美國肝指數異常最常見的原因==**
 
@@ -162,6 +194,17 @@ MRI 對偵測 > 5% 肝臟脂肪的 sensitivity 與 specificity 比 US、CT 更�
   - **Metabolic syndrome** 也算高風險
 - 其他非侵入性 fibrosis 評估：**transient elastography**、magnetic resonance elastography
 
+> [!info] 🆕 新版指引（AASLD Practice Guidance 2023）：用非侵入性檢查分層，biopsy 只留給少數人
+> 1. **第一步：FIB-4**（age、AST、ALT、platelet；原書的 NAFLD Fibrosis Score 已退居次要）
+>    - **< 1.3：低風險** → 基層追蹤（有 DM、prediabetes 或 ≥ 2 個代謝危險因子者每 1–2 年重算，其餘每 2–3 年）
+>    - **1.3–2.67：中間** → 做第二步
+>    - **> 2.67：advanced fibrosis 可能性高** → 轉介肝膽科
+>    - **≥ 65 歲**改用 **< 2.0** 當低風險門檻；**≤ 35 歲 FIB-4 不可靠**，直接做 VCTE
+> 2. **第二步：VCTE（FibroScan）或 ELF**
+>    - **VCTE < 8 kPa** 低風險、**8–12 kPa** 中間、**> 12 kPa** 高風險
+>    - ELF < 7.7 低風險、7.7–9.8 中間、> 9.8 高風險
+> 3. 中高風險、結果有疑慮 → MR elastography；**懷疑 cirrhosis、非侵入性檢查結果不一致、診斷不確定，才考慮 biopsy**
+
 > [!warning] Pitfall
 > **==診斷 NAFLD 之前，必須先排除上面鑑別診斷中的其他肝病==**（viral hepatitis、hemochromatosis、AIH、Wilson、alpha-1-antitrypsin deficiency、藥物、酒精）。
 
@@ -176,10 +219,18 @@ MRI 對偵測 > 5% 肝臟脂肪的 sensitivity 與 specificity 比 US、CT 更�
 | **Vitamin E** | **改善非 DM 成人 biopsy 證實 NASH 的組織學** |
 | Pioglitazone | 減少 inflammation，但對 fibrosis 的效果不確定；長期安全性與療效未確立 |
 
+> [!info] 🆕 新版指引與 FDA 核准（AASLD 2023；FDA 2024–2025）
+> - **減重目標**：減 **≥ 5%** 改善 steatosis、**7–10%** 改善 inflammation、**≥ 10%** 才可能改善 fibrosis
+> - **==Resmetirom==**（口服 thyroid hormone receptor-β agonist，Rezdiffra）：**2024 年 3 月** FDA 核准用於 **MASH 合併 F2–F3 fibrosis、沒有 cirrhosis** 的成人，搭配飲食與運動
+> - **==Semaglutide 2.4 mg SC 每週一次==**（Wegovy）：**2025 年 8 月** FDA 加速核准用於 **MASH 合併 F2–F3、沒有 cirrhosis**；ESSENCE 試驗 72 週 MASH 緩解 63% vs 34%、fibrosis 改善 37% vs 22%
+> - **有 MASLD 的 T2DM 或肥胖**，選降血糖、減重藥時優先考慮對肝臟有益的 **GLP-1 RA**（或 pioglitazone）
+> - **==Statin 照樣要用==**：在 MASLD（含 compensated cirrhosis）安全，且降低心血管事件；MASLD 病人**最主要的死因是心血管疾病**
+> - Metformin 仍然**無效**；vitamin E 只在非 DM、biopsy 證實 MASH 時考慮
+
 > [!tip] 內專常考的延伸（依考題整理）
 > - **NAFLD 病人合併 dyslipidemia 照樣要用 statin**：AASLD 2023 認為 statin 在 NAFLD（含 advanced liver disease）安全，且能降低心血管事件
 > - **ANA 陽性在 NAFLD 很常見**（約 23%），單一 ANA 陽性不足以診斷 AIH
-> - 改善 NASH 與 fibrosis 通常需要**減重 > 10%**
+> - 改善 MASH 與 fibrosis 通常需要**減重 ≥ 10%**
 
 ## 相關筆記
 
@@ -190,4 +241,7 @@ MRI 對偵測 > 5% 肝臟脂肪的 sensitivity 與 specificity 比 US、CT 更�
 ## 參考資料
 
 - Alexander J. I have a patient with jaundice or abnormal liver enzymes. How do I determine the cause? In: Stern SDC, Cifu AS, Altkorn D, eds. *Symptom to Diagnosis: An Evidence-Based Guide*. 4th ed. McGraw-Hill; 2020. Chapter 26（Leading Hypothesis: Alcoholic Liver Disease；Leading Hypothesis: NAFLD）。參考資料庫：`腸胃肝膽科/Abnormal liver profile.pdf`
-- Rinella ME, Neuschwander-Tetri BA, Siddiqui MS, et al. AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty liver disease. *Hepatology*. 2023;77(5):1797–1835.（statin 安全性，內專考點延伸）
+- Rinella ME, Neuschwander-Tetri BA, Siddiqui MS, et al. AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty liver disease. *Hepatology*. 2023;77(5):1797–1835.（🆕 FIB-4／VCTE 分層、減重目標、statin）
+- Rinella ME, Lazarus JV, Ratziu V, et al. A multisociety Delphi consensus statement on new fatty liver disease nomenclature. *Hepatology*. 2023;78(6):1966–1986.（🆕 MASLD、MetALD 定義）
+- Jophlin LL, Singal AK, Bataller R, et al. ACG Clinical Guideline: Alcohol-Associated Liver Disease. *Am J Gastroenterol*. 2024;119(1):30–54.（🆕 severe AH 的 MELD、steroid、pentoxifylline、AUD）
+- FDA. Rezdiffra（resmetirom）核准，2024 年 3 月；Wegovy（semaglutide）MASH 適應症加速核准，2025 年 8 月（ESSENCE 試驗）。

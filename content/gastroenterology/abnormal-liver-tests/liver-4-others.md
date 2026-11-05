@@ -16,7 +16,7 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **Pancreatic cancer**：**無痛性黃疸＋體重減輕＋ALP 為主**，extrahepatic obstruction 最常見的惡性原因；**先 US，看到 mass 做 pancreatic-protocol CT**。**Hemochromatosis**：先驗 **transferrin saturation（≥ 45%）＋ferritin**，異常再驗 **HFE**；治療 **phlebotomy**。**AIH**：**ANA＋SMA 合起來才 specific**，用評分表（≥ 7 分 definite）；**prednisone ± azathioprine**。**Acetaminophen**：**AST 可 > 10,000**，用 **Rumack-Matthew nomogram** 判斷 NAC；**==8 小時內給 NAC，肝毒性 < 5–10%==**。
+> **Pancreatic cancer**：**無痛性黃疸＋體重減輕＋ALP 為主**，extrahepatic obstruction 最常見的惡性原因；**先 US，看到 mass 做 pancreatic-protocol CT**。**Hemochromatosis**：先驗 **transferrin saturation（≥ 45%）＋ferritin**，異常再驗 **HFE**；治療 **phlebotomy**。**AIH**：**ANA＋SMA 合起來才 specific**，用評分表（≥ 7 分 definite）；**prednisolone＋azathioprine**（🆕 EASL 2025：MMF 可取代 azathioprine）。**Acetaminophen**：**AST 可 > 10,000**，用 **Rumack-Matthew nomogram** 判斷 NAC；**==8 小時內給 NAC，肝毒性 < 5–10%==**。
 
 > [!info] 系列導覽
 > ↑ 回到 [[gastroenterology/abnormal-liver-tests/index|肝功能異常與黃疸 總覽]]
@@ -83,8 +83,14 @@ tags:
 - **不可切除者的姑息治療**：
   1. **膽道引流（biliary diversion）**：經皮或手術
   2. 放療止痛
-  3. Gemcitabine：改善生活品質，但不延長存活
+  3. Gemcitabine：改善生活品質，但不延長存活（原書；已更新，見下方 🆕）
   4. **Median survival 6 個月**
+
+> [!info] 🆕 現行治療（FDA 2024；NAPOLI 3 試驗）
+> - 轉移性胰臟腺癌的第一線是**多藥合併化療**，會**延長存活**（不只是改善生活品質）：**FOLFIRINOX**、**gemcitabine＋nab-paclitaxel**，以及 **NALIRIFOX**（liposomal irinotecan＋oxaliplatin＋5-FU＋leucovorin，**2024 年 2 月 FDA 核准第一線**）
+> - NAPOLI 3：NALIRIFOX median OS **11.1 個月** vs gemcitabine＋nab-paclitaxel 9.2 個月（HR 0.84）
+> - Borderline resectable 傾向**先做術前化療再手術**（見 [[gastroenterology/abnormal-liver-tests/liver-exam|⑥ 內專考點]]）
+> - 阻塞性黃疸的姑息處置現在首選 **ERCP 放膽道支架**
 
 ---
 
@@ -152,6 +158,12 @@ flowchart TD
 
 **定期 phlebotomy** 降低鐵負荷，已證實能減少進展到 cirrhosis。
 
+> [!info] 🆕 新版指引（ACG 2019 Hereditary Hemochromatosis）
+> - **Transferrin saturation 或 ferritin 升高才做 HFE 基因檢測**；致病型態是 **C282Y homozygous**，C282Y／H63D compound heterozygous 較少造成明顯 iron overload
+> - **MRI 可估算肝臟鐵濃度**，**transient elastography（FibroScan）** 可找出 advanced fibrosis 或 cirrhosis 風險較高的人，**減少 liver biopsy**
+> - **Fatty liver 也會讓 ferritin 升高**
+> - **Phlebotomy 仍是治療基石**；**iron chelator 不是第一線**，只給無法耐受或 phlebotomy 無效的人
+
 ---
 
 ## Autoimmune hepatitis（AIH）
@@ -201,10 +213,16 @@ flowchart TD
 ### 治療
 
 1. **有活動性發炎的證據（transaminase 升高或組織學）都要治療**
-2. **Prednisone 單用，或 prednisone＋azathioprine** 誘導緩解（85% 有效）
+2. **Prednisone 單用，或 prednisone＋azathioprine** 誘導緩解（85% 有效）（原書；新版補充見下方 🆕）
 3. 很多人需要維持治療，**最常用 azathioprine**
 4. 第一線無效或不能耐受 → 其他免疫抑制劑
 5. Cirrhosis 與 decompensated end-stage liver disease → **肝移植效果通常很好**，但 AIH 可能在新肝復發
+
+> [!info] 🆕 新版指引（EASL 2025 Autoimmune Hepatitis CPG）
+> - **不再用自體抗體把 AIH 分成 type 1／type 2**；**liver biopsy 仍是診斷基石**，組織學改用 International AIH Pathology Group 的標準
+> - 第一線：**prednisolone＋azathioprine**；**==mycophenolate mofetil（MMF）可作為第一線取代 azathioprine==**（療效相當或更好、副作用較少；**有致畸性，生育年齡要小心**）
+> - **Budesonide 不再被 EASL 推薦**為誘導治療（安全性與療效疑慮；AASLD 2019 仍列為非 cirrhosis 者的選項）
+> - **完全生化反應（complete biochemical response）在 6–12 個月內評估**，而不是嚴格看 6 個月
 
 ---
 
@@ -277,6 +295,12 @@ flowchart LR
 | **NAC** | **確立的解毒劑**；關鍵是**在 ALT 上升前給**：**==8 小時內給 NAC，肝毒性 < 5–10%==**；**超過 10 小時風險升到 20–30%** |
 | 肝移植 | 進展到嚴重 acute liver disease 時可以救命 |
 
+> [!info] 🆕 新版共識（Management of Acetaminophen Poisoning in the US and Canada, 2023）
+> - **NAC 不是固定打 21 小時就停**：療程結束時重新評估，**以下全部符合才停**：acetaminophen < 10 mcg/mL、**INR < 2.0**、AST／ALT 正常或已從高峰下降 25–50%、病人臨床狀況好；否則繼續 NAC
+> - **Extended-release 製劑**：level 仍在上升時，**超過 4 小時也可給 activated charcoal**；4–12 小時的 level > 10 但低於治療線 → 4–6 小時後重驗
+> - **Repeated supratherapeutic ingestion（跨 > 24 小時）不能用 nomogram**：**acetaminophen > 20 mcg/mL 或 AST／ALT 異常就開始 NAC**
+> - 複雜病例會診 poison center 或毒物科
+
 ## 相關筆記
 
 - [[gastroenterology/abnormal-liver-tests/liver-1-approach|① 判讀架構]]
@@ -288,3 +312,7 @@ flowchart LR
 
 - Alexander J. I have a patient with jaundice or abnormal liver enzymes. How do I determine the cause? In: Stern SDC, Cifu AS, Altkorn D, eds. *Symptom to Diagnosis: An Evidence-Based Guide*. 4th ed. McGraw-Hill; 2020. Chapter 26（Alternative Diagnosis: Pancreatic Cancer；Hereditary Hemochromatosis；Autoimmune Hepatitis；Acetaminophen-Induced Hepatotoxicity；Figure 26-6；Table 26-7）。參考資料庫：`腸胃肝膽科/Abnormal liver profile.pdf`
 - 原書 Figure 26-6 引自 Rumack BH. Acetaminophen misconceptions. *Hepatology*. 2004;40(1):10–15.
+- Kowdley KV, Brown KE, Ahn J, Sundaram V. ACG Clinical Guideline: Hereditary Hemochromatosis. *Am J Gastroenterol*. 2019;114(8):1202–1218.（🆕）
+- European Association for the Study of the Liver. EASL Clinical Practice Guidelines on the management of autoimmune hepatitis. *J Hepatol*. 2025.（🆕）
+- Dart RC, Mullins ME, Matoushek T, et al. Management of Acetaminophen Poisoning in the US and Canada: A Consensus Statement. *JAMA Netw Open*. 2023;6(8):e2327739.（🆕）
+- FDA. Onivyde（irinotecan liposome）NALIRIFOX 第一線轉移性胰臟腺癌核准，2024 年 2 月 13 日（NAPOLI 3）。（🆕）

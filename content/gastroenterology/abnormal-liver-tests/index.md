@@ -16,7 +16,7 @@ cssclasses:
 ---
 
 > [!abstract] 一句話重點
-> 黃疸先問 **unconjugated 還是 conjugated**（茶色尿＝conjugated）；conjugated 再看**型態**：**hepatocellular（transaminase 為主）看升高程度**、**cholestatic（ALP 為主）做影像看膽管**。無症狀的 transaminase 輕度升高 → **先停酒停藥重驗**，持續異常再抽 PT、albumin、CBC、A／B／C 肝、iron studies。**PT（INR）是肝合成功能最好的指標**，每個 hepatitis 都要驗。
+> 黃疸先問 **unconjugated 還是 conjugated**（茶色尿＝conjugated）；conjugated 再看**型態**：**hepatocellular（transaminase 為主）看升高程度**、**cholestatic（ALP 為主）做影像看膽管**。無症狀的 transaminase 輕度升高 → **先停酒停藥重驗**，持續異常再抽 PT、albumin、CBC、A／B／C 肝、iron studies。🆕 **每個成人都要篩一次 HBV（三合一）與 HCV**；最常見的 **MASLD（舊稱 NAFLD）先用 FIB-4 分層 fibrosis**。**PT（INR）是肝合成功能最好的指標**，每個 hepatitis 都要驗。
 
 ## 🌳 臨床決策圖：肝功能異常的病人在眼前
 
@@ -32,7 +32,7 @@ cssclasses:
 <div class="bdt-ptitle"><span class="bdt-name">看型態：transaminase 為主還是 ALP 為主？</span><span class="bdt-sub">單獨 ALP 高 → 空腹重驗、驗 GGT 確認是肝來源</span></div>
 <div class="bdt-two">
 <div class="bdt-step r"><span class="bdt-lab">Hepatocellular：> 1000 U/L</span><br/>Acute viral hepatitis、<b>ischemic hepatitis</b>、drug／toxin（<b>acetaminophen</b>）、AIH、acute bile duct obstruction、acute Budd-Chiari</div>
-<div class="bdt-step a"><span class="bdt-lab">Hepatocellular：輕到中度</span><br/><b>ALD</b>（AST > ALT）、<b>NAFLD</b>（ALT > AST）、chronic HBV／HCV、藥物、AIH、hemochromatosis、Wilson（< 40 歲）、A1AT deficiency</div>
+<div class="bdt-step a"><span class="bdt-lab">Hepatocellular：輕到中度</span><br/><b>ALD</b>（AST > ALT）、<b>MASLD</b>（舊稱 NAFLD；ALT > AST）、chronic HBV／HCV、藥物、AIH、hemochromatosis、Wilson（< 40 歲）、A1AT deficiency</div>
 </div>
 <div class="bdt-two" style="margin-top:0.3rem">
 <div class="bdt-step r"><span class="bdt-lab">Cholestatic＋膽管擴張</span><br/><b>Extrahepatic obstruction</b>：stones、stricture、polyp、<b>pancreatic cancer</b>、cholangiocarcinoma、ampullary cancer、PSC</div>
@@ -46,15 +46,17 @@ cssclasses:
 <span class="bdt-arrow">↓ 仍異常</span>
 <span class="bdt-step a">② PT、albumin、CBC、<b>hepatitis A／B／C serologies</b>、<b>iron studies</b>（iron、TIBC、ferritin）</span>
 <span class="bdt-arrow">↓ 仍找不到</span>
-<span class="bdt-step b">③ ANA、SMA、ceruloplasmin、alpha-1-antitrypsin、TSH、celiac 抗體 → 都排除後才診斷 <b>NAFLD</b></span>
+<span class="bdt-step b">③ ANA、SMA、ceruloplasmin、alpha-1-antitrypsin、TSH、celiac 抗體；有代謝危險因子＋steatosis → <b>MASLD</b></span>
+<span class="bdt-arrow">↓ 🆕 MASLD 分層</span>
+<span class="bdt-step a">④ <b>FIB-4</b>：< 1.3 基層追蹤｜1.3–2.67 做 VCTE（< 8 kPa 低、> 12 kPa 高）｜> 2.67 轉介</span>
 </div>
-<div class="bdt-foot">單獨 AST 升高 → 想肝外：hemolysis、MI、劇烈運動、肌肉疾病</div>
+<div class="bdt-foot">單獨 AST 升高 → 想肝外：hemolysis、MI、劇烈運動、肌肉疾病｜🆕 不論肝指數，所有成人都篩一次 HBV（HBsAg、anti-HBs、anti-HBc）與 HCV（anti-HCV＋reflex RNA）</div>
 </div>
 <div class="bdt-legend"><span class="l-r">Must not miss／急性重症</span><span class="l-a">需要找原因</span><span class="l-g">第一步處置</span><span class="l-b">進一步檢查</span></div>
-<div class="bdt-note">依 Symptom to Diagnosis 第 26 章 Figure 26-2、26-7 內容自製；細節見各分篇</div>
+<div class="bdt-note">依 Symptom to Diagnosis 第 26 章 Figure 26-2、26-7 內容自製，🆕 部分依 AASLD 2023、CDC 2020／2023 更新；細節見各分篇</div>
 </div>
 
-本主題依 **Symptom to Diagnosis（4th ed）第 26 章**整理，分成 5 篇，再加上第 6 篇內專考點，點下方卡片進入各篇。
+本主題依 **Symptom to Diagnosis（4th ed）第 26 章**整理，分成 5 篇，再加上第 6 篇內專考點，點下方卡片進入各篇。原書被新版指引取代的地方都已更新，用 **🆕** 標出（MASLD 新定義與 FIB-4、ACG 2024 alcohol-associated hepatitis、CDC 成人全面篩檢 HBV／HCV、EASL 2025 HBV 與 AIH、2023 acetaminophen 共識、NALIRIFOX）。
 
 > [!tip] 原圖
 > 各分篇的 Table、Figure 下方都有「📷 原圖」區塊。原圖存在私人資料庫，只有設定過權杖的瀏覽器看得到。<a class="of-settings-link" href="javascript:void 0">🔑 原圖設定</a>
@@ -68,7 +70,7 @@ cssclasses:
 </a>
 <a class="af-card internal" href="/gastroenterology/abnormal-liver-tests/liver-2-ald-nafld">
 <div class="af-num">②</div>
-<div class="af-body"><div class="af-title">ALD 與 NAFLD</div><div class="af-desc">AST:ALT、alcoholic hepatitis 的 mDF／MELD 與 steroid；NAFLD 的次發原因、自然史、影像與 biopsy、治療</div><div class="af-cover">兩者比較表</div></div>
+<div class="af-body"><div class="af-title">ALD 與 MASLD</div><div class="af-desc">AST:ALT、🆕 severe AH 看 MELD、steroid 與 Lille；🆕 MASLD／MetALD 定義、FIB-4 分層、resmetirom 與 semaglutide</div><div class="af-cover">兩者比較表</div></div>
 </a>
 <a class="af-card internal" href="/gastroenterology/abnormal-liver-tests/liver-3-viral">
 <div class="af-num">③</div>

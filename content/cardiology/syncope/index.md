@@ -43,14 +43,14 @@ cssclasses:
 </div>
 <div class="bdt-two">
 <div class="bdt-step r"><span class="bdt-lab">Arrhythmia</span><br/><b>VT</b>（CAD、HF、long QT、Brugada）、WPW<br/><b>SSS</b>、<b>2°／3° AV block</b>、AF with slow response</div>
-<div class="bdt-step r"><span class="bdt-lab">Structural（obstruction）</span><br/><b>AS</b>、<b>HCM</b>、<b>PE</b>；少見 ACS、aortic dissection、myxoma</div>
+<div class="bdt-step r"><span class="bdt-lab">Structural（obstruction）</span><br/><b>AS</b>（🆕 ≥ 70 歲首選 TAVI）、<b>HCM</b>（🆕 arrhythmic syncope → 考慮 ICD）、<b>PE</b>；少見 ACS、aortic dissection、myxoma</div>
 </div>
 <div class="bdt-foot">仍不明 → syncope of unclear etiology：> 40 歲考慮 <b>CSM</b> 與 <b>ILR</b>；評估 PE；EPS；troponin；exertional 者做 exercise test</div>
 <div class="bdt-legend"><span class="l-r">Must not miss／住院</span><span class="l-a">需要找原因</span><span class="l-g">可臨床診斷</span></div>
 <div class="bdt-note">依 Symptom to Diagnosis 第 31 章 Figure 31-1～31-3 內容自製；細節見各分篇</div>
 </div>
 
-本主題依 **Symptom to Diagnosis（4th ed）第 31 章**整理，分成 7 篇，再加上第 8 篇內專考點，點下方卡片進入各篇。
+本主題依 **Symptom to Diagnosis（4th ed）第 31 章**整理，分成 7 篇，再加上第 8 篇內專考點，點下方卡片進入各篇。原書被新版指引取代的地方都已更新，用 **🆕** 標出（2024 AHA/ACC HCM、2020 ACC/AHA 與 2025 ESC/EACTS 瓣膜、2018 ACC/AHA/HRS 與 2021 ESC pacing）。
 
 ## 分篇筆記
 

@@ -128,7 +128,13 @@ flowchart TD
 | **Counterpressure maneuvers** | Hand grip、arm tensing、squatting、leg crossing，肌肉用力約 2 分鐘 → BP 上升，減少 syncope（ARR 19%、**NNT 5**） |
 | Midodrine | Alpha-agonist，可能有幫助；但**一天三次**、副作用（urinary retention）使順從性差 |
 | Fludrocortisone、beta-blockers | **未被證實有效** |
-| **Pacemaker** | 只給**嚴重、反覆、已記錄到 cardioinhibitory reflex** 的病人：有症狀 pause > 3 s，或無症狀 pause > 6 s 或 AV block，且其他治療無效（**NNT 3**） |
+| **Pacemaker** | 只給**嚴重、反覆、已記錄到 cardioinhibitory reflex** 的病人：有症狀 pause > 3 s，或無症狀 pause > 6 s 或 AV block，且其他治療無效（**NNT 3**）；🆕 見下方年齡條件 |
+
+> [!info] 🆕 新版指引（2021 ESC Pacing & CRT Guidelines）：reflex syncope 的 pacing
+> **Dual-chamber pacing** 用於 **==> 40 歲==**、**嚴重、無法預期、反覆發作**的 syncope，且符合任一：
+> - 自發性**有症狀 asystolic pause > 3 秒**，或**無症狀 pause > 6 秒**（sinus arrest 或 AV block）
+> - **Cardioinhibitory carotid sinus syndrome**
+> - **Tilt test 誘發 asystolic syncope**
 
 ## Situational syncope
 
@@ -165,7 +171,7 @@ Reflex syncope 的一種，發生在 **micturition、defecation、swallowing、c
 
 ### 治療
 
-AHA 與 ESC 認為：**cardioinhibitory CSS 且 CSM 時記錄到 asystole ≥ 3 秒**的 syncope 病人，**裝 pacemaker 是合理的**，可把 syncope 與跌倒從 38% 降到 9%。
+AHA 與 ESC 認為：**cardioinhibitory CSS 且 CSM 時記錄到 asystole ≥ 3 秒**的 syncope 病人，**裝 pacemaker 是合理的**，可把 syncope 與跌倒從 38% 降到 9%。🆕 2021 ESC 對 **> 40 歲、反覆無法預期 syncope 的 cardioinhibitory CSS** 建議 **dual-chamber pacing**（見上方 🆕）。
 
 ## 相關筆記
 
@@ -178,3 +184,4 @@ AHA 與 ESC 認為：**cardioinhibitory CSS 且 CSM 時記錄到 asystole ≥ 3 
 
 - Stern SDC. I have a patient with transient loss of consciousness. How do I determine the cause? In: Stern SDC, Cifu AS, Altkorn D, eds. *Symptom to Diagnosis: An Evidence-Based Guide*. 4th ed. McGraw-Hill; 2020. Chapter 31（Figure 31-4、31-5；Situational Syncope；Carotid Sinus Syndrome）。參考資料庫：`心臟科/syncope.pdf`
 - Brignole M, Moya A, de Lange FJ, et al. 2018 ESC Guidelines for the diagnosis and management of syncope. *Eur Heart J*. 2018;39(21):1883–1948.
+- Glikson M, Nielsen JC, Kronborg MB, et al. 2021 ESC Guidelines on cardiac pacing and cardiac resynchronization therapy. *Eur Heart J*. 2021;42(35):3427–3520.（🆕）

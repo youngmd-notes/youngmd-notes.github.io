@@ -25,7 +25,7 @@ tags:
 | --- | --- | --- | --- |
 | 1 | 56 歲女性，皮膚眼睛黃 2 週 | **茶色尿＋ALP 為主＋AST > ALT**；每天喝 2 杯到一瓶紅酒 | **Alcoholic hepatitis＋cirrhosis**（mDF > 32 → prednisolone） |
 | 2 | 24 歲研究生，女友說他眼睛黃 | **ALT 1835 > AST 1522**、愛吃生魚片與 ceviche | **Acute hepatitis A** |
-| 3 | 40 歲女性，健檢 transaminase 輕度異常 | **BMI 34、type 2 DM**；停酒停藥後仍異常 | **NAFLD** |
+| 3 | 40 歲女性，健檢 transaminase 輕度異常 | **BMI 34、type 2 DM**；停酒停藥後仍異常 | **NAFLD**（🆕 新名詞：MASLD） |
 
 ---
 
@@ -95,6 +95,11 @@ Extrahepatic obstruction 也要考慮，因為她可能**慢性肝病加上阻�
 | CBD stone | ❌ RULED OUT（US、CT） |
 
 **結果**：部分醫師此時就開始治療 alcoholic hepatitis，也有人會先確診並為了預後做 biopsy 確認有沒有 cirrhosis。她的 **biopsy 顯示 acute alcoholic hepatitis＋cirrhosis**；**mDF > 32 → prednisolone**，並建議戒酒。完成療程並持續戒酒，數週後 bilirubin 正常。
+
+> [!info] 🆕 依新版指引（ACG 2024）會怎麼做
+> - 嚴重度改看 **MELD（> 20 為 severe）**；給 **prednisolone 40 mg/day 共 28 天**前先排除感染與 GI bleeding
+> - **第 7 天算 Lille score，≥ 0.45 就停 steroid**
+> - 同時**治療 alcohol use disorder**（行為治療＋藥物），不只是「建議戒酒」
 
 ---
 
@@ -213,7 +218,12 @@ hepatocellular pattern、急性發作、沒有慢性肝病徵象 → viral hepat
 > [!important] 🔀 轉折點
 > 停酒停藥後仍異常、所有其他慢性肝病都排除後，**==NAFLD 才是遠比其他更可能的診斷==**。US 不是絕對必要，但可確認 steatosis。
 
-**結果**：US 顯示**肝臟腫大、diffuse fatty infiltration** → ✅ NAFLD。開始每週 4 次、每次 20 分鐘的走路，並減少份量；transaminase 幾個月內穩定；**1 年後減重 20 磅，transaminase 降到約 40**。
+**結果**：US 顯示**肝臟腫大、diffuse fatty infiltration** → ✅ NAFLD。
+
+> [!info] 🆕 依新版指引（AASLD 2023）會怎麼做
+> - 她有 steatosis＋BMI ≥ 25＋type 2 DM → 直接符合 **MASLD**（不必等到排除所有病因才命名，但其他慢性肝病仍要排除）
+> - 下一步用 **FIB-4** 分層 fibrosis：40 歲、AST 90、ALT 95、platelet 272 → FIB-4 ＝ (40 × 90) ÷ (272 × √95) ≈ **1.36**，落在 **1.3–2.67 的中間區** → 要再做 **VCTE（FibroScan）**；< 8 kPa 才能回基層追蹤
+> - DM 用藥可優先考慮 **GLP-1 RA**；**atorvastatin 應該恢復使用**開始每週 4 次、每次 20 分鐘的走路，並減少份量；transaminase 幾個月內穩定；**1 年後減重 20 磅，transaminase 降到約 40**。
 
 ---
 

@@ -16,7 +16,7 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 會造成 syncope 的 structural（obstructive）病因有 **HCM、AS、PE**，再加上少見的 ACS。**HCM 是年輕人與年輕運動員心血管死亡的第一名**，murmur **站起來（preload ↓）變大、squatting 或抬腿變小**；**AS 一旦出現 angina、syncope、dyspnea，不換瓣膜的話死亡率急升（syncope 50% 3 年）**，**懷疑 critical AS 不能做 stress test**；**PE 造成的 syncope 代表大量栓塞，25% 沒有其他症狀**，不明原因 syncope 要想到 PE。
+> 會造成 syncope 的 structural（obstructive）病因有 **HCM、AS、PE**，再加上少見的 ACS。**HCM 是年輕人與年輕運動員心血管死亡的第一名**，murmur **站起來（preload ↓）變大、squatting 或抬腿變小**；🆕 **近期疑似 arrhythmic syncope 是 ICD 的 major risk factor**，有症狀的 obstructive HCM 在 beta-blocker／CCB 之後可加 **mavacamten**，**多數人可以運動**（2024 AHA/ACC）。**AS 一旦出現 angina、syncope、dyspnea，不換瓣膜的話死亡率急升（syncope 50% 3 年）**，**懷疑 critical AS 不能做 stress test**；🆕 **≥ 70 歲首選 TAVI**、無症狀 severe AS 也可考慮早期介入（2025 ESC/EACTS）。**PE 造成的 syncope 代表大量栓塞，25% 沒有其他症狀**，不明原因 syncope 要想到 PE。
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/syncope/index|暈厥 Syncope 總覽]]
@@ -82,6 +82,16 @@ tags:
 
 **EPS 不建議用於常規 risk stratification**。
 
+> [!info] 🆕 新版指引（2024 AHA/ACC/AMSSM/HRS/PACES/SCMR HCM Guideline）：SCD 風險分層與 ICD
+> | 風險 | 項目 | ICD |
+> | --- | --- | --- |
+> | **Secondary prevention** | **Prior cardiac arrest 或 sustained VT** | **建議（Class 1）** |
+> | **Major risk factors（成人）** | ① 一等親或近親 **≤ 50 歲**因 HCM 猝死；② **massive LVH ≥ 30 mm**；③ **近期疑似 arrhythmic 的 syncope**；④ **LV apical aneurysm**（透壁 scar 或 LGE）；⑤ **LVEF < 50%** | **任一項 → 合理（Class 2a）** |
+> | 其他 marker | **Extensive LGE（≥ 15% LV mass）**、**NSVT** | 沒有 major risk factor 時可考慮（2b） |
+> | 沒有危險因子 | — | **不應放 ICD（Class 3: Harm）**；也**不可只為了運動而放 ICD** |
+>
+> 和原書的差別：家族史年齡放寬到 **≤ 50 歲**（原書 < 40 歲），並**新增 apical aneurysm 與 LVEF < 50%**；運動時血壓反應異常、LVOTO、LA 擴大不再列為 ICD 依據。
+
 ### Evidence-based diagnosis
 
 **Echocardiogram 是首選檢查**：
@@ -135,12 +145,27 @@ tags:
 
 **無症狀病人**：
 
-- **避免 dehydration 與劇烈運動**；低強度有氧運動可以
+- **避免 dehydration 與劇烈運動**；低強度有氧運動可以（原書；運動建議已更新，見下方 🆕）
 - Beta-blockers 與 CCB 在無症狀 HCM 的效果**未被證實**
 - **有 obstruction 者避免 vasodilators 與高劑量 diuretics**
 - **不要做 septal reduction**
 
+> [!info] 🆕 新版指引（2024 AHA/ACC HCM）：運動不再一律限制
+> - **輕到中度休閒運動：有益（Class 1）**
+> - **劇烈休閒運動：每年評估＋共同決策後合理（2a）**
+> - 競技運動：專家每年評估後可考慮（2b）
+> - **==一律禁止劇烈運動或競技：不建議（Class 3: No Benefit）==**
+> - 基因陽性但沒有表現型的人，任何強度的競技運動都合理（2a）
+
 **有症狀病人**：
+
+> [!info] 🆕 新版指引（2024 AHA/ACC HCM）：有症狀 obstructive HCM 的藥物順序
+> 1. **Nonvasodilating beta-blocker**，調到有效或最大耐受劑量（Class 1）
+> 2. 無效或不能耐受 → 改 **verapamil 或 diltiazem**（Class 1）
+> 3. 仍有症狀 → **加上其中一種**（Class 1）：**==cardiac myosin inhibitor（mavacamten；只限成人）==**、**disopyramide**（要合併 AV nodal blocker），或在有經驗的中心做 **septal reduction therapy**
+> - **Mavacamten：LVEF 持續 < 50% 要停藥**（LVEF 恢復可低劑量重新開始），需 echo 追蹤；**懷孕禁用**
+> - **Septal reduction 條件**：最佳藥物下仍有嚴重症狀（通常 NYHA III–IV 或 exertional syncope），**LVOT gradient ≥ 50 mmHg**（休息或誘發），septum 夠厚；**surgical myectomy 為 Class 1**，**alcohol septal ablation 用在開刀禁忌或風險太高時**
+> - 下表為原書的處置，順序與上面大致相同，但原書沒有 cardiac myosin inhibitor
 
 | 問題 | 處置 |
 | --- | --- |
@@ -151,14 +176,14 @@ tags:
 | HF with LVOTO | 同上 LVOTO 處理 |
 | **HFrEF（< 50%）** | ACEI（或 ARB）＋beta-blocker；仍喘可加低劑量 diuretics；考慮 MRA |
 | HFpEF | Beta-blocker 無效考慮 verapamil 或 diltiazem；症狀持續加低劑量 diuretics |
-| **AF** | 因 thromboembolism 風險高，**建議 anticoagulation** |
+| **AF** | 因 thromboembolism 風險高，**建議 anticoagulation**；🆕 **不論 CHA₂DS₂-VASc 分數**，**DOAC 第一線**、VKA 第二線（2024 AHA/ACC；單次 > 24 小時的 subclinical AF 也一樣） |
 
 **ICD**：
 
 1. **預防 HCM 猝死最有效的策略**
 2. 建議用於高風險病人：
    - **Prior cardiac arrest 或 hemodynamically significant spontaneous sustained VT → 建議 ICD**
-   - **合理**：一等親猝死家族史、**近期 unexplained syncope**、**massive LVH**；以及部分 **NSVT（≥ 120 bpm、≥ 3 跳）或運動時 BP 反應異常**且合併其他危險因子的人
+   - **合理**：一等親猝死家族史、**近期 unexplained syncope**、**massive LVH**；以及部分 **NSVT（≥ 120 bpm、≥ 3 跳）或運動時 BP 反應異常**且合併其他危險因子的人（原書；已更新，見上方 🆕 SCD 風險分層）
 3. ESC 有風險計算器，但一項大型分析顯示不夠敏感：「high risk」對 sudden death 的 sensitivity 只有 20%（specificity 93%、LR+ 2.6、LR− 0.9）；moderate risk 也只有 41%（LR− 0.8）
 4. 選病人很複雜、建議還在演變，**建議會診**
 
@@ -264,18 +289,32 @@ flowchart TD
 4. **機械矯正**：
    - 換瓣膜幾乎**完全依症狀決定**
    - **明確適應症**：**有症狀的 severe AS**；**exercise testing 誘發症狀**的 severe AS；**要做其他心臟手術**（如 CABG）的無症狀 severe AS；**EF < 50%** 的無症狀 severe AS
-   - 2014 AHA 另列「合理」適應症：低風險、**非常嚴重的無症狀 AS（velocity > 5 m/s 或 mean gradient > 60 mmHg）**
+   - 2014 AHA 另列「合理」適應症：低風險、**非常嚴重的無症狀 AS（velocity > 5 m/s 或 mean gradient > 60 mmHg）**（原書；已更新，見下方 🆕）
    - 術前通常做 angiography 判斷是否需要同時 CABG（CAD 症狀、CAD 危險因子包括 ≥ 40 歲男性與停經女性、或 EF 下降）
    - 三種選擇：**surgical mechanical valve**、**surgical bioprosthetic valve**、**TAVR（catheter-inserted bioprosthetic）**
 
 | 選擇 | 優點 | 缺點與用藥 |
 | --- | --- | --- |
-| **TAVR** | 不需開心；多經 femoral artery；對**中到高手術風險**的 symptomatic severe AS 是合理替代；perioperative MI、早期大出血、AKI、新發 AF 較少 | 耐久度未明；早期血管併發症、需要 pacemaker、paravalvular leak 較多；**DAPT 3–6 個月後終生 aspirin** |
+| **TAVR** | 不需開心；多經 femoral artery；對**中到高手術風險**的 symptomatic severe AS 是合理替代（原書；現在低風險也可，見下方 🆕）；perioperative MI、早期大出血、AKI、新發 AF 較少 | 耐久度未明；早期血管併發症、需要 pacemaker、paravalvular leak 較多；**DAPT 3–6 個月後終生 aspirin** |
 | **Mechanical valve** | 耐久度高、失敗與再換率低，**< 55 歲尤其重要** | Thromboembolism 風險 → **終生 VKA**；**==DOAC 不建議==**；warfarin 外加 aspirin 75–100 mg/day |
 | **Bioprosthetic valve** | 只需短期 VKA（置放後 3–6 個月） | 耐久度有限，通常留給 **> 65 歲**（不太需要第二次換瓣）；終生 aspirin 75–100 mg/day |
 | Balloon valvotomy | 姑息用 | 併發症率高（> 10%），效果短暫（6–12 個月）；用於有嚴重或致命共病者，或作為 TAVR、AVR 前的 bridge（血行不穩或需緊急非心臟手術） |
 
 5. **劇烈運動要避免**；中到重度 AS 的 **vasodilators（hydralazine、nitroglycerin、nifedipine）要避免或小心使用**
+
+> [!info] 🆕 新版指引：什麼時候換、用什麼換
+> **2020 ACC/AHA Valvular Heart Disease Guideline**
+> - Severe AS：**Vmax ≥ 4 m/s 或 mean gradient ≥ 40 mmHg**（AVA 通常 ≤ 1.0 cm²）
+> - **有症狀的 severe AS → AVR（Class 1）**；**無症狀但 LVEF < 50% → AVR（Class 1）**
+> - 無症狀、手術風險低時 **AVR 合理（2a）**：**Vmax ≥ 5 m/s**、**BNP > 3 倍正常值**、**Vmax 每年上升 ≥ 0.3 m/s**，或運動試驗出現 BP 下降、運動耐受度下降
+> - 選擇方式依年齡：**< 65 歲 → SAVR**；**65–80 歲 → SAVR 或 transfemoral TAVI，共同決策**；**> 80 歲 → transfemoral TAVI**
+>
+> **2025 ESC/EACTS Valvular Heart Disease Guidelines**（更新）
+> - **==≥ 70 歲、解剖適合 → TAVI（Class I A）==**（原本 ≥ 75 歲）；**< 70 歲且手術風險低 → SAVR（Class I A）**
+> - **無症狀 severe high-gradient AS、LVEF ≥ 50%、手術風險低 → 應考慮介入（Class IIa A）**，作為密切追蹤之外的選擇
+> - Bicuspid AV 且手術風險高 → 可考慮 TAVI（IIb）；機械瓣終生 VKA（I A），**DOAC 仍不可用**
+>
+> **EARLY TAVR 試驗（2024）**：901 位 > 65 歲、無症狀 severe AS，早期 TAVI vs 追蹤：死亡、中風或非預期心血管住院 **26.8% vs 45.3%（HR 0.50）**；**追蹤組 88% 最後還是換了瓣膜**（中位 11 個月）
 
 ---
 
@@ -324,3 +363,7 @@ flowchart TD
 ## 參考資料
 
 - Stern SDC. I have a patient with transient loss of consciousness. How do I determine the cause? In: Stern SDC, Cifu AS, Altkorn D, eds. *Symptom to Diagnosis: An Evidence-Based Guide*. 4th ed. McGraw-Hill; 2020. Chapter 31（Alternative Diagnosis: HCM；ACS & Syncope；PE；Aortic Stenosis；Figure 31-9）。參考資料庫：`心臟科/syncope.pdf`
+- Ommen SR, Ho CY, Asif IM, et al. 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy. *Circulation*. 2024;149(23):e1239–e1311.（🆕 SCD 風險、mavacamten、運動、AF 抗凝）
+- Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease. *Circulation*. 2021;143(5):e72–e227.（🆕）
+- Praz F, Borger MA, Lanz J, et al. 2025 ESC/EACTS Guidelines for the management of valvular heart disease. *Eur Heart J*. 2025;46:4635–4736.（🆕 TAVI ≥ 70 歲、無症狀 AS）
+- Généreux P, Schwartz A, Oldemeyer JB, et al. Transcatheter Aortic-Valve Replacement for Asymptomatic Severe Aortic Stenosis（EARLY TAVR）. *N Engl J Med*. 2025;392(3):217–227.（🆕）

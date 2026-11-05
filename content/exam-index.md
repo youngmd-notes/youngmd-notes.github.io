@@ -395,7 +395,7 @@ title: 內專考點總覽
 - [[cardiology/syncope/syncope-7-cases|⑦四個病例推理 Case-Based Reasoning]]（心臟科 Cardiology）
 - [[gastroenterology/abnormal-liver-tests/index|肝功能異常與黃疸 Jaundice & Abnormal Liver Tests]]（腸胃肝膽科 GI & Hepatology）
 - [[gastroenterology/abnormal-liver-tests/liver-1-approach|①判讀架構 Diagnostic Approach]]（腸胃肝膽科 GI & Hepatology）
-- [[gastroenterology/abnormal-liver-tests/liver-2-ald-nafld|②酒精性與非酒精性脂肪肝病 ALD & NAFLD]]（腸胃肝膽科 GI & Hepatology）
+- [[gastroenterology/abnormal-liver-tests/liver-2-ald-nafld|②酒精相關肝病與脂肪肝病 ALD & MASLD]]（腸胃肝膽科 GI & Hepatology）
 - [[gastroenterology/abnormal-liver-tests/liver-3-viral|③病毒性肝炎 Viral Hepatitis]]（腸胃肝膽科 GI & Hepatology）
 - [[gastroenterology/abnormal-liver-tests/liver-4-others|④其他重要病因 Other Important Causes]]（腸胃肝膽科 GI & Hepatology）
 - [[gastroenterology/abnormal-liver-tests/liver-5-cases|⑤三個病例推理 Case-Based Reasoning]]（腸胃肝膽科 GI & Hepatology）

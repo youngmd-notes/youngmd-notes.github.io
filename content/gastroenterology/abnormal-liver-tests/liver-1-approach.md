@@ -75,9 +75,9 @@ flowchart TD
 | --- | --- | --- |
 | **ALT、AST 正常** | — | **Sepsis** 或全身感染；**Rotor syndrome**；**Dubin-Johnson syndrome** |
 | Transaminase 升高比 ALP 多 | **Hepatocellular**（肝細胞損傷為主） | **明顯升高（> 1000 U/L）**：acute viral hepatitis、**ischemic hepatitis**、藥物或毒物、autoimmune hepatitis、**acute bile duct obstruction**、acute Budd-Chiari syndrome |
-| | | **輕到中度升高**（輕度＝< 5 倍 ULN，約 < 175–200 U/L）：ALD、藥物或毒物、chronic hepatitis B 或 C、NAFLD、autoimmune hepatitis、hemochromatosis、**Wilson disease（< 40 歲）**、alpha-1-antitrypsin deficiency |
+| | | **輕到中度升高**（輕度＝< 5 倍 ULN，約 < 175–200 U/L）：ALD、藥物或毒物、chronic hepatitis B 或 C、NAFLD（現稱 MASLD）、autoimmune hepatitis、hemochromatosis、**Wilson disease（< 40 歲）**、alpha-1-antitrypsin deficiency |
 | ALP 升高比 transaminase 多 | **Cholestatic**（膽道阻塞） | **Extrahepatic**（bile duct obstruction）：CBD stone、benign stricture、benign polyp、**malignancy（pancreatic cancer、cholangiocarcinoma、ampullary cancer）**、periportal adenopathy、PSC（肝內外都影響） |
-| | | **Intrahepatic**（主要是 excretion 受損）：hepatitis（viral、alcoholic）、intrahepatic cholestasis of pregnancy、cirrhosis、medications 與 toxins、sepsis、**TPN**、postoperative jaundice、infiltrative diseases（amyloidosis、lymphoma、sarcoidosis、TB）、PSC、**PBC** |
+| | | **Intrahepatic**（主要是 excretion 受損）：hepatitis（viral、alcoholic）、intrahepatic cholestasis of pregnancy、cirrhosis、medications 與 toxins、sepsis、**TPN**、postoperative jaundice、infiltrative diseases（amyloidosis、lymphoma、sarcoidosis、TB）、PSC、**PBC**（2015 年起改稱 **primary biliary cholangitis**，縮寫不變） |
 
 > [!warning] Pitfall
 > 這些肝指數**不太 specific**，從上面兩張表就看得出來不同病因的型態有很多重疊；它們是方向，不是診斷。
@@ -156,7 +156,7 @@ flowchart TD
     L --> D{"US 或 CT<br/>找 obstruction・infiltration"}
     D -->|"異常"| E["進一步影像或 biopsy"]
     D -->|"正常"| F{"Antimitochondrial antibody（AMA）"}
-    F -->|"陽性"| PBC["<b>PBC</b>"]
+    F -->|"陽性"| PBC["<b>PBC</b><br/>（primary biliary cholangitis）"]
     F -->|"陰性"| E2["進一步影像或 biopsy"]
     classDef key fill:#d64b4b26,stroke:#d64b4b,stroke-width:2px
     class PBC key
@@ -190,6 +190,15 @@ flowchart TD
 3. 停酒與停藥後仍持續異常，AGA 建議先驗：**PT、albumin、CBC、hepatitis A、B、C serologies、iron studies（serum iron、TIBC、ferritin）**
 4. 必要時再驗 ANA、SMA、ceruloplasmin、alpha-1-antitrypsin level 與 phenotype、TSH、celiac 抗體
 
+> [!info] 🆕 新版指引：B 肝、C 肝改成「每個成人都篩一次」（CDC 2020、2023）
+> 原書把 hepatitis serology 放在「肝指數異常才驗」；現在 **不論肝指數，每個成人都要篩**：
+> - **HCV（CDC 2020）**：**≥ 18 歲終生至少篩一次**、每次懷孕都篩；先驗 **anti-HCV，陽性自動加驗 HCV RNA（reflex）**；有持續風險者（IDU、hemodialysis）定期重驗
+> - **HBV（CDC 2023）**：**≥ 18 歲終生至少篩一次，用三合一：HBsAg、anti-HBs、total anti-HBc**；每次懷孕驗 HBsAg
+> - 所以肝指數異常的病人更不能漏驗；詳見 [[gastroenterology/abnormal-liver-tests/liver-3-viral|③ Viral hepatitis]]
+
+> [!info] 🆕 MASLD 的非侵入性分層
+> 輕度 transaminase 升高最常見的原因 MASLD（舊稱 NAFLD），現在先用 **FIB-4** 分層 fibrosis（< 1.3 低風險、> 2.67 高風險），中間再做 VCTE；見 [[gastroenterology/abnormal-liver-tests/liver-2-ald-nafld|② ALD 與 MASLD]]。
+
 ## 相關筆記
 
 - [[gastroenterology/abnormal-liver-tests/liver-2-ald-nafld|② ALD 與 NAFLD]]
@@ -200,3 +209,5 @@ flowchart TD
 ## 參考資料
 
 - Alexander J. I have a patient with jaundice or abnormal liver enzymes. How do I determine the cause? In: Stern SDC, Cifu AS, Altkorn D, eds. *Symptom to Diagnosis: An Evidence-Based Guide*. 4th ed. McGraw-Hill; 2020. Chapter 26（Figure 26-1、26-2、26-7；Table 26-1）。參考資料庫：`腸胃肝膽科/Abnormal liver profile.pdf`
+- Schillie S, Wester C, Osborne M, et al. CDC Recommendations for Hepatitis C Screening Among Adults — United States, 2020. *MMWR Recomm Rep*. 2020;69(2):1–17.（🆕）
+- Conners EE, Panagiotakopoulos L, Hofmeister MG, et al. Screening and Testing for Hepatitis B Virus Infection: CDC Recommendations — United States, 2023. *MMWR Recomm Rep*. 2023;72(1):1–25.（🆕）

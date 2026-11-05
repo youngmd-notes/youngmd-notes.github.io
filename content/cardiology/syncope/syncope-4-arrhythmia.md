@@ -262,11 +262,19 @@ AV node、His bundle 或 bundle branches 的傳導異常，可以是**間歇或�
 2. 治療 ischemia
 3. 矯正電解質
 4. 緊急時 **atropine** 可能有幫助
-5. **Pacemaker**（2012 ACCF/AHA 指引；常見適應症）：
+5. **Pacemaker**（2012 ACCF/AHA 指引；常見適應症；新版補充見下方 🆕）：
    - **Third-degree AV block**
    - Advanced second-degree AV block 合併：症狀、推測由 AV block 引起的 ventricular arrhythmia、asystole ≥ 3 s 或 escape rate < 40 bpm、AF 合併 pause ≥ 5 s
    - **有症狀**的 second-degree AV block（不論哪一型）
    - **Unexplained syncope＋chronic bifascicular block**（尤其 EPS 顯示 **HV interval ≥ 70 ms**）
+
+> [!info] 🆕 新版指引（2018 ACC/AHA/HRS Bradycardia Guideline；2021 ESC Pacing & CRT Guidelines）
+> - **Syncope＋bifascicular block**：非侵入性評估後仍不明 → **做 EPS**；**==HV interval ≥ 70 ms==**、incremental atrial pacing 誘發 2°／3° intra- 或 infra-Hisian block，或藥物激發異常 → **pacemaker**
+> - **Alternating bundle branch block**：不論有無症狀都要 **pacing**
+> - **無症狀**的 bifascicular block（± 1° AV block）進展到 complete heart block 的機率低，**不建議預防性 pacing**
+> - **Acquired 3° 或 high-grade AV block、Mobitz II（非可逆原因）→ permanent pacemaker**，不論症狀；先排除可逆原因（藥物、hyperkalemia、inferior MI、Lyme 等）
+> - TAVI 後的 AV block 持續 24–48 小時以上 → permanent pacemaker
+> - **Conduction system pacing**（His bundle、left bundle branch area pacing）是新興選擇，仍待隨機試驗
 
 ---
 
@@ -323,3 +331,5 @@ AV node、His bundle 或 bundle branches 的傳導異常，可以是**間歇或�
 
 - Stern SDC. I have a patient with transient loss of consciousness. How do I determine the cause? In: Stern SDC, Cifu AS, Altkorn D, eds. *Symptom to Diagnosis: An Evidence-Based Guide*. 4th ed. McGraw-Hill; 2020. Chapter 31（Leading Hypothesis: Cardiac Syncope；Revised Leading Hypothesis: VT；Bradycardia from SSS；Bradycardia due to AV Heart Block；WPW Syndrome；Table 31-3、31-5）。參考資料庫：`心臟科/syncope.pdf`
 - Page RL, Joglar JA, Caldwell MA, et al. 2015 ACC/AHA/HRS guideline for the management of adult patients with supraventricular tachycardia. *Circulation*. 2016;133(14):e506–e574.（pre-excited AF 的考點延伸）
+- Kusumoto FM, Schoenfeld MH, Barrett C, et al. 2018 ACC/AHA/HRS Guideline on the Evaluation and Management of Patients With Bradycardia and Cardiac Conduction Delay. *Circulation*. 2019;140(8):e382–e482.（🆕）
+- Glikson M, Nielsen JC, Kronborg MB, et al. 2021 ESC Guidelines on cardiac pacing and cardiac resynchronization therapy. *Eur Heart J*. 2021;42(35):3427–3520.（🆕）

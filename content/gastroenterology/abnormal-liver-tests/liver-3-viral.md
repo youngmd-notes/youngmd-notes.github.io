@@ -15,7 +15,7 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> Acute viral hepatitis：**transaminase 常 > 1000 U/L、ALT > AST**。診斷靠抗體：**HAV 看 IgM anti-HAV**；**acute HBV 看 HBsAg＋IgM anti-HBc**（IgM anti-HBc 是 **window period 唯一的標記**）；**HCV 先驗 anti-HCV，陽性再驗 HCV RNA**——**anti-HCV 不代表痊癒，也沒有保護力**。即使 exposure 指向 A 肝，**三種病毒通常都要驗**；所有 hepatitis 都要驗 **INR**，並排除 **HIV**（B 肝另排除 **HDV**）。
+> Acute viral hepatitis：**transaminase 常 > 1000 U/L、ALT > AST**。診斷靠抗體：**HAV 看 IgM anti-HAV**；**acute HBV 看 HBsAg＋IgM anti-HBc**（IgM anti-HBc 是 **window period 唯一的標記**）；**HCV 先驗 anti-HCV，陽性再驗 HCV RNA**——**anti-HCV 不代表痊癒，也沒有保護力**。即使 exposure 指向 A 肝，**三種病毒通常都要驗**；所有 hepatitis 都要驗 **INR**，並排除 **HIV**（B 肝另排除 **HDV**）。🆕 **每個成人都要篩一次 HBV（三合一）與 HCV（anti-HCV＋reflex RNA）**，不再只篩高風險族群。
 
 > [!info] 系列導覽
 > ↑ 回到 [[gastroenterology/abnormal-liver-tests/index|肝功能異常與黃疸 總覽]]
@@ -54,8 +54,16 @@ tags:
 - **Preexposure：疫苗**；90% 在 4 週內、100% 在 26 週內產生免疫；6–12 個月後第二劑提供持久免疫
 - **Postexposure**：
   - **12 個月–40 歲的健康人：只建議疫苗**（仍可考慮 immune globulin）
-  - **< 12 個月、> 40 歲或任何年齡的 immunocompromised（如慢性肝病）：要給 immune globulin**
+  - **< 12 個月、> 40 歲或任何年齡的 immunocompromised（如慢性肝病）：要給 immune globulin**（原書；已更新，見下方 🆕）
   - 暴露後 2 週內給 immune globulin 有 69–89% 預防效果；隨機試驗中疫苗與 immune globulin 效果相當（4.4% vs 3.3%）
+
+> [!info] 🆕 新版指引（ACIP 2020）：暴露後預防，2 週內給
+> | 對象 | 處置 |
+> | --- | --- |
+> | **≥ 12 個月、健康** | **HepA vaccine** |
+> | **> 40 歲** | **Vaccine**；**依臨床風險評估可再加 IG**（不再是一律要給） |
+> | **Immunocompromised（含 HIV）、chronic liver disease**（未曾接種） | **IG＋vaccine** |
+> | **< 12 個月嬰兒** | **IG** |
 
 ### Evidence-based diagnosis
 
@@ -212,6 +220,18 @@ tags:
 | **Reactivation** | 陰性（或回到陽性） | 再上升 | 再 flare | Active → fibrosis → cirrhosis | 20–30% **回到 HBeAg 陽性或變成 HBeAg-negative chronic hepatitis** |
 | Occult HBV infection | 陰性 | 很低 | 正常 | Minimal | HBsAg 可能測不到 |
 
+> [!info] 🆕 新版名詞（EASL 2025 HBV CPG）
+> 依 **HBeAg 與有沒有肝炎（ALT、fibrosis）**命名，取代舊說法：
+>
+> | 舊稱（原書） | 新名詞 |
+> | --- | --- |
+> | Immune tolerant | **HBeAg-positive chronic infection** |
+> | Immune clearance（HBeAg 陽性） | **HBeAg-positive chronic hepatitis** |
+> | Inactive carrier（low replicative） | **HBeAg-negative chronic infection** |
+> | Reactivation（HBeAg 陰性） | **HBeAg-negative chronic hepatitis** |
+>
+> 不再使用「grey zone」「intermediate phase」；**functional cure＝持續 HBsAg 消失、HBV DNA < 10 IU/mL**。
+
 > [!tip] Pearl
 > 年輕、**HBeAg 陽性、DNA 很高但 ALT 正常或只輕度升高** → 典型 **immune tolerant phase**，通常定期追蹤即可（見 [[gastroenterology/abnormal-liver-tests/liver-exam|⑥ 108-047]]）。
 
@@ -219,7 +239,13 @@ tags:
 
 1. USPSTF 建議篩檢 **hepatitis B 高風險者**
 2. 高風險：合併 **HIV 和／或 hepatitis C**、**IDU**、**chronic HBV 的家人與性伴侶**、MSM、**healthcare workers**、**hemodialysis**、受刑人
-3. **高風險但篩檢陰性者要打疫苗**
+3. **高風險但篩檢陰性者要打疫苗**（原書 USPSTF 風險篩檢；已更新，見下方 🆕）
+
+> [!info] 🆕 新版指引（CDC 2023）：成人全面篩檢
+> - **所有 ≥ 18 歲成人，終生至少篩一次**
+> - 用**三合一（triple panel）：HBsAg、anti-HBs、total anti-HBc**：一次就能分出現在感染、過去感染、疫苗免疫、從未感染（要打疫苗）
+> - **每次懷孕都驗 HBsAg**（最好第一孕期）
+> - 有持續風險、仍是 susceptible 的人定期重驗
 
 ### Table 26-4：Hepatitis B 血清學判讀
 
@@ -239,6 +265,16 @@ tags:
 1. 目標：**壓制 viral DNA**、**HBeAg seroconversion**、停止或減少肝臟發炎與壞死、**預防進展到 cirrhosis**
 2. 藥物：**nucleos(t)ide analogs（entecavir、tenofovir）** 與 pegylated interferon alfa；**多數情況 nucleos(t)ide analogs 是第一線**
 3. **==每 6 個月用超音波篩檢 HCC==**
+
+> [!info] 🆕 新版指引（EASL 2025 HBV CPG）：誰要治療
+> - **HBV DNA > 2,000 IU/mL＋ALT 升高和／或明顯 fibrosis**（不論 HBeAg）→ 治療
+> - **Cirrhosis：只要測得到 HBV DNA 就治療**（不看病毒量與 ALT）
+> - Advanced fibrosis（F3 以上或 LSM > 8 kPa）且測得到 DNA → 可治療
+> - **HBeAg 陽性、< 30 歲、ALT 正常、無明顯 fibrosis、無 HCC 家族史、無免疫抑制** → 目前不支持立即治療（追蹤）
+> - **HCC 家族史**在各階段都是危險因子，要更積極處理；有肝外表現 → 治療
+> - **懷孕且 HBV DNA > 200,000 IU/mL → 治療**，預防母子垂直傳染
+> - 藥物：**entecavir、tenofovir disoproxil（TDF）或 tenofovir alafenamide（TAF）**；TDF 有腎與骨毒性，用 TDF／TAF 前先驗 HIV
+> - **==所有 HBsAg 陽性者至少篩一次 HDV==**（anti-HDV，陽性再驗 HDV RNA）
 
 ---
 
@@ -282,8 +318,13 @@ tags:
 
 **篩檢**：
 
-1. CDC 與 USPSTF：**1945–1965 年出生者一次性篩檢**＋依危險因子篩檢
+1. CDC 與 USPSTF：**1945–1965 年出生者一次性篩檢**＋依危險因子篩檢（原書；已更新，見下方 🆕）
 2. 危險因子：IDU 病史；**1992 年前接受血品**；長期 hemodialysis；接觸已知 HCV 陽性血液（healthcare workers 的 needlestick 或黏膜暴露）；**HIV**；HCV 陽性母親的孩子；多重性伴侶或 STI 病史
+
+> [!info] 🆕 新版指引（CDC 2020；USPSTF 2020）：成人全面篩檢
+> - **所有 ≥ 18 歲成人終生至少篩一次**（USPSTF 為 18–79 歲）；**每次懷孕都篩**
+> - 有危險因子者不論年齡都篩；**持續有風險（IDU、hemodialysis）者定期重驗**
+> - 檢驗順序：**anti-HCV → 陽性在同一檢體自動加驗 HCV RNA（reflex testing）**
 
 ### Evidence-based diagnosis
 
@@ -322,8 +363,13 @@ tags:
 ### 治療
 
 1. 目標：預防 cirrhosis 與併發症、減少肝外表現、減少傳染
-2. **Sustained virologic response（SVR）**：治療結束 6 個月後測不到 HCV RNA
+2. **Sustained virologic response（SVR）**：治療結束 6 個月後測不到 HCV RNA（原書；已更新，見下方 🆕）
 3. **Direct-acting antivirals（如 ledipasvir／sofosbuvir）** 帶來革命性改變，已取代 pegylated interferon＋ribavirin
+
+> [!info] 🆕 現行治療（AASLD-IDSA HCV Guidance）
+> - **Pangenotypic DAA** 是主流，治療前多半不必驗 genotype：**sofosbuvir／velpatasvir 12 週**或 **glecaprevir／pibrentasvir 8 週**（未治療過、無 cirrhosis 的簡化療程）；SVR 定義改為**治療結束 12 週**測不到 HCV RNA（SVR12），治癒率 > 95%
+> - **治療前先驗 HBsAg（與 anti-HBc）**：DAA 治療中 **HBV 可能再活化**
+> - **只要測得到 HCV RNA 就應治療**；**anti-HCV 沒有保護力**，治癒後仍可能再感染
 
 > [!warning] Pitfall
 > - **==Anti-HCV 沒有保護力==**：治癒後仍可再感染；anti-HCV 會在血中存在多年
@@ -339,3 +385,8 @@ tags:
 
 - Alexander J. I have a patient with jaundice or abnormal liver enzymes. How do I determine the cause? In: Stern SDC, Cifu AS, Altkorn D, eds. *Symptom to Diagnosis: An Evidence-Based Guide*. 4th ed. McGraw-Hill; 2020. Chapter 26（Leading Hypothesis: Hepatitis A；Acute Hepatitis B；Chronic Hepatitis B；Hepatitis C；Figure 26-3～26-5；Table 26-4、26-5）。參考資料庫：`腸胃肝膽科/Abnormal liver profile.pdf`
 - 原書 Figure 26-3、26-4 引自 Harrison's Principles of Internal Medicine, 18th ed（2011）；Figure 26-5 引自 Trépo C, Chan HL, Lok A. Hepatitis B virus infection. *Lancet*. 2014;384(9959):2053–2063.
+- Nelson NP, Weng MK, Hofmeister MG, et al. Prevention of Hepatitis A Virus Infection in the United States: Recommendations of the ACIP, 2020. *MMWR Recomm Rep*. 2020;69(5):1–38.（🆕 暴露後預防）
+- Conners EE, Panagiotakopoulos L, Hofmeister MG, et al. Screening and Testing for Hepatitis B Virus Infection: CDC Recommendations — United States, 2023. *MMWR Recomm Rep*. 2023;72(1):1–25.（🆕）
+- European Association for the Study of the Liver. EASL Clinical Practice Guidelines on the management of hepatitis B virus infection. *J Hepatol*. 2025. doi:10.1016/j.jhep.2025.03.018（🆕 名詞、治療適應症、HDV 篩檢）
+- Schillie S, Wester C, Osborne M, et al. CDC Recommendations for Hepatitis C Screening Among Adults — United States, 2020. *MMWR Recomm Rep*. 2020;69(2):1–17.（🆕）
+- AASLD-IDSA. HCV Guidance: Recommendations for Testing, Managing, and Treating Hepatitis C. hcvguidelines.org（🆕 DAA 簡化療程）
