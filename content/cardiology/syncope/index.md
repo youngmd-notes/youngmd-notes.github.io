@@ -52,6 +52,9 @@ cssclasses:
 
 本主題依 **Symptom to Diagnosis（4th ed）第 31 章**整理，分成 7 篇，再加上第 8 篇內專考點，點下方卡片進入各篇。原書被新版指引取代的地方都已更新，用 **🆕** 標出（2024 AHA/ACC HCM、2020 ACC/AHA 與 2025 ESC/EACTS 瓣膜、2018 ACC/AHA/HRS 與 2021 ESC pacing）。
 
+> [!info] 另見
+> 2018 ESC 暈厥指引的 Table 與 Figure 另外整理成獨立主題：[[cardiology/syncope-esc-2018/index|暈厥 2018 ESC 指引]]。
+
 ## 分篇筆記
 
 <div class="af-cards">

@@ -81,7 +81,7 @@ function render(box: HTMLElement) {
   const folder = paths[0]?.split("/")[1] ?? ""
   const source =
     box.dataset.source ??
-    ({ "af-originals": "2024 ESC 指引", "tg18-originals": "Tokyo Guidelines 2018", "jpn2015-originals": "JPN 2015 指引", "liver-originals": "Symptom to Diagnosis Ch 26", "airway-originals": "緊急呼吸道處置的觀念更新" } as Record<string, string>)[folder] ??
+    ({ "af-originals": "2024 ESC 指引", "tg18-originals": "Tokyo Guidelines 2018", "jpn2015-originals": "JPN 2015 指引", "liver-originals": "Symptom to Diagnosis Ch 26", "airway-originals": "緊急呼吸道處置的觀念更新", "syncope-esc-originals": "2018 ESC 暈厥指引" } as Record<string, string>)[folder] ??
     ""
   head.innerHTML = `<span class="of-title">📷 原圖：${label}${source ? `<span class="of-src">（${source}）</span>` : ""}</span>`
   box.appendChild(head)
