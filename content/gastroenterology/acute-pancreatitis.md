@@ -371,6 +371,7 @@ flowchart TB
 
 - [[gastroenterology/acute-biliary-infection/index|急性膽道感染 TG18 總覽]]：gallstone AP 合併 cholangitis 時的嚴重度與引流
 - [[gastroenterology/acute-biliary-infection/tg18-3-cholangitis|③ Cholangitis 處置與膽道引流]]
+- [[gastroenterology/abnormal-liver-tests/liver-4-others|肝功能異常④：Pancreatic cancer]]：無痛性黃疸與胰臟腫瘤的影像選擇
 - [[nephrology/calcium-phosphate-disorders|鈣磷鎂異常]]：hypercalcemia 是 AP 病因；AP 會造成 hypocalcemia（JSS 的 Ca ≤ 7.5 mg/dL）
 - [[endocrinology/dka-hhs|DKA 與 HHS]]：AP 是 DKA 誘因之一；DKA 腹痛要和 AP 鑑別
 

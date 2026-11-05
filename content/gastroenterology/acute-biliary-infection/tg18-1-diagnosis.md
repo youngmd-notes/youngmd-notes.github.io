@@ -176,6 +176,7 @@ Charcot's triad（fever、RUQ pain、jaundice）**specificity 很高**，出現�
 ## 相關筆記
 
 - [[gastroenterology/acute-biliary-infection/tg18-2-initial-management|② 初始處置與 bundle]]
+- [[gastroenterology/abnormal-liver-tests/liver-1-approach|肝功能異常判讀架構]]：TG18 診斷用的 cholestasis（ALP、GGT、bilirubin）怎麼判讀
 - [[gastroenterology/acute-biliary-infection/tg18-3-cholangitis|③ Cholangitis 處置與膽道引流]]
 - [[gastroenterology/acute-biliary-infection/tg18-4-cholecystitis|④ Cholecystitis 處置與膽囊引流]]
 

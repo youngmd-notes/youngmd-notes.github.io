@@ -6,15 +6,18 @@ title: 內專考點總覽
 > 這頁會**自動彙整**所有筆記裡的「🎯 內專考點」，每次網站更新時重新產生，不需要手動編輯。
 > 「考過次數」把重複出現的同一題分開計算（例如 106-132／108-94 算 2 次），越多次代表越常考。
 
-目前共整理 **106 次考題**，分布在 **10 篇筆記、46 個考點**。
+目前共整理 **133 次考題**，分布在 **11 篇筆記、52 個考點**。
 
 ## 最常考的考點
 
 | 考點 | 筆記 | 考過次數 | 年份 |
 | --- | --- | --- | --- |
+| [[gastroenterology/abnormal-liver-tests/liver-exam#病毒性肝炎的血清學\|病毒性肝炎的血清學]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 10 | 105、106、108、109、112、113、114 |
 | [[cardiology/syncope/syncope-exam#AS 與動態聽診\|AS 與動態聽診]] | [[cardiology/syncope/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 6 | 104、107、108、114 |
+| [[gastroenterology/abnormal-liver-tests/liver-exam#ALD、NAFLD／MASLD\|ALD、NAFLD／MASLD]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 6 | 108、110、111、113、114 |
 | [[cardiology/atrial-fibrillation/af-exam#抗凝的原則：不能用 aspirin、不看 AF 類型\|抗凝的原則：不能用 aspirin、不看 AF 類型]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 6 | 105、106、109、110、111、113 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#有症狀膽結石與膽囊疾病\|有症狀膽結石與膽囊疾病]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 5 | 105、107、113、114 |
+| [[gastroenterology/abnormal-liver-tests/liver-exam#肝指數型態判讀\|肝指數型態判讀]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 5 | 105、109、110、113 |
 | [[endocrinology/dka-hhs#初始輸液\|初始輸液]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 5 | 104、105、106、107、108 |
 | [[cardiology/atrial-fibrillation/af-exam#中風風險評估：CHA₂DS₂-VASc\|中風風險評估：CHA₂DS₂-VASc]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 104、105、114 |
 | [[cardiology/atrial-fibrillation/af-exam#抗凝中出血、中風或要做處置\|抗凝中出血、中風或要做處置]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 104、108、112、114 |
@@ -27,6 +30,7 @@ title: 內專考點總覽
 | [[gastroenterology/acute-biliary-infection/tg18-exam#膽管擴張：CBD stone 還是其他？\|膽管擴張：CBD stone 還是其他？]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 109、110、113 |
 | [[endocrinology/dka-hhs#SGLT2 inhibitor\|SGLT2 inhibitor]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 3 | 108、109、113 |
 | [[endocrinology/dka-hhs#酸鹼與電解質\|酸鹼與電解質]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 3 | 110、112 |
+| [[gastroenterology/abnormal-liver-tests/liver-exam#藥物性肝損傷（DILI）與 liver biopsy\|藥物性肝損傷（DILI）與 liver biopsy]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 104、111 |
 | [[nephrology/renal-tubular-acidosis#Type 4 RTA：糖尿病\|Type 4 RTA：糖尿病]] | [[nephrology/renal-tubular-acidosis#🎯 內專考點\|腎小管酸中毒 Renal Tubular Acidosis]] | 3 | 104、106、109 |
 | [[cardiology/atrial-fibrillation/af-exam#DOAC 的機轉與解毒劑\|DOAC 的機轉與解毒劑]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 105、107、109 |
 | [[cardiology/syncope/syncope-exam#HCM：猝死危險因子\|HCM：猝死危險因子]] | [[cardiology/syncope/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 3 | 104、108、109 |
@@ -39,6 +43,7 @@ title: 內專考點總覽
 | [[cardiology/syncope/syncope-exam#Brugada syndrome\|Brugada syndrome]] | [[cardiology/syncope/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 2 | 105、111 |
 | [[cardiology/syncope/syncope-exam#WPW\|WPW]] | [[cardiology/syncope/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 2 | 106、111 |
 | [[cardiology/atrial-fibrillation/af-exam#Cardioversion 前後的抗凝\|Cardioversion 前後的抗凝]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 107、109 |
+| [[gastroenterology/abnormal-liver-tests/liver-exam#Hyperbilirubinemia 與 Gilbert\|Hyperbilirubinemia 與 Gilbert]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 107、108 |
 | [[pulmonology/emergent-airway-management#HFNC 的生理效應\|HFNC 的生理效應]] | [[pulmonology/emergent-airway-management#🎯 內專考點\|緊急呼吸道處置 Emergent Airway Management]] | 1 | 114 |
 | [[nephrology/calcium-phosphate-disorders#低血鈣\|低血鈣]] | [[nephrology/calcium-phosphate-disorders#🎯 內專考點\|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]] | 1 | 113 |
 | [[nephrology/hemodialysis-emergencies#透析中低血壓\|透析中低血壓]] | [[nephrology/hemodialysis-emergencies#🎯 內專考點\|血液透析急症 Hemodialysis Emergencies]] | 1 | 111 |
@@ -57,6 +62,7 @@ title: 內專考點總覽
 | [[gastroenterology/acute-biliary-infection/tg18-exam#Cholangitis：引流＋抗生素\|Cholangitis：引流＋抗生素]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 1 | 107 |
 | [[nephrology/high-anion-gap-metabolic-acidosis#Toxic alcohol 與 osmolal gap\|Toxic alcohol 與 osmolal gap]] | [[nephrology/high-anion-gap-metabolic-acidosis#🎯 內專考點\|高陰離子間隙代謝性酸中毒 High Anion Gap Metabolic Acidosis]] | 1 | 106 |
 | [[cardiology/syncope/syncope-exam#Syncope vs seizure 的病史鑑別\|Syncope vs seizure 的病史鑑別]] | [[cardiology/syncope/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 1 | 106 |
+| [[gastroenterology/abnormal-liver-tests/liver-exam#胰臟癌造成的阻塞性黃疸\|胰臟癌造成的阻塞性黃疸]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 1 | 106 |
 | [[nephrology/skin-disorders-in-kidney-disease#血管鈣化與 calciphylaxis 的藥物\|血管鈣化與 calciphylaxis 的藥物]] | [[nephrology/skin-disorders-in-kidney-disease#🎯 內專考點\|腎臟病的皮膚疾病 Skin Disorders in Kidney Disease]] | 1 | 104 |
 
 ## 腎臟科 Nephrology
@@ -264,6 +270,53 @@ title: 內專考點總覽
 
 ### ⑥內專考點 Board Exam Review
 
+**[[gastroenterology/abnormal-liver-tests/liver-exam#肝指數型態判讀|肝指數型態判讀]]**（5 次）
+
+- 105-060｜皮膚癢、ALP 700、GGT 500：何者正確？
+- 109-045｜AST 70、ALT 與 ALP 正常：哪一個不能解釋？
+- 110-039｜茶色尿＋右上腹痛、direct bilirubin 為主：何者錯誤？
+- 113-046｜無痛性黃疸、肝內外膽管都擴張、膽囊有結石：最符合？
+- 110-040｜ALP 650、GGT 790，HBsAg（＋）DNA 500、anti-HCV（＋）RNA 測不到：何者正確？
+
+**[[gastroenterology/abnormal-liver-tests/liver-exam#Hyperbilirubinemia 與 Gilbert|Hyperbilirubinemia 與 Gilbert]]**（2 次）
+
+- 107-064｜Gilbert syndrome 何者錯誤？
+- 108-054｜Hyperbilirubinemia 六句敘述，哪些錯？
+
+**[[gastroenterology/abnormal-liver-tests/liver-exam#病毒性肝炎的血清學|病毒性肝炎的血清學]]**（10 次）
+
+- 106-049｜急性肝炎病因與確認檢驗的配對，哪些正確？
+- 109-055｜倦怠噁心 5 天、ALT 300：何者錯誤？
+- 112-042｜吃莓果後擔心 A 肝：IgM anti-HAV（−）IgG（＋）、HBsAg（＋）、anti-HCV（＋）
+- 105-063｜HBsAg（−）、anti-HBs（−）、anti-HBc（＋）、anti-HCV（＋）：哪些正確？
+- 106-063｜已知 B 肝帶原、急性肝炎但 HBV DNA 測不到：最可能？
+- 108-047｜20 歲 HBeAg（＋）、ALT 只輕度升高：怎麼處理？
+- 114-038｜B 肝帶原者六句敘述，哪些正確？
+- 106-047｜C 型肝炎七句敘述，哪些正確？
+- 113-038｜C 型肝炎何者錯誤？
+- 114-042｜C 型肝炎何者錯誤？（anti-HCV 與再感染）
+
+**[[gastroenterology/abnormal-liver-tests/liver-exam#ALD、NAFLD／MASLD|ALD、NAFLD／MASLD]]**（6 次）
+
+- 113-037｜每天 8 瓶啤酒、黃疸、發燒、asterixis：最迫切的處理？
+- 111-053｜BMI 37、DM、HTN、高血脂、轉胺酶輕度升高：最適當治療？
+- 113-040｜肥胖、脂肪肝、ANA 1:160：何者錯誤？
+- 114-037｜MASLD 何者錯誤？
+- 110-044｜NAFLD 何者錯誤？
+- 108-050｜單純脂肪肝進展到 NASH 的危險因子，何者不是？
+
+**[[gastroenterology/abnormal-liver-tests/liver-exam#藥物性肝損傷（DILI）與 liver biopsy|藥物性肝損傷（DILI）與 liver biopsy]]**（3 次）
+
+- 104-052｜哪些藥物屬 idiosyncratic 肝損傷？
+- 104-064｜日常醫療中最不會造成肝損傷的藥？
+- 111-037｜Liver biopsy 七句敘述，哪些正確？
+
+**[[gastroenterology/abnormal-liver-tests/liver-exam#胰臟癌造成的阻塞性黃疸|胰臟癌造成的阻塞性黃疸]]**（1 次）
+
+- 106-061｜胰頭腺癌合併多發肝轉移、黃疸搔癢：最恰當處置？
+
+### ⑥內專考點 Board Exam Review
+
 **[[gastroenterology/acute-biliary-infection/tg18-exam#Cholangitis：引流＋抗生素|Cholangitis：引流＋抗生素]]**（1 次）
 
 - 107-055｜發燒＋黃疸＋膽管擴張：哪些處置迫切且合宜？
@@ -340,5 +393,11 @@ title: 內專考點總覽
 - [[cardiology/syncope/syncope-5-structural|⑤結構性心因暈厥 Structural Cardiac Syncope]]（心臟科 Cardiology）
 - [[cardiology/syncope/syncope-6-mimics|⑥非暈厥性意識喪失 Nonsyncopal TLOC]]（心臟科 Cardiology）
 - [[cardiology/syncope/syncope-7-cases|⑦四個病例推理 Case-Based Reasoning]]（心臟科 Cardiology）
+- [[gastroenterology/abnormal-liver-tests/index|肝功能異常與黃疸 Jaundice & Abnormal Liver Tests]]（腸胃肝膽科 GI & Hepatology）
+- [[gastroenterology/abnormal-liver-tests/liver-1-approach|①判讀架構 Diagnostic Approach]]（腸胃肝膽科 GI & Hepatology）
+- [[gastroenterology/abnormal-liver-tests/liver-2-ald-nafld|②酒精性與非酒精性脂肪肝病 ALD & NAFLD]]（腸胃肝膽科 GI & Hepatology）
+- [[gastroenterology/abnormal-liver-tests/liver-3-viral|③病毒性肝炎 Viral Hepatitis]]（腸胃肝膽科 GI & Hepatology）
+- [[gastroenterology/abnormal-liver-tests/liver-4-others|④其他重要病因 Other Important Causes]]（腸胃肝膽科 GI & Hepatology）
+- [[gastroenterology/abnormal-liver-tests/liver-5-cases|⑤三個病例推理 Case-Based Reasoning]]（腸胃肝膽科 GI & Hepatology）
 
 點開各考點即可跳到筆記裡的題目重點卡；原題與詳解請到 [內專刷題網站](http://imboard.dirty-wolf.com/) 依題號查詢。

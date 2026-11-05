@@ -170,6 +170,7 @@ cssclasses:
 ## 相關筆記
 
 - [[gastroenterology/acute-pancreatitis|急性胰臟炎 Acute Pancreatitis]]：gallstone pancreatitis 合併 cholangitis 時的 early ERCP/ES 與切膽囊時機
+- [[gastroenterology/abnormal-liver-tests/index|肝功能異常與黃疸]]：cholestatic pattern 的判讀，以及膽管擴張時 extrahepatic obstruction 的鑑別
 
 ## 參考資料
 
