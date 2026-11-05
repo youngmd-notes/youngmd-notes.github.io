@@ -107,10 +107,56 @@ tags:
 | **Moderate** | 年輕 DM（T1DM < 35、T2DM < 50 歲）病程 < 10 年、無其他危險因子｜**SCORE2／SCORE2-OP 2–< 10%** |
 | **Low** | **SCORE2／SCORE2-OP < 2%** |
 
-Target organ damage = **microalbuminuria、retinopathy 或 neuropathy**。
+Target organ damage = **microalbuminuria、retinopathy 或 neuropathy**。「主要危險因子」的定義見下方〈分類邏輯〉。
 
 > [!tip] Pearl
 > 換算規則好記：**==舊 SCORE 的 1%／5%／10% → SCORE2 的 2%／10%／20%==**（×2）。非 SCORE 的條件（ASCVD、DM、CKD、FH、單一危險因子）兩版幾乎一樣。
+
+## 分類邏輯與「危險因子」的定義
+
+**判斷順序**（依 Table 3 的結構與 2019 建議表「這些人不需要風險分數」整理）：
+
+1. **有 ASCVD**（臨床，或影像上明確）→ **very high**，不必再看其他條件
+2. **有 DM、CKD、FH，或單一危險因子極高** → 直接依 Table 3 分級，**不算 SCORE2**（一般族群的風險分數**不適用於 DM 或 FH**，III-C；CKD 依 eGFR 分級）
+3. **以上都沒有**（看似健康的人）→ 算 **SCORE2（< 70 歲）／SCORE2-OP（≥ 70 歲）**
+4. 同一個人符合多項時，**取最高的等級**；moderate 或剛好在治療切點附近的人，可用 **risk modifiers**（Box 1）往上調一級
+
+**各名詞在指引中的定義**：
+
+| 名詞 | 指引怎麼寫 | 有沒有明確定義 |
+| --- | --- | --- |
+| **ASCVD** | 臨床：ACS（MI、UA）、chronic coronary syndromes、冠狀動脈或其他動脈血管重建、stroke／TIA、PAD；影像：已知能預測事件的發現，例如冠狀動脈攝影或 CT 上**顯著 plaque（通常 > 50% 狹窄）**、頸／股動脈超音波 plaque，或 **CAC 明顯升高（例如 > 300）** | ✅ 有 |
+| **Target organ damage（TOD）** | **Microalbuminuria、retinopathy 或 neuropathy** | ✅ 有（表註） |
+| **單一危險因子極高** | **TC > 310 mg/dL（8 mmol/L）、LDL-C > 190 mg/dL（4.9 mmol/L）或 BP ≥ 180/110 mmHg** | ✅ 有 |
+| **CKD** | moderate：eGFR 30–59；severe：eGFR < 30 | ✅ 有 |
+| **DM 的「≥ 3 個主要危險因子」** | 只寫「at least three major risk factors」 | ❌ **血脂指引沒有定義** |
+| **DM 的「另一個額外危險因子」**（high risk） | 只寫「another additional risk factor」 | ❌ 沒有定義 |
+| **FH 的「另一個主要危險因子」** | 只寫「another major risk factor」 | ❌ 沒有定義 |
+| 年輕 DM 的「沒有其他危險因子」 | 只寫「without other risk factors」 | ❌ 沒有定義 |
+
+> [!info] DM 分級的出處：2019 ESC/EASD 糖尿病指引
+> 血脂指引的 DM 分級來自 **2019 ESC Guidelines on diabetes, pre-diabetes, and CVD（與 EASD 合作）**的 CV risk categories。該指引列出的**主要危險因子是 ==年齡、高血壓、血脂異常、抽菸、肥胖==**；它對 target organ damage 的定義也和血脂指引不同，是 **proteinuria、腎功能不全（eGFR < 30）、LVH、retinopathy**。
+>
+> 所以 DM 病人要判斷「≥ 3 個主要危險因子」時，可以參考這五項。FH 的「另一個主要危險因子」**兩份血脂指引都沒有列出**，指引正文只說 FH 有 ASCVD 或另一主要危險因子時屬 very high，臨床上需個別判斷。
+
+> [!info] 🆕 另一份更新的 ESC 指引：2023 ESC 糖尿病 CVD 指引
+> 2025 Focused Update 提到：**T2DM 沒有 ASCVD** 時，2023 ESC 糖尿病指引建議用 **SCORE2-Diabetes** 估計 10 年 CVD 風險。該指引的分級：
+>
+> | 等級 | 2023 ESC 糖尿病指引 |
+> | --- | --- |
+> | **Very high** | ASCVD；或**嚴重 TOD**；或 SCORE2-Diabetes **≥ 20%** |
+> | High | SCORE2-Diabetes **10–< 20%** |
+> | Moderate | SCORE2-Diabetes **5–< 10%** |
+> | Low | SCORE2-Diabetes **< 5%** |
+>
+> **嚴重 TOD** 的定義（任一項）：**eGFR < 45**（不論 albuminuria）；**eGFR 45–59＋microalbuminuria**（UACR 30–300 mg/g，A2）；**proteinuria**（UACR > 300 mg/g，A3）；**至少三個不同部位的 microvascular disease**。
+>
+> 這套分法**不再使用「≥ 3 個危險因子」與「病程 ≥ 10 年」**，改用 SCORE2-Diabetes。不過 2025 血脂 Focused Update 的 Table 3 仍沿用舊的 DM 分級文字；兩者並存時，**T2DM 的風險估計可用 SCORE2-Diabetes**，本筆記照實呈現兩種寫法。
+
+> [!warning] Pitfall
+> - **TOD 的定義在兩份指引不同**：血脂指引寫 microalbuminuria、retinopathy、neuropathy；2019 ESC/EASD 寫 proteinuria、eGFR < 30、LVH、retinopathy
+> - **單一危險因子極高（LDL-C > 190 等）屬 high**；未治療 LDL-C ≥ 190 mg/dL 的人至少就是 high risk，所以 2025 Table 4 的 low／moderate 列在這一欄寫 N/A
+> - **SCORE2 不可用在已有 ASCVD、DM、CKD、FH 或已服降脂藥的人**
 
 ## 🆕 2025 Box 1：SCORE2 之外的 risk modifiers
 
@@ -228,3 +274,5 @@ Target organ damage = **microalbuminuria、retinopathy 或 neuropathy**。
 
 - Mach F, Baigent C, Catapano AL, et al. 2019 ESC/EAS Guidelines for the management of dyslipidaemias: lipid modification to reduce cardiovascular risk. *Eur Heart J*. 2020;41(1):111–188. Section 4、6（Table 1–2、4、5、7；Figure 1–2、4；Box 1–5）。參考資料庫：心臟科／2019ESCGuidelinesforthemanagement of dyslipidaemias.pdf
 - 🆕 Mach F, Koskinas KC, Roeters van Lennep JE, et al. 2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias. *Eur Heart J*. 2025;46(42):4359–4378. Section 3（Table 1–4、Figure 1、Box 1、Recommendation Table 1）。參考資料庫：心臟科／2025 Focused Update.pdf
+- 2019 ESC/EASD：Cosentino F, Grant PJ, Aboyans V, et al. 2019 ESC Guidelines on diabetes, pre-diabetes, and cardiovascular diseases developed in collaboration with the EASD. *Eur Heart J*. 2020;41(2):255–323.（CV risk categories in DM，主要危險因子與 TOD 的定義）
+- 🆕 Marx N, Federici M, Schütt K, et al. 2023 ESC Guidelines for the management of cardiovascular disease in patients with diabetes. *Eur Heart J*. 2023;44(39):4043–4140.（SCORE2-Diabetes、嚴重 TOD 的定義）

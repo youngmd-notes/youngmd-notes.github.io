@@ -27,11 +27,29 @@ cssclasses:
 <div class="bdt-down">↓</div>
 <div class="bdt-q">Step 0｜排除次發原因：<b>甲狀腺低下</b>、<b>未控制 DM</b>、<b>nephrotic syndrome／CKD</b>、<b>酒精</b>、藥物、膽汁鬱積；TG &gt; 880 mg/dL 先防胰臟炎</div>
 <div class="bdt-panel">
-<div class="bdt-ptitle"><span class="bdt-name">Step 1｜風險分層</span><span class="bdt-sub">有下列情況不必算分數；其他人用 🆕 <b>SCORE2</b>（&lt; 70 歲）／<b>SCORE2-OP</b>（≥ 70 歲）</span></div>
-<div class="bdt-row"><div class="bdt-grade r">Very high</div><div class="bdt-path"><span class="bdt-step r"><b>ASCVD</b>（臨床或影像）｜DM＋TOD 或 ≥ 3 危險因子｜<b>eGFR &lt; 30</b>｜<b>SCORE2 ≥ 20%</b>｜FH＋ASCVD 或另一危險因子</span></div></div>
-<div class="bdt-row"><div class="bdt-grade r">High</div><div class="bdt-path"><span class="bdt-step r">TC &gt; 310、<b>LDL &gt; 190</b>、BP ≥ 180/110｜FH｜DM ≥ 10 年｜<b>eGFR 30–59</b>｜<b>SCORE2 10–20%</b></span></div></div>
-<div class="bdt-row"><div class="bdt-grade a">Moderate</div><div class="bdt-path"><span class="bdt-step a">年輕 DM 病程 &lt; 10 年｜<b>SCORE2 2–10%</b>（可用 risk modifiers 往上調：Lp(a) &gt; 50、hs-CRP &gt; 2、CAC、plaque、家族史…）</span></div></div>
-<div class="bdt-row"><div class="bdt-grade g">Low</div><div class="bdt-path"><span class="bdt-step g"><b>SCORE2 &lt; 2%</b></span></div></div>
+<div class="bdt-ptitle"><span class="bdt-name">Step 1｜風險分層</span><span class="bdt-sub">由上往下逐項檢查，<b>符合多項時取最高的等級</b>；全部不符合才用 🆕 <b>SCORE2</b>（&lt; 70 歲）／<b>SCORE2-OP</b>（≥ 70 歲）計算</span></div>
+<div class="bdt-sec">判斷順序</div>
+<div class="bdt-path">
+<span class="bdt-step r">① 有 <b>ASCVD</b>（臨床或影像）？→ 直接 <b>very high</b></span>
+<span class="bdt-arrow">↓ 沒有</span>
+<span class="bdt-step a">② 有 <b>DM、CKD、FH</b>，或<b>單一危險因子極高</b>？→ 依下表直接分級，<b>不用算分數</b>（一般風險分數不適用於 DM、FH，III）</span>
+<span class="bdt-arrow">↓ 都沒有（看似健康的人）</span>
+<span class="bdt-step g">③ 算 <b>SCORE2／SCORE2-OP</b>（10 年致命＋非致命 CVD）→ 依切點分級；moderate 或接近切點者可用 risk modifiers 往上調一級</span>
+</div>
+<div class="bdt-sec">分級標準（2025 Table 3）</div>
+<table style="font-size:0.82em;line-height:1.35;margin:0.3rem 0">
+<thead><tr><th>情況</th><th>Very high</th><th>High</th><th>Moderate</th><th>Low</th></tr></thead>
+<tbody>
+<tr><td><b>ASCVD</b></td><td>臨床 ASCVD（ACS、CCS、血管重建、stroke／TIA、PAD）；影像上顯著 plaque（&gt; 50% 狹窄）或 CAC 明顯升高（例如 &gt; 300）</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td><b>DM</b></td><td>有 <b>TOD</b>，或 <b>≥ 3 個主要危險因子</b>，或早發 T1DM 病程 &gt; 20 年</td><td>沒有 TOD，但病程 <b>≥ 10 年</b>或<b>另有一個危險因子</b></td><td>年輕（T1DM &lt; 35、T2DM &lt; 50 歲）、病程 &lt; 10 年、<b>沒有其他危險因子</b></td><td>—</td></tr>
+<tr><td><b>CKD</b></td><td>eGFR <b>&lt; 30</b></td><td>eGFR <b>30–59</b></td><td>—</td><td>—</td></tr>
+<tr><td><b>FH</b></td><td>合併 ASCVD 或<b>另一個主要危險因子</b></td><td>沒有其他主要危險因子</td><td>—</td><td>—</td></tr>
+<tr><td><b>單一危險因子極高</b></td><td>—</td><td>TC &gt; 310、<b>LDL-C &gt; 190 mg/dL</b>，或 BP ≥ 180/110</td><td>—</td><td>—</td></tr>
+<tr><td><b>SCORE2／-OP</b></td><td><b>≥ 20%</b></td><td><b>10–&lt; 20%</b></td><td><b>2–&lt; 10%</b></td><td><b>&lt; 2%</b></td></tr>
+</tbody>
+</table>
+<div class="bdt-sec">名詞定義</div>
+<div class="bdt-score"><span><b>TOD</b>（血脂指引）：microalbuminuria、retinopathy、neuropathy</span><span><b>主要危險因子</b>：血脂指引<b>沒有定義</b>；出處 2019 ESC/EASD 糖尿病指引列為 <b>年齡、高血壓、血脂異常、抽菸、肥胖</b></span><span><b>FH 的「另一個主要危險因子」</b>：兩份指引都沒有列出</span><span><b>Risk modifiers</b>：早發 CVD 家族史、南亞裔、Lp(a) &gt; 50、hs-CRP &gt; 2、CAC、plaque、HIV、preeclampsia…（2025 Box 1）</span></div>
 </div>
 <div class="bdt-down">↓ Step 2｜LDL-C 目標（high 以上同時要求 <b>下降 ≥ 50%</b>）</div>
 <div class="bdt-score"><span>Very high <b>&lt; 55</b>（I）</span><span>High <b>&lt; 70</b>（I）</span><span>Moderate <b>&lt; 100</b>（IIa）</span><span>Low <b>&lt; 116</b>（IIb）</span><span>2 年內反覆事件 <b>&lt; 40</b>（IIb）</span><span>次要：non-HDL-C = 目標 <b>+30</b>；ApoB 65／80／100</span></div>
@@ -110,6 +128,7 @@ cssclasses:
 - [[cardiology/dyslipidemia-esc/lipid-esc-1-risk-goals#Figure 1–2：SCORE 風險表（2019）|Figure 1–2（2019）]]：SCORE 風險表　<span class="af-where">①</span>
 - [[cardiology/dyslipidemia-esc/lipid-esc-1-risk-goals#Table 4：心血管風險分類（2019）|Table 4（2019）]]→[[cardiology/dyslipidemia-esc/lipid-esc-1-risk-goals#🆕 2025 Table 3：心血管風險分類（取代 2019 Table 4）|🆕 Table 3（2025）]]：風險分類　<span class="af-where">①</span>
 - [[cardiology/dyslipidemia-esc/lipid-esc-1-risk-goals#🆕 2025 Box 1：SCORE2 之外的 risk modifiers|🆕 Box 1（2025）]]：Risk modifiers　<span class="af-where">①</span>
+- [[cardiology/dyslipidemia-esc/lipid-esc-1-risk-goals#分類邏輯與「危險因子」的定義|分類邏輯與「危險因子」的定義]]（含 2019 ESC/EASD、🆕 2023 ESC 糖尿病指引）　<span class="af-where">①</span>
 
 ### 治療目標與介入
 
