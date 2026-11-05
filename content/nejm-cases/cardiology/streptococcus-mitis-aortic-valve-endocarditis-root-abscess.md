@@ -192,6 +192,7 @@ tags:
 - [[nejm-cases/nephrology/infective-endocarditis-associated-glomerulonephritis|IE 相關腎絲球腎炎]]
 - [[nejm-cases/cardiology/frostbite-mimicking-acute-limb-ischemia|凍傷（偽裝成急性肢體缺血）]]
 - [[nejm-cases/index|NEJM 個案分享專區]]
+- [[cardiology/syncope/index|暈厥 Syncope]]：老人「跌倒」要想到 syncope，palpitations 是 cardiac syncope 的線索
 
 ## 參考資料
 
