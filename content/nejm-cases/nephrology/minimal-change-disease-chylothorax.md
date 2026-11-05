@@ -192,6 +192,7 @@ tags:
 
 ## 相關筆記
 
+- [[nephrology/nephrotic-syndrome|腎病症候群 Nephrotic Syndrome]]：診斷流程、併發症與治療總整理
 - [[nejm-cases/nephrology/infective-endocarditis-associated-glomerulonephritis|IE 相關腎絲球腎炎]]：nephritic syndrome 的對照
 - [[nejm-cases/index|NEJM 個案分享專區]]
 

@@ -273,6 +273,7 @@ title: 內專考點總覽
 ## 還沒有內專考點的筆記
 
 - [[nephrology/hyponatremia|低血鈉 Hyponatremia]]（腎臟科 Nephrology）
+- [[nephrology/nephrotic-syndrome|腎病症候群 Nephrotic Syndrome]]（腎臟科 Nephrology）
 - [[nephrology/siadh|SIADH]]（腎臟科 Nephrology）
 
 點開各考點即可跳到筆記裡的題目重點卡；原題與詳解請到 [內專刷題網站](http://imboard.dirty-wolf.com/) 依題號查詢。

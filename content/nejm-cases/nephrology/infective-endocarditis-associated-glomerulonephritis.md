@@ -187,6 +187,7 @@ tags:
 
 ## 相關筆記
 
+- [[nephrology/nephrotic-syndrome|腎病症候群 Nephrotic Syndrome]]：nephrotic 的對照
 - [[nejm-cases/cardiology/streptococcus-mitis-aortic-valve-endocarditis-root-abscess|S. mitis 主動脈瓣心內膜炎併根部膿瘍]]
 - [[nejm-cases/nephrology/renal-fanconi-syndrome-cystinosis|胱胺酸症造成的腎性 Fanconi 症候群]]
 - [[nejm-cases/index|NEJM 個案分享專區]]
