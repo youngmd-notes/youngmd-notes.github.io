@@ -6,7 +6,7 @@ title: 內專考點總覽
 > 這頁會**自動彙整**所有筆記裡的「🎯 內專考點」，每次網站更新時重新產生，不需要手動編輯。
 > 「考過次數」把重複出現的同一題分開計算（例如 106-132／108-94 算 2 次），越多次代表越常考。
 
-目前共整理 **224 次考題**，分布在 **16 篇筆記、76 個考點**。
+目前共整理 **233 次考題**，分布在 **17 篇筆記、79 個考點**。
 
 ## 最常考的考點
 
@@ -22,6 +22,7 @@ title: 內專考點總覽
 | [[cardiology/pulmonary-embolism-esc/pe-esc-exam#治療\|治療]] | [[cardiology/pulmonary-embolism-esc/pe-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 5 | 104、106、110、112、114 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#有症狀膽結石與膽囊疾病\|有症狀膽結石與膽囊疾病]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 5 | 105、107、113、114 |
 | [[nephrology/nephrotic-syndrome#Membranous nephropathy：anti-PLA2R 與治療時機\|Membranous nephropathy：anti-PLA2R 與治療時機]] | [[nephrology/nephrotic-syndrome#🎯 內專考點\|腎病症候群 Nephrotic Syndrome]] | 5 | 104、108、110、112、113 |
+| [[infectious-disease/influenza-idsa/flu-exam#流感疫苗\|流感疫苗]] | [[infectious-disease/influenza-idsa/flu-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 5 | 107、108、109、113 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#肝指數型態判讀\|肝指數型態判讀]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 5 | 105、109、110、113 |
 | [[cardiology/pulmonary-embolism-esc/pe-esc-exam#從情境認出 PE\|從情境認出 PE]] | [[cardiology/pulmonary-embolism-esc/pe-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 5 | 107、108、110 |
 | [[infectious-disease/pneumonia/pna-exam#HAP／VAP\|HAP／VAP]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 5 | 104、106、107、110 |
@@ -66,7 +67,9 @@ title: 內專考點總覽
 | [[infectious-disease/pneumonia/pna-exam#診斷檢查\|診斷檢查]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 104、111 |
 | [[cardiology/atrial-fibrillation/af-exam#Cardioversion 前後的抗凝\|Cardioversion 前後的抗凝]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 107、109 |
 | [[cardiology/dyslipidemia-esc/lipid-esc-exam#DM 的血脂與血壓目標\|DM 的血脂與血壓目標]] | [[cardiology/dyslipidemia-esc/lipid-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 2 | 108、109 |
+| [[infectious-disease/influenza-idsa/flu-exam#抗病毒藥物與預防性投藥\|抗病毒藥物與預防性投藥]] | [[infectious-disease/influenza-idsa/flu-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 106、109 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#Hyperbilirubinemia 與 Gilbert\|Hyperbilirubinemia 與 Gilbert]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 107、108 |
+| [[infectious-disease/influenza-idsa/flu-exam#禽流感與新型 A 型流感\|禽流感與新型 A 型流感]] | [[infectious-disease/influenza-idsa/flu-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 104、106 |
 | [[pulmonology/emergent-airway-management#HFNC 的生理效應\|HFNC 的生理效應]] | [[pulmonology/emergent-airway-management#🎯 內專考點\|緊急呼吸道處置 Emergent Airway Management]] | 1 | 114 |
 | [[nephrology/calcium-phosphate-disorders#低血鈣\|低血鈣]] | [[nephrology/calcium-phosphate-disorders#🎯 內專考點\|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]] | 1 | 113 |
 | [[nephrology/hemodialysis-emergencies#透析中低血壓\|透析中低血壓]] | [[nephrology/hemodialysis-emergencies#🎯 內專考點\|血液透析急症 Hemodialysis Emergencies]] | 1 | 111 |
@@ -390,6 +393,24 @@ title: 內專考點總覽
 
 - 106-117｜幫呼吸困難病人插管的標準防護
 - 111-088｜酒精乾洗手能清除哪些病原？
+
+### ⑤內專考點 Board Exam Review
+
+**[[infectious-disease/influenza-idsa/flu-exam#抗病毒藥物與預防性投藥|抗病毒藥物與預防性投藥]]**（2 次）
+
+- 106-108｜流感的敘述，何者錯？（NAI 機轉）
+- 109-106｜哪些暴露後預防是用抗微生物藥物？
+
+**[[infectious-disease/influenza-idsa/flu-exam#流感疫苗|流感疫苗]]**（5 次）
+
+- 107-113、108-118、109-114｜孕婦不建議打哪些疫苗？（三題相同）
+- 113-083｜成人疫苗建議的正確組合（孕期流感疫苗、Tdap、HSCT 後水痘疫苗）
+- 107-093｜流感疫苗的副作用與禁忌，哪些正確？
+
+**[[infectious-disease/influenza-idsa/flu-exam#禽流感與新型 A 型流感|禽流感與新型 A 型流感]]**（2 次）
+
+- 104-112｜H5N1 與 H7N9 的敘述，哪些錯？
+- 106-109｜新型 A 型流感的敘述，何者錯？（H5N6）
 
 ### ⑥內專考點 Board Exam Review
 

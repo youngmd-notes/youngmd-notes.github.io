@@ -174,6 +174,7 @@ cssclasses:
 ## 相關筆記
 
 - [[infectious-disease/pneumonia/index|肺炎 Pneumonia（台灣肺炎診治指引 2018）]]
+- [[infectious-disease/influenza-idsa/index|流感 Seasonal Influenza（IDSA 2018 指引）]]
 - [[pulmonology/emergent-airway-management|緊急呼吸道處置]]
 
 ## 參考資料

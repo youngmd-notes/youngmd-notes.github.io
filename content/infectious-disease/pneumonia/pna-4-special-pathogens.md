@@ -269,6 +269,7 @@ tags:
 
 - [[infectious-disease/pneumonia/pna-2-cap-diagnosis|② CAP 病原、診斷與嚴重度]]（病史與病原對應）
 - [[infectious-disease/pneumonia/pna-3-cap-treatment|③ CAP 與 HCAP 治療]]
+- [[infectious-disease/influenza-idsa/index|流感 Seasonal Influenza（IDSA 2018 指引）]]（流感的診斷、治療與預防完整整理）
 - [[infectious-disease/pneumonia/pna-exam|⑥ 內專考點]]（melioidosis、aspergillosis、TMP-SMX 預防）
 
 ## 參考資料
