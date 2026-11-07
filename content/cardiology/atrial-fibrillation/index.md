@@ -24,11 +24,11 @@ cssclasses:
 <div class="oc-tt">⏱ 先記住：什麼時候可以整流？抗凝怎麼配？</div>
 <div class="oc-tr oc-th"><div>情境</div><div>💓 心律處置</div><div>💉 抗凝</div></div>
 <div class="oc-tr"><div class="oc-sit"><b>不穩定</b>：休克、急性 HF、缺血</div><div class="yes" data-l="💓"><b>緊急電擊整流</b>（I），不等抗凝</div><div class="ac-now" data-l="💉">盡快開始；<b>整流後 ≥ 4 週</b></div></div>
-<div class="oc-tr"><div class="oc-sit">穩定、<b>確定 &lt; 24 h</b></div><div class="ac-now" data-l="💓">控速；可<b>直接整流</b>，或<b>觀察 48 h</b> 等自己好（IIa）</div><div class="ac-now" data-l="💉">先開始；整流後 ≥ 4 週（低風險可省略）</div></div>
+<div class="oc-tr"><div class="oc-sit">穩定、<b>確定 &lt; 24 h</b></div><div class="ac-now" data-l="💓">控速；可<b>直接整流</b>，或<b>觀察等它自己好</b>（IIa）——但<b>過了 24 h 還沒恢復</b>，就掉到下一列：要 TEE 或抗凝 3 週才能整流</div><div class="ac-now" data-l="💉">先開始；整流後 ≥ 4 週（低風險可省略）</div></div>
 <div class="oc-tr"><div class="oc-sit">穩定、<b>≥ 24 h 或不確定</b></div><div class="wait" data-l="💓">先控速；<b>不要直接整流</b>（III）</div><div class="ac-now" data-l="💉"><b>規律抗凝 ≥ 3 週</b>或 <b>TEE 排除血栓</b>才整流；整流後 ≥ 4 週</div></div>
 <div class="oc-tr"><div class="oc-sit"><b>Pre-excited AF（WPW）</b></div><div class="yes" data-l="💓"><b>所有 AV node 阻斷劑禁用</b>（含 IV amiodarone）；不穩定就電擊</div><div class="ac-now" data-l="💉">同上規則</div></div>
 <div class="oc-tr"><div class="oc-sit">之後長期</div><div class="wait" data-l="💓">見 ③ 控速、④ 節律</div><div class="ac-now" data-l="💉">依 <b>CHA₂DS₂-VA</b>（見 ②），<b>與 AF 類型、心律無關</b></div></div>
-<div class="oc-tf">新發 AF <b>76–83% 會自行恢復</b>（24 h 內約 55–66%）｜先找誘因：sepsis、hypovolemia、hyperthyroidism、電解質、酒精、術後｜<b>整流後 4 週抗凝不看分數</b>，連 0 分也要</div>
+<div class="oc-tf">新發 AF <b>76–83% 會自行恢復</b>（24 h 內約 55–66%、48 h 內約 69%）；觀察等待的意義是「多數人不必整流」，<b>不是等完再直接電</b>｜先找誘因：sepsis、hypovolemia、hyperthyroidism、電解質、酒精、術後｜<b>整流後 4 週抗凝不看分數</b>，連 0 分也要</div>
 </div>
 
 <div class="oc-q"><span class="oc-n">1</span><div><span class="oc-qt">血行動力不穩定嗎？</span><small>休克、急性心衰竭（pulmonary edema）、持續缺血或胸痛</small></div></div>
