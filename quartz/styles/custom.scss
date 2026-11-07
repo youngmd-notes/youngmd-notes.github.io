@@ -479,3 +479,189 @@ a.af-card {
     grid-template-columns: 1fr;
   }
 }
+
+// 值班決策流程（一步一題、是／否分流；用於肺栓塞指引總覽頁）
+.oncall {
+  --oc-red: #d64b4b;
+  --oc-amber: #e0a100;
+  --oc-green: #2e9e6b;
+  --oc-blue: #3d7cc9;
+  --oc-orange: #e8712a;
+  margin: 1.25rem 0 1.75rem;
+  font-size: 0.88rem;
+  line-height: 1.45;
+  color: var(--dark);
+
+  .oc-start {
+    text-align: center;
+    padding: 0.55rem 0.9rem;
+    border-radius: 10px;
+    background: var(--secondary);
+    color: var(--light);
+    font-weight: 700;
+  }
+  .oc-q {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    margin: 0.9rem 0 0.4rem;
+    padding: 0.55rem 0.8rem;
+    border: 2px solid var(--secondary);
+    border-radius: 10px;
+    background: var(--light);
+    .oc-n {
+      flex: none;
+      width: 1.9rem;
+      height: 1.9rem;
+      border-radius: 50%;
+      background: var(--secondary);
+      color: var(--light);
+      font-weight: 800;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .oc-qt {
+      font-size: 1.05rem;
+      font-weight: 800;
+    }
+    small {
+      display: block;
+      font-size: 0.78rem;
+      color: var(--darkgray);
+      font-weight: 400;
+    }
+  }
+  .oc-split {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.6rem;
+  }
+  .oc-split.three {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .oc-split.side {
+    grid-template-columns: 2.4fr 1fr;
+    align-items: start;
+  }
+  .oc-box {
+    border: 1.5px solid var(--gray);
+    border-radius: 10px;
+    padding: 0.5rem 0.65rem;
+    ol,
+    ul {
+      margin: 0.25rem 0 0;
+      padding-left: 1.2rem;
+    }
+    li {
+      margin: 0.12rem 0;
+    }
+  }
+  .oc-ans {
+    display: inline-block;
+    padding: 0.05rem 0.55rem;
+    border-radius: 999px;
+    font-weight: 800;
+    font-size: 0.8rem;
+    color: #fff;
+    margin-bottom: 0.25rem;
+  }
+  .oc-go {
+    display: block;
+    margin-top: 0.35rem;
+    font-weight: 700;
+    font-size: 0.82rem;
+  }
+  .r {
+    background: #d64b4b1c;
+    border-color: var(--oc-red);
+    .oc-ans {
+      background: var(--oc-red);
+    }
+  }
+  .o {
+    background: #e8712a1c;
+    border-color: var(--oc-orange);
+    .oc-ans {
+      background: var(--oc-orange);
+    }
+  }
+  .a {
+    background: #e0a1001c;
+    border-color: var(--oc-amber);
+    .oc-ans {
+      background: var(--oc-amber);
+    }
+  }
+  .g {
+    background: #2e9e6b1c;
+    border-color: var(--oc-green);
+    .oc-ans {
+      background: var(--oc-green);
+    }
+  }
+  .b {
+    background: #3d7cc91c;
+    border-color: var(--oc-blue);
+    .oc-ans {
+      background: var(--oc-blue);
+    }
+  }
+  .oc-check {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.4rem;
+    margin: 0.2rem 0 0.5rem;
+    > div {
+      border: 1px dashed var(--secondary);
+      border-radius: 8px;
+      padding: 0.35rem 0.5rem;
+      font-size: 0.8rem;
+      b {
+        color: var(--secondary);
+      }
+    }
+  }
+  .oc-down {
+    text-align: center;
+    color: var(--gray);
+    font-size: 1.1rem;
+    line-height: 1.1;
+    margin: 0.2rem 0;
+  }
+  .oc-card {
+    margin-top: 0.9rem;
+    border: 1px solid var(--lightgray);
+    border-radius: 10px;
+    padding: 0.55rem 0.7rem;
+    background: var(--light);
+    font-size: 0.8rem;
+    .oc-ct {
+      font-weight: 800;
+      color: var(--secondary);
+      margin-bottom: 0.2rem;
+    }
+  }
+  .oc-foot {
+    margin-top: 0.8rem;
+    padding: 0.45rem 0.65rem;
+    border-radius: 8px;
+    background: #d64b4b12;
+    font-size: 0.8rem;
+  }
+  .oc-note {
+    text-align: center;
+    font-size: 0.72rem;
+    color: var(--gray);
+    margin-top: 0.4rem;
+  }
+}
+
+@media (max-width: 760px) {
+  .oncall .oc-split,
+  .oncall .oc-split.three,
+  .oncall .oc-split.side,
+  .oncall .oc-check {
+    grid-template-columns: 1fr;
+  }
+}

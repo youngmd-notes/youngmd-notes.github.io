@@ -20,47 +20,84 @@ cssclasses:
 
 本主題整理 **2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism（與 ERS 合作）** 的 **Table 1–13 與 Figure 1–8**（含建議表、key messages 與必做／不做）。懷孕部分另以 **🆕** 標出 **2025 ESC 懷孕與心血管疾病指引**的補充。
 
-## 🌳 臨床決策圖：疑似 PE 的病人在眼前
+## 🌳 值班決策流程：照順序回答 4 個問題
 
-<div class="bdt">
-<div class="bdt-start">疑似急性 PE（突發喘、胸痛、syncope、hemoptysis、不明原因低血氧或 tachycardia）</div>
-<div class="bdt-down">↓</div>
-<div class="bdt-q">Step 0｜有沒有 <b>hemodynamic instability</b>？（Table 4：<b>cardiac arrest</b>｜<b>obstructive shock</b>：SBP &lt; 90 或需 vasopressor＋end-organ hypoperfusion｜<b>persistent hypotension</b>：SBP &lt; 90 或下降 ≥ 40 mmHg 持續 &gt; 15 分鐘）</div>
-<div class="bdt-two">
-<div class="bdt-step r"><span class="bdt-lab">有 → 疑似 high-risk（Figure 4）</span><br/><b>立即 IV UFH（含 bolus，I-C）</b><br/><b>Bedside TTE</b>：RV dysfunction（RV/LV &gt; 1.0）？<br/>沒有 → 找其他休克原因<br/>有 → 能做就 <b>CTPA</b>；太不穩 → <b>直接當 high-risk 治療</b></div>
-<div class="bdt-step b"><span class="bdt-lab">沒有 → 穩定（Figure 5）</span><br/>估 <b>clinical probability</b>（Geneva／Wells）<br/>High／intermediate → <b>診斷中就先抗凝（I-C）</b><br/>Low／intermediate → <b>D-dimer</b>（&gt; 50 歲用 <b>age × 10 µg/L</b>，或 YEARS）→ 陰性排除、陽性 CTPA<br/><b>High → 直接 CTPA，不驗 D-dimer（III-A）</b></div>
+<div class="oncall">
+<div class="oc-start">懷疑 PE：突發喘、不明原因低血氧或 tachycardia、syncope、pleuritic chest pain（尤其術後、臥床、癌症、骨折）</div>
+
+<div class="oc-q"><span class="oc-n">1</span><div><span class="oc-qt">病人休克嗎？</span><small>任一項就算：cardiac arrest｜SBP &lt; 90 或要 vasopressor 才撐得住，且有灌流不足（意識變差、四肢冰冷、尿少、lactate ↑）｜SBP &lt; 90 或掉 ≥ 40 mmHg 持續 &gt; 15 分鐘（不是 arrhythmia、hypovolaemia、sepsis 造成）</small></div></div>
+<div class="oc-split side">
+<div class="oc-box r"><span class="oc-ans">是 → HIGH-RISK</span>
+<ol>
+<li><b>立刻 UFH</b> IV bolus＋持續滴注，不等檢查</li>
+<li><b>Bedside echo</b>：RV 擴大（RV/LV &gt; 1.0）嗎？<b>沒有</b> → PE 不太可能是休克原因，找 tamponade、ACS、dissection、出血</li>
+<li>推得動就 <b>CTPA</b>；推不動 → echo 有 RV dysfunction 就<b>直接當 PE 治療</b></li>
+<li><b>rtPA 100 mg IV over 2 h</b>（UFH 可繼續）；CPR 中可 0.6 mg/kg over 15 min（≤ 50 mg），給藥後 CPR 至少 60–90 分鐘</li>
+<li>溶栓禁忌或失敗 → <b>外科取栓</b>或<b>導管治療</b>（找 CVS、介入團隊）</li>
+</ol>
+<span class="oc-go">支持：O₂ → HFNC／NIV，盡量不插管｜輸液最多 500 mL｜norepinephrine ± dobutamine</span>
 </div>
-<div class="bdt-down">↓ 確診（CTPA segmental 以上、high-probability V/Q，或 proximal DVT）</div>
-<div class="bdt-panel">
-<div class="bdt-ptitle"><span class="bdt-name">Step 1｜風險分層（Table 8）</span><span class="bdt-sub">穩定者看 ① <b>PESI III–V 或 sPESI ≥ 1</b>（或 Hestia）、② <b>RV dysfunction</b>（TTE 或 CTPA RV/LV ≥ 1.0）、③ <b>troponin</b></span></div>
-<table style="font-size:0.82em;line-height:1.35;margin:0.3rem 0">
-<thead><tr><th>分層</th><th>定義</th><th>處置</th></tr></thead>
-<tbody>
-<tr><td><b>High</b></td><td>Hemodynamic instability</td><td><b>Systemic thrombolysis（I-B）</b>；禁忌或失敗 → <b>surgical embolectomy（I-C）</b>或 catheter-directed（IIa-C）；norepinephrine／dobutamine；難治 → ECMO（IIb）</td></tr>
-<tr><td><b>Intermediate-high</b></td><td>穩定＋<b>RV dysfunction 和 troponin 都陽性</b></td><td>住院<b>監測</b>，前 2–3 天 <b>LMWH</b>；<b>不常規溶栓（III-B）</b>；惡化 → <b>rescue thrombolysis（I-B）</b></td></tr>
-<tr><td><b>Intermediate-low</b></td><td>PESI III–V／sPESI ≥ 1，或 RV、troponin 只有一項（<b>sPESI 0 但 RV 或 troponin 異常也算</b>）</td><td>住院抗凝</td></tr>
-<tr><td><b>Low</b></td><td>PESI I–II／sPESI 0，RV 與 troponin（若驗）都正常</td><td>條件允許 → <b>早期出院、居家治療（IIa-A）</b>；出院前排除 RV dysfunction 與 right heart thrombi</td></tr>
-</tbody>
-</table>
+<div class="oc-box b"><span class="oc-ans">否</span><br/>血行動力穩定 → 往下 <b>②</b></div>
 </div>
-<div class="bdt-down">↓ Step 2｜抗凝怎麼給</div>
-<div class="bdt-two">
-<div class="bdt-step b"><span class="bdt-lab">首選</span><br/><b>NOAC 優於 VKA（I-A）</b>：apixaban、rivaroxaban 可<b>單藥起始</b>；dabigatran、edoxaban 先注射 ≥ 5 天<br/>注射型：<b>LMWH／fondaparinux 優於 UFH（I-A）</b>；UFH 留給要 reperfusion、CrCl ≤ 30、嚴重肥胖</div>
-<div class="bdt-step a"><span class="bdt-lab">NOAC 不用（III-C）</span><br/><b>嚴重腎功能不全</b>｜<b>懷孕與哺乳</b>｜<b>APS</b>（用 VKA）<br/>VKA：與注射抗凝重疊 ≥ 5 天且 <b>INR 2.0–3.0</b><br/>癌症：<b>LMWH</b>，非 GI 癌可 edoxaban／rivaroxaban</div>
+
+<div class="oc-q"><span class="oc-n">2</span><div><span class="oc-qt">臨床機率高嗎？</span><small>Geneva／Wells 或臨床判斷（危險因子＋症狀，有沒有更合理的其他診斷）</small></div></div>
+<div class="oc-split">
+<div class="oc-box g"><span class="oc-ans">Low／intermediate</span>
+<ul>
+<li>驗 <b>D-dimer</b>：&gt; 50 歲 cut-off = <b>年齡 × 10 µg/L</b>（或用 YEARS）</li>
+<li><b>陰性 → 排除 PE</b>，不必做 CT</li>
+<li>陽性 → <b>CTPA</b></li>
+<li>Intermediate：等報告時就<b>先開始抗凝</b></li>
+</ul>
 </div>
-<div class="bdt-down">↓ Step 3｜3 個月後（Table 11）</div>
-<div class="bdt-score"><span><b>Major transient</b>（大手術、骨折外傷、住院臥床 ≥ 3 天）→ <b>停（I-B）</b></span><span><b>反覆 VTE</b> → 無限期（I-B）</span><span><b>APS</b> → 無限期 <b>VKA</b>（I-B）</span><span><b>無危險因子</b>、persistent、minor transient → 考慮無限期（IIa）</span><span>延長期 6 個月後：<b>apixaban 2.5 bid／rivaroxaban 10 qd</b>（IIa-A）</span><span><b>Active cancer</b> → 無限期或到治癒（IIa-B）</span></div>
-<div class="bdt-down">↓ Step 4｜追蹤（Figure 8）</div>
-<div class="bdt-path">
-<span class="bdt-step g"><b>3–6 個月常規回診（I-B）</b>：復發、出血、癌症、<b>持續或新發的喘</b></span>
-<span class="bdt-arrow">↓ 有症狀</span>
-<span class="bdt-step a">TTE 判斷 PH 機率 → 高（或中＋NT-proBNP、CTEPH 危險因子、CPET 異常）→ <b>V/Q scan</b></span>
-<span class="bdt-arrow">↓ Mismatched perfusion defects</span>
-<span class="bdt-step r">轉 <b>PH／CTEPH 中心（I-C）</b>：PEA、BPA 或 riociguat；終生 VKA</span>
+<div class="oc-box a"><span class="oc-ans">High</span>
+<ul>
+<li><b>先開始抗凝</b>，不等影像</li>
+<li><b>直接 CTPA</b>，<b>不驗 D-dimer</b>（陰性也排除不了）</li>
+<li>CT 不能做（顯影劑過敏、嚴重腎衰）→ V/Q scan，或下肢 CUS（有 proximal DVT 就算確診）</li>
+</ul>
 </div>
-<div class="bdt-foot">❌ High 機率驗 D-dimer｜❌ CT venography、MRA 排除 PE｜❌ Intermediate／low-risk 常規溶栓｜❌ 常規放 IVC filter｜❌ NOAC 用於嚴重腎衰、懷孕哺乳、APS｜❌ 無症狀者常規追蹤 CTPA</div>
-<div class="bdt-legend"><span class="l-r">高風險／必須處理</span><span class="l-a">看條件決定</span><span class="l-g">低風險／監測</span><span class="l-b">藥物步驟</span></div>
-<div class="bdt-note">依 2019 ESC 急性 PE 指引（Table 4、8、11；Figure 4–6、8；建議表）內容自製</div>
+</div>
+<div class="oc-down">↓ CTPA 看到 segmental 或更近端的血栓 = 確診</div>
+
+<div class="oc-q"><span class="oc-n">3</span><div><span class="oc-qt">確診了：勾這三格，決定住哪裡</span><small>這三項資料多半在 CTPA 和第一套抽血就有</small></div></div>
+<div class="oc-check">
+<div><b>① sPESI ≥ 1</b><br/>&gt; 80 歲、癌症、慢性心肺病、HR ≥ 110、SBP &lt; 100、SpO₂ &lt; 90%，任一項</div>
+<div><b>② RV dysfunction</b><br/>CTPA 或 echo 的 RV/LV ≥ 1.0（或 TAPSE &lt; 16 mm）</div>
+<div><b>③ Troponin 上升</b><br/>超過該 assay 的正常上限</div>
+</div>
+<div class="oc-split three">
+<div class="oc-box g"><span class="oc-ans">LOW</span><br/><b>三格都沒勾</b><br/>可<b>早期出院、在家用 NOAC</b><br/>前提：沒有其他住院理由、有家人照顧、能回診</div>
+<div class="oc-box a"><span class="oc-ans">INTERMEDIATE-LOW</span><br/><b>有勾，但 ②③ 沒有同時勾</b><br/><b>住一般病房抗凝</b><br/>注意：sPESI 0 但 ② 或 ③ 異常也算這一格，<b>不能出院</b></div>
+<div class="oc-box o"><span class="oc-ans">INTERMEDIATE-HIGH</span><br/><b>② ＋ ③ 都勾</b><br/><b>住院密切監測</b>（監視器、ICU 或 step-down）<br/>前 2–3 天用 <b>LMWH</b>，穩定再換口服<br/><b>不要直接溶栓</b>；若變成休克 → 回到 ① 給 rescue rtPA</div>
+</div>
+
+<div class="oc-q"><span class="oc-n">4</span><div><span class="oc-qt">開什麼抗凝？</span><small>預設 NOAC；先看有沒有右邊的例外</small></div></div>
+<div class="oc-split">
+<div class="oc-box b"><span class="oc-ans">預設：NOAC</span>
+<ul>
+<li><b>Apixaban</b> 10 mg bid × 7 天 → 5 mg bid</li>
+<li><b>Rivaroxaban</b> 15 mg bid × 21 天 → 20 mg qd</li>
+<li>以上兩種<b>不必先打針</b>；dabigatran、edoxaban 要先 LMWH ≥ 5 天</li>
+</ul>
+</div>
+<div class="oc-box a"><span class="oc-ans">例外</span>
+<ul>
+<li><b>UFH</b>：可能要溶栓或手術、CrCl ≤ 30、嚴重肥胖</li>
+<li><b>LMWH</b>：懷孕、癌症（GI 癌尤其）、不能口服</li>
+<li><b>VKA</b>（INR 2–3，與針劑重疊 ≥ 5 天）：<b>APS</b></li>
+<li><b>NOAC 不用</b>：懷孕哺乳、APS、CrCl &lt; 15（dabigatran &lt; 30）</li>
+</ul>
+</div>
+</div>
+
+<div class="oc-split" style="margin-top:0.9rem">
+<div class="oc-card"><div class="oc-ct">rtPA 絕對禁忌（給之前問完）</div>出血性或不明原因 stroke 病史｜6 個月內 ischaemic stroke｜CNS 腫瘤｜3 週內大外傷、手術、頭部外傷｜bleeding diathesis｜正在出血</div>
+<div class="oc-card"><div class="oc-ct">出院前交代</div>至少抗凝 <b>3 個月</b>；大手術、骨折誘發 → 3 個月可停；沒誘因、癌症、APS、反覆發生 → 考慮長期｜<b>3–6 個月回診</b>問有沒有還在喘（CTEPH）</div>
+</div>
+
+<div class="oc-foot">❌ 休克病人等 D-dimer｜❌ 高機率病人驗 D-dimer｜❌ Intermediate 或 low-risk 直接溶栓｜❌ 常規放 IVC filter（只在抗凝絕對禁忌或抗凝中仍復發）｜❌ RV failure 大量輸液｜❌ 能 NIV 就急著插管</div>
+<div class="oc-note">依 2019 ESC 急性 PE 指引（Table 4、5、7、8、10；Figure 4–6；建議表）內容自製；NOAC 起始劑量為 phase III 試驗用法</div>
 </div>
 
 > [!info] 延伸：2026 美國 PE 指引（AHA／ACC 等十個學會）
