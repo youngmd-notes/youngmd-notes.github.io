@@ -665,3 +665,94 @@ a.af-card {
     grid-template-columns: 1fr;
   }
 }
+
+// 值班流程：抗凝／溶栓時機表與標籤
+.oncall {
+  .oc-tag {
+    display: inline-block;
+    margin: 0.3rem 0.3rem 0 0;
+    padding: 0.12rem 0.5rem;
+    border-radius: 6px;
+    font-size: 0.78rem;
+    font-weight: 700;
+    border: 1.5px solid;
+    background: var(--light);
+  }
+  .oc-tag.ac {
+    border-color: var(--oc-blue);
+    color: var(--oc-blue);
+  }
+  .oc-tag.ly {
+    border-color: var(--oc-red);
+    color: var(--oc-red);
+  }
+  .oc-tag.no {
+    border-color: var(--gray);
+    color: var(--darkgray);
+  }
+  .oc-time {
+    margin: 0.8rem 0 0.4rem;
+    border: 2px solid var(--secondary);
+    border-radius: 12px;
+    overflow: hidden;
+    background: var(--light);
+    .oc-tt {
+      padding: 0.45rem 0.7rem;
+      background: var(--secondary);
+      color: var(--light);
+      font-weight: 800;
+      font-size: 0.95rem;
+    }
+    .oc-tr {
+      display: grid;
+      grid-template-columns: 1.15fr 1.3fr 1.3fr;
+      border-top: 1px solid var(--lightgray);
+      > div {
+        padding: 0.35rem 0.55rem;
+        font-size: 0.8rem;
+      }
+      > div + div {
+        border-left: 1px solid var(--lightgray);
+      }
+    }
+    .oc-th > div {
+      font-weight: 800;
+      background: var(--highlight);
+    }
+    .oc-sit {
+      font-weight: 700;
+    }
+    .yes {
+      background: #d64b4b1c;
+    }
+    .ac-now {
+      background: #3d7cc91c;
+    }
+    .wait {
+      background: #e0a1001c;
+    }
+    .oc-tf {
+      padding: 0.4rem 0.6rem;
+      font-size: 0.76rem;
+      color: var(--darkgray);
+      border-top: 1px dashed var(--lightgray);
+    }
+  }
+}
+
+@media (max-width: 760px) {
+  .oncall .oc-time .oc-th {
+    display: none;
+  }
+  .oncall .oc-time .oc-tr {
+    grid-template-columns: 1fr;
+    > div + div {
+      border-left: none;
+    }
+    > div[data-l]::before {
+      content: attr(data-l);
+      font-weight: 800;
+      margin-right: 0.3rem;
+    }
+  }
+}

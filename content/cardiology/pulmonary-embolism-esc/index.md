@@ -25,9 +25,22 @@ cssclasses:
 <div class="oncall">
 <div class="oc-start">懷疑 PE：突發喘、不明原因低血氧或 tachycardia、syncope、pleuritic chest pain（尤其術後、臥床、癌症、骨折）</div>
 
+<div class="oc-time">
+<div class="oc-tt">⏱ 先記住：什麼時候抗凝？什麼時候溶栓？</div>
+<div class="oc-tr oc-th"><div>情境</div><div>💉 抗凝</div><div>🔥 溶栓（rtPA）</div></div>
+<div class="oc-tr"><div class="oc-sit">懷疑 PE＋<b>休克</b></div><div class="ac-now" data-l="💉"><b>懷疑就打 UFH</b>，不等任何檢查</div><div class="yes" data-l="🔥"><b>要給</b>：echo 或 CTPA 確認後立刻給（I-B）</div></div>
+<div class="oc-tr"><div class="oc-sit">穩定，<b>high 或 intermediate</b> 機率</div><div class="ac-now" data-l="💉"><b>檢查中就先開始</b>（LMWH 或 NOAC，I-C）</div><div data-l="🔥">❌ 不給</div></div>
+<div class="oc-tr"><div class="oc-sit">穩定，<b>low</b> 機率</div><div class="wait" data-l="💉"><b>先不給</b>：等 D-dimer／CTPA，確診才開始</div><div data-l="🔥">❌ 不給</div></div>
+<div class="oc-tr"><div class="oc-sit">確診 <b>intermediate-high</b>（RV＋troponin）</div><div class="ac-now" data-l="💉"><b>LMWH 前 2–3 天</b>，穩定再換口服</div><div class="wait" data-l="🔥"><b>不先給</b>（III-B）：出血、ICH 風險 &gt; 好處；監測，<b>惡化才給</b></div></div>
+<div class="oc-tr"><div class="oc-sit">確診 intermediate-low／low</div><div class="ac-now" data-l="💉"><b>直接 NOAC</b></div><div data-l="🔥">❌ 不給</div></div>
+<div class="oc-tr"><div class="oc-sit"><b>抗凝中惡化</b>（變成休克）</div><div data-l="💉">繼續 UFH</div><div class="yes" data-l="🔥"><b>Rescue 溶栓</b>（I-B）；禁忌 → 外科取栓或導管</div></div>
+<div class="oc-tr"><div class="oc-sit"><b>Cardiac arrest</b> 懷疑 PE</div><div data-l="💉">UFH</div><div class="yes" data-l="🔥"><b>考慮給</b>；給完 CPR 至少 60–90 分鐘</div></div>
+<div class="oc-tf">溶栓時間窗：<b>發病 48 小時內效益最大</b>，6–14 天內仍可能有用｜rtPA 滴注時 <b>UFH 可以繼續</b>｜「預防 CTEPH」不是溶栓理由｜抗凝唯一不先給的理由：<b>正在出血或絕對禁忌</b></div>
+</div>
+
 <div class="oc-q"><span class="oc-n">1</span><div><span class="oc-qt">病人休克嗎？</span><small>任一項就算：cardiac arrest｜SBP &lt; 90 或要 vasopressor 才撐得住，且有灌流不足（意識變差、四肢冰冷、尿少、lactate ↑）｜SBP &lt; 90 或掉 ≥ 40 mmHg 持續 &gt; 15 分鐘（不是 arrhythmia、hypovolaemia、sepsis 造成）</small></div></div>
 <div class="oc-split side">
-<div class="oc-box r"><span class="oc-ans">是 → HIGH-RISK</span>
+<div class="oc-box r"><span class="oc-ans">是 → HIGH-RISK</span><br/><span class="oc-tag ac">💉 抗凝：懷疑就給 UFH</span><span class="oc-tag ly">🔥 溶栓：確認就給</span>
 <ol>
 <li><b>立刻 UFH</b> IV bolus＋持續滴注，不等檢查</li>
 <li><b>Bedside echo</b>：RV 擴大（RV/LV &gt; 1.0）嗎？<b>沒有</b> → PE 不太可能是休克原因，找 tamponade、ACS、dissection、出血</li>
@@ -42,7 +55,7 @@ cssclasses:
 
 <div class="oc-q"><span class="oc-n">2</span><div><span class="oc-qt">臨床機率高嗎？</span><small>Geneva／Wells 或臨床判斷（危險因子＋症狀，有沒有更合理的其他診斷）</small></div></div>
 <div class="oc-split">
-<div class="oc-box g"><span class="oc-ans">Low／intermediate</span>
+<div class="oc-box g"><span class="oc-ans">Low／intermediate</span><br/><span class="oc-tag ac">💉 Intermediate：檢查中先抗凝</span><span class="oc-tag no">💉 Low：確診才抗凝</span>
 <ul>
 <li>驗 <b>D-dimer</b>：&gt; 50 歲 cut-off = <b>年齡 × 10 µg/L</b>（或用 YEARS）</li>
 <li><b>陰性 → 排除 PE</b>，不必做 CT</li>
@@ -50,7 +63,7 @@ cssclasses:
 <li>Intermediate：等報告時就<b>先開始抗凝</b></li>
 </ul>
 </div>
-<div class="oc-box a"><span class="oc-ans">High</span>
+<div class="oc-box a"><span class="oc-ans">High</span><br/><span class="oc-tag ac">💉 抗凝：檢查中先給</span>
 <ul>
 <li><b>先開始抗凝</b>，不等影像</li>
 <li><b>直接 CTPA</b>，<b>不驗 D-dimer</b>（陰性也排除不了）</li>
@@ -67,9 +80,9 @@ cssclasses:
 <div><b>③ Troponin 上升</b><br/>超過該 assay 的正常上限</div>
 </div>
 <div class="oc-split three">
-<div class="oc-box g"><span class="oc-ans">LOW</span><br/><b>三格都沒勾</b><br/>可<b>早期出院、在家用 NOAC</b><br/>前提：沒有其他住院理由、有家人照顧、能回診</div>
-<div class="oc-box a"><span class="oc-ans">INTERMEDIATE-LOW</span><br/><b>有勾，但 ②③ 沒有同時勾</b><br/><b>住一般病房抗凝</b><br/>注意：sPESI 0 但 ② 或 ③ 異常也算這一格，<b>不能出院</b></div>
-<div class="oc-box o"><span class="oc-ans">INTERMEDIATE-HIGH</span><br/><b>② ＋ ③ 都勾</b><br/><b>住院密切監測</b>（監視器、ICU 或 step-down）<br/>前 2–3 天用 <b>LMWH</b>，穩定再換口服<br/><b>不要直接溶栓</b>；若變成休克 → 回到 ① 給 rescue rtPA</div>
+<div class="oc-box g"><span class="oc-ans">LOW</span><br/><span class="oc-tag no">🔥 不溶栓</span><br/><b>三格都沒勾</b><br/>可<b>早期出院、在家用 NOAC</b><br/>前提：沒有其他住院理由、有家人照顧、能回診</div>
+<div class="oc-box a"><span class="oc-ans">INTERMEDIATE-LOW</span><br/><span class="oc-tag no">🔥 不溶栓</span><br/><b>有勾，但 ②③ 沒有同時勾</b><br/><b>住一般病房抗凝</b><br/>注意：sPESI 0 但 ② 或 ③ 異常也算這一格，<b>不能出院</b></div>
+<div class="oc-box o"><span class="oc-ans">INTERMEDIATE-HIGH</span><br/><span class="oc-tag ly">🔥 先不溶栓，惡化才給</span><br/><b>② ＋ ③ 都勾</b><br/><b>住院密切監測</b>（監視器、ICU 或 step-down）<br/>前 2–3 天用 <b>LMWH</b>，穩定再換口服<br/><b>不要直接溶栓</b>；若變成休克 → 回到 ① 給 rescue rtPA</div>
 </div>
 
 <div class="oc-q"><span class="oc-n">4</span><div><span class="oc-qt">開什麼抗凝？</span><small>預設 NOAC；先看有沒有右邊的例外</small></div></div>
