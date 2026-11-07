@@ -175,6 +175,7 @@ cssclasses:
 
 - [[infectious-disease/covid-19-idsa/index|新冠肺炎 COVID-19（IDSA 指引）]]
 - [[infectious-disease/pneumonia/index|肺炎 Pneumonia（台灣肺炎診治指引 2018）]]
+- [[infectious-disease/infectious-diarrhea-idsa/index|感染性腹瀉 Infectious Diarrhea（IDSA 2017 指引）]]
 
 ## 參考資料
 

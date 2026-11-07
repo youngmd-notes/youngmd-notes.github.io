@@ -6,18 +6,20 @@ title: 內專考點總覽
 > 這頁會**自動彙整**所有筆記裡的「🎯 內專考點」，每次網站更新時重新產生，不需要手動編輯。
 > 「考過次數」把重複出現的同一題分開計算（例如 106-132／108-94 算 2 次），越多次代表越常考。
 
-目前共整理 **233 次考題**，分布在 **17 篇筆記、79 個考點**。
+目前共整理 **253 次考題**，分布在 **18 篇筆記、83 個考點**。
 
 ## 最常考的考點
 
 | 考點 | 筆記 | 考過次數 | 年份 |
 | --- | --- | --- | --- |
+| [[infectious-disease/infectious-diarrhea-idsa/dia-exam#*Clostridioides difficile*\|*Clostridioides difficile*]] | [[infectious-disease/infectious-diarrhea-idsa/dia-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 10 | 105、106、107、108、109、110、112、114 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#病毒性肝炎的血清學\|病毒性肝炎的血清學]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 10 | 105、106、108、109、112、113、114 |
 | [[infectious-disease/pneumonia/pna-exam#病原與宿主或暴露的配對\|病原與宿主或暴露的配對]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 8 | 104、107、108、109、111、112、113、114 |
 | [[cardiology/dyslipidemia-esc/lipid-esc-exam#嚴重高 TG：先控糖，LDL-C 已達標就加 fenofibrate\|嚴重高 TG：先控糖，LDL-C 已達標就加 fenofibrate]] | [[cardiology/dyslipidemia-esc/lipid-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 7 | 104、105、106、108、111、112、114 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#AS 與動態聽診\|AS 與動態聽診]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 6 | 104、107、108、114 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#ALD、NAFLD／MASLD\|ALD、NAFLD／MASLD]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 6 | 108、110、111、113、114 |
 | [[cardiology/atrial-fibrillation/af-exam#抗凝的原則：不能用 aspirin、不看 AF 類型\|抗凝的原則：不能用 aspirin、不看 AF 類型]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 6 | 105、106、109、110、111、113 |
+| [[infectious-disease/infectious-diarrhea-idsa/dia-exam#潛伏期、食物與病原配對\|潛伏期、食物與病原配對]] | [[infectious-disease/infectious-diarrhea-idsa/dia-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 6 | 105、107、108、109、112 |
 | [[infectious-disease/pneumonia/pna-exam#Legionella\|Legionella]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 6 | 105、106、108、112 |
 | [[cardiology/pulmonary-embolism-esc/pe-esc-exam#治療\|治療]] | [[cardiology/pulmonary-embolism-esc/pe-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 5 | 104、106、110、112、114 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#有症狀膽結石與膽囊疾病\|有症狀膽結石與膽囊疾病]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 5 | 105、107、113、114 |
@@ -50,6 +52,7 @@ title: 內專考點總覽
 | [[endocrinology/dka-hhs#酸鹼與電解質\|酸鹼與電解質]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 3 | 110、112 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#藥物性肝損傷（DILI）與 liver biopsy\|藥物性肝損傷（DILI）與 liver biopsy]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 104、111 |
 | [[infectious-disease/covid-19-idsa/covid-exam#COVID-19 臨床與病理\|COVID-19 臨床與病理]] | [[infectious-disease/covid-19-idsa/covid-exam#🎯 內專考點\|⑦內專考點 Board Exam Review]] | 3 | 109、110 |
+| [[infectious-disease/infectious-diarrhea-idsa/dia-exam#*Salmonella*、*Campylobacter* 與傷寒\|*Salmonella*、*Campylobacter* 與傷寒]] | [[infectious-disease/infectious-diarrhea-idsa/dia-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 3 | 107、108、110 |
 | [[nephrology/renal-tubular-acidosis#Type 4 RTA：糖尿病\|Type 4 RTA：糖尿病]] | [[nephrology/renal-tubular-acidosis#🎯 內專考點\|腎小管酸中毒 Renal Tubular Acidosis]] | 3 | 104、106、109 |
 | [[cardiology/atrial-fibrillation/af-exam#DOAC 的機轉與解毒劑\|DOAC 的機轉與解毒劑]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 105、107、109 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#HCM：猝死危險因子\|HCM：猝死危險因子]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 3 | 104、108、109 |
@@ -71,6 +74,7 @@ title: 內專考點總覽
 | [[gastroenterology/abnormal-liver-tests/liver-exam#Hyperbilirubinemia 與 Gilbert\|Hyperbilirubinemia 與 Gilbert]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 107、108 |
 | [[infectious-disease/influenza-idsa/flu-exam#禽流感與新型 A 型流感\|禽流感與新型 A 型流感]] | [[infectious-disease/influenza-idsa/flu-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 104、106 |
 | [[pulmonology/emergent-airway-management#HFNC 的生理效應\|HFNC 的生理效應]] | [[pulmonology/emergent-airway-management#🎯 內專考點\|緊急呼吸道處置 Emergent Airway Management]] | 1 | 114 |
+| [[infectious-disease/infectious-diarrhea-idsa/dia-exam#阿米巴\|阿米巴]] | [[infectious-disease/infectious-diarrhea-idsa/dia-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 1 | 114 |
 | [[nephrology/calcium-phosphate-disorders#低血鈣\|低血鈣]] | [[nephrology/calcium-phosphate-disorders#🎯 內專考點\|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]] | 1 | 113 |
 | [[nephrology/hemodialysis-emergencies#透析中低血壓\|透析中低血壓]] | [[nephrology/hemodialysis-emergencies#🎯 內專考點\|血液透析急症 Hemodialysis Emergencies]] | 1 | 111 |
 | [[nephrology/hemodialysis-emergencies#Vascular access 理學檢查\|Vascular access 理學檢查]] | [[nephrology/hemodialysis-emergencies#🎯 內專考點\|血液透析急症 Hemodialysis Emergencies]] | 1 | 111 |
@@ -393,6 +397,38 @@ title: 內專考點總覽
 
 - 106-117｜幫呼吸困難病人插管的標準防護
 - 111-088｜酒精乾洗手能清除哪些病原？
+
+### ⑤內專考點 Board Exam Review
+
+**[[infectious-disease/infectious-diarrhea-idsa/dia-exam#潛伏期、食物與病原配對|潛伏期、食物與病原配對]]**（6 次）
+
+- 105-096｜喜宴後 3 小時上吐下瀉
+- 107-117｜吃蛋沙拉 3 小時後急性腹痛、嘔吐、腹瀉
+- 108-113｜郵輪上多人發燒腹痛腹瀉
+- 108-115｜吃生豬肉後發燒、右下腹痛，像盲腸炎
+- 109-105｜食媒性疾病配對，哪個最不正確？
+- 112-092｜急性血便（dysentery）的可能病原組合
+
+**[[infectious-disease/infectious-diarrhea-idsa/dia-exam#*Salmonella*、*Campylobacter* 與傷寒|*Salmonella*、*Campylobacter* 與傷寒]]**（3 次）
+
+- 107-103｜Non-typhoidal Salmonella 誰要給抗生素？
+- 108-103｜Campylobacter 對 levofloxacin 抗藥，但病人已經好了
+- 110-084｜高燒、相對心搏過緩、紅斑疹、肝脾腫大，血液培養 GNB
+
+**[[infectious-disease/infectious-diarrhea-idsa/dia-exam#阿米巴|阿米巴]]**（1 次）
+
+- 114-081｜MSM 發燒水瀉，升結腸潰瘍切片見 trophozoites
+
+**[[infectious-disease/infectious-diarrhea-idsa/dia-exam#*Clostridioides difficile*|*Clostridioides difficile*]]**（10 次）
+
+- 105-106、108-093、110-077｜C. difficile 敘述哪個正確？（三題相同）
+- 106-100｜C. difficile 敘述哪個正確？（IV vancomycin 治多次復發）
+- 105-118｜C. difficile 敘述何者錯誤？（酒精乾洗手）
+- 112-088｜C. difficile 敘述何者錯誤？（傳播與危險因子）
+- 107-118｜NAP1/BI/027 菌株，何者錯誤？
+- 109-118｜化療病人抗生素後腹瀉，懷疑 CDI，何者錯誤？
+- 114-085｜C. difficile 敘述何者正確？（PPI、培養、IV vancomycin）
+- 114-095｜CDI 敘述，哪些都不適當？（027 用 metronidazole、IV vancomycin taper）
 
 ### ⑤內專考點 Board Exam Review
 
