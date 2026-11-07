@@ -67,6 +67,34 @@ tags:
 | 22 | 健康門診的單純流感：**oseltamivir 或 zanamivir × 5 天**，或 **peramivir IV 單劑** | **A-I** |
 | 23 | **免疫不全**，或因**嚴重下呼吸道疾病（pneumonia、ARDS）住院** → 可考慮**延長療程**（病毒複製常拖很久） | C-III |
 
+### 四種藥怎麼比（重新整理）
+
+| | **Oseltamivir** | **Zanamivir** | **Peramivir** | 🆕 **Baloxavir** |
+| --- | --- | --- | --- | --- |
+| **機轉** | **Neuraminidase inhibitor**（阻止新病毒釋出） | Neuraminidase inhibitor | Neuraminidase inhibitor | **Cap-dependent endonuclease（PA）inhibitor**（阻止病毒 mRNA 合成） |
+| **途徑與療程** | **PO bid × 5 天** | **吸入** bid × 5 天 | **IV 單次** | **PO 單劑** |
+| **A、B 型** | 都有效 | 都有效 | 都有效 | 都有效；**B 型症狀改善比 oseltamivir 快約 27 小時** |
+| **治療年齡**（CDC／FDA） | **所有年齡**（含早產兒） | ≥ 7 歲 | ≥ 6 個月 | ≥ 5 歲（高風險 ≥ 12 歲） |
+| **預防** | **≥ 3 個月**，qd | ≥ 5 歲，qd | **不用於預防** | ≥ 5 歲，**單劑** |
+| **住院、重症** | **==首選==**（可鼻胃管） | 資料很少；**插管不可霧化** | 不能口服時；住院 qd 未優於安慰劑 | **加在 NAI 上沒有好處** |
+| **孕婦** | **==首選==**（安全資料最多） | 預防可考慮（全身暴露少） | 資料很少 | **沒有資料** |
+| **腎功能** | **要調整**（CrCl ≤ 60） | 不需 | **要調整**（CrCl < 50 減量） | CrCl ≥ 50 不需調整（更差者沒有研究） |
+| **主要副作用** | **噁心、嘔吐** | **Bronchospasm**（asthma、COPD 避免） | 與安慰劑相似 | 與安慰劑相似；別配乳製品、制酸劑、鈣鐵鎂 |
+| **抗藥** | **H275Y**（N1）→ 高度抗藥 | **H275Y 仍有效** | H275Y 降低感受性 | **約 10% 治療中出現抗藥突變**（PA I38T） |
+| **證據** | RCT：症狀縮短 1–2 天；住院觀察性研究改善存活 | RCT：oseltamivir 的病毒下降與症狀緩解**優於** zanamivir | 門診單純流感 | RCT：單劑與 oseltamivir 5 天**效果相當**，病毒排出更快（24 vs 72 h） |
+
+> [!tip] 選藥邏輯：由上往下，第一個符合就用
+> 1. **住院、重症、孕婦、免疫不全、嬰兒** → **Oseltamivir**（不加 baloxavir、不合併兩種 NAI）
+> 2. **不能口服或吸收有疑慮**（嚴重嘔吐、腸胃道問題） → **Peramivir IV**
+> 3. **懷疑或確定 oseltamivir 抗藥（H275Y）** → **Zanamivir 吸入**，並會診專家
+> 4. **門診單純流感、48 小時內、≥ 5 歲、想要一次解決** → **Baloxavir 單劑**或 oseltamivir 5 天（效果相當）；**有 asthma、COPD 不用 zanamivir**
+> 5. **不用** amantadine、rimantadine（只對 A 型、普遍抗藥）
+
+> [!warning] Pitfall
+> - **四種藥不要合併使用**（rec 20）：oseltamivir＋zanamivir 合併反而**不比** oseltamivir 單用好；oseltamivir＋amantadine＋ribavirin 只讓病毒稍微下降、臨床沒差
+> - Baloxavir 是**單劑**：預防中或治療後**又發病**、或**免疫不全**長期排毒時，要想到 baloxavir 抗藥
+> - Zanamivir 是乾粉吸入劑：**老人、認知障礙、低血氧未插管**的病人常吸不好
+
 ### 藥物與劑量（重新整理）
 
 | 藥物 | 途徑 | 成人治療 | 成人預防 | 重點 |

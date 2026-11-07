@@ -108,6 +108,18 @@ cssclasses:
 <div class="oc-note">依 IDSA 2018 季節性流感指引 Recommendation 1–58、Table 4、7、8、9、10、Figure 1 內容自製；🆕 標示 FDA 核准的 baloxavir（CDC 用藥表）與 Tamiflu 仿單腎功能劑量</div>
 </div>
 
+## 📌 必看表：四種流感藥怎麼選
+
+| 藥物 | 一句話定位 | 成人劑量 | 什麼時候用 | 不要用在 |
+| --- | --- | --- | --- | --- |
+| **Oseltamivir**（NAI，PO） | **==萬用首選==** | 治療 **75 mg bid × 5 天**；預防 **75 mg qd**；**CrCl 30–60 → 30 mg bid** | **住院、重症、孕婦、免疫不全、嬰兒**；預防 | 嚴重嘔吐吃不下 |
+| **Peramivir**（NAI，IV） | **不能口服時的針劑** | **600 mg IV 單次**（CrCl &lt; 50 減量） | 嘔吐、腸胃吸收差 | 預防 |
+| **Zanamivir**（NAI，吸入） | **Oseltamivir 抗藥時的備案** | **10 mg 吸入 bid × 5 天**；預防 qd | **H275Y 抗藥**（仍有效）；孕婦預防可考慮 | **Asthma、COPD**（bronchospasm）、**插管霧化**（致死）、吸不好的老人 |
+| 🆕 **Baloxavir**（PA endonuclease inhibitor，PO） | **門診一次解決** | **單劑**：20–80 kg **40 mg**、≥ 80 kg **80 mg** | 門診 48 h 內、≥ 5 歲（高風險 ≥ 12 歲）；**暴露後預防單劑** | **住院**（加上去沒好處）、孕婦、嚴重免疫不全（沒資料）；別配乳製品、制酸劑 |
+| Amantadine、rimantadine（M2） | **不用** | — | — | 全部（只對 A 型、普遍抗藥） |
+
+**共同原則**：**單一藥物**，不合併、不常規加大劑量；oseltamivir 與 baloxavir 門診效果相當，**oseltamivir 優於 zanamivir**；B 型 baloxavir 症狀改善稍快。詳細比較見 [[infectious-disease/influenza-idsa/flu-2-treatment#四種藥怎麼比重新整理|② 四種藥怎麼比]]。
+
 ## 📌 必看表：48 小時規則到底適用誰
 
 | 族群 | 發病多久內給？ | 依據 |
@@ -139,7 +151,7 @@ cssclasses:
 </a>
 <a class="af-card internal" href="/infectious-disease/influenza-idsa/flu-2-treatment">
 <div class="af-num">②</div>
-<div class="af-body"><div class="af-title">抗病毒治療與併發症</div><div class="af-desc"><b>誰要治療（48 小時迷思）</b>、oseltamivir／zanamivir／peramivir 劑量、孕婦與兒童、<b>細菌合併感染</b>、治療失敗的鑑別、<b>NAI 抗藥</b>、<b>不給類固醇</b>；🆕 baloxavir、腎功能劑量</div><div class="af-cover">Rec 18–31｜Table 8、9</div></div>
+<div class="af-body"><div class="af-title">抗病毒治療與併發症</div><div class="af-desc"><b>誰要治療（48 小時迷思）</b>、oseltamivir／zanamivir／peramivir 劑量、孕婦與兒童、<b>細菌合併感染</b>、治療失敗的鑑別、<b>NAI 抗藥</b>、<b>不給類固醇</b>；<b>四種藥比較與選藥邏輯</b>；🆕 baloxavir、腎功能劑量</div><div class="af-cover">Rec 18–31｜Table 8、9</div></div>
 </a>
 <a class="af-card internal" href="/infectious-disease/influenza-idsa/flu-3-chemoprophylaxis">
 <div class="af-num">③</div>
