@@ -15,77 +15,97 @@ cssclasses:
 > [!abstract] 一句話重點
 > 2024 ESC 把 AF 照護整理成 **AF-CARE**：**[C] 共病與危險因子 → [A] 預防中風 → [R] 心率與節律控制 → [E] 定期再評估**。抗凝看 **CHA₂DS₂-VA（≥ 2 分給 OAC）**，不看 AF 類型；rate control 先看 **LVEF**。
 
-## 🌳 臨床決策圖：AF 病人在眼前
+## 🌳 值班決策流程：照順序回答 4 個問題
 
-<div class="bdt">
-<div class="bdt-start">ECG 確認 AF（或 atrial flutter）</div>
-<div class="bdt-down">↓</div>
-<div class="bdt-q">血行動力不穩定嗎？（休克、急性心衰竭、缺血）</div>
-<div class="bdt-two" style="margin-top:0.4rem">
-<div class="bdt-step r"><span class="bdt-lab">是</span><br/><b>緊急電擊整流（I）</b>，之後盡快確認抗凝</div>
-<div class="bdt-step g"><span class="bdt-lab">否</span><br/>下面<b>三件事同時做</b>：抗凝、控速、決定要不要恢復竇性節律</div>
+<div class="oncall">
+<div class="oc-start">ECG 確認 AF（irregularly irregular、沒有 P wave）或 atrial flutter</div>
+
+<div class="oc-time">
+<div class="oc-tt">⏱ 先記住：什麼時候可以整流？抗凝怎麼配？</div>
+<div class="oc-tr oc-th"><div>情境</div><div>💓 心律處置</div><div>💉 抗凝</div></div>
+<div class="oc-tr"><div class="oc-sit"><b>不穩定</b>：休克、急性 HF、缺血</div><div class="yes" data-l="💓"><b>緊急電擊整流</b>（I），不等抗凝</div><div class="ac-now" data-l="💉">盡快開始；<b>整流後 ≥ 4 週</b></div></div>
+<div class="oc-tr"><div class="oc-sit">穩定、<b>確定 &lt; 24 h</b></div><div class="ac-now" data-l="💓">控速；可<b>直接整流</b>，或<b>觀察 48 h</b> 等自己好（IIa）</div><div class="ac-now" data-l="💉">先開始；整流後 ≥ 4 週（低風險可省略）</div></div>
+<div class="oc-tr"><div class="oc-sit">穩定、<b>≥ 24 h 或不確定</b></div><div class="wait" data-l="💓">先控速；<b>不要直接整流</b>（III）</div><div class="ac-now" data-l="💉"><b>規律抗凝 ≥ 3 週</b>或 <b>TEE 排除血栓</b>才整流；整流後 ≥ 4 週</div></div>
+<div class="oc-tr"><div class="oc-sit"><b>Pre-excited AF（WPW）</b></div><div class="yes" data-l="💓"><b>所有 AV node 阻斷劑禁用</b>（含 IV amiodarone）；不穩定就電擊</div><div class="ac-now" data-l="💉">同上規則</div></div>
+<div class="oc-tr"><div class="oc-sit">之後長期</div><div class="wait" data-l="💓">見 ③ 控速、④ 節律</div><div class="ac-now" data-l="💉">依 <b>CHA₂DS₂-VA</b>（見 ②），<b>與 AF 類型、心律無關</b></div></div>
+<div class="oc-tf">新發 AF <b>76–83% 會自行恢復</b>（24 h 內約 55–66%）｜先找誘因：sepsis、hypovolemia、hyperthyroidism、電解質、酒精、術後｜<b>整流後 4 週抗凝不看分數</b>，連 0 分也要</div>
 </div>
-<div class="bdt-panel">
-<div class="bdt-ptitle"><span class="bdt-name">① 抗凝：要不要？用哪個？</span><span class="bdt-sub">[A]｜看栓塞風險，<b>跟 AF 類型、心律都無關</b>，全程獨立</span></div>
-<div class="bdt-sec">算 CHA₂DS₂-VA（2024 版，不算性別）</div>
-<div class="bdt-score"><span><b>C</b> 心衰竭（不分 LVEF）1</span><span><b>H</b> 高血壓 1</span><span><b>A</b> ≥ 75 歲 2</span><span><b>D</b> 糖尿病 1</span><span><b>S</b> 中風／TIA／栓塞 2</span><span><b>V</b> 血管疾病 1</span><span><b>A</b> 65–74 歲 1</span></div>
-<div class="bdt-path" style="margin-top:0.3rem">
-<div class="bdt-two"><span class="bdt-step r"><b>≥ 2 分 → 給 OAC（I）</b></span><span class="bdt-step a"><b>1 分 → 考慮 OAC（IIa）</b>，共同決策</span></div>
-<span class="bdt-step g">0 分 → 不需要長期抗凝（但<b>整流前後仍要</b>，見 ③）</span>
-<span class="bdt-arrow">↓</span>
-<span class="bdt-step b"><b>選藥：優先 DOAC（I）</b>｜機械瓣或中重度 mitral stenosis → <b>warfarin</b>（INR 2.0–3.0）</span>
+
+<div class="oc-q"><span class="oc-n">1</span><div><span class="oc-qt">血行動力不穩定嗎？</span><small>休克、急性心衰竭（pulmonary edema）、持續缺血或胸痛</small></div></div>
+<div class="oc-split side">
+<div class="oc-box r"><span class="oc-ans">是 → 緊急電擊整流（I）</span>
+<ol>
+<li><b>同步電擊</b>（鎮靜後），不必等抗凝或 TEE</li>
+<li>同時開始抗凝（UFH 或 DOAC），<b>整流後至少 4 週</b></li>
+<li>電擊失敗或反覆復發 → IV <b>amiodarone</b> 300 mg 加 D5W 250 mL 30–60 分鐘，再 900–1200 mg／24 h（中心靜脈）</li>
+<li>LVEF 很差、敗血性休克要控速 → IV amiodarone、<b>landiolol</b>（1–10 µg/kg/min 起）或 digoxin（IIb）</li>
+</ol>
 </div>
-<div class="bdt-sec">DOAC 劑量（原則上用標準劑量，不符合條件不可減量）</div>
-<div class="bdt-mini">
-<div class="h">藥物</div><div class="h">標準</div><div class="h">減量條件</div><div class="h">減量後</div>
-<div><b>Apixaban</b></div><div>5 mg BID</div><div>三項中<b>兩項</b>：≥ 80 歲、≤ 60 kg、Cr ≥ 1.5 mg/dL</div><div>2.5 mg BID</div>
-<div><b>Dabigatran</b></div><div>150 mg BID</div><div>≥ 80 歲或併用 verapamil（75–80 歲、CrCl 30–50 個別考慮）</div><div>110 mg BID</div>
-<div><b>Edoxaban</b></div><div>60 mg QD</div><div>任一：CrCl 15–50、≤ 60 kg、併用 dronedarone 等 P-gp 抑制劑</div><div>30 mg QD</div>
-<div><b>Rivaroxaban</b></div><div>20 mg QD</div><div>CrCl 15–49</div><div>15 mg QD</div>
+<div class="oc-box b"><span class="oc-ans">否</span><br/>穩定 → 下面 <b>②③④ 同時做</b>：抗凝、控速、決定要不要恢復竇性節律</div>
 </div>
-<div class="bdt-foot">❌ Aspirin 不能取代抗凝（III）　❌ 出血分數不是不抗凝的理由，要去矯正可改變的出血因子（III）　❌ 恢復竇性節律或燒灼成功<b>不停抗凝</b></div>
+
+<div class="oc-q"><span class="oc-n">2</span><div><span class="oc-qt">要不要長期抗凝？用哪個？</span><small>算 <b>CHA₂DS₂-VA</b>（2024 版，<b>不算性別</b>），最高 8 分</small></div></div>
+<div class="oc-check">
+<div><b>C</b>：心衰竭（不分 LVEF）1</div>
+<div><b>H</b>：高血壓 1</div>
+<div><b>A₂</b>：年齡 ≥ 75 歲 2</div>
+<div><b>D</b>：糖尿病 1</div>
+<div><b>S₂</b>：中風、TIA、血栓栓塞 2</div>
+<div><b>V</b>：血管疾病（MI、PAD、複雜主動脈斑塊）1｜<b>A</b>：65–74 歲 1</div>
 </div>
-<div class="bdt-panel">
-<div class="bdt-ptitle"><span class="bdt-name">② 控速：每個人都要做</span><span class="bdt-sub">[R]｜rate control 是基本盤，也是 rhythm control 的保護</span></div>
-<div class="bdt-gate"><b>先看 LVEF</b></div>
-<div class="bdt-two">
-<div class="bdt-step a"><span class="bdt-lab">LVEF ≤ 40%</span><br/><b>Beta-blocker 或 digoxin</b><br/>❌ 不可用 diltiazem、verapamil</div>
-<div class="bdt-step g"><span class="bdt-lab">LVEF > 40%</span><br/><b>Beta-blocker、diltiazem、verapamil 或 digoxin</b></div>
+<div class="oc-split three">
+<div class="oc-box r"><span class="oc-ans">≥ 2 分 → 給 OAC（I）</span><br/>優先 <b>DOAC</b>（I）</div>
+<div class="oc-box a"><span class="oc-ans">1 分 → 考慮 OAC（IIa）</span><br/>和病人共同決策</div>
+<div class="oc-box g"><span class="oc-ans">0 分 → 不需長期抗凝</span><br/>但<b>整流前後仍要</b>；每次再評估重算</div>
 </div>
-<div class="bdt-path" style="margin-top:0.3rem">
-<span class="bdt-arrow">↓</span>
-<span class="bdt-step g">目標：<b>休息心率 < 110 bpm</b>（寬鬆控制）；仍有症狀再嚴格一點</span>
-<span class="bdt-arrow">↓ 不夠</span>
-<span class="bdt-step a">合併兩種 rate control（IIa），注意心搏過慢</span>
-<span class="bdt-arrow">↓ 仍不行</span>
-<span class="bdt-step r">AV node 燒灼＋節律器（IIa）；嚴重症狀且曾因 HF 住院 → ＋CRT</span>
+<div class="oc-rx" style="margin-top:0.6rem">
+<div class="oc-rxh">💊 選藥：由上往下，第一個符合就停</div>
+<div class="oc-rr"><div class="oc-k k-r">1</div><div class="oc-if"><b>機械瓣</b>或<b>中重度 mitral stenosis</b>？</div><div class="oc-drug"><b>Warfarin</b>，INR <b>2.0–3.0</b>；<b>DOAC 不能用</b></div></div>
+<div class="oc-rr"><div class="oc-k k-o">2</div><div class="oc-if">同時要<b>抗血小板</b>（ACS、PCI）？</div><div class="oc-drug">DOAC 優先；P2Y12 用 <b>clopidogrel</b>｜<b>三合一 ≤ 1 週</b>（缺血風險高 ≤ 1 個月）→ OAC＋clopidogrel 到 <b>ACS 12 個月、CCS 6 個月</b> → <b>只用 OAC</b></div></div>
+<div class="oc-rr"><div class="oc-k k-g">3</div><div class="oc-if">其他（大多數）</div><div class="oc-drug"><b>Apixaban 5 mg BID</b>：≥ 80 歲、≤ 60 kg、Cr ≥ 1.5 <b>三項中兩項</b> → 2.5 mg BID<br/><b>Rivaroxaban 20 mg QD</b>：CrCl 15–49 → 15 mg QD<br/><b>Edoxaban 60 mg QD</b>：CrCl 15–50、≤ 60 kg、併用 dronedarone 等 P-gp 抑制劑<b>任一</b> → 30 mg QD<br/><b>Dabigatran 150 mg BID</b>：≥ 80 歲或併用 verapamil → 110 mg BID（75–80 歲、CrCl 30–50 個別考慮）</div></div>
+<div class="oc-rf"><b>不符合減量條件不要減量</b>（III）｜❌ Aspirin 不能取代抗凝（III）｜❌ 出血分數高不是不抗凝的理由 → 矯正可改變的出血因子（BP、酒精、NSAID、抗血小板、貧血）｜❌ 恢復竇性節律或燒灼成功<b>不停抗凝</b>｜出血後原因處理好，目標是<b>重新開始</b></div>
+</div>
+
+<div class="oc-q"><span class="oc-n">3</span><div><span class="oc-qt">怎麼控速？</span><small>每個人都要做；目標<b>休息心率 &lt; 110</b>（寬鬆控制），仍有症狀再嚴格一點｜由上往下，第一個符合就用</small></div></div>
+<div class="oc-rx">
+<div class="oc-rxh">💓 Rate control：先看 WPW 和 LVEF</div>
+<div class="oc-rr"><div class="oc-k k-r">1</div><div class="oc-if"><b>WPW／pre-excited AF</b></div><div class="oc-drug"><b>禁用所有 AV node 阻斷劑</b>（beta-blocker、diltiazem、verapamil、digoxin、<b>IV amiodarone</b>）→ 可能變 VF；不穩定電擊</div></div>
+<div class="oc-rr"><div class="oc-k k-o">2</div><div class="oc-if">血行動力邊緣或 <b>LVEF 很差</b></div><div class="oc-drug"><b>IV amiodarone</b>、<b>landiolol</b>、<b>digoxin</b>（IIb）</div></div>
+<div class="oc-rr"><div class="oc-k k-a">3</div><div class="oc-if"><b>LVEF ≤ 40%</b></div><div class="oc-drug"><b>Beta-blocker</b>（metoprolol 2.5–5 mg IV 推 2 分鐘，累積 ≤ 15 mg）和／或 <b>digoxin</b> 0.5 mg IV（24 h 共 0.75–1.5 mg，查腎功能）<br/>❌ <b>不可用 diltiazem、verapamil</b></div></div>
+<div class="oc-rr"><div class="oc-k k-g">4</div><div class="oc-if"><b>LVEF &gt; 40%</b></div><div class="oc-drug"><b>Beta-blocker</b>，或 <b>diltiazem 0.25 mg/kg IV 推 5 分鐘 → 5–15 mg/h</b>、verapamil 2.5–10 mg IV；比 digoxin 起效快<br/>口服：bisoprolol 1.25–20 mg QD、diltiazem 60 mg TID 起</div></div>
+<div class="oc-rr"><div class="oc-k k-b">5</div><div class="oc-if">單藥不夠</div><div class="oc-drug"><b>合併兩種</b>（IIa），注意 bradycardia（BB＋non-DHP CCB 要密切監測）→ 仍不行：<b>AV node 燒灼＋節律器</b>（IIa）；嚴重症狀且曾因 HF 住院 → ＋<b>CRT</b></div></div>
+<div class="oc-rf">急性期先處理誘因（sepsis、volume overload、心因性休克），心跳常會跟著下來｜❌ Permanent AF 不用 dronedarone 控速</div>
+</div>
+
+<div class="oc-q"><span class="oc-n">4</span><div><span class="oc-qt">要不要恢復竇性節律？</span><small>先過 ⏱ 表的抗凝門檻，再選方法；長期決定看症狀與 LVEF</small></div></div>
+<div class="oc-split">
+<div class="oc-box a"><span class="oc-ans">現在整流：選哪一種？</span>
+<ul>
+<li><b>電擊</b>：成功率最高；事先給 amiodarone、flecainide、ibutilide 可減少早期復發</li>
+<li><b>心臟正常</b>（無嚴重 LVH、HFrEF、CAD）→ <b>flecainide</b> 200–300 mg PO 或 2 mg/kg IV、<b>propafenone</b> 450–600 mg PO（I），<b>要併用 AV node 阻斷劑</b>；偶發者可試 <b>pill-in-the-pocket</b></li>
+<li>無近期 ACS、HFrEF、嚴重 AS、SBP ≥ 100 → <b>vernakalant</b> 3 mg/kg IV（I），10 分鐘內約 5 成轉回</li>
+<li><b>嚴重 LVH、HFrEF、CAD</b> → <b>IV amiodarone</b>（I），較慢（約 24 h）</li>
+<li>Atrial flutter → ibutilide（60–75%）或電擊；<b>IC 類不能轉 flutter</b></li>
+<li>竇房結病變、AV block、<b>QTc &gt; 500</b> → 不做藥物整流（III）</li>
+</ul>
+</div>
+<div class="oc-box b"><span class="oc-ans">長期要不要加 rhythm control？</span>
+<ul>
+<li><b>偏向加做</b>：控速後<b>仍有症狀</b>｜<b>LVEF 下降</b>、懷疑 tachycardiomyopathy｜<b>診斷 ≤ 12 個月</b>＋心血管風險（IIa）｜AF 史短、LA 不大</li>
+<li><b>偏向只控速</b>：共同決定為 permanent AF｜症狀少｜LA 很大、AF 很久</li>
+<li><b>Paroxysmal</b>：<b>燒灼或藥物都是第一線</b>（I）｜<b>Persistent</b>：先藥物（I），燒灼第一線 IIb、藥物失敗後 I</li>
+<li>長期藥物：<b>HFrEF → 只有 amiodarone</b>｜HFmrEF、HFpEF、CAD、瓣膜病 → <b>dronedarone</b> 400 mg BID｜心臟正常 → flecainide、propafenone（＋rate control）</li>
+</ul>
 </div>
 </div>
-<div class="bdt-panel">
-<div class="bdt-ptitle"><span class="bdt-name">③ 節律：現在要整流嗎？長期要加 rhythm control 嗎？</span><span class="bdt-sub">[R]｜整流前後的抗凝規則<b>不看 CHA₂DS₂-VA</b></span></div>
-<div class="bdt-sec">A. 現在要整流嗎？（穩定病人）</div>
-<div class="bdt-gate"><b>已規律抗凝 ≥ 3 週？</b></div>
-<div class="bdt-row"><div class="bdt-grade g">是</div><div class="bdt-path"><span class="bdt-step g">可藥物或電擊整流（IIa），或先觀察是否自行恢復</span></div></div>
-<div class="bdt-row"><div class="bdt-grade a">否</div><div class="bdt-path"><span class="bdt-step a">先開始抗凝；新發 AF 可<b>觀察 48 h</b> 等自行恢復（IIa，約 7–8 成會自己好）</span><div class="bdt-two"><span class="bdt-step g"><span class="bdt-lab">發作 < 24 h</span><br/>可整流</span><span class="bdt-step r"><span class="bdt-lab">≥ 24 h 或不確定</span><br/><b>TEE 排除血栓</b>後整流，或抗凝滿 3 週</span></div></div></div>
-<div class="bdt-step r" style="margin:0.3rem 0"><b>整流後：所有人抗凝 ≥ 4 週</b>（即使 0 分；只有確定 < 24 h 且低風險可省略）；長期抗凝回到 ① 依分數決定</div>
-<div class="bdt-sec">B. 長期要不要加 rhythm control？</div>
-<div class="bdt-two">
-<div class="bdt-step a"><span class="bdt-lab">偏向加做</span><br/>控速後<b>仍有症狀</b>｜<b>LVEF 下降</b>，懷疑心搏過速心肌病變｜<b>診斷 ≤ 12 個月</b>＋心血管風險（IIa）｜AF 病史短、LA 不大</div>
-<div class="bdt-step g"><span class="bdt-lab">偏向只控速</span><br/>共同決定為 <b>permanent AF</b>｜症狀少、病人不想做｜LA 明顯擴大、AF 很久</div>
+
+<div class="oc-split" style="margin-top:0.9rem">
+<div class="oc-card"><div class="oc-ct">[C] 共病與危險因子：每個人都要做</div>高血壓治療｜HF：利尿劑、GDMT、<b>SGLT2i</b>｜過重者<b>減重 ≥ 10%</b>｜<b>酒精 ≤ 3 份／週</b>｜DM 控制｜運動計畫｜治療 <b>OSA</b></div>
+<div class="oc-card"><div class="oc-ct">[E] 再評估</div><b>診斷後 6 個月、之後每年</b>，以及每次發作或住院 → 重算 CHA₂DS₂-VA、檢視出血因子、腎功能（調 DOAC 劑量）、症狀與共病</div>
 </div>
-<div class="bdt-sec">選哪一種？</div>
-<div class="bdt-two">
-<div class="bdt-step b"><span class="bdt-lab">依 AF 類型</span><br/><b>Paroxysmal</b>：導管燒灼或抗心律不整藥，<b>都是第一線（I）</b><br/><b>Persistent</b>：抗心律不整藥（I）；燒灼當第一線（IIb），藥物失敗後燒灼（I）</div>
-<div class="bdt-step b"><span class="bdt-lab">抗心律不整藥依心臟狀況</span><br/><b>HFrEF</b>：只有 <b>amiodarone</b>（懷疑 tachycardiomyopathy → 燒灼 I）<br/><b>HFmrEF、CAD、瓣膜病</b>：amiodarone 或 dronedarone<br/><b>心臟正常</b>：flecainide、propafenone（<b>要併用 rate control</b>）或 dronedarone</div>
-</div>
-</div>
-<div class="bdt-panel">
-<div class="bdt-ptitle"><span class="bdt-name">④ 別忘了：共病與再評估</span><span class="bdt-sub">[C]＋[E]</span></div>
-<div class="bdt-score"><span>高血壓治療</span><span>HF：利尿劑、HFrEF 藥物、<b>SGLT2i</b></span><span>減重 <b>10%</b></span><span>酒精 ≤ 3 份／週</span><span>控制 DM</span><span>運動計畫</span><span>治療 OSA</span></div>
-<div class="bdt-foot">🔁 再評估時機：<b>診斷後 6 個月、之後每年</b>，以及每次發作或住院時 → 重算 CHA₂DS₂-VA、出血因子、症狀與共病</div>
-</div>
-<div class="bdt-legend"><span class="l-r">關鍵／緊急處置</span><span class="l-a">看條件或反應決定</span><span class="l-g">可接受／可擇期</span><span class="l-b">選藥與方式</span></div>
-<div class="bdt-note">依 2024 ESC AF 指引內容自製（AF-CARE、Figure 4–7、12、Table 10–13）；細節與證據等級見各分篇</div>
+
+<div class="oc-foot">❌ ≥ 24 h 或不確定、沒抗凝也沒 TEE 就整流｜❌ 整流後因為 0 分就不抗凝｜❌ WPW 用 AV node 阻斷劑或 IV amiodarone｜❌ HFrEF 用 diltiazem、verapamil｜❌ Aspirin 代替 OAC｜❌ 不符合條件就把 DOAC 減量｜❌ 機械瓣用 DOAC｜❌ IC 類藥物用在 CAD、HFrEF，或不併用 rate control｜❌ 燒灼成功就停抗凝</div>
+<div class="oc-note">依 2024 ESC AF 指引內容自製（AF-CARE；Figure 4–7、12、14；Table 10–13）；細節與證據等級見各分篇</div>
 </div>
 
 本篇依 **2024 ESC AF 指引**，把指引中的 Table 1–17、Figure 1–16 分成 5 篇整理，再加上第 6 篇內專考點，點下方卡片進入各篇。
