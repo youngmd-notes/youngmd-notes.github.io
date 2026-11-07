@@ -6,7 +6,7 @@ title: 內專考點總覽
 > 這頁會**自動彙整**所有筆記裡的「🎯 內專考點」，每次網站更新時重新產生，不需要手動編輯。
 > 「考過次數」把重複出現的同一題分開計算（例如 106-132／108-94 算 2 次），越多次代表越常考。
 
-目前共整理 **211 次考題**，分布在 **15 篇筆記、72 個考點**。
+目前共整理 **224 次考題**，分布在 **16 篇筆記、76 個考點**。
 
 ## 最常考的考點
 
@@ -31,8 +31,10 @@ title: 內專考點總覽
 | [[nephrology/nephrotic-syndrome#從臨床與病理判斷 MCD、FSGS\|從臨床與病理判斷 MCD、FSGS]] | [[nephrology/nephrotic-syndrome#🎯 內專考點\|腎病症候群 Nephrotic Syndrome]] | 4 | 105、107、111、113 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#VT 與 wide complex tachycardia\|VT 與 wide complex tachycardia]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 4 | 104、108、109、113 |
 | [[infectious-disease/pneumonia/pna-exam#CURB-65 與門診處置\|CURB-65 與門診處置]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 104、109、111、113 |
+| [[infectious-disease/covid-19-idsa/covid-exam#治療藥物：機轉、適應症與劑量\|治療藥物：機轉、適應症與劑量]] | [[infectious-disease/covid-19-idsa/covid-exam#🎯 內專考點\|⑦內專考點 Board Exam Review]] | 4 | 110、111、112 |
 | [[cardiology/atrial-fibrillation/af-exam#Rate 與 rhythm control\|Rate 與 rhythm control]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 108、109、111 |
 | [[cardiology/dyslipidemia-esc/lipid-esc-exam#生活型態與次發性血脂異常\|生活型態與次發性血脂異常]] | [[cardiology/dyslipidemia-esc/lipid-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 4 | 105、107、109、110 |
+| [[infectious-disease/covid-19-idsa/covid-exam#冠狀病毒學與 MERS\|冠狀病毒學與 MERS]] | [[infectious-disease/covid-19-idsa/covid-exam#🎯 內專考點\|⑦內專考點 Board Exam Review]] | 4 | 105、108、109 |
 | [[nephrology/calcium-phosphate-disorders#CKD-MBD 的病生理\|CKD-MBD 的病生理]] | [[nephrology/calcium-phosphate-disorders#🎯 內專考點\|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]] | 3 | 105、107、114 |
 | [[nephrology/high-anion-gap-metabolic-acidosis#酸鹼判讀：AG＋Winter's formula\|酸鹼判讀：AG＋Winter's formula]] | [[nephrology/high-anion-gap-metabolic-acidosis#🎯 內專考點\|高陰離子間隙代謝性酸中毒 High Anion Gap Metabolic Acidosis]] | 3 | 106、107、114 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#AV block 與 pacing\|AV block 與 pacing]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 3 | 105、109、114 |
@@ -46,6 +48,7 @@ title: 內專考點總覽
 | [[infectious-disease/pneumonia/pna-exam#重症 CAP 族群與治療\|重症 CAP 族群與治療]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 104、108、112 |
 | [[endocrinology/dka-hhs#酸鹼與電解質\|酸鹼與電解質]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 3 | 110、112 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#藥物性肝損傷（DILI）與 liver biopsy\|藥物性肝損傷（DILI）與 liver biopsy]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 104、111 |
+| [[infectious-disease/covid-19-idsa/covid-exam#COVID-19 臨床與病理\|COVID-19 臨床與病理]] | [[infectious-disease/covid-19-idsa/covid-exam#🎯 內專考點\|⑦內專考點 Board Exam Review]] | 3 | 109、110 |
 | [[nephrology/renal-tubular-acidosis#Type 4 RTA：糖尿病\|Type 4 RTA：糖尿病]] | [[nephrology/renal-tubular-acidosis#🎯 內專考點\|腎小管酸中毒 Renal Tubular Acidosis]] | 3 | 104、106、109 |
 | [[cardiology/atrial-fibrillation/af-exam#DOAC 的機轉與解毒劑\|DOAC 的機轉與解毒劑]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 105、107、109 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#HCM：猝死危險因子\|HCM：猝死危險因子]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 3 | 104、108、109 |
@@ -59,6 +62,7 @@ title: 內專考點總覽
 | [[gastroenterology/acute-biliary-infection/tg18-exam#Cholecystitis 的手術時機\|Cholecystitis 的手術時機]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 111、112 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#Brugada syndrome\|Brugada syndrome]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 2 | 105、111 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#WPW\|WPW]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 2 | 106、111 |
+| [[infectious-disease/covid-19-idsa/covid-exam#感染管制\|感染管制]] | [[infectious-disease/covid-19-idsa/covid-exam#🎯 內專考點\|⑦內專考點 Board Exam Review]] | 2 | 106、111 |
 | [[infectious-disease/pneumonia/pna-exam#診斷檢查\|診斷檢查]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 104、111 |
 | [[cardiology/atrial-fibrillation/af-exam#Cardioversion 前後的抗凝\|Cardioversion 前後的抗凝]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 107、109 |
 | [[cardiology/dyslipidemia-esc/lipid-esc-exam#DM 的血脂與血壓目標\|DM 的血脂與血壓目標]] | [[cardiology/dyslipidemia-esc/lipid-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 2 | 108、109 |
@@ -359,6 +363,33 @@ title: 內專考點總覽
 - 111-24｜各種給氧裝置的特性何者錯誤
 
 ## 感染科 Infectious Disease
+
+### ⑦內專考點 Board Exam Review
+
+**[[infectious-disease/covid-19-idsa/covid-exam#治療藥物：機轉、適應症與劑量|治療藥物：機轉、適應症與劑量]]**（4 次）
+
+- 110-081｜COVID-19 治療敘述的正確組合（remdesivir、單株抗體、IL-6、JAK）
+- 111-082｜2022 年台灣社區流行期的 COVID-19 治療（Paxlovid、molnupiravir、remdesivir）
+- 111-094｜COVID-19 藥物與機轉的配對，何者錯？
+- 112-086｜SARS-CoV-2 治療敘述，何者錯？（Evusheld）
+
+**[[infectious-disease/covid-19-idsa/covid-exam#冠狀病毒學與 MERS|冠狀病毒學與 MERS]]**（4 次）
+
+- 109-108｜冠狀病毒敘述的正確組合（分類、受體結合蛋白、死亡率、HCQ）
+- 109-143｜SARS-CoV-2 進入人體細胞結合的分子
+- 105-107｜中東朝聖、喝生駱駝奶後發燒呼吸喘（MERS），何者錯？
+- 108-116｜MERS 的感染管制與預後，何者錯？
+
+**[[infectious-disease/covid-19-idsa/covid-exam#COVID-19 臨床與病理|COVID-19 臨床與病理]]**（3 次）
+
+- 110-094｜COVID-19 敘述，何者最不適當？（症狀前傳染）
+- 109-116｜COVID-19 敘述，何者為非？（死亡率）
+- 109-142｜COVID-19 致死的肺部病理最大特徵
+
+**[[infectious-disease/covid-19-idsa/covid-exam#感染管制|感染管制]]**（2 次）
+
+- 106-117｜幫呼吸困難病人插管的標準防護
+- 111-088｜酒精乾洗手能清除哪些病原？
 
 ### ⑥內專考點 Board Exam Review
 
