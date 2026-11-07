@@ -49,17 +49,25 @@ cssclasses:
 <div class="oc-box r"><span class="oc-ans">Critical</span><br/><b>HFNC、NIV</b>；或 <b>IMV、ECMO</b><br/>→ 跳到 <b>④</b></div>
 </div>
 
-<div class="oc-q"><span class="oc-n">3</span><div><span class="oc-qt">不需氧：住院風險有多高？</span><small>1 項 Table 1，或「好幾項」Table 2 ＝ 高風險（預估住院 ≥ 6%）</small></div></div>
-<div class="oc-check">
-<div><b>Table 1｜High risk</b><br/><b>年齡 ≥ 75</b>、SOT、<b>HSCT &lt; 2 年</b>、heme malignancy 治療中、<b>HIV CD4 &lt; 200</b>、GVHD、primary immunodeficiency</div>
-<div><b>Table 1｜藥物</b><br/><b>Rituximab 等 B-cell depletion、CAR-T</b>（12 個月內）、BTK inhibitor、abatacept、anthracycline、<b>prednisone ≥ 20 mg ≥ 4 週</b></div>
-<div><b>Table 2｜Increased</b><br/><b>65–74 歲</b>、ASCVD、<b>HF</b>、chronic lung disease、asthma、<b>DM</b>、<b>obesity</b>、cirrhosis、<b>ESRD</b>、dementia、懷孕、抽菸史、HIV CD4 &gt; 200</div>
-<div><b>Table 2｜藥物</b><br/>Anti-IL-6、anti-IL-12/23、<b>prednisone 10–20 mg ≥ 4 週</b></div>
-</div>
+<div class="oc-q"><span class="oc-n">3</span><div><span class="oc-qt">不需氧：要不要給抗病毒藥？</span><small>由左往右看，<b>符合紅色任一項就是高風險</b>；左邊都不符合再看中間</small></div></div>
 <div class="oc-split three">
-<div class="oc-box r"><span class="oc-ans">High → 一定給</span><br/>Paxlovid 或 remdesivir（<b>strong</b>）</div>
-<div class="oc-box a"><span class="oc-ans">Increased → 共享決策</span><br/>Paxlovid、remdesivir（conditional）；<b>不常規用 molnupiravir</b></div>
-<div class="oc-box g"><span class="oc-ans">沒有危險因子 → 不給</span><br/>支持性治療；<b>不給類固醇、不給吸入型類固醇</b></div>
+<div class="oc-box r"><span class="oc-ans">🔴 高風險 → 一定給</span>
+<ul>
+<li><b>年齡 ≥ 75</b></li>
+<li><b>嚴重免疫抑制</b>：SOT、HSCT &lt; 2 年、血液腫瘤治療中、HIV CD4 &lt; 200</li>
+<li><b>藥物</b>：rituximab、CAR-T（12 個月內）、<b>prednisone ≥ 20 mg ≥ 4 週</b></li>
+<li><b>中間那欄疊好幾項</b>（例：68 歲＋DM＋HF）</li>
+</ul>
+<b>→ Paxlovid</b>（strong）；不能用 → remdesivir</div>
+<div class="oc-box a"><span class="oc-ans">🟠 中風險 → 討論後給</span>
+<ul>
+<li><b>65–74 歲</b></li>
+<li><b>慢性病</b>：DM、obesity、HF、ASCVD、chronic lung disease、cirrhosis、ESRD</li>
+<li><b>懷孕</b>（含產後 6 週）</li>
+<li><b>藥物</b>：prednisone 10–20 mg ≥ 4 週、anti-IL-6</li>
+</ul>
+<b>只有 1 項</b> → Paxlovid 或 remdesivir（conditional）；不用 molnupiravir</div>
+<div class="oc-box g"><span class="oc-ans">🟢 都沒有 → 不給</span><br/>左邊兩欄都不符合<br/><br/><b>→ 支持性治療</b><br/>不給抗病毒、不給類固醇（含吸入型）</div>
 </div>
 
 <div class="oc-q"><span class="oc-n">4</span><div><span class="oc-qt">開什麼？</span><small>由上往下問，<b>第一個符合就用那一列</b></small></div></div>
