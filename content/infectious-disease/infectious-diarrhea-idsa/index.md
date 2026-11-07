@@ -33,7 +33,7 @@ cssclasses:
 <div class="oc-tt">⏱ 先記住：眼前是哪一種腹瀉？→ 驗什麼、給不給抗生素</div>
 <div class="oc-tr oc-th"><div>情境</div><div>🧪 檢驗</div><div>💊 抗生素</div></div>
 <div class="oc-tr"><div class="oc-sit"><b>一般水瀉</b>，不燒、沒血便</div><div class="wait" data-l="🧪"><b>不驗</b>（多為病毒、會自己好）</div><div class="wait" data-l="💊"><b>不給</b>；補液就好</div></div>
-<div class="oc-tr"><div class="oc-sit"><b>發燒、血便或黏液便、劇烈腹痛、sepsis</b></div><div class="ac-now" data-l="🧪"><b>糞便 6 項</b>：<i>Salmonella</i>、<i>Shigella</i>、<i>Campylobacter</i>、<i>Yersinia</i>、<i>C. difficile</i>、STEC</div><div class="wait" data-l="💊"><b>等結果，多數不給</b>；4 種例外見 ③</div></div>
+<div class="oc-tr"><div class="oc-sit"><b>發燒、血便或黏液便、劇烈腹痛、sepsis</b></div><div class="ac-now" data-l="🧪"><b>糞便 6 項</b>：<i>Salmonella</i>、<i>Shigella</i>、<i>Campylobacter</i>、<i>Yersinia</i>、<i>C. difficile</i>、STEC</div><div class="wait" data-l="💊"><b>穩定 → 等結果，不給</b>；<b>看起來 toxic 或特定族群 → 抽完培養就給</b>（見 ③）</div></div>
 <div class="oc-tr"><div class="oc-sit"><b>血便＋不太燒＋腹痛明顯</b>（像 STEC）</div><div class="ac-now" data-l="🧪"><b>O157 培養＋Shiga toxin</b>；<b>每天 Hb、PLT、Cr、抹片</b></div><div class="yes" data-l="💊"><b>不給抗生素、不給止瀉藥</b>；給 IV fluid</div></div>
 <div class="oc-tr"><div class="oc-sit"><b>流行區回來發燒</b>（可以沒腹瀉）</div><div class="ac-now" data-l="🧪"><b>血液培養</b>（敏感度約 5 成）、糞便、尿液；<b>不驗 Widal</b></div><div class="yes" data-l="💊">Sepsis → <b>抽完培養給廣效</b>（ceftriaxone）</div></div>
 <div class="oc-tr"><div class="oc-sit"><b>抗生素後</b>或<b>住院 &gt; 72 h</b> 才腹瀉</div><div class="ac-now" data-l="🧪"><b><i>C. difficile</i></b>：送 <b>1 次</b>腹瀉便</div><div class="yes" data-l="💊">🆕 <b>Fidaxomicin</b> 或 <b>oral vancomycin</b></div></div>
@@ -62,17 +62,22 @@ cssclasses:
 <div class="oc-box g"><span class="oc-ans">不驗</span><br/>健康人一般水瀉；單純 traveler's diarrhea（除非要治療）；<b>腹瀉好了不追蹤糞便</b>（餐飲照護業依衛生單位）</div>
 </div>
 
-<div class="oc-q"><span class="oc-n">3</span><div><span class="oc-qt">要不要經驗性抗生素？</span><small>預設<b>不給</b>（血便也一樣）；符合紅色任一項才給</small></div></div>
-<div class="oc-split side">
-<div class="oc-box r"><span class="oc-ans">給 → 只有這 4 種人</span>
-<ol>
-<li><b>&lt; 3 個月嬰兒</b>懷疑細菌 → <b>三代 cephalosporin</b></li>
-<li><b>醫院量到發燒＋腹痛＋血便、像 <i>Shigella</i> 痢疾</b>（少量多次血便、tenesmus）</li>
-<li><b>國外回來 ≥ 38.5°C 或 sepsis</b>；懷疑 enteric fever＋sepsis → <b>抽完血液、糞便、尿液培養後給廣效</b></li>
-<li><b>免疫不全＋重症</b>（血便；水瀉的免疫不全或很病的小嬰兒也可考慮）</li>
-</ol>
-成人用 <b>azithromycin</b>（<b>1 g 單劑或 500 mg qd × 3 天</b>）或 <b>ciprofloxacin</b>——<b>亞洲旅遊或像 <i>Campylobacter</i> 選 azithromycin</b>（FQ 抗藥從墨西哥 56% 到泰國 &gt; 92%）</div>
-<div class="oc-box g"><span class="oc-ans">不給</span><br/>其他所有人，包括：<br/>• <b>像 STEC → 絕對不給</b>（增加 HUS）<br/>• 一般水瀉<br/>• <b>持續 ≥ 14 天</b>的水瀉<br/>• <b>無症狀接觸者</b></div>
+<div class="oc-q"><span class="oc-n">3</span><div><span class="oc-qt">要不要經驗性抗生素？給什麼？</span><small>預設<b>不給</b>（發燒、血便也一樣）；先看時機，再照下面的階梯選藥</small></div></div>
+<div class="oc-time" style="margin-bottom:0.5rem"><div class="oc-tt">🧠 時機思維：發燒是「要驗」的理由，不是「要給」的理由</div></div>
+<div class="oc-split three">
+<div class="oc-box g"><span class="oc-ans">🟢 穩定的發燒拉肚子 → 不給</span><br/>補液、<b>送糞便培養</b>、等結果<br/>交代回診：血便變多、尿少、喘、意識改變<br/><small>為什麼：多數自己好；抗生素只少 1 天，卻延長 <i>Salmonella</i> 帶菌、選出抗藥、增加 CDI；若是 STEC 還會增加 HUS</small></div>
+<div class="oc-box r"><span class="oc-ans">🔴 看起來 toxic → 抽完培養立刻給</span><br/><b>低血壓、意識改變、器官失調（sepsis）</b><br/>→ 先抽<b>血液</b>（± 糞便、尿液）培養，<b>不等結果</b>就給<br/><small>重點是「病人多病」，不是「燒多高」</small></div>
+<div class="oc-box a"><span class="oc-ans">🟠 特定族群 → 即使穩定也先給</span><br/><b>&lt; 3 個月嬰兒</b>｜<b>醫院量到發燒＋血便＋tenesmus</b>（像 <i>Shigella</i>）｜<b>國外回來 ≥ 38.5°C</b>｜<b>免疫不全＋重症</b><br/><small>其他人（含所有<b>水瀉</b>、<b>≥ 14 天</b>、<b>無症狀接觸者</b>）都不給</small></div>
+</div>
+<div class="oc-rx" style="margin-top:0.6rem">
+<div class="oc-rxh">💊 要給的話開什麼：由上往下，第一個符合就停</div>
+<div class="oc-rr"><div class="oc-k k-r">0</div><div class="oc-if"><b>像 STEC</b>：血便、<b>不太燒</b>、腹痛壓痛明顯、吃過半生熟牛肉</div><div class="oc-drug"><b>不給任何抗生素、不給止瀉藥</b>（FQ、β-lactam、TMP-SMX 都增加 <b>HUS</b>）→ IV fluid＋每天 Hb、PLT、Cr｜就算符合下面幾列也先排除 STEC</div></div>
+<div class="oc-rr"><div class="oc-k k-r">1</div><div class="oc-if"><b>懷疑 enteric fever＋sepsis</b>：<b>流行區回來</b>（南亞、東南亞、非洲）＋持續高燒（可沒腹瀉）＋<b>相對心搏過緩</b>、肝脾腫大、WBC 不高＋低血壓或意識改變</div><div class="oc-drug">抽<b>血液</b>（敏感度約 5 成，用過抗生素可做<b>骨髓</b>）、糞便、尿液培養 → <b>IV ceftriaxone</b>（侵襲性優先於 cipro）；藥敏出來降階<br/><b>巴基斯坦回來</b>要想 <b>XDR typhoid</b>（ceftriaxone 也抗藥）→ 會診感染科，重症可考慮 carbapenem（依 CDC 旅遊建議，非本指引）</div></div>
+<div class="oc-rr"><div class="oc-k k-o">2</div><div class="oc-if"><b>&lt; 3 個月嬰兒</b>，或兒童有<b>神經學表現</b></div><div class="oc-drug"><b>三代 cephalosporin</b></div></div>
+<div class="oc-rr"><div class="oc-k k-o">3</div><div class="oc-if">其他 <b>sepsis</b>，或<b>免疫不全＋重症</b></div><div class="oc-drug">抽完血液、糞便培養 → 經驗性抗生素（成人 azithromycin 或 ciprofloxacin；sepsis 時改用能涵蓋菌血症的針劑，如 ceftriaxone——此為臨床推論，指引只寫「考慮經驗性抗生素」）；免疫不全加驗寄生蟲、CMV</div></div>
+<div class="oc-rr"><div class="oc-k k-a">4</div><div class="oc-if"><b>國外回來 ≥ 38.5°C</b></div><div class="oc-drug"><b>亞洲（南亞、東南亞）</b>或像 <i>Campylobacter</i> → <b>azithromycin 1 g 單劑或 500 mg qd × 3 天</b>（FQ 抗藥：墨西哥 56% 到泰國 &gt; 92%）｜其他地區：azithromycin 或 ciprofloxacin</div></div>
+<div class="oc-rr"><div class="oc-k k-g">5</div><div class="oc-if"><b>醫院量到發燒＋腹痛＋血便、tenesmus</b>（像 <i>Shigella</i> 痢疾）</div><div class="oc-drug"><b>Azithromycin</b>（或當地敏感時 ciprofloxacin；<b>cipro MIC ≥ 0.12 不用 FQ</b>）｜一定送<b>培養與藥敏</b>（🆕 XDR <i>Shigella</i> 增加）</div></div>
+<div class="oc-rf">給了之後：<b>培養出病原就依第 ④ 步調整或停藥</b>（例如 <i>Campylobacter</i> 已經好了 → 停；單純 NTS → 停，除非是高風險族群）｜一般門診的「發燒拉肚子」幾乎都落在上面綠色那格</div>
 </div>
 
 <div class="oc-q"><span class="oc-n">4</span><div><span class="oc-qt">找到病原了，怎麼治？</span><small>照這張表<b>調整或停藥</b>；很多病原「通常不治療」</small></div></div>
