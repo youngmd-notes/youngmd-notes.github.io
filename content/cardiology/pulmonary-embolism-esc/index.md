@@ -85,23 +85,23 @@ cssclasses:
 <div class="oc-box o"><span class="oc-ans">INTERMEDIATE-HIGH</span><br/><span class="oc-tag ly">🔥 先不溶栓，惡化才給</span><br/><b>② ＋ ③ 都勾</b><br/><b>住院密切監測</b>（監視器、ICU 或 step-down）<br/>前 2–3 天用 <b>LMWH</b>，穩定再換口服<br/><b>不要直接溶栓</b>；若變成休克 → 回到 ① 給 rescue rtPA</div>
 </div>
 
-<div class="oc-q"><span class="oc-n">4</span><div><span class="oc-qt">開什麼抗凝？</span><small>預設 NOAC；先看有沒有右邊的例外</small></div></div>
-<div class="oc-split">
-<div class="oc-box b"><span class="oc-ans">預設：NOAC</span>
-<ul>
-<li><b>Apixaban</b> 10 mg bid × 7 天 → 5 mg bid</li>
-<li><b>Rivaroxaban</b> 15 mg bid × 21 天 → 20 mg qd</li>
-<li>以上兩種<b>不必先打針</b>；dabigatran、edoxaban 要先 LMWH ≥ 5 天</li>
-</ul>
+<div class="oc-q"><span class="oc-n">4</span><div><span class="oc-qt">開什麼抗凝？</span><small>由上往下問，<b>第一個答「是」就用那一列的藥</b>；全部都不是 → 最後一列 NOAC</small></div></div>
+<div class="oc-rx">
+<div class="oc-rxh">💊 抗凝選藥：由上往下，第一個符合就停</div>
+<div class="oc-rr"><div class="oc-k k-r">1</div><div class="oc-if">休克，或<b>可能要溶栓、取栓、導管</b>？（high-risk、intermediate-high 正在惡化）</div><div class="oc-drug"><b>UFH IV</b>（半衰期短、可中和、可邊溶栓邊打）<br/>穩定、確定不做 reperfusion 後 → 換 LMWH 或 NOAC</div></div>
+<div class="oc-rr"><div class="oc-k k-o">2</div><div class="oc-if"><b>懷孕</b>（或產後 6 週內）？</div><div class="oc-drug"><b>LMWH</b>，依<b>早期懷孕體重</b>給治療劑量；不用 NOAC、warfarin<br/>哺乳：LMWH 或 warfarin 可用，NOAC 不行</div></div>
+<div class="oc-rr"><div class="oc-k k-o">3</div><div class="oc-if"><b>Antiphospholipid syndrome</b>？</div><div class="oc-drug">LMWH／UFH → <b>VKA（warfarin）</b>，INR 2–3，<b>終生</b><br/>不用 NOAC（triple-positive 用 rivaroxaban 血栓更多）</div></div>
+<div class="oc-rr"><div class="oc-k k-a">4</div><div class="oc-if"><b>腎功能差</b>？先算 CrCl</div><div class="oc-drug"><b>CrCl ≤ 30 起始用 UFH</b>（LMWH 要減量：enoxaparin 1 mg/kg qd）<br/><b>&lt; 15</b>：NOAC 全部不用 → UFH 銜接 VKA<br/><b>15–29</b>：dabigatran 不用；apixaban、rivaroxaban 小心用<br/><b>15–50</b>：edoxaban 減為 30 mg qd</div></div>
+<div class="oc-rr"><div class="oc-k k-a">5</div><div class="oc-if"><b>Active cancer</b>？</div><div class="oc-drug"><b>GI cancer</b>（或口服吸收差）→ <b>LMWH</b> 前 6 個月<br/>其他癌症 → LMWH，或 <b>edoxaban</b>（先 LMWH 5 天）、<b>rivaroxaban</b></div></div>
+<div class="oc-rr"><div class="oc-k k-a">6</div><div class="oc-if"><b>嚴重肥胖</b>、不能口服、或<b>出血風險高</b>想要能快速停藥？</div><div class="oc-drug">嚴重肥胖 → <b>UFH</b> 起始；不能口服 → <b>LMWH</b>；出血疑慮 → 先用 UFH 或 LMWH，評估後再換口服</div></div>
+<div class="oc-rr"><div class="oc-k k-b">7</div><div class="oc-if"><b>Intermediate-high</b>（RV＋troponin），目前穩定？</div><div class="oc-drug"><b>LMWH 前 2–3 天</b>（PEITHO 中惡化多在前 2 天），確定穩定再換 NOAC</div></div>
+<div class="oc-rr"><div class="oc-k k-g">8</div><div class="oc-if">以上都不是（大多數穩定病人）</div><div class="oc-drug"><b>NOAC（I-A）</b><br/><b>Apixaban</b> 10 mg bid × 7 天 → 5 mg bid（單藥起始，不必先打針）<br/><b>Rivaroxaban</b> 15 mg bid × 21 天 → 20 mg qd（單藥起始）<br/>Dabigatran 150 mg bid、edoxaban 60 mg qd：要<b>先 LMWH ≥ 5 天</b></div></div>
+<div class="oc-rf"><b>換藥規則</b>：從 LMWH／UFH 換成 apixaban 或 rivaroxaban 時，<b>高劑量期從診斷那天算</b>（apixaban 共 7 天、rivaroxaban 共 21 天）；換 dabigatran、edoxaban 要<b>針劑總共滿 5 天</b>｜用 VKA：與針劑<b>重疊 ≥ 5 天且 INR 2–3 連續 2 天</b>才停針劑；warfarin 起始年輕健康者 10 mg、年長者 ≤ 5 mg</div>
 </div>
-<div class="oc-box a"><span class="oc-ans">例外</span>
-<ul>
-<li><b>UFH</b>：可能要溶栓或手術、CrCl ≤ 30、嚴重肥胖</li>
-<li><b>LMWH</b>：懷孕、癌症（GI 癌尤其）、不能口服</li>
-<li><b>VKA</b>（INR 2–3，與針劑重疊 ≥ 5 天）：<b>APS</b></li>
-<li><b>NOAC 不用</b>：懷孕哺乳、APS、CrCl &lt; 15（dabigatran &lt; 30）</li>
-</ul>
-</div>
+<div class="oc-dose">
+<div><div class="oc-ct">UFH</div>80 U/kg IV bolus → 18 U/kg/h，依 aPTT 調整（各院 nomogram 為準）</div>
+<div><div class="oc-ct">Enoxaparin</div>1 mg/kg SC q12h（住院也可 1.5 mg/kg qd）；CrCl &lt; 30：1 mg/kg qd</div>
+<div><div class="oc-ct">Fondaparinux</div>&lt; 50 kg 5 mg、50–100 kg 7.5 mg、&gt; 100 kg 10 mg SC qd；CrCl &lt; 30 不用</div>
 </div>
 
 <div class="oc-split" style="margin-top:0.9rem">

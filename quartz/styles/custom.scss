@@ -756,3 +756,93 @@ a.af-card {
     }
   }
 }
+
+// 值班流程：抗凝選藥（由上往下，第一個符合就停）
+.oncall {
+  .oc-rx {
+    border: 2px solid var(--oc-blue);
+    border-radius: 12px;
+    overflow: hidden;
+    background: var(--light);
+    .oc-rxh {
+      padding: 0.4rem 0.7rem;
+      background: var(--oc-blue);
+      color: #fff;
+      font-weight: 800;
+      font-size: 0.9rem;
+    }
+    .oc-rr {
+      display: grid;
+      grid-template-columns: 1.9rem 1.05fr 1.6fr;
+      border-top: 1px solid var(--lightgray);
+      > div {
+        padding: 0.4rem 0.5rem;
+        font-size: 0.8rem;
+      }
+    }
+    .oc-k {
+      font-weight: 800;
+      text-align: center;
+      color: var(--light);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .oc-if {
+      font-weight: 700;
+    }
+    .oc-drug b {
+      color: var(--secondary);
+    }
+    .k-r {
+      background: var(--oc-red);
+    }
+    .k-o {
+      background: var(--oc-orange);
+    }
+    .k-a {
+      background: var(--oc-amber);
+    }
+    .k-b {
+      background: var(--oc-blue);
+    }
+    .k-g {
+      background: var(--oc-green);
+    }
+    .oc-rf {
+      padding: 0.4rem 0.6rem;
+      font-size: 0.76rem;
+      color: var(--darkgray);
+      border-top: 1px dashed var(--lightgray);
+    }
+  }
+  .oc-dose {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+    > div {
+      border: 1px solid var(--lightgray);
+      border-radius: 8px;
+      padding: 0.4rem 0.55rem;
+      font-size: 0.78rem;
+      background: var(--light);
+    }
+    .oc-ct {
+      font-weight: 800;
+      color: var(--secondary);
+    }
+  }
+}
+
+@media (max-width: 760px) {
+  .oncall .oc-rx .oc-rr {
+    grid-template-columns: 1.9rem 1fr;
+    > .oc-drug {
+      grid-column: 2;
+    }
+  }
+  .oncall .oc-dose {
+    grid-template-columns: 1fr;
+  }
+}
