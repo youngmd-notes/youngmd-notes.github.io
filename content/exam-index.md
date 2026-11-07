@@ -6,36 +6,44 @@ title: 內專考點總覽
 > 這頁會**自動彙整**所有筆記裡的「🎯 內專考點」，每次網站更新時重新產生，不需要手動編輯。
 > 「考過次數」把重複出現的同一題分開計算（例如 106-132／108-94 算 2 次），越多次代表越常考。
 
-目前共整理 **173 次考題**，分布在 **14 篇筆記、62 個考點**。
+目前共整理 **211 次考題**，分布在 **15 篇筆記、72 個考點**。
 
 ## 最常考的考點
 
 | 考點 | 筆記 | 考過次數 | 年份 |
 | --- | --- | --- | --- |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#病毒性肝炎的血清學\|病毒性肝炎的血清學]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 10 | 105、106、108、109、112、113、114 |
+| [[infectious-disease/pneumonia/pna-exam#病原與宿主或暴露的配對\|病原與宿主或暴露的配對]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 8 | 104、107、108、109、111、112、113、114 |
 | [[cardiology/dyslipidemia-esc/lipid-esc-exam#嚴重高 TG：先控糖，LDL-C 已達標就加 fenofibrate\|嚴重高 TG：先控糖，LDL-C 已達標就加 fenofibrate]] | [[cardiology/dyslipidemia-esc/lipid-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 7 | 104、105、106、108、111、112、114 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#AS 與動態聽診\|AS 與動態聽診]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 6 | 104、107、108、114 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#ALD、NAFLD／MASLD\|ALD、NAFLD／MASLD]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 6 | 108、110、111、113、114 |
 | [[cardiology/atrial-fibrillation/af-exam#抗凝的原則：不能用 aspirin、不看 AF 類型\|抗凝的原則：不能用 aspirin、不看 AF 類型]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 6 | 105、106、109、110、111、113 |
+| [[infectious-disease/pneumonia/pna-exam#Legionella\|Legionella]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 6 | 105、106、108、112 |
 | [[cardiology/pulmonary-embolism-esc/pe-esc-exam#治療\|治療]] | [[cardiology/pulmonary-embolism-esc/pe-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 5 | 104、106、110、112、114 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#有症狀膽結石與膽囊疾病\|有症狀膽結石與膽囊疾病]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 5 | 105、107、113、114 |
 | [[nephrology/nephrotic-syndrome#Membranous nephropathy：anti-PLA2R 與治療時機\|Membranous nephropathy：anti-PLA2R 與治療時機]] | [[nephrology/nephrotic-syndrome#🎯 內專考點\|腎病症候群 Nephrotic Syndrome]] | 5 | 104、108、110、112、113 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#肝指數型態判讀\|肝指數型態判讀]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 5 | 105、109、110、113 |
 | [[cardiology/pulmonary-embolism-esc/pe-esc-exam#從情境認出 PE\|從情境認出 PE]] | [[cardiology/pulmonary-embolism-esc/pe-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 5 | 107、108、110 |
+| [[infectious-disease/pneumonia/pna-exam#HAP／VAP\|HAP／VAP]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 5 | 104、106、107、110 |
 | [[endocrinology/dka-hhs#初始輸液\|初始輸液]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 5 | 104、105、106、107、108 |
 | [[cardiology/atrial-fibrillation/af-exam#中風風險評估：CHA₂DS₂-VASc\|中風風險評估：CHA₂DS₂-VASc]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 104、105、114 |
 | [[cardiology/atrial-fibrillation/af-exam#抗凝中出血、中風或要做處置\|抗凝中出血、中風或要做處置]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 104、108、112、114 |
 | [[nephrology/nephrotic-syndrome#從臨床與病理判斷 MCD、FSGS\|從臨床與病理判斷 MCD、FSGS]] | [[nephrology/nephrotic-syndrome#🎯 內專考點\|腎病症候群 Nephrotic Syndrome]] | 4 | 105、107、111、113 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#VT 與 wide complex tachycardia\|VT 與 wide complex tachycardia]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 4 | 104、108、109、113 |
+| [[infectious-disease/pneumonia/pna-exam#CURB-65 與門診處置\|CURB-65 與門診處置]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 104、109、111、113 |
 | [[cardiology/atrial-fibrillation/af-exam#Rate 與 rhythm control\|Rate 與 rhythm control]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 108、109、111 |
 | [[cardiology/dyslipidemia-esc/lipid-esc-exam#生活型態與次發性血脂異常\|生活型態與次發性血脂異常]] | [[cardiology/dyslipidemia-esc/lipid-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 4 | 105、107、109、110 |
 | [[nephrology/calcium-phosphate-disorders#CKD-MBD 的病生理\|CKD-MBD 的病生理]] | [[nephrology/calcium-phosphate-disorders#🎯 內專考點\|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]] | 3 | 105、107、114 |
 | [[nephrology/high-anion-gap-metabolic-acidosis#酸鹼判讀：AG＋Winter's formula\|酸鹼判讀：AG＋Winter's formula]] | [[nephrology/high-anion-gap-metabolic-acidosis#🎯 內專考點\|高陰離子間隙代謝性酸中毒 High Anion Gap Metabolic Acidosis]] | 3 | 106、107、114 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#AV block 與 pacing\|AV block 與 pacing]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 3 | 105、109、114 |
+| [[infectious-disease/pneumonia/pna-exam#特殊病原\|特殊病原]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 113、114 |
 | [[nephrology/calcium-phosphate-disorders#低血鎂\|低血鎂]] | [[nephrology/calcium-phosphate-disorders#🎯 內專考點\|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]] | 3 | 107、112、113 |
 | [[cardiology/pulmonary-embolism-esc/pe-esc-exam#診斷的下一步\|診斷的下一步]] | [[cardiology/pulmonary-embolism-esc/pe-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 3 | 105、106、113 |
+| [[infectious-disease/pneumonia/pna-exam#吸入性肺炎、肺膿瘍與厭氧菌\|吸入性肺炎、肺膿瘍與厭氧菌]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 108、112、113 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#膽管擴張：CBD stone 還是其他？\|膽管擴張：CBD stone 還是其他？]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 109、110、113 |
 | [[endocrinology/dka-hhs#SGLT2 inhibitor\|SGLT2 inhibitor]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 3 | 108、109、113 |
+| [[infectious-disease/pneumonia/pna-exam#流感後肺炎與 CA-MRSA\|流感後肺炎與 CA-MRSA]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 107、108、112 |
+| [[infectious-disease/pneumonia/pna-exam#重症 CAP 族群與治療\|重症 CAP 族群與治療]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 104、108、112 |
 | [[endocrinology/dka-hhs#酸鹼與電解質\|酸鹼與電解質]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 3 | 110、112 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#藥物性肝損傷（DILI）與 liver biopsy\|藥物性肝損傷（DILI）與 liver biopsy]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 104、111 |
 | [[nephrology/renal-tubular-acidosis#Type 4 RTA：糖尿病\|Type 4 RTA：糖尿病]] | [[nephrology/renal-tubular-acidosis#🎯 內專考點\|腎小管酸中毒 Renal Tubular Acidosis]] | 3 | 104、106、109 |
@@ -51,6 +59,7 @@ title: 內專考點總覽
 | [[gastroenterology/acute-biliary-infection/tg18-exam#Cholecystitis 的手術時機\|Cholecystitis 的手術時機]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 111、112 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#Brugada syndrome\|Brugada syndrome]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 2 | 105、111 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#WPW\|WPW]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 2 | 106、111 |
+| [[infectious-disease/pneumonia/pna-exam#診斷檢查\|診斷檢查]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 104、111 |
 | [[cardiology/atrial-fibrillation/af-exam#Cardioversion 前後的抗凝\|Cardioversion 前後的抗凝]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 107、109 |
 | [[cardiology/dyslipidemia-esc/lipid-esc-exam#DM 的血脂與血壓目標\|DM 的血脂與血壓目標]] | [[cardiology/dyslipidemia-esc/lipid-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 2 | 108、109 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#Hyperbilirubinemia 與 Gilbert\|Hyperbilirubinemia 與 Gilbert]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 107、108 |
@@ -68,6 +77,7 @@ title: 內專考點總覽
 | [[nephrology/renal-tubular-acidosis#Normal AG acidosis 的下一步\|Normal AG acidosis 的下一步]] | [[nephrology/renal-tubular-acidosis#🎯 內專考點\|腎小管酸中毒 Renal Tubular Acidosis]] | 1 | 109 |
 | [[nephrology/skin-disorders-in-kidney-disease#Cutaneous lupus\|Cutaneous lupus]] | [[nephrology/skin-disorders-in-kidney-disease#🎯 內專考點\|腎臟病的皮膚疾病 Skin Disorders in Kidney Disease]] | 1 | 109 |
 | [[nephrology/calcium-phosphate-disorders#CKD 鈣磷藥物\|CKD 鈣磷藥物]] | [[nephrology/calcium-phosphate-disorders#🎯 內專考點\|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]] | 1 | 108 |
+| [[infectious-disease/pneumonia/pna-exam#疫苗\|疫苗]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 1 | 108 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#Cholecystitis 的影像\|Cholecystitis 的影像]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 1 | 108 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#Cholangitis：引流＋抗生素\|Cholangitis：引流＋抗生素]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 1 | 107 |
 | [[nephrology/high-anion-gap-metabolic-acidosis#Toxic alcohol 與 osmolal gap\|Toxic alcohol 與 osmolal gap]] | [[nephrology/high-anion-gap-metabolic-acidosis#🎯 內專考點\|高陰離子間隙代謝性酸中毒 High Anion Gap Metabolic Acidosis]] | 1 | 106 |
@@ -347,6 +357,76 @@ title: 內專考點總覽
 **[[pulmonology/emergent-airway-management#氧氣治療裝置|氧氣治療裝置]]**（1 次）
 
 - 111-24｜各種給氧裝置的特性何者錯誤
+
+## 感染科 Infectious Disease
+
+### ⑥內專考點 Board Exam Review
+
+**[[infectious-disease/pneumonia/pna-exam#病原與宿主或暴露的配對|病原與宿主或暴露的配對]]**（8 次）
+
+- 104-025｜特殊因子與 CAP 病原的組合，何者錯？
+- 107-116｜CAP 病原與宿主配對：哪個最不適當？
+- 108-112、111-090｜鳥類接觸配 *C. trachomatis*？（兩題相同）
+- 109-115｜*Coxiella* 配鳥類？
+- 112-091｜鳥禽配 Q fever？
+- 113-090｜*C. psittaci* 配貓？
+- 114-031｜冷卻水塔配 *H. influenzae*？
+
+**[[infectious-disease/pneumonia/pna-exam#流感後肺炎與 CA-MRSA|流感後肺炎與 CA-MRSA]]**（3 次）
+
+- 107-108｜流感肺炎好轉後又發燒，雙側 cavitary 浸潤
+- 108-111｜CA-MRSA 肺炎：病人多為透析患者？
+- 112-090｜CA-MRSA 肺炎好發年長者？
+
+**[[infectious-disease/pneumonia/pna-exam#CURB-65 與門診處置|CURB-65 與門診處置]]**（4 次）
+
+- 104-032｜哪一項不是 CURB-65？
+- 113-031｜COPD 老人肺炎：算 CURB-65
+- 109-040｜DM 病人的輕症 CAP：可以單用 macrolide 嗎？
+- 111-023｜CAP 敘述何者正確？
+
+**[[infectious-disease/pneumonia/pna-exam#診斷檢查|診斷檢查]]**（2 次）
+
+- 104-093｜肺炎敘述何者正確？
+- 111-081｜插管＋休克的重症 CAP，還要加做什麼？
+
+**[[infectious-disease/pneumonia/pna-exam#Legionella|Legionella]]**（6 次）
+
+- 105-108、112-077｜Legionellosis 何者為非？（兩題相同）
+- 106-102｜Legionellosis 何者為非？（14–21 天三代 cephalosporin）
+- 108-114｜典型退伍軍人症：高血鈉、低血鉀？
+- 108-119｜Legionella 的可選藥物，最完整的組合？
+- 106-103｜醫院冷卻水塔 Legionella 消毒，何者為非？
+
+**[[infectious-disease/pneumonia/pna-exam#重症 CAP 族群與治療|重症 CAP 族群與治療]]**（3 次）
+
+- 104-117｜流感重症好發族群與 CAP 敘述
+- 108-101｜住院 CAP 第 3 天已穩定，下一步？
+- 112-024｜CAP 敘述何者錯？（類固醇）
+
+**[[infectious-disease/pneumonia/pna-exam#吸入性肺炎、肺膿瘍與厭氧菌|吸入性肺炎、肺膿瘍與厭氧菌]]**（3 次）
+
+- 108-024｜吸入性肺炎的錯誤敘述
+- 112-023｜厭氧菌較不常是哪種胸腔感染的病原？
+- 113-026｜Lung abscess 何者錯？
+
+**[[infectious-disease/pneumonia/pna-exam#HAP／VAP|HAP／VAP]]**（5 次）
+
+- 104-026｜VAP 機轉與預防策略的配對，何者錯？
+- 106-113｜疾管署 VAP bundle 包含哪些？
+- 110-095｜VAP 預防措施何者為非？
+- 110-089｜膽結石術後第 3 天的 HAP，何者最不適當？
+- 107-105｜哪些抗生素可以治療 *P. aeruginosa*？
+
+**[[infectious-disease/pneumonia/pna-exam#特殊病原|特殊病原]]**（3 次）
+
+- 114-083｜颱風後清理家園，腳膿瘍＋雙側肺炎
+- 113-081｜肺部麴菌感染何者最不正確？
+- 113-095｜HSCT 後 TMP-SMX 預防一年，哪個病原減少不了？
+
+**[[infectious-disease/pneumonia/pna-exam#疫苗|疫苗]]**（1 次）
+
+- 108-109｜台灣 65 歲以上建議接種哪些疫苗？
 
 ## 腸胃肝膽科 GI & Hepatology
 
