@@ -15,7 +15,7 @@ cssclasses:
 ---
 
 > [!abstract] 一句話重點
-> **流行季住院的呼吸道疾病（含 pneumonia）、心肺病惡化、高風險者 → 一律驗 RT-PCR，同時立即給 oseltamivir，不等結果**；**==住院、重症、高風險不管發病幾天都要給（48 小時只限健康門診）==**。**Oseltamivir 75 mg bid × 5 天**（CrCl 30–60 減為 30 mg bid），重症、免疫不全可延長；**快篩陰性不能排除**。**一開始就很重或好轉又變差 → 找細菌合併感染（*S. pneumoniae*、*S. aureus* 含 MRSA）**；**==不給類固醇==**。**預防**：家中暴露的極高風險者 **48 小時內開始 75 mg qd × 最後接觸後 7 天**；**機構同一病房 72 小時內 2 例 → 群聚**，整個病房預防 **14 天且到最後一例後 7 天**。🆕 **Baloxavir 單劑**可用於 ≥ 5 歲門診治療與暴露後預防。
+> **流行季住院的呼吸道疾病（含 pneumonia）、心肺病惡化、高風險者 → 一律驗 RT-PCR，同時立即給 oseltamivir，不等結果**；**==住院、重症、高風險不管發病幾天都要給（48 小時只限健康門診）==**。**Oseltamivir 75 mg bid × 5 天**（CrCl 30–60 減為 30 mg bid），重症、免疫不全可延長；**快篩陰性不能排除**。**一開始就很重或好轉又變差 → 找細菌合併感染（*S. pneumoniae*、*S. aureus* 含 MRSA）**；**==不給類固醇==**。**預防**：家中暴露的極高風險者 **48 小時內開始 75 mg qd × 最後接觸後 7 天**（**無症狀接觸者不必先驗，快篩陰性也照給**；有症狀就改治療劑量）；**機構同一病房 72 小時內 2 例 → 群聚**，整個病房預防 **14 天且到最後一例後 7 天**。🆕 **Baloxavir 單劑**可用於 ≥ 5 歲門診治療與暴露後預防。
 
 本系列依 **IDSA 2018 季節性流感指引**（Uyeki TM, et al. *Clin Infect Dis* 2019）整理成 4 篇指引筆記，加上第 5 篇內專考點；共 58 條建議、Table 1–10、Figure 1。流感疫苗、禽流感與新型流感不在本指引範圍。2018 年之後的 FDA 新核准（baloxavir）與仿單腎功能劑量用 🆕 框標出。
 
@@ -91,14 +91,20 @@ cssclasses:
 <div class="oc-box o"><span class="oc-ans">治療 2–5 天沒改善</span><br/><br/><b>→ 找其他原因</b>：藥沒吸收、<b>myocarditis</b>、encephalitis、<b>rhabdomyolysis</b>、MI、PE、院內感染、Reye（aspirin）<br/>免疫不全病毒 <b>7–10 天仍陽性 → 驗抗藥</b>（H275Y → 改 zanamivir）</div>
 </div>
 
-<div class="oc-q"><span class="oc-n">5</span><div><span class="oc-qt">誰要預防性投藥？</span><small>疫苗才是主角；預防用 <b>NAI 每天一次</b>，不用 amantadine</small></div></div>
+<div class="oc-q"><span class="oc-n">5</span><div><span class="oc-qt">誰要預防性投藥？</span><small>疫苗才是主角；預防用 <b>NAI 每天一次</b>，不用 amantadine；<b>無症狀接觸者不必先驗</b></small></div></div>
 <div class="oc-split three">
 <div class="oc-box b"><span class="oc-ans">家中暴露（社區）</span><br/>極高風險（嚴重免疫不全）且疫苗無效；或未接種、家人是極高風險<br/><br/><b>→ Oseltamivir 75 mg qd，48 小時內開始，最後接觸後 7 天</b><br/>超過 48 小時 → 不給預防，<b>一有症狀給足量治療</b></div>
 <div class="oc-box r"><span class="oc-ans">機構群聚</span><br/><b>同一病房 72 小時內 2 例</b>院內確診<br/><br/><b>→ 病房所有未發病住民預防（不論是否打疫苗）</b><br/><b>14 天，且到最後一例後 7 天</b>；有症狀者不等報告就治療；全機構每日監測</div>
 <div class="oc-box g"><span class="oc-ans">整季預防</span><br/><b>HSCT 頭 6–12 個月、肺移植</b>等極高風險，疫苗無效<br/><br/><b>→ 社區開始流行到結束</b><br/>預防中出現症狀 → <b>驗流感、改治療劑量</b>、最好換藥</div>
 </div>
+<div class="oc-time" style="margin-top:0.9rem;margin-bottom:0.5rem"><div class="oc-tt">🧪 接觸者要先驗嗎？快篩陰性還能給嗎？先看他有沒有症狀</div></div>
+<div class="oc-split three">
+<div class="oc-box g"><span class="oc-ans">沒有症狀 → 不必驗，直接給預防</span><br/><b>快篩陰性、甚至 PCR 陰性也照給</b><br/>潛伏期 <b>1–4 天</b>，暴露後驗陰性只代表「現在還測不到」，不代表不會發病<br/><br/><b>→ 預防劑量 qd</b></div>
+<div class="oc-box r"><span class="oc-ans">已經有症狀 → 這是治療，不是預防</span><br/>驗流感（最好 molecular），但<b>不等結果、快篩陰性也照給</b>（流行季 RIDT 偽陰性多）<br/><br/><b>→ 治療劑量 bid × 5 天</b>，不要給 qd 預防劑量（治療不足、易抗藥）</div>
+<div class="oc-box a"><span class="oc-ans">機構群聚、免疫不全的接觸者</span><br/>部分人已<b>無症狀感染</b>，qd 等於治療不足<br/><br/><b>→ 可考慮直接用治療劑量 bid × 5 天</b>，再降為 qd 直到群聚結束</div>
+</div>
 
-<div class="oc-foot">❌ 住院或高風險因「超過 48 小時」不給藥｜❌ 等檢驗結果才給藥｜❌ 流行季快篩陰性就排除｜❌ 給類固醇（A-III）或 IVIG｜❌ 合併兩種 NAI、常規加大劑量｜❌ COPD、asthma、插管病人用 zanamivir（插管霧化會致死）｜❌ Amantadine｜❌ 暴露超過 48 小時才給預防劑量｜❌ 抗生素「預防」細菌併發症</div>
+<div class="oc-foot">❌ 住院或高風險因「超過 48 小時」不給藥｜❌ 等檢驗結果才給藥｜❌ 流行季快篩陰性就排除｜❌ 給類固醇（A-III）或 IVIG｜❌ 合併兩種 NAI、常規加大劑量｜❌ COPD、asthma、插管病人用 zanamivir（插管霧化會致死）｜❌ Amantadine｜❌ 暴露超過 48 小時才給預防劑量｜❌ 要求無症狀接觸者先快篩陰性才給預防｜❌ 有症狀的接觸者只給 qd 預防劑量｜❌ 抗生素「預防」細菌併發症</div>
 <div class="oc-note">依 IDSA 2018 季節性流感指引 Recommendation 1–58、Table 4、7、8、9、10、Figure 1 內容自製；🆕 標示 FDA 核准的 baloxavir（CDC 用藥表）與 Tamiflu 仿單腎功能劑量</div>
 </div>
 
