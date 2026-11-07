@@ -6,7 +6,7 @@ title: 內專考點總覽
 > 這頁會**自動彙整**所有筆記裡的「🎯 內專考點」，每次網站更新時重新產生，不需要手動編輯。
 > 「考過次數」把重複出現的同一題分開計算（例如 106-132／108-94 算 2 次），越多次代表越常考。
 
-目前共整理 **160 次考題**，分布在 **13 篇筆記、59 個考點**。
+目前共整理 **173 次考題**，分布在 **14 篇筆記、62 個考點**。
 
 ## 最常考的考點
 
@@ -17,9 +17,11 @@ title: 內專考點總覽
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#AS 與動態聽診\|AS 與動態聽診]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 6 | 104、107、108、114 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#ALD、NAFLD／MASLD\|ALD、NAFLD／MASLD]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 6 | 108、110、111、113、114 |
 | [[cardiology/atrial-fibrillation/af-exam#抗凝的原則：不能用 aspirin、不看 AF 類型\|抗凝的原則：不能用 aspirin、不看 AF 類型]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 6 | 105、106、109、110、111、113 |
+| [[cardiology/pulmonary-embolism-esc/pe-esc-exam#治療\|治療]] | [[cardiology/pulmonary-embolism-esc/pe-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 5 | 104、106、110、112、114 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#有症狀膽結石與膽囊疾病\|有症狀膽結石與膽囊疾病]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 5 | 105、107、113、114 |
 | [[nephrology/nephrotic-syndrome#Membranous nephropathy：anti-PLA2R 與治療時機\|Membranous nephropathy：anti-PLA2R 與治療時機]] | [[nephrology/nephrotic-syndrome#🎯 內專考點\|腎病症候群 Nephrotic Syndrome]] | 5 | 104、108、110、112、113 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#肝指數型態判讀\|肝指數型態判讀]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 5 | 105、109、110、113 |
+| [[cardiology/pulmonary-embolism-esc/pe-esc-exam#從情境認出 PE\|從情境認出 PE]] | [[cardiology/pulmonary-embolism-esc/pe-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 5 | 107、108、110 |
 | [[endocrinology/dka-hhs#初始輸液\|初始輸液]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 5 | 104、105、106、107、108 |
 | [[cardiology/atrial-fibrillation/af-exam#中風風險評估：CHA₂DS₂-VASc\|中風風險評估：CHA₂DS₂-VASc]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 104、105、114 |
 | [[cardiology/atrial-fibrillation/af-exam#抗凝中出血、中風或要做處置\|抗凝中出血、中風或要做處置]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 104、108、112、114 |
@@ -31,6 +33,7 @@ title: 內專考點總覽
 | [[nephrology/high-anion-gap-metabolic-acidosis#酸鹼判讀：AG＋Winter's formula\|酸鹼判讀：AG＋Winter's formula]] | [[nephrology/high-anion-gap-metabolic-acidosis#🎯 內專考點\|高陰離子間隙代謝性酸中毒 High Anion Gap Metabolic Acidosis]] | 3 | 106、107、114 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#AV block 與 pacing\|AV block 與 pacing]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 3 | 105、109、114 |
 | [[nephrology/calcium-phosphate-disorders#低血鎂\|低血鎂]] | [[nephrology/calcium-phosphate-disorders#🎯 內專考點\|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]] | 3 | 107、112、113 |
+| [[cardiology/pulmonary-embolism-esc/pe-esc-exam#診斷的下一步\|診斷的下一步]] | [[cardiology/pulmonary-embolism-esc/pe-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 3 | 105、106、113 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#膽管擴張：CBD stone 還是其他？\|膽管擴張：CBD stone 還是其他？]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 109、110、113 |
 | [[endocrinology/dka-hhs#SGLT2 inhibitor\|SGLT2 inhibitor]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 3 | 108、109、113 |
 | [[endocrinology/dka-hhs#酸鹼與電解質\|酸鹼與電解質]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 3 | 110、112 |
@@ -259,6 +262,30 @@ title: 內專考點總覽
 
 - 113-012｜Statin 的敘述何者錯誤？
 - 104-007｜2013 年新的美國降膽固醇指引，何者不是新規定？
+
+### ⑧內專考點 Board Exam Points
+
+**[[cardiology/pulmonary-embolism-esc/pe-esc-exam#從情境認出 PE|從情境認出 PE]]**（5 次）
+
+- 108-089｜突發喘、SpO₂ 83%、JVP 上升，最可能的診斷
+- 110-008｜病態肥胖、HR 141、被當成上呼吸道感染
+- 110-024｜晚期肺癌臥床、按摩腿後突然休克
+- 107-007｜Lymphoma＋左腳腫得比右腳嚴重
+- 107-037｜股骨骨折手術後 ARDS
+
+**[[cardiology/pulmonary-embolism-esc/pe-esc-exam#診斷的下一步|診斷的下一步]]**（3 次）
+
+- 106-037｜股骨骨折術後第 3 天突然喘，血行動力穩定
+- 105-021｜髖骨術後休克，沒驗 D-dimer 直接排影像
+- 113-030｜小細胞肺癌住院，氧氣需求半小時內暴增
+
+**[[cardiology/pulmonary-embolism-esc/pe-esc-exam#治療|治療]]**（5 次）
+
+- 104-010｜確診 PE 後，哪些處置組合正確
+- 106-006｜突發喘、RV 擴大、BP 102/73，緊急處置
+- 110-032｜PE 敘述何者正確（rivaroxaban、apixaban 單藥）
+- 112-009｜PE 急症處置何者不正確（warfarin vs NOAC）
+- 114-018｜PE 敘述組合題
 
 ### ⑧內專考點 Board Exam Review
 

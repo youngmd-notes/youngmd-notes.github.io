@@ -325,6 +325,9 @@ flowchart TD
 
 有 VTE 危險因子的老年人，**突然 chest pain、dyspnea，並且昏倒**。
 
+> [!info] 延伸閱讀
+> PE 的完整診斷、風險分層與治療見 [[cardiology/pulmonary-embolism-esc/index|急性肺栓塞 ESC 2019 指引]]。
+
 ### Disease highlights
 
 - **PE 是比一般認為更常見的 syncope 原因**：首次 syncope 住院、沒有明顯原因（如 dehydration、vasovagal）的病人中，**17% 診斷為 PE**
