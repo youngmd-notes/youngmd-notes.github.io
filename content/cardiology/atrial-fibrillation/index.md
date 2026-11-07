@@ -77,18 +77,29 @@ cssclasses:
 <div class="oc-rf">急性期先處理誘因（sepsis、volume overload、心因性休克），心跳常會跟著下來｜❌ Permanent AF 不用 dronedarone 控速</div>
 </div>
 
-<div class="oc-q"><span class="oc-n">4</span><div><span class="oc-qt">要不要恢復竇性節律？</span><small>先過 ⏱ 表的抗凝門檻，再選方法；長期決定看症狀與 LVEF</small></div></div>
-<div class="oc-split">
-<div class="oc-box a"><span class="oc-ans">現在整流：選哪一種？</span>
-<ul>
-<li><b>電擊</b>：成功率最高；事先給 amiodarone、flecainide、ibutilide 可減少早期復發</li>
-<li><b>心臟正常</b>（無嚴重 LVH、HFrEF、CAD）→ <b>flecainide</b> 200–300 mg PO 或 2 mg/kg IV、<b>propafenone</b> 450–600 mg PO（I），<b>要併用 AV node 阻斷劑</b>；偶發者可試 <b>pill-in-the-pocket</b></li>
-<li>無近期 ACS、HFrEF、嚴重 AS、SBP ≥ 100 → <b>vernakalant</b> 3 mg/kg IV（I），10 分鐘內約 5 成轉回</li>
-<li><b>嚴重 LVH、HFrEF、CAD</b> → <b>IV amiodarone</b>（I），較慢（約 24 h）</li>
-<li>Atrial flutter → ibutilide（60–75%）或電擊；<b>IC 類不能轉 flutter</b></li>
-<li>竇房結病變、AV block、<b>QTc &gt; 500</b> → 不做藥物整流（III）</li>
-</ul>
+<div class="oc-q"><span class="oc-n">4</span><div><span class="oc-qt">要不要恢復竇性節律？用電擊還是藥物？</span><small>先過 ⏱ 表的抗凝門檻——<b>電擊和藥物的抗凝規則完全一樣</b>，兩者的栓塞風險都來自「轉回竇性節律」本身</small></div></div>
+<div class="oc-time">
+<div class="oc-tt">⚖️ 電擊 vs 藥物整流：差在哪？</div>
+<div class="oc-tr oc-th"><div>比較</div><div>⚡ 電擊整流</div><div>💊 藥物整流</div></div>
+<div class="oc-tr"><div class="oc-sit">成功率</div><div class="ac-now" data-l="⚡"><b>最高</b>（指引：比藥物高）</div><div class="wait" data-l="💊">看藥與時間：IC 類 6–8 h 約 7–8 成；vernakalant 10 分鐘約 5 成；amiodarone 約 4 成、要數小時到數天</div></div>
+<div class="oc-tr"><div class="oc-sit">速度</div><div class="ac-now" data-l="⚡"><b>立即</b>知道結果</div><div class="wait" data-l="💊">分鐘（vernakalant）到小時（IC 類）到一天（amiodarone）</div></div>
+<div class="oc-tr"><div class="oc-sit">需要什麼</div><div class="wait" data-l="⚡"><b>空腹＋鎮靜或麻醉</b>、呼吸道與監測人力</div><div class="ac-now" data-l="💊"><b>不需空腹、鎮靜、麻醉</b>；但要 ECG 監測數小時（ibutilide 至少 4 h）</div></div>
+<div class="oc-tr"><div class="oc-sit">主要風險</div><div class="wait" data-l="⚡">鎮靜相關（呼吸抑制、吸入）、轉回後 bradycardia 或 pause、皮膚灼傷</div><div class="yes" data-l="💊"><b>Proarrhythmia</b>：IC 類變 flutter 1:1、QRS 變寬；ibutilide <b>torsades</b>；vernakalant 低血壓；amiodarone 低血壓、bradycardia</div></div>
+<div class="oc-tr"><div class="oc-sit">誰不能用</div><div class="wait" data-l="⚡">剛吃飽、不適合鎮靜（嚴重肺病、困難呼吸道）時要延後或改藥物</div><div class="yes" data-l="💊"><b>竇房結病變、AV block、QTc &gt; 500</b>（III）；IC 類：結構性心臟病、CAD、Brugada</div></div>
+<div class="oc-tr"><div class="oc-sit">額外好處</div><div class="ac-now" data-l="⚡">可當 persistent AF 的「<b>診斷工具</b>」：轉回後症狀、LVEF 有沒有改善（IIa）</div><div class="ac-now" data-l="💊">同時測試日後能不能用 <b>pill-in-the-pocket</b>；也可當電擊前的<b>預處理</b>提高成功率、減少早期復發</div></div>
+<div class="oc-tf">兩者<b>都只用在抗凝門檻已過</b>的病人；<b>整流後都要抗凝 ≥ 4 週</b>｜不穩定的病人<b>只有電擊</b>，藥物整流只給血行動力穩定者</div>
 </div>
+<div class="oc-rx" style="margin-top:0.6rem">
+<div class="oc-rxh">🧭 選擇思維：由上往下，第一個符合就用</div>
+<div class="oc-rr"><div class="oc-k k-r">1</div><div class="oc-if"><b>血行動力不穩定</b>或<b>預激性 AF</b></div><div class="oc-drug"><b>電擊</b>（I）——不穩定時藥物太慢｜預激性 AF 穩定時也可用 ibutilide 或 procainamide，但<b>絕不用 AV node 阻斷劑</b></div></div>
+<div class="oc-rr"><div class="oc-k k-r">2</div><div class="oc-if">竇房結病變、AV block、<b>QTc &gt; 500 ms</b></div><div class="oc-drug"><b>不做藥物整流</b>（III）；要轉就<b>電擊並備好 transcutaneous pacing</b></div></div>
+<div class="oc-rr"><div class="oc-k k-o">3</div><div class="oc-if"><b>Atrial flutter</b></div><div class="oc-drug"><b>電擊</b>（成功率很高），或 <b>ibutilide</b>（60–75%，監測 QT）；<b>IC 類不能用</b></div></div>
+<div class="oc-rr"><div class="oc-k k-a">4</div><div class="oc-if"><b>結構性心臟病</b>（HFrEF、嚴重 LVH、CAD）</div><div class="oc-drug">藥物只剩 <b>IV amiodarone</b>（約 24 h 才轉）→ <b>想快就選電擊</b>；不急可先 amiodarone，順便當電擊前預處理</div></div>
+<div class="oc-rr"><div class="oc-k k-g">5</div><div class="oc-if"><b>心臟正常</b>、穩定、<b>剛吃飽或不想鎮靜</b>、希望在急診處理完</div><div class="oc-drug"><b>藥物</b>：<b>flecainide</b> 200–300 mg PO 或 2 mg/kg IV、<b>propafenone</b> 450–600 mg PO（I，<b>併用 AV node 阻斷劑</b>）；無近期 ACS、HFrEF、嚴重 AS、SBP ≥ 100 → <b>vernakalant</b> 3 mg/kg IV（I）｜成功後可評估 pill-in-the-pocket</div></div>
+<div class="oc-rr"><div class="oc-k k-b">6</div><div class="oc-if"><b>藥物失敗</b>，或 <b>persistent AF 擇期整流</b></div><div class="oc-drug"><b>電擊</b>；事先 3–4 天給 flecainide、propafenone、ibutilide 或 <b>amiodarone</b>（200–800 mg/day × 1–6 週）可<b>提高成功率、減少早期復發</b></div></div>
+<div class="oc-rf">記法：<b>「不穩、預激、flutter、心臟不好想要快 → 電；心臟正常、怕鎮靜 → 藥」</b>｜藥物整流後也要決定長期：偶發者 pill-in-the-pocket、頻繁者見下方長期 rhythm control</div>
+</div>
+<div style="margin-top:0.6rem">
 <div class="oc-box b"><span class="oc-ans">長期要不要加 rhythm control？</span>
 <ul>
 <li><b>偏向加做</b>：控速後<b>仍有症狀</b>｜<b>LVEF 下降</b>、懷疑 tachycardiomyopathy｜<b>診斷 ≤ 12 個月</b>＋心血管風險（IIa）｜AF 史短、LA 不大</li>
