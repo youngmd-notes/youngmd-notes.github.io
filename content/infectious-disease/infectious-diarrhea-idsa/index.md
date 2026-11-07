@@ -120,6 +120,8 @@ cssclasses:
 
 ## 📌 必看表：*C. difficile* 速記（內專最常考）
 
+完整內容見 [[infectious-disease/c-difficile-idsa/index|IDSA/SHEA *C. difficile* 指引系列]]。
+
 | 項目 | 重點 |
 | --- | --- |
 | 菌 | **會產孢子**的 GP 厭氧桿菌 → **==酒精殺不死，肥皂和水洗手、含氯消毒環境==** |
@@ -151,7 +153,7 @@ cssclasses:
 </a>
 <a class="af-card internal" href="/infectious-disease/infectious-diarrhea-idsa/dia-exam">
 <div class="af-num">⑤</div>
-<div class="af-body"><div class="af-title">內專考點</div><div class="af-desc">104–114 年 GI-Infx 考古題 20 題（<b><i>C. difficile</i> 10 題</b>、潛伏期與食物配對、NTS 誰要治療、Campylobacter、傷寒、阿米巴），附 2 題模擬題</div><div class="af-cover">GI-Infx 標籤</div></div>
+<div class="af-body"><div class="af-title">內專考點</div><div class="af-desc">104–114 年 GI-Infx 考古題 10 題（潛伏期與食物配對、NTS 誰要治療、Campylobacter、傷寒、阿米巴）；<i>C. difficile</i> 10 題見專屬系列，附 2 題模擬題</div><div class="af-cover">GI-Infx 標籤</div></div>
 </a>
 </div>
 
@@ -180,6 +182,7 @@ cssclasses:
 - [[infectious-disease/pneumonia/index|肺炎 Pneumonia（台灣肺炎診治指引 2018）]]
 - [[infectious-disease/influenza-idsa/index|流感 Seasonal Influenza（IDSA 2018 指引）]]
 - [[infectious-disease/covid-19-idsa/index|新冠肺炎 COVID-19（IDSA 指引）]]
+- [[infectious-disease/c-difficile-idsa/index|*C. difficile* 感染（IDSA/SHEA 2017＋2021）]]
 
 ## 參考資料
 

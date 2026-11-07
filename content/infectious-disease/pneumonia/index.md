@@ -198,6 +198,7 @@ cssclasses:
 - [[infectious-disease/covid-19-idsa/index|新冠肺炎 COVID-19（IDSA 指引）]]
 - [[infectious-disease/influenza-idsa/index|流感 Seasonal Influenza（IDSA 2018 指引）]]
 - [[infectious-disease/infectious-diarrhea-idsa/index|感染性腹瀉 Infectious Diarrhea（IDSA 2017 指引）]]
+- [[infectious-disease/c-difficile-idsa/index|*C. difficile* 感染（IDSA/SHEA 2017＋2021）]]
 
 ## 參考資料
 

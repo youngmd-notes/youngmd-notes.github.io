@@ -113,6 +113,8 @@ tags:
 > | **第一次復發** | **Fidaxomicin**（200 mg bid × 10 天，或 bid × 5 天後隔天一次 × 20 天）；替代：vancomycin taper/pulse 或 125 mg qid × 10 天 |
 > | **多次復發** | Fidaxomicin；vancomycin taper/pulse；vancomycin 後接 rifaximin；**≥ 2 次復發後考慮 FMT** |
 > | 重要原則 | **Vancomycin 一定要口服（IV 不會進腸腔）**；**不做 test of cure**；**照護時用肥皂和水洗手**（酒精殺不死孢子）、環境用含氯消毒 |
+>
+> 完整整理（含 🆕 bezlotoxumab 停產、FDA 核准的活菌叢製劑）見 [[infectious-disease/c-difficile-idsa/cdi-3-treatment|*C. difficile* ③ 治療]]。
 
 > [!info] 🆕 CDC 健康警訊：XDR *Shigella*（2023-02）
 > 對所有常用經驗性與替代抗生素（azithromycin、ciprofloxacin、ceftriaxone、TMP-SMX、ampicillin）都抗藥的 *Shigella*，2022 年約占美國通報的 **5%**（2015 年為 0%）。建議：**沒有適應症就不給抗生素**；送**糞便培養與藥敏**、依藥敏選藥；用藥後仍有症狀要再培養；目前**沒有臨床資料**可決定最佳治療。
@@ -122,7 +124,8 @@ tags:
 - [[infectious-disease/infectious-diarrhea-idsa/dia-2-diagnostics|② 診斷檢查]]（STEC 的 HUS 監測、何時驗 *C. difficile*）
 - [[infectious-disease/infectious-diarrhea-idsa/dia-4-supportive-prevention|④ 補液、症狀治療與預防]]
 - [[infectious-disease/pneumonia/pna-3-cap-treatment|肺炎 ③ CAP 治療]]（FQ 與 TB）
-- [[infectious-disease/infectious-diarrhea-idsa/dia-exam|⑤ 內專考點]]（*C. difficile* 是最常考的）
+- [[infectious-disease/infectious-diarrhea-idsa/dia-exam|⑤ 內專考點]]
+- [[infectious-disease/c-difficile-idsa/cdi-3-treatment|*C. difficile* 治療（IDSA/SHEA 2017＋2021 完整版）]]
 
 ## 參考資料
 

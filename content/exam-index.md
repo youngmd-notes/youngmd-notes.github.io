@@ -6,17 +6,17 @@ title: 內專考點總覽
 > 這頁會**自動彙整**所有筆記裡的「🎯 內專考點」，每次網站更新時重新產生，不需要手動編輯。
 > 「考過次數」把重複出現的同一題分開計算（例如 106-132／108-94 算 2 次），越多次代表越常考。
 
-目前共整理 **253 次考題**，分布在 **18 篇筆記、83 個考點**。
+目前共整理 **253 次考題**，分布在 **19 篇筆記、85 個考點**。
 
 ## 最常考的考點
 
 | 考點 | 筆記 | 考過次數 | 年份 |
 | --- | --- | --- | --- |
-| [[infectious-disease/infectious-diarrhea-idsa/dia-exam#*Clostridioides difficile*\|*Clostridioides difficile*]] | [[infectious-disease/infectious-diarrhea-idsa/dia-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 10 | 105、106、107、108、109、110、112、114 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#病毒性肝炎的血清學\|病毒性肝炎的血清學]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 10 | 105、106、108、109、112、113、114 |
 | [[infectious-disease/pneumonia/pna-exam#病原與宿主或暴露的配對\|病原與宿主或暴露的配對]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 8 | 104、107、108、109、111、112、113、114 |
 | [[cardiology/dyslipidemia-esc/lipid-esc-exam#嚴重高 TG：先控糖，LDL-C 已達標就加 fenofibrate\|嚴重高 TG：先控糖，LDL-C 已達標就加 fenofibrate]] | [[cardiology/dyslipidemia-esc/lipid-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 7 | 104、105、106、108、111、112、114 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#AS 與動態聽診\|AS 與動態聽診]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 6 | 104、107、108、114 |
+| [[infectious-disease/c-difficile-idsa/cdi-exam#治療\|治療]] | [[infectious-disease/c-difficile-idsa/cdi-exam#🎯 內專考點\|④內專考點 Board Exam Review]] | 6 | 105、106、108、110、114 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#ALD、NAFLD／MASLD\|ALD、NAFLD／MASLD]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 6 | 108、110、111、113、114 |
 | [[cardiology/atrial-fibrillation/af-exam#抗凝的原則：不能用 aspirin、不看 AF 類型\|抗凝的原則：不能用 aspirin、不看 AF 類型]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 6 | 105、106、109、110、111、113 |
 | [[infectious-disease/infectious-diarrhea-idsa/dia-exam#潛伏期、食物與病原配對\|潛伏期、食物與病原配對]] | [[infectious-disease/infectious-diarrhea-idsa/dia-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 6 | 105、107、108、109、112 |
@@ -47,6 +47,7 @@ title: 內專考點總覽
 | [[infectious-disease/pneumonia/pna-exam#吸入性肺炎、肺膿瘍與厭氧菌\|吸入性肺炎、肺膿瘍與厭氧菌]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 108、112、113 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#膽管擴張：CBD stone 還是其他？\|膽管擴張：CBD stone 還是其他？]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 109、110、113 |
 | [[endocrinology/dka-hhs#SGLT2 inhibitor\|SGLT2 inhibitor]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 3 | 108、109、113 |
+| [[infectious-disease/c-difficile-idsa/cdi-exam#菌的特性、毒素與傳播\|菌的特性、毒素與傳播]] | [[infectious-disease/c-difficile-idsa/cdi-exam#🎯 內專考點\|④內專考點 Board Exam Review]] | 3 | 105、107、112 |
 | [[infectious-disease/pneumonia/pna-exam#流感後肺炎與 CA-MRSA\|流感後肺炎與 CA-MRSA]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 107、108、112 |
 | [[infectious-disease/pneumonia/pna-exam#重症 CAP 族群與治療\|重症 CAP 族群與治療]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 104、108、112 |
 | [[endocrinology/dka-hhs#酸鹼與電解質\|酸鹼與電解質]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 3 | 110、112 |
@@ -87,6 +88,7 @@ title: 內專考點總覽
 | [[nephrology/calcium-phosphate-disorders#高血鈣：Primary hyperparathyroidism\|高血鈣：Primary hyperparathyroidism]] | [[nephrology/calcium-phosphate-disorders#🎯 內專考點\|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]] | 1 | 109 |
 | [[nephrology/renal-tubular-acidosis#Normal AG acidosis 的下一步\|Normal AG acidosis 的下一步]] | [[nephrology/renal-tubular-acidosis#🎯 內專考點\|腎小管酸中毒 Renal Tubular Acidosis]] | 1 | 109 |
 | [[nephrology/skin-disorders-in-kidney-disease#Cutaneous lupus\|Cutaneous lupus]] | [[nephrology/skin-disorders-in-kidney-disease#🎯 內專考點\|腎臟病的皮膚疾病 Skin Disorders in Kidney Disease]] | 1 | 109 |
+| [[infectious-disease/c-difficile-idsa/cdi-exam#診斷\|診斷]] | [[infectious-disease/c-difficile-idsa/cdi-exam#🎯 內專考點\|④內專考點 Board Exam Review]] | 1 | 109 |
 | [[nephrology/calcium-phosphate-disorders#CKD 鈣磷藥物\|CKD 鈣磷藥物]] | [[nephrology/calcium-phosphate-disorders#🎯 內專考點\|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]] | 1 | 108 |
 | [[infectious-disease/pneumonia/pna-exam#疫苗\|疫苗]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 1 | 108 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#Cholecystitis 的影像\|Cholecystitis 的影像]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 1 | 108 |
@@ -371,6 +373,25 @@ title: 內專考點總覽
 
 ## 感染科 Infectious Disease
 
+### ④內專考點 Board Exam Review
+
+**[[infectious-disease/c-difficile-idsa/cdi-exam#菌的特性、毒素與傳播|菌的特性、毒素與傳播]]**（3 次）
+
+- 105-118｜C. difficile 敘述何者錯誤？（酒精乾洗手）
+- 112-088｜C. difficile 敘述何者錯誤？（傳播與危險因子）
+- 107-118｜NAP1/BI/027 菌株，何者錯誤？
+
+**[[infectious-disease/c-difficile-idsa/cdi-exam#診斷|診斷]]**（1 次）
+
+- 109-118｜化療病人抗生素後腹瀉，懷疑 CDI，何者錯誤？
+
+**[[infectious-disease/c-difficile-idsa/cdi-exam#治療|治療]]**（6 次）
+
+- 105-106、108-093、110-077｜C. difficile 敘述哪個正確？（三題相同）
+- 106-100｜C. difficile 敘述哪個正確？（IV vancomycin 治多次復發）
+- 114-085｜C. difficile 敘述何者正確？（PPI、培養、IV vancomycin）
+- 114-095｜CDI 敘述，哪些都不適當？（027 用 metronidazole、IV vancomycin taper）
+
 ### ⑦內專考點 Board Exam Review
 
 **[[infectious-disease/covid-19-idsa/covid-exam#治療藥物：機轉、適應症與劑量|治療藥物：機轉、適應症與劑量]]**（4 次）
@@ -418,17 +439,6 @@ title: 內專考點總覽
 **[[infectious-disease/infectious-diarrhea-idsa/dia-exam#阿米巴|阿米巴]]**（1 次）
 
 - 114-081｜MSM 發燒水瀉，升結腸潰瘍切片見 trophozoites
-
-**[[infectious-disease/infectious-diarrhea-idsa/dia-exam#*Clostridioides difficile*|*Clostridioides difficile*]]**（10 次）
-
-- 105-106、108-093、110-077｜C. difficile 敘述哪個正確？（三題相同）
-- 106-100｜C. difficile 敘述哪個正確？（IV vancomycin 治多次復發）
-- 105-118｜C. difficile 敘述何者錯誤？（酒精乾洗手）
-- 112-088｜C. difficile 敘述何者錯誤？（傳播與危險因子）
-- 107-118｜NAP1/BI/027 菌株，何者錯誤？
-- 109-118｜化療病人抗生素後腹瀉，懷疑 CDI，何者錯誤？
-- 114-085｜C. difficile 敘述何者正確？（PPI、培養、IV vancomycin）
-- 114-095｜CDI 敘述，哪些都不適當？（027 用 metronidazole、IV vancomycin taper）
 
 ### ⑤內專考點 Board Exam Review
 

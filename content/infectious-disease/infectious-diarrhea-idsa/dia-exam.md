@@ -12,7 +12,7 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 腹瀉題 **一半是 *C. difficile***：**==酒精殺不死孢子 → 肥皂和水洗手==**、**toxin A＝enterotoxin、toxin B＝cytotoxin**（常被顛倒）、**IV vancomycin 無效**、**不用內視鏡或培養診斷**、**NAP1/027 對 FQ 抗藥**；舊考年答案是 metronidazole 首選，**現行是 fidaxomicin 或 oral vancomycin**。另一半是**潛伏期與食物配對**（**3 小時上吐下瀉＝*S. aureus***、郵輪群聚＝norovirus、生豬肉＋右下腹痛＝*Yersinia*）、**NTS 誰要治療**（**> 50 歲、人工血管或關節、免疫抑制**）、**Campylobacter 好了就停藥**、**傷寒用 ceftriaxone**、**amebic colitis 先 metronidazole 再 paromomycin**。
+> 腹瀉題 **一半是 *C. difficile***（已移到 [[infectious-disease/c-difficile-idsa/cdi-exam|*C. difficile* 內專考點]]）。本篇是另一半：**潛伏期與食物配對**（**3 小時上吐下瀉＝*S. aureus***、郵輪群聚＝norovirus、生豬肉＋右下腹痛＝*Yersinia*）、**NTS 誰要治療**（**> 50 歲、人工血管或關節、免疫抑制**）、**Campylobacter 好了就停藥**、**傷寒用 ceftriaxone**、**amebic colitis 先 metronidazole 再 paromomycin**。
 
 > [!info] 系列導覽
 > ↑ 回到 [[infectious-disease/infectious-diarrhea-idsa/index|IDSA 感染性腹瀉指引總覽]]
@@ -24,7 +24,7 @@ tags:
 ## 🎯 內專考點
 
 > [!example] 出題規律
-> 104–114 年感染科 **GI-Infx 標籤 20 題**（其中 3 題完全相同，合併成一張卡，共 18 張）。***C. difficile* 10 題**最多，幾乎每年考，重點是**孢子與洗手、毒素功能、vancomycin 要口服、診斷方法**；**食物中毒與病原配對 6 題**；**Salmonella、Campylobacter、傷寒的治療 3 題**；**阿米巴 1 題**。⚠️ 105–110 年的 CDI 題以「輕度用 metronidazole」為正解，那是 2010 年版的標準；現行 2021 版已改為 fidaxomicin 或 oral vancomycin，作答時要看題目的年代。
+> 104–114 年感染科 **GI-Infx 標籤 20 題**。***C. difficile* 10 題**最多，幾乎每年考，已移到 [[infectious-disease/c-difficile-idsa/cdi-exam|*C. difficile* 內專考點]]；本篇整理其餘 10 題：**食物中毒與病原配對 6 題**；**Salmonella、Campylobacter、傷寒的治療 3 題**；**阿米巴 1 題**。
 
 題號格式為「年份-題號」，可到 [內專刷題網站](http://imboard.dirty-wolf.com/) 用「依年份練習」→「跳題」查看原題與詳解（網站每題沒有獨立網址）。每張卡片點開即可看到內容。
 
@@ -147,105 +147,8 @@ tags:
 
 ### *Clostridioides difficile*
 
-📖 對照：[[infectious-disease/infectious-diarrhea-idsa/dia-3-antimicrobials|③ 🆕 *C. difficile* 2021 更新]]、[[infectious-disease/infectious-diarrhea-idsa/dia-2-diagnostics#c-difficile-何時驗recommendation-18|② 何時驗 *C. difficile*]]
-
-> [!note]- 105-106、108-093、110-077｜C. difficile 敘述哪個正確？（三題相同）
-> **問**：下列何者正確？
-> - 不產孢子的 GP 桿菌，70% 酒精殺菌力好 → 錯
-> - 大腸鏡看偽膜性腸炎敏感度很高，沒看到就能排除 → 錯
-> - Toxin A 是 cytotoxin、toxin B 是 enterotoxin → 錯
-> - 首次輕度 → 口服 metronidazole 10–14 天 → 對（考年標準）
-> - 首次重度 → 針劑 vancomycin 10–14 天 → 錯
->
-> **答**：**(D) 首次輕度用口服 metronidazole**
->
-> **重點**：**會產孢子、酒精殺不死 → 肥皂和水**；**toxin A＝enterotoxin、toxin B＝cytotoxin**（題目顛倒）；偽膜只在部分病人看得到；**IV vancomycin 不會進腸腔**。⚠️ 現行（2021）：初次發作首選 **fidaxomicin**，**oral vancomycin** 為替代，metronidazole 只在兩者都拿不到的非嚴重病人。
-
-> [!note]- 106-100｜C. difficile 敘述哪個正確？（IV vancomycin 治多次復發）
-> **問**：下列何者正確？
-> - 接觸隔離＋70% 酒精手部衛生有良好殺菌力 → 錯
-> - 大腸鏡敏感度 > 90%，沒病灶幾乎可排除 → 錯
-> - Toxin A 是 cytotoxin、toxin B 是 enterotoxin → 錯
-> - 輕度初次發作 → IV 或口服 metronidazole 500 mg tid × 10–14 天 → 對（考年標準）
-> - 多次復發 → IV vancomycin 500 mg q6h × 10–14 天 → 錯
->
-> **答**：**(D) Metronidazole 500 mg tid × 10–14 天**
->
-> **重點**：多次復發用 **oral vancomycin taper／pulse、fidaxomicin、FMT**，**絕不是 IV vancomycin**。
-
-> [!note]- 105-118｜C. difficile 敘述何者錯誤？（酒精乾洗手）
-> **問**：下列何者錯誤？
-> - 預防孢子傳播：手套、隔離衣、酒精性乾洗手 → 錯
-> - 確診要驗糞便 toxin A、B 或其基因 → 對
-> - 除了腹瀉，還有發燒、腹痛、白血球上升 → 對
-> - 輕中度首選 oral metronidazole 500 mg q8h × 10–14 天 → 對（考年）
-> - 約 20% 會復發 → 對
->
-> **答**：**(A) 酒精性乾洗手**
->
-> **重點**：**孢子不怕酒精** → **肥皂和水機械性洗掉**；環境用**含氯（漂白水）**消毒。
-
-> [!note]- 112-088｜C. difficile 敘述何者錯誤？（傳播與危險因子）
-> **問**：下列何者錯誤？
-> - 無症狀帶菌者可經糞口途徑散播 → 對
-> - 手套、不共用污染的溫度計、漂白水清潔可預防傳播 → 對
-> - 酒精性乾洗手或濕洗手都有效 → 錯
-> - 抗生素是重要危險因子，尤其 clindamycin → 對
-> - 減少二、三代 cephalosporin 可降低風險 → 對
->
-> **答**：**(C) 酒精乾洗手也有效**
->
-> **重點**：最相關的抗生素：**clindamycin、cephalosporin、β-lactam/β-lactamase inhibitor、FQ**；約 85% CDI 病人 28 天內用過抗生素。**電子肛溫計**曾是傳播媒介。
-
-> [!note]- 107-118｜NAP1/BI/027 菌株，何者錯誤？
-> **問**：下列何者錯誤？
-> - 近年造成全球流行、歐美醫院群突發的主要菌株 → 對
-> - 對 fluoroquinolone 高度感受性 → 錯
-> - 產生 16–23 倍的 toxin A 與 B → 對
-> - 另外產生第三種毒素 binary toxin（CDT） → 對
-> - 可用 metronidazole 或 vancomycin 當第一線口服治療 → 對（考年）
->
-> **答**：**(B) 對 FQ 高度感受性**
->
-> **重點**：027 是 **hypervirulent** 株：**對 FQ 抗藥**（FQ 使用是它流行的推手）、毒素量大增、多了 **binary toxin**。
-
-> [!note]- 109-118｜化療病人抗生素後腹瀉，懷疑 CDI，何者錯誤？
-> **情境**：50 歲住院化療病人，**neutropenic fever** 用抗生素期間發生腹瀉
->
-> **問**：下列何者錯誤？
-> - 感染性腹瀉需連續 ≥ 2 天、每天 ≥ 3 次不成形便 → 對（官方）
-> - 可用核酸檢驗 toxin A 或 B 確認 → 對
-> - 診斷需依賴內視鏡檢查與糞便培養 → 錯
-> - 至少用藥約 6 天再判斷是否治療失敗 → 對（官方）
-> - 較嚴重（WBC > 15,000）首選口服 vancomycin → 對
->
-> **答**：**(C) 依賴內視鏡與培養**
->
-> **重點**：CDI 診斷＝**腹瀉＋糞便毒素或產毒基因**（GDH＋toxin EIA ± NAAT）；**只送一次腹瀉便**，多送沒有增加檢出率。內視鏡只在診斷不明或無法採檢（ileus）時用；培養慢、還要再驗毒素。
-
-> [!note]- 114-085｜C. difficile 敘述何者正確？（PPI、培養、IV vancomycin）
-> **問**：下列何者正確？
-> - 手套、隔離衣、酒精乾洗手可有效預防孢子傳播 → 錯
-> - 長期住院用 PPI 能降低感染風險 → 錯
-> - 可用 metronidazole 或 vancomycin 當第一線口服治療 → 對（官方）
-> - 嚴重感染（每天腹瀉 > 10 次）優先用針劑 vancomycin → 錯
-> - 糞便培養出 *C. difficile* 就能診斷 → 錯
->
-> **答**：**(C) Metronidazole 或 vancomycin 第一線口服**
->
-> **重點**：**PPI 增加** CDI 風險；**培養陽性不等於 CDI**（可能是不產毒株或帶菌）。⚠️ 現行首選 fidaxomicin 或 oral vancomycin。
-
-> [!note]- 114-095｜CDI 敘述，哪些都不適當？（027 用 metronidazole、IV vancomycin taper）
-> **問**：下列哪些不適當？
-> - Vancomycin 本身也有引發後續 CDI 的風險 → 適當
-> - 初次感染用 fidaxomicin 或口服 vancomycin 10 天為首選 → 適當
-> - NAP1/BI/027 首選口服 metronidazole → 不適當
-> - 腹瀉停止就是治療終點，不必驗毒素清除 → 適當
-> - 多次復發用針劑 vancomycin 減量治療 → 不適當
->
-> **答**：**(D) (3)+(5)**
->
-> **重點**：這題已經是**現行（2021）標準**：初次 **fidaxomicin 或 oral vancomycin × 10 天**；**不做 test of cure**；taper 也一定是 **oral** vancomycin。
+> [!tip] *C. difficile* 的 10 題（8 張卡）已移到專屬系列
+> 見 [[infectious-disease/c-difficile-idsa/cdi-exam|*C. difficile* 內專考點]]（依 IDSA/SHEA 2017 與 2021 指引對照）。
 
 ### 模擬題
 
