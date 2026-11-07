@@ -25,86 +25,71 @@ cssclasses:
 ## 🌳 值班決策流程：照順序回答 5 個問題
 
 <div class="oncall">
-<div class="oc-start">懷疑流感：流行季突發 fever＋cough、myalgia；或<b>不典型</b>——老人只有意識改變、COPD／asthma／HF 惡化、新發生 MI 或 stroke、住院中新出現 cough（打過疫苗也不能排除）</div>
+<div class="oc-start">流行季懷疑流感：突發 fever＋cough、myalgia；或<b>不典型</b>——老人只有意識改變、COPD／asthma／HF 惡化、新發生 MI 或 stroke、住院中新出現 cough｜<b>打過疫苗不能排除</b></div>
 
-<div class="oc-q"><span class="oc-n">1</span><div><span class="oc-qt">要不要驗？驗什麼？</span><small>每一格都是「誰 → 怎麼做」；<b>給藥不必等結果</b></small></div></div>
-<div class="oc-split three">
-<div class="oc-box r"><span class="oc-ans">住院 → 一律驗</span>
-<ul>
-<li>Acute respiratory illness、<b>pneumonia</b></li>
-<li><b>COPD、asthma、CAD、HF 惡化</b></li>
-<li>高風險或免疫不全有呼吸道症狀</li>
-<li>住院中新出現呼吸道症狀</li>
-</ul>
-<b>→ RT-PCR</b>（免疫不全用 <b>multiplex</b>）<br/><b>插管 → 送 ETA／BAL</b>，上呼吸道陰性也要</div>
-<div class="oc-box a"><span class="oc-ans">門診 → 會改變處置才驗</span>
-<ul>
-<li>高風險、免疫不全</li>
-<li>慢性病惡化、有 pneumonia</li>
-<li>非高風險：影響給藥、抗生素、或家人是高風險</li>
-</ul>
-<b>→ Rapid molecular</b>（優於快篩）<br/>NP 最好；沒有就 nasal＋throat 合併；<b>發病 4 天內採</b></div>
-<div class="oc-box g"><span class="oc-ans">不要這樣做</span>
-<ul>
-<li><b>快篩陰性就排除</b>（敏感度約 5 成）</li>
-<li>住院用快篩當最後答案</li>
-<li>驗血清抗體、用病毒培養初步診斷</li>
-<li>送血、尿、CSF、糞便</li>
-</ul></div>
+<div class="oc-time">
+<div class="oc-tt">⏱ 先記住：眼前是哪一種人？→ 驗什麼、給什麼</div>
+<div class="oc-tr oc-th"><div>情境</div><div>🧪 檢驗</div><div>💊 抗病毒</div></div>
+<div class="oc-tr"><div class="oc-sit"><b>要住院</b>（含 ICU）</div><div class="ac-now" data-l="🧪"><b>RT-PCR</b>；免疫不全用 multiplex；<b>插管送 ETA／BAL</b></div><div class="yes" data-l="💊"><b>立刻 oseltamivir</b>，<b>不等結果、不管發病幾天</b></div></div>
+<div class="oc-tr"><div class="oc-sit">門診，<b>高風險</b>或<b>病情惡化</b></div><div class="ac-now" data-l="🧪">會改變處置才驗；用 <b>rapid molecular</b></div><div class="yes" data-l="💊"><b>給</b>，<b>不管發病幾天</b></div></div>
+<div class="oc-tr"><div class="oc-sit">門診，<b>健康、輕症</b></div><div class="wait" data-l="🧪">通常<b>不必驗</b>（臨床診斷即可）</div><div class="wait" data-l="💊"><b>發病 ≤ 2 天可考慮</b>；&gt; 2 天支持療法</div></div>
+<div class="oc-tr"><div class="oc-sit"><b>沒症狀的接觸者</b></div><div class="wait" data-l="🧪"><b>不必驗</b>；<b>快篩陰性也照給</b>（潛伏期 1–4 天）</div><div class="ac-now" data-l="💊">只給<b>極高風險</b>者：<b>48 h 內</b>、qd × 最後接觸後 <b>7 天</b></div></div>
+<div class="oc-tr"><div class="oc-sit">病房 <b>72 h 內 2 例院內確診</b></div><div class="ac-now" data-l="🧪">有症狀者都驗</div><div class="yes" data-l="💊">有症狀 → <b>治療</b>；其餘全病房 → <b>預防 14 天</b></div></div>
+<div class="oc-tf">❌ <b>快篩陰性就排除</b>（流行季敏感度約 5 成）｜❌ <b>「超過 48 小時就不用給」</b>——只適用健康門診｜❌ <b>類固醇</b>（A-III）｜❌ amantadine</div>
 </div>
 
-<div class="oc-q"><span class="oc-n">2</span><div><span class="oc-qt">要不要給抗病毒藥？</span><small>由左往右看，<b>符合紅色任一項就給</b>；不論是否打過疫苗</small></div></div>
-<div class="oc-split three">
-<div class="oc-box r"><span class="oc-ans">🔴 一定給，越快越好</span>
-<ul>
-<li><b>住院</b>（不管病了幾天）</li>
-<li>門診但<b>病重或惡化中</b></li>
-<li><b>&lt; 2 歲、≥ 65 歲</b></li>
-<li><b>孕婦、產後 2 週</b></li>
-<li><b>慢性病</b>（肺含 asthma、心、腎、肝、DM、神經）、<b>免疫抑制</b>、<b>BMI ≥ 40</b>、長照住民</li>
-</ul>
-<b>→ 發病 &gt; 48 小時也要給</b></div>
-<div class="oc-box a"><span class="oc-ans">🟠 可以考慮給</span>
-<ul>
-<li>非高風險門診，<b>發病 ≤ 2 天</b></li>
-<li>同住家人是高風險（尤其嚴重免疫不全）</li>
-<li>照顧高風險病人的醫護</li>
-</ul>
-<b>→ 共享決策</b></div>
-<div class="oc-box g"><span class="oc-ans">🟢 不需要</span><br/>非高風險、輕症、發病 &gt; 2 天、沒有高風險家人<br/><br/><b>→ 支持性治療</b></div>
+<div class="oc-q"><span class="oc-n">1</span><div><span class="oc-qt">要住院嗎？</span><small>低血氧、pneumonia、呼吸窘迫、低血壓、意識改變、心肺病急性惡化</small></div></div>
+<div class="oc-split side">
+<div class="oc-box r"><span class="oc-ans">是 → 驗＋立刻治療，四件事同時做</span>
+<ol>
+<li><b>RT-PCR</b>（免疫不全用 multiplex）；<b>插管送 ETA／BAL</b>，上呼吸道陰性也要送</li>
+<li><b>Oseltamivir 75 mg PO bid</b>（可鼻胃管），<b>不等結果、不管發病幾天</b>；pneumonia、ARDS、免疫不全可 &gt; 5 天</li>
+<li><b>一來就很重</b>（廣泛 pneumonia、呼吸衰竭、低血壓）→ <b>同時抗生素</b>：<i>S. pneumoniae</i>、<b><i>S. aureus</i>（ICU 要 cover MRSA）</b>、<i>S. pyogenes</i></li>
+<li><b>不給類固醇</b>，除非 asthma／COPD 惡化或 refractory septic shock</li>
+</ol>
+</div>
+<div class="oc-box b"><span class="oc-ans">否 → 門診</span><br/>往下 <b>②</b>：看高風險決定給不給藥</div>
 </div>
 
-<div class="oc-q"><span class="oc-n">3</span><div><span class="oc-qt">開什麼？</span><small>由上往下問，<b>第一個符合就用那一列</b>；單一 NAI，不合併、不加大劑量</small></div></div>
+<div class="oc-q"><span class="oc-n">2</span><div><span class="oc-qt">門診：有沒有高風險？</span><small>勾到任何一格就是高風險；<b>打過疫苗也一樣</b></small></div></div>
+<div class="oc-check">
+<div><b>年齡</b><br/><b>&lt; 2 歲</b>（&lt; 5 歲也算）、<b>≥ 65 歲</b></div>
+<div><b>懷孕</b><br/>任何孕期、<b>產後 2 週內</b></div>
+<div><b>慢性病</b><br/>肺（含 <b>asthma</b>）、心（單純 HTN 不算）、腎、肝、<b>DM</b>、血液、神經發展疾病</div>
+<div><b>免疫抑制</b><br/>藥物、HIV；<b>HSCT、移植</b>最高</div>
+<div><b>其他</b><br/><b>BMI ≥ 40</b>、長照住民、&lt; 19 歲長期 aspirin</div>
+</div>
+<div class="oc-split three">
+<div class="oc-box r"><span class="oc-ans">🔴 高風險，或病情惡化 → 給</span><br/><b>不管發病幾天</b>，越快越好</div>
+<div class="oc-box a"><span class="oc-ans">🟠 健康、發病 ≤ 2 天 → 可給</span><br/>共享決策（症狀少 1–2 天）；家人是嚴重免疫不全、或是照顧高風險病人的醫護 → 傾向給</div>
+<div class="oc-box g"><span class="oc-ans">🟢 健康、輕症、&gt; 2 天 → 不給</span><br/>支持療法；交代<b>呼吸喘、好轉又變差</b>要回診</div>
+</div>
+
+<div class="oc-q"><span class="oc-n">3</span><div><span class="oc-qt">開哪一個藥？</span><small>由上往下，<b>第一個符合就用那一列</b>；只用一種，不合併、不加大劑量</small></div></div>
 <div class="oc-rx">
 <div class="oc-rxh">💊 第一個符合就停</div>
-<div class="oc-rr"><div class="oc-k k-r">1</div><div class="oc-if"><b>住院、重症、孕婦</b></div><div class="oc-drug"><b>Oseltamivir 75 mg PO bid × 5 天</b>（可鼻胃管；ECMO 不調、CRRT 減量）<br/><b>Pneumonia、ARDS、免疫不全 → 可延長</b>（病毒複製久，可追病毒量）</div></div>
-<div class="oc-rr"><div class="oc-k k-o">2</div><div class="oc-if"><b>不能口服</b>或吸收有疑慮</div><div class="oc-drug"><b>Peramivir 600 mg IV</b>（核准為單劑；住院用可考慮多天）</div></div>
-<div class="oc-rr"><div class="oc-k k-a">3</div><div class="oc-if"><b>腎功能差</b></div><div class="oc-drug">🆕 Oseltamivir：CrCl <b>30–60 → 30 mg bid</b>｜<b>10–30 → 30 mg qd</b>｜<b>HD → 30 mg 後每次透析後 30 mg</b>｜CAPD → 30 mg 單次</div></div>
-<div class="oc-rr"><div class="oc-k k-b">4</div><div class="oc-if">門診單純流感</div><div class="oc-drug"><b>Oseltamivir 75 mg bid × 5 天</b>，或 <b>zanamivir 10 mg 吸入 bid × 5 天</b>（<b>asthma、COPD 避免</b>），或 peramivir 600 mg IV 單次<br/>🆕 <b>Baloxavir 單劑</b>：≥ 5 歲、48 小時內；20–80 kg <b>40 mg</b>、≥ 80 kg <b>80 mg</b>；別配乳製品、制酸劑、鈣鐵鎂</div></div>
-<div class="oc-rf"><b>不用</b> amantadine、rimantadine（A 型普遍抗藥）｜副作用：oseltamivir <b>噁心、嘔吐</b>；神經精神事件流感本身也會有｜🆕 <b>住院加 baloxavir 沒有額外好處</b></div>
+<div class="oc-rr"><div class="oc-k k-r">1</div><div class="oc-if"><b>住院、重症、孕婦、免疫不全、嬰兒</b></div><div class="oc-drug"><b>Oseltamivir 75 mg PO bid × 5 天</b>｜ECMO 不調、CRRT 減量｜<b>不要加 baloxavir</b></div></div>
+<div class="oc-rr"><div class="oc-k k-o">2</div><div class="oc-if"><b>不能口服</b>（嚴重嘔吐、吸收差）</div><div class="oc-drug"><b>Peramivir 600 mg IV 單次</b>（CrCl &lt; 50 減量；住院可考慮多天）</div></div>
+<div class="oc-rr"><div class="oc-k k-a">3</div><div class="oc-if"><b>懷疑 oseltamivir 抗藥</b>（H275Y）</div><div class="oc-drug"><b>Zanamivir 10 mg 吸入 bid</b>（H275Y 仍有效）；會診感染科｜<b>asthma、COPD、插管不可用</b></div></div>
+<div class="oc-rr"><div class="oc-k k-g">4</div><div class="oc-if"><b>門診單純流感</b></div><div class="oc-drug"><b>Oseltamivir 75 mg bid × 5 天</b>，或 🆕 <b>baloxavir 單劑</b>（48 h 內、≥ 5 歲；20–80 kg 40 mg、≥ 80 kg 80 mg；別配乳製品、制酸劑）——兩者效果相當</div></div>
+<div class="oc-rf">🆕 <b>Oseltamivir 腎功能</b>：CrCl <b>30–60 → 30 mg bid</b>｜<b>10–30 → 30 mg qd</b>｜<b>HD → 30 mg 後每次透析後 30 mg</b>｜CAPD → 30 mg 單次｜副作用：噁心、嘔吐</div>
 </div>
 
-<div class="oc-q"><span class="oc-n">4</span><div><span class="oc-qt">太重、沒好、又變差？</span><small>每一格都是「什麼情況 → 做什麼」</small></div></div>
+<div class="oc-q"><span class="oc-n">4</span><div><span class="oc-qt">治療中沒好、或好了又變差？</span><small>治療 <b>2–3 天</b>還沒改善就要找原因</small></div></div>
 <div class="oc-split three">
-<div class="oc-box r"><span class="oc-ans">一來就很重</span><br/>廣泛 pneumonia、呼吸衰竭、低血壓<br/><br/><b>→ 抗病毒＋同時找並治細菌合併感染</b><br/><i>S. pneumoniae</i>、<b><i>S. aureus</i>（ICU 要 cover MRSA）</b>、<i>S. pyogenes</i></div>
-<div class="oc-box a"><span class="oc-ans">好轉後又惡化</span><br/><br/><b>→ 細菌合併感染，檢查＋經驗性治療</b><br/>PCT 很低才有助排除（CRP 低沒用）</div>
-<div class="oc-box o"><span class="oc-ans">治療 2–5 天沒改善</span><br/><br/><b>→ 找其他原因</b>：藥沒吸收、<b>myocarditis</b>、encephalitis、<b>rhabdomyolysis</b>、MI、PE、院內感染、Reye（aspirin）<br/>免疫不全病毒 <b>7–10 天仍陽性 → 驗抗藥</b>（H275Y → 改 zanamivir）</div>
+<div class="oc-box r"><span class="oc-ans">好轉後又惡化 → 細菌合併感染</span><br/>檢查＋<b>經驗性抗生素</b>（含 <i>S. aureus</i>、MRSA）<br/>PCT 很低才有助排除（CRP 低沒用）</div>
+<div class="oc-box o"><span class="oc-ans">一直沒好 → 找其他原因</span><br/>藥沒吸收、<b>myocarditis</b>、encephalitis、<b>rhabdomyolysis</b>、MI、PE、HF／COPD 失控、院內感染、Reye（aspirin）</div>
+<div class="oc-box a"><span class="oc-ans">免疫不全、病毒 7–10 天仍陽性 → 抗藥？</span><br/>驗 <b>H275Y</b> → 改 <b>zanamivir</b>、延長療程；病毒 RNA 陽性本身不等於抗藥</div>
 </div>
 
-<div class="oc-q"><span class="oc-n">5</span><div><span class="oc-qt">誰要預防性投藥？</span><small>疫苗才是主角；預防用 <b>NAI 每天一次</b>，不用 amantadine；<b>無症狀接觸者不必先驗</b></small></div></div>
+<div class="oc-q"><span class="oc-n">5</span><div><span class="oc-qt">沒症狀的接觸者要不要吃預防藥？</span><small><b>不必先驗、快篩陰性也照給</b>；一有症狀就不是預防，改<b>治療劑量 bid</b></small></div></div>
 <div class="oc-split three">
-<div class="oc-box b"><span class="oc-ans">家中暴露（社區）</span><br/>極高風險（嚴重免疫不全）且疫苗無效；或未接種、家人是極高風險<br/><br/><b>→ Oseltamivir 75 mg qd，48 小時內開始，最後接觸後 7 天</b><br/>超過 48 小時 → 不給預防，<b>一有症狀給足量治療</b></div>
-<div class="oc-box r"><span class="oc-ans">機構群聚</span><br/><b>同一病房 72 小時內 2 例</b>院內確診<br/><br/><b>→ 病房所有未發病住民預防（不論是否打疫苗）</b><br/><b>14 天，且到最後一例後 7 天</b>；有症狀者不等報告就治療；全機構每日監測</div>
-<div class="oc-box g"><span class="oc-ans">整季預防</span><br/><b>HSCT 頭 6–12 個月、肺移植</b>等極高風險，疫苗無效<br/><br/><b>→ 社區開始流行到結束</b><br/>預防中出現症狀 → <b>驗流感、改治療劑量</b>、最好換藥</div>
-</div>
-<div class="oc-time" style="margin-top:0.9rem;margin-bottom:0.5rem"><div class="oc-tt">🧪 接觸者要先驗嗎？快篩陰性還能給嗎？先看他有沒有症狀</div></div>
-<div class="oc-split three">
-<div class="oc-box g"><span class="oc-ans">沒有症狀 → 不必驗，直接給預防</span><br/><b>快篩陰性、甚至 PCR 陰性也照給</b><br/>潛伏期 <b>1–4 天</b>，暴露後驗陰性只代表「現在還測不到」，不代表不會發病<br/><br/><b>→ 預防劑量 qd</b></div>
-<div class="oc-box r"><span class="oc-ans">已經有症狀 → 這是治療，不是預防</span><br/>驗流感（最好 molecular），但<b>不等結果、快篩陰性也照給</b>（流行季 RIDT 偽陰性多）<br/><br/><b>→ 治療劑量 bid × 5 天</b>，不要給 qd 預防劑量（治療不足、易抗藥）</div>
-<div class="oc-box a"><span class="oc-ans">機構群聚、免疫不全的接觸者</span><br/>部分人已<b>無症狀感染</b>，qd 等於治療不足<br/><br/><b>→ 可考慮直接用治療劑量 bid × 5 天</b>，再降為 qd 直到群聚結束</div>
+<div class="oc-box b"><span class="oc-ans">家中接觸 → 只給極高風險</span><br/>嚴重免疫不全且疫苗無效；或<b>未接種、家人是極高風險</b><br/><br/><b>→ Oseltamivir 75 mg qd</b>，<b>48 h 內開始</b>，<b>最後接觸後 7 天</b><br/>超過 48 h → 不給預防，交代一有症狀就治療</div>
+<div class="oc-box r"><span class="oc-ans">病房 72 h 內 2 例 → 全病房預防</span><br/>所有沒發病住民（<b>不論是否打疫苗</b>）<br/><br/><b>→ 14 天，且到最後一例後 7 天</b><br/>有症狀者<b>不等報告</b>就治療；免疫不全可直接用 bid × 5 天再降 qd</div>
+<div class="oc-box g"><span class="oc-ans">HSCT 頭 6–12 個月、肺移植 → 整季</span><br/>疫苗預期無效<br/><br/><b>→ 社區開始流行就吃，到流行結束</b></div>
 </div>
 
-<div class="oc-foot">❌ 住院或高風險因「超過 48 小時」不給藥｜❌ 等檢驗結果才給藥｜❌ 流行季快篩陰性就排除｜❌ 給類固醇（A-III）或 IVIG｜❌ 合併兩種 NAI、常規加大劑量｜❌ COPD、asthma、插管病人用 zanamivir（插管霧化會致死）｜❌ Amantadine｜❌ 暴露超過 48 小時才給預防劑量｜❌ 要求無症狀接觸者先快篩陰性才給預防｜❌ 有症狀的接觸者只給 qd 預防劑量｜❌ 抗生素「預防」細菌併發症</div>
+<div class="oc-foot">❌ 住院或高風險因「超過 48 小時」不給藥｜❌ 等檢驗結果才給藥｜❌ 流行季快篩陰性就排除｜❌ 類固醇（A-III）、IVIG｜❌ 合併兩種藥、常規加大劑量｜❌ COPD、asthma、插管病人用 zanamivir｜❌ 住院加 baloxavir｜❌ Amantadine｜❌ 要求無症狀接觸者先驗陰性才給預防｜❌ 有症狀的接觸者只給 qd 預防劑量｜❌ 抗生素「預防」細菌併發症</div>
 <div class="oc-note">依 IDSA 2018 季節性流感指引 Recommendation 1–58、Table 4、7、8、9、10、Figure 1 內容自製；🆕 標示 FDA 核准的 baloxavir（CDC 用藥表）與 Tamiflu 仿單腎功能劑量</div>
 </div>
 
