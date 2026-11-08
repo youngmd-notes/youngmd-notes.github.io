@@ -76,7 +76,14 @@ flowchart TD
 <div class="orig-fig" data-src="心臟科/hf-esc-2026-originals/figure-13.png" data-label="Figure 13"></div>
 <div class="orig-fig" data-src="心臟科/hf-esc-2026-originals/figure-12.png" data-label="Figure 12 住院三階段"></div>
 
-- 住院處置分三階段（Figure 12）：**Phase 1 初始處置**（穩定、處理誘因）→ **Phase 2 穩定期**（完全去鬱血、開始或調整 FMT）→ **Phase 3 出院前與出院後早期**（確認沒有殘餘鬱血、調藥、追蹤）
+**住院三階段與目標（Figure 12 依內容重新整理）**：
+
+| 階段 | 目標 |
+| --- | --- |
+| **① 初始處置** | 處理**致命狀況**、治療**病因或誘因**、開始**血行動力穩定**、開始**去鬱血** |
+| **② 穩定期** | 鞏固血行動力、**完全去鬱血並改口服利尿劑**、**開始或最佳化 FMT**、找出 HF 病因與共病 |
+| **③ 出院前** | **排除殘餘鬱血**（Figure 14）、開始或最佳化 **FMT 與 AMT**、需要時考慮 **GDIT**、處理共病、規劃長期照護 |
+| **③ 出院後早期** | 進一步最佳化 FMT 與 AMT、**疾病管理與復健計畫**、自我照顧衛教與生活型態調整 |
 
 ## 治療建議（Recommendation Table 9）
 
@@ -127,6 +134,21 @@ flowchart TD
 | **出院前仔細評估，排除殘餘鬱血** | I C |
 | **==出院前快速開始並調升 FMT，出院後前 6 週密集回診==** | **I B2** |
 | DHF 盡早安全時開始心臟復健 | IIa B1 |
+
+### 出院前怎麼確認去鬱血完成（Figure 14 依內容重新整理）
+
+這些工具都是**選用的**（沒有 RCT 證據），依可近性挑選：
+
+| 工具 | 理想 | 可接受 |
+| --- | --- | --- |
+| **Congestion score**（喘、端坐呼吸、疲倦、rales、水腫、JVD） | **0** | 1–2 |
+| **體重** | 下降 | — |
+| **NYHA** | **≤ II** | — |
+| **NP** | **下降 ≥ 30%**，或 **NT-proBNP < 1500**、**BNP < 250 pg/mL** | — |
+| **胸部 X 光** | 鬱血徵象消失（congestion score index＝0） | — |
+| **LV 充填壓（超音波）** | **E/e′ < 10**（或 ΔE/e′ > 5） | E/e′ < 15；E/A < 2、DT > 130 ms、TR velocity < 2.8 m/s |
+| **IVC** | **< 21 mm 且塌陷率 > 50%** | < 21 mm 或塌陷率 > 50% |
+| **肺部超音波** | **< 5 條 B-lines**（28 或 8 區掃描） | < 15 條（28 區） |
 
 <div class="orig-fig" data-src="心臟科/hf-esc-2026-originals/figure-14.png" data-label="Figure 14 評估去鬱血的工具"></div>
 

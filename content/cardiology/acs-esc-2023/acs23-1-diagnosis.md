@@ -59,9 +59,6 @@ tags:
 4. **最終診斷**：**STEMI、NSTEMI、unstable angina**，或**不是 ACS**（工作診斷是 ACS 的病人，最後可能是其他診斷）
 
 <div class="orig-fig" data-src="心臟科/acs-esc-2023-originals/figure-02.png,心臟科/acs-esc-2023-originals/figure-03.png" data-label="Figure 2–3"></div>
-<div class="orig-fig" data-src="心臟科/acs-esc-2023-originals/table-03.png" data-label="Table 3 侵入性策略名詞定義"></div>
-<div class="orig-fig" data-src="心臟科/acs-esc-2023-originals/table-04-1.png,心臟科/acs-esc-2023-originals/table-04-2.png" data-label="Table 4 新建議"></div>
-<div class="orig-fig" data-src="心臟科/acs-esc-2023-originals/table-05-1.png,心臟科/acs-esc-2023-originals/table-05-2.png" data-label="Table 5 修訂建議"></div>
 
 ### 侵入性策略的名詞（Table 3）
 
@@ -74,6 +71,53 @@ tags:
 | **Immediate invasive** | NSTE-ACS **盡快**（very high risk） |
 | **Early invasive** | NSTE-ACS **24 小時內**（high risk） |
 | **Selective invasive** | 依非侵入性檢查或臨床決定 |
+
+<div class="orig-fig" data-src="心臟科/acs-esc-2023-originals/table-03.png" data-label="Table 3 侵入性策略名詞定義"></div>
+
+### 2023 新建議重點（Table 4 依內容重新整理）
+
+| 主題 | 新建議 | 等級 |
+| --- | --- | --- |
+| **抗血栓** | 為 CABG 停 DAPT → **術後恢復 DAPT ≥ 12 個月** | I C |
+| | 老人（尤其 HBR）→ P2Y12 可選 **clopidogrel** | IIb B |
+| **縮短／簡化抗血小板** | DAPT **3–6 個月**沒事件、非高缺血風險 → **單一抗血小板（偏好 P2Y12i）** | IIa A |
+| | 長期 **P2Y12i 單方**可取代 aspirin 單方 | IIb A |
+| | **HBR：DAPT 1 個月後**改 aspirin 或 P2Y12i 單方 | IIb B |
+| | 需要 OAC → **6 個月停抗血小板、只留 OAC** | IIb B |
+| | **==ACS 後 30 天內不降階抗血小板==** | **III B** |
+| **心跳停止** | 昏迷存活者**入院 ≥ 72 小時後**才評估神經預後 | I C |
+| | OHCA 依當地流程送 cardiac arrest center | IIa C |
+| **侵入技術** | **SCAD**：只有持續缺血、大範圍心肌受威脅、前向血流差才 PCI | I C |
+| | **血管內影像引導 PCI** | IIa A |
+| **多條血管** | 休克：**非罪犯血管分期 PCI** | IIa C |
+| | 穩定 STEMI：非罪犯血管 PCI **依血管攝影嚴重度**決定；當次**不做 IRA 非罪犯段的功能評估**（III） | I B |
+| **併發症** | **高度 AV block ≥ 5 天未恢復 → 永久起搏器** | I C |
+| | 懷疑 **LV thrombus**、超音波不清楚 → CMR（IIa）；前壁 MI 心尖看不清 → 顯影劑超音波（IIb） | IIa／IIb C |
+| | 反覆致命心室心律不整 → **鎮靜或全身麻醉**降交感 | IIb C |
+| **共病** | 依 HF、CKD、肥胖選長期降糖藥 | I A |
+| | 癌症：高風險 ACS、**預期存活 ≥ 6 個月 → 侵入性**；< 6 個月或極高出血風險 → 保守（IIa）；**PLT < 10k 不給 aspirin、< 30k 不給 clopidogrel、< 50k 不給 prasugrel／ticagrelor**（III） | I B |
+| **長期** | 原本就吃降血脂藥 → **住院中加強** | I C |
+| | **Colchicine 0.5 mg qd** | IIb A |
+| | 住院中 **高劑量 statin＋ezetimibe** | IIb B |
+| **病人觀點** | 以病人為中心、共同決策與決策輔助、teach-back、心理健康評估 | I／IIa |
+
+<div class="orig-fig" data-src="心臟科/acs-esc-2023-originals/table-04-1.png,心臟科/acs-esc-2023-originals/table-04-2.png" data-label="Table 4 新建議"></div>
+
+### 2023 修訂建議（Table 5 依內容重新整理）
+
+| 主題 | 以前（2017／2020） | **2023** |
+| --- | --- | --- |
+| **NSTE-ACS 影像** | 胸痛不再發、ECG 與 troponin 正常 → stress test 或 CCTA（I B） | hs-cTn 不高或不確定、ECG 無變化 → **CCTA 或非侵入 stress imaging 可考慮（IIa A）** |
+| **NSTE-ACS 24 h 內侵入** | 高風險 → **I A** | 同樣的高風險條件（NSTEMI、動態 ST／T、短暫 ST 上升、GRACE > 140）→ **降為 IIa A** |
+| **STEMI pre-treatment** | PCI 前或當下給強效 P2Y12i（I A） | Primary PCI **pre-treatment 只是 IIb B** |
+| **長期抗血栓** | 3–6 個月後停 aspirin（IIa A） | 3–6 個月沒事件、非高缺血風險 → **SAPT（偏好 P2Y12i）（IIa A）** |
+| **OHCA 攝影** | 穩定、無 ST 上升 → 延後攝影（IIa B） | **==穩定、無持續 ST 上升 → 不常規立即攝影（III A）==** |
+| **體溫** | 32–36 °C 至少 24 h（TTM，I B） | **持續監測核心體溫、主動預防發燒（> 37.7 °C）**（I B） |
+| **住院影像** | 超音波不清楚 → CMR（IIa C） | → CMR **IIb C** |
+| **多條血管 STEMI** | 出院前常規處理非罪犯病灶（IIa A） | **==完全再通：當次或 45 天內（I A）==** |
+| **血糖** | > 180 mg/dL 考慮降糖（IIa B） | **持續高血糖**才降糖、避免低血糖（IIa C） |
+
+<div class="orig-fig" data-src="心臟科/acs-esc-2023-originals/table-05-1.png,心臟科/acs-esc-2023-originals/table-05-2.png" data-label="Table 5 修訂建議"></div>
 
 ## 初步分流（Figure 4–5）
 

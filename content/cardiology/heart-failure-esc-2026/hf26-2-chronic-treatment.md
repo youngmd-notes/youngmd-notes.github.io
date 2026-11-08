@@ -115,6 +115,27 @@ tags:
 | 已有 pacemaker 或 ICD、LVEF ≤ 35%、**RV pacing 比例高、HF 惡化 → upgrade 成 CRT** | IIa B1 |
 | LBBB＋QRS ≥ 150、LVEF ≤ 35% → **FMT 起始與 CRT 規劃可同時進行**（放之前再評估 LVEF） | IIb C（新） |
 
+### CRT 決策流程（Figure 10 依內容重新繪製）
+
+```mermaid
+flowchart TD
+    A["HFrEF、LVEF ≤ 35%"] --> B["FMT 調到最高耐受劑量"]
+    B --> C{"LVEF 仍 ≤ 35%？"}
+    C -->|是| D{"QRS 寬度"}
+    D -->|"≥ 150 ms"| E{"QRS 形態"}
+    D -->|"130–149 ms"| F{"QRS 形態"}
+    D -->|"< 130 ms"| G["CRT 不建議（III）"]
+    E -->|LBBB| H["CRT（I）"]
+    E -->|non-LBBB| I["CRT（IIa）"]
+    F -->|LBBB| J["CRT（IIa）"]
+    F -->|non-LBBB| K["CRT（IIb）"]
+    style H fill:#e8f5e9,stroke:#2e7d32
+    style G fill:#fdecea,stroke:#c0392b
+```
+
+- 決定放裝置前要考慮：**病人意願**、年齡、衰弱、共病帶來的實際好處、併發症風險、靜脈通路
+- **LBBB＋QRS ≥ 150、LVEF ≤ 35%**：FMT 起始與 CRT 規劃**可同時進行**（IIb），但放之前要**再評估 LVEF**
+
 <div class="orig-fig" data-src="心臟科/hf-esc-2026-originals/figure-10.png" data-label="Figure 10"></div>
 
 ## 相關筆記
