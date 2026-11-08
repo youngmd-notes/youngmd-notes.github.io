@@ -6,7 +6,7 @@ title: 內專考點總覽
 > 這頁會**自動彙整**所有筆記裡的「🎯 內專考點」，每次網站更新時重新產生，不需要手動編輯。
 > 「考過次數」把重複出現的同一題分開計算（例如 106-132／108-94 算 2 次），越多次代表越常考。
 
-目前共整理 **294 次考題**，分布在 **21 篇筆記、94 個考點**。
+目前共整理 **319 次考題**，分布在 **22 篇筆記、98 個考點**。
 
 ## 最常考的考點
 
@@ -15,7 +15,9 @@ title: 內專考點總覽
 | [[cardiology/heart-failure-esc-2026/hf26-exam#分類、流行病學與診斷\|分類、流行病學與診斷]] | [[cardiology/heart-failure-esc-2026/hf26-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 12 | 106、108、109、112、113、114 |
 | [[cardiology/heart-failure-esc-2026/hf26-exam#慢性 HFrEF 用藥\|慢性 HFrEF 用藥]] | [[cardiology/heart-failure-esc-2026/hf26-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 10 | 105、106、108、109、110、111、114 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#病毒性肝炎的血清學\|病毒性肝炎的血清學]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 10 | 105、106、108、109、112、113、114 |
+| [[cardiology/acs-esc-2023/acs23-exam#ECG 判讀與罪犯血管\|ECG 判讀與罪犯血管]] | [[cardiology/acs-esc-2023/acs23-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 9 | 104、105、106、108、109、110、112、113、114 |
 | [[infectious-disease/pneumonia/pna-exam#病原與宿主或暴露的配對\|病原與宿主或暴露的配對]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 8 | 104、107、108、109、111、112、113、114 |
+| [[cardiology/acs-esc-2023/acs23-exam#急診初步處置與用藥\|急診初步處置與用藥]] | [[cardiology/acs-esc-2023/acs23-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 7 | 105、107、108、110、111、114 |
 | [[cardiology/dyslipidemia-esc/lipid-esc-exam#嚴重高 TG：先控糖，LDL-C 已達標就加 fenofibrate\|嚴重高 TG：先控糖，LDL-C 已達標就加 fenofibrate]] | [[cardiology/dyslipidemia-esc/lipid-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 7 | 104、105、106、108、111、112、114 |
 | [[cardiology/heart-failure-esc-2026/hf26-exam#Decompensated HF 與心因性休克\|Decompensated HF 與心因性休克]] | [[cardiology/heart-failure-esc-2026/hf26-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 6 | 107、108、110、111、112、114 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#AS 與動態聽診\|AS 與動態聽診]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 6 | 104、107、108、114 |
@@ -24,6 +26,7 @@ title: 內專考點總覽
 | [[cardiology/atrial-fibrillation/af-exam#抗凝的原則：不能用 aspirin、不看 AF 類型\|抗凝的原則：不能用 aspirin、不看 AF 類型]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 6 | 105、106、109、110、111、113 |
 | [[infectious-disease/infectious-diarrhea-idsa/dia-exam#潛伏期、食物與病原配對\|潛伏期、食物與病原配對]] | [[infectious-disease/infectious-diarrhea-idsa/dia-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 6 | 105、107、108、109、112 |
 | [[infectious-disease/pneumonia/pna-exam#Legionella\|Legionella]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 6 | 105、106、108、112 |
+| [[cardiology/acs-esc-2023/acs23-exam#心因性休克與機械併發症\|心因性休克與機械併發症]] | [[cardiology/acs-esc-2023/acs23-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 5 | 108、109、110、113、114 |
 | [[cardiology/pulmonary-embolism-esc/pe-esc-exam#治療\|治療]] | [[cardiology/pulmonary-embolism-esc/pe-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 5 | 104、106、110、112、114 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#有症狀膽結石與膽囊疾病\|有症狀膽結石與膽囊疾病]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 5 | 105、107、113、114 |
 | [[nephrology/nephrotic-syndrome#Membranous nephropathy：anti-PLA2R 與治療時機\|Membranous nephropathy：anti-PLA2R 與治療時機]] | [[nephrology/nephrotic-syndrome#🎯 內專考點\|腎病症候群 Nephrotic Syndrome]] | 5 | 104、108、110、112、113 |
@@ -41,6 +44,7 @@ title: 內專考點總覽
 | [[cardiology/atrial-fibrillation/af-exam#Rate 與 rhythm control\|Rate 與 rhythm control]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 108、109、111 |
 | [[cardiology/dyslipidemia-esc/lipid-esc-exam#生活型態與次發性血脂異常\|生活型態與次發性血脂異常]] | [[cardiology/dyslipidemia-esc/lipid-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 4 | 105、107、109、110 |
 | [[infectious-disease/covid-19-idsa/covid-exam#冠狀病毒學與 MERS\|冠狀病毒學與 MERS]] | [[infectious-disease/covid-19-idsa/covid-exam#🎯 內專考點\|⑦內專考點 Board Exam Review]] | 4 | 105、108、109 |
+| [[cardiology/acs-esc-2023/acs23-exam#病理與 troponin\|病理與 troponin]] | [[cardiology/acs-esc-2023/acs23-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 4 | 105、106、107 |
 | [[nephrology/calcium-phosphate-disorders#CKD-MBD 的病生理\|CKD-MBD 的病生理]] | [[nephrology/calcium-phosphate-disorders#🎯 內專考點\|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]] | 3 | 105、107、114 |
 | [[nephrology/high-anion-gap-metabolic-acidosis#酸鹼判讀：AG＋Winter's formula\|酸鹼判讀：AG＋Winter's formula]] | [[nephrology/high-anion-gap-metabolic-acidosis#🎯 內專考點\|高陰離子間隙代謝性酸中毒 High Anion Gap Metabolic Acidosis]] | 3 | 106、107、114 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#AV block 與 pacing\|AV block 與 pacing]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 3 | 105、109、114 |
@@ -222,6 +226,44 @@ title: 內專考點總覽
 - 109-200｜年輕男性臉部紫紅色鱗屑斑塊（看圖）
 
 ## 心臟科 Cardiology
+
+### ⑤內專考點 Board Exam Review
+
+**[[cardiology/acs-esc-2023/acs23-exam#ECG 判讀與罪犯血管|ECG 判讀與罪犯血管]]**（9 次）
+
+- 104-005｜59 歲半夜胸悶、牙床緊痛，troponin 還沒上升
+- 105-008｜64 歲女性 BP 216/114、TnI 5.32，罪犯血管在哪？
+- 106-010｜68 歲運動時胸悶 3 小時：診斷組合
+- 108-005｜44 歲肥胖、胸痛兩次，罪犯血管
+- 109-008｜86 歲 LAD 支架史、胸悶 2 小時
+- 110-004｜73 歲運動後胸痛 2 小時
+- 112-003｜52 歲胸悶、雙肩痠，兩次 ECG
+- 113-008｜83 歲中風史、胸悶 1 小時
+- 114-017｜85 歲 AF、低血壓、BNP 高、troponin 輕度上升、ECG 無新變化
+
+**[[cardiology/acs-esc-2023/acs23-exam#病理與 troponin|病理與 troponin]]**（4 次）
+
+- 106-089｜哪一個不會讓 troponin I 上升？
+- 107-013｜導致 AMI 的斑塊特徵，何者除外？
+- 107-004｜STEMI 的臨床：何者不正確？
+- 105-006｜AMI 臨床：何者不正確？
+
+**[[cardiology/acs-esc-2023/acs23-exam#急診初步處置與用藥|急診初步處置與用藥]]**（7 次）
+
+- 105-007｜62 歲胸痛冷汗 40 分鐘，troponin 正常
+- 107-017｜70 歲胸痛 1 小時、BP 160/100，哪些處置正確？
+- 108-006｜52 歲胸痛、BP 86/66、SaO2 98%：哪些處置符合指引？
+- 107-021｜70 歲胸痛 4 小時、troponin T 560：何者正確？
+- 111-013｜STEMI 敘述：何者錯誤？
+- 110-015｜STEMI 的 fibrinolysis：何者錯誤？
+- 114-010｜NSTEMI 處置：何者錯誤？
+
+**[[cardiology/acs-esc-2023/acs23-exam#心因性休克與機械併發症|心因性休克與機械併發症]]**（5 次）
+
+- 108-001｜AMI 合併心因性休克：何者不正確？
+- 113-003、114-073｜AMI 心因性休克處置：何者不正確？（IABP）
+- 109-012｜心因性休克：何者不正確？
+- 110-011｜MI 合併心因性休克：何者錯誤？（VSR 雜音）
 
 ### ⑥內專考點 Board Exam Review
 

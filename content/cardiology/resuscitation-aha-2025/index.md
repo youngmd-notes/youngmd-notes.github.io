@@ -167,6 +167,7 @@ cssclasses:
 - [[pulmonology/emergent-airway-management|緊急呼吸道處置]]
 - [[nephrology/hemodialysis-emergencies|血液透析急症]]（hyperkalemia）
 - [[cardiology/heart-failure-esc-2026/index|心衰竭 Heart Failure（ESC 2026）]]（cardiogenic shock、MCS）
+- [[cardiology/acs-esc-2023/index|急性冠心症 ACS（ESC 2023）]]（arrest 後心導管）
 
 ## 參考資料
 

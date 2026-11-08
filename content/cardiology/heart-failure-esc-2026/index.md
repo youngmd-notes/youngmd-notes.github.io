@@ -170,6 +170,7 @@ tags:
 - [[cardiology/resuscitation-aha-2025/index|心肺復甦與急救 CPR & ECC（2025 AHA）]]
 - [[cardiology/pulmonary-embolism-esc/index|肺栓塞 PE（ESC 2019）]]
 - [[nephrology/hemodialysis-emergencies|血液透析急症]]
+- [[cardiology/acs-esc-2023/index|急性冠心症 ACS（ESC 2023）]]
 
 ## 參考資料
 
