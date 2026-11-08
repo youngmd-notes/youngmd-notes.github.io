@@ -103,6 +103,17 @@ flowchart TD
 | **SCAD**：只有持續缺血、大範圍心肌受威脅、血流變差才 PCI | I C |
 | **不常規 thrombus aspiration** | **III A** |
 
+### 血管內影像怎麼用（Figure 13 依內容重新整理）
+
+| 攝影結果 | 怎麼做 | 等級 |
+| --- | --- | --- |
+| **罪犯病灶清楚、適合 PCI** | **IVUS 或 OCT 導引 PCI** → PCI 罪犯病灶 | **IIa** |
+| **看不出罪犯病灶** | **血管內影像（OCT 較佳）**找罪犯 → 依影像結果治療 → 需要時再做其他檢查 | IIb |
+
+- **攝影上容易看不清楚的情況**：多條血管病變、模糊病灶或鈣化、血管彎曲或偏心
+- **OCT 可能看到**：斑塊**侵蝕（erosion）**、**鈣化結節（nodule）**、**破裂（rupture）**、**SCAD**，或**完全沒有病灶**（→ 想 MINOCA）
+- 還不清楚 → **左心室攝影、心臟超音波、CMR**
+
 <div class="orig-fig" data-src="心臟科/acs-esc-2023-originals/figure-13.png" data-label="Figure 13 血管內影像"></div>
 
 ## 多條血管疾病（Section 10、Figure 14）
@@ -114,6 +125,14 @@ flowchart TD
 | **穩定 STEMI** | **完全再通：index 或 45 天內** | **I A** |
 | | Non-IRA 依**血管攝影嚴重度**決定 | I B |
 | | Index 時**不做 IRA 非罪犯段的功能評估** | III C |
+
+**Figure 14 依內容重新整理**：ACS 做罪犯血管 PCI、且 ≥ 1 條非罪犯血管有明顯狹窄時
+
+| 表現 | Index 手術 | 之後 |
+| --- | --- | --- |
+| **心因性休克** | **只做罪犯血管（Class I）** | **分次完全再通（IIa）** |
+| **STEMI** | **完全再通：index 或 45 天內（Class I）**，非罪犯血管依**攝影嚴重度** | — |
+| **NSTE-ACS** | **完全再通（IIa），最好在 index**；非罪犯血管可在 index 做**侵入性功能評估（IIb）** | — |
 
 <div class="orig-fig" data-src="心臟科/acs-esc-2023-originals/figure-14.png" data-label="Figure 14"></div>
 
@@ -135,6 +154,18 @@ flowchart TD
 - 可能原因（Figure 15）：**斑塊破裂或侵蝕、冠狀動脈痙攣、SCAD、冠狀動脈栓塞、微血管功能不良、供需失衡**；非冠狀動脈原因如**心肌炎、Takotsubo** 要排除（見原圖）
 
 <div class="orig-fig" data-src="心臟科/acs-esc-2023-originals/figure-15.png,心臟科/acs-esc-2023-originals/figure-16.png" data-label="Figure 15–16"></div>
+
+### MINOCA 三步驟評估（Figure 16 依內容重新整理）
+
+| 步驟 | 地點 | 可考慮的檢查 |
+| --- | --- | --- |
+| **Step 1** | **導管室** | 病史、理學檢查、ECG；**仔細看血管攝影 ± 左心室攝影（含 LVEDP）**；**血管內影像（IVUS／OCT）**；**冠狀動脈微血管功能與血管反應性（acetylcholine 測試）** |
+| **Step 2** | **病房** | 病史、理學檢查、ECG、**心臟超音波**、**CMR**、**抽血**（CBC、腎功能、troponin、CRP、**D-dimer**、NT-proBNP）、**CTPA**（想到 PE）或 **CT brain**（懷疑顱內出血造成 ST 上升） |
+| **Step 3** | **出院後** | 門診追蹤、**重做超音波或 CMR**、心臟復健 |
+
+- **STEMI 直接進導管室**（Step 1 → 2）；**NSTE-ACS 或 UA 常先在病房穩定**（Step 2 → 1），所以檢查順序依病人在哪裡而不同
+- 不是每個人都要做全部檢查，**依表現與病程選擇**
+- 原則：**MINOCA 是工作診斷**，要找出**最終病因**（斑塊破裂或侵蝕、痙攣、SCAD、栓塞、微血管功能不良；或非冠狀動脈原因如心肌炎、Takotsubo），再依病因治療
 
 ## 相關筆記
 

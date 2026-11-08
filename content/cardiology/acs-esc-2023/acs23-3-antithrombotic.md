@@ -41,6 +41,19 @@ tags:
 | **Fondaparinux** | **2.5 mg SC qd** | PCI 時要加一劑 **UFH**；**CrCl < 20 避免** |
 
 <div class="orig-fig" data-src="心臟科/acs-esc-2023-originals/table-06.png" data-label="Table 6"></div>
+### 抗血栓藥作用在哪裡（Figure 9 依內容重新整理）
+
+斑塊**破裂或侵蝕** → 一路是 **tissue factor（TF：FVIIa）→ FXa → thrombin → fibrin**（凝血），一路是**血小板活化 → 聚集**，兩者合成成熟的 fibrin 血栓。
+
+| 標的 | 藥物（口服／針劑） |
+| --- | --- |
+| **TxA₂（COX-1）** | **Aspirin**（口服） |
+| **P2Y12 receptor（ADP）** | **Clopidogrel、ticagrelor、prasugrel**（口服）；**cangrelor**（IV） |
+| **GP IIb/IIIa**（血小板聚集最後一步） | **Eptifibatide、tirofiban**（IV） |
+| **FXa** | **Rivaroxaban、apixaban、edoxaban**（口服）；**fondaparinux**（SC） |
+| **FXa＋thrombin** | **UFH**（兩者都抑制）、**enoxaparin**（以 FXa 為主） |
+| **Thrombin（直接）** | **Dabigatran**（口服）；**bivalirudin**（IV） |
+
 <div class="orig-fig" data-src="心臟科/acs-esc-2023-originals/figure-09.png" data-label="Figure 9 抗血栓藥的作用位置"></div>
 
 ## 抗血小板
@@ -58,10 +71,27 @@ tags:
 | **==NSTE-ACS、解剖未知、預計 < 24 h 攝影 → 不常規預先給 P2Y12==** | **III A** |
 | **頭 30 天不降階抗血小板** | **III B** |
 
-### 預設 DAPT 與替代策略（Figure 10–11）
+### 預設抗血栓組合（Figure 10 依內容重新整理，沒有 OAC 適應症）
 
-- **預設**：**DAPT 12 個月**（aspirin＋prasugrel 或 ticagrelor）
-- **降低出血風險的替代策略**（Figure 11）：縮短 DAPT 後改**單一抗血小板**、**降階**（改用較弱的 P2Y12）等；**30 天內不降階**。細節見原圖
+| 項目 | STEMI（PPCI） | NSTE-ACS |
+| --- | --- | --- |
+| **抗凝** | **UFH（I）**；enoxaparin、bivalirudin（IIa）；**fondaparinux（III）** | 攝影 < 24 h：**UFH（I）**、enoxaparin（IIa）｜攝影 > 24 h：**fondaparinux（I）** |
+| **預先給 aspirin** | **所有 ACS（I）** | 同左 |
+| **預先給 P2Y12** | **可考慮（IIb）** | **解剖未知、預計 < 24 h 攝影 → 不建議（III）**；不會 < 24 h 攝影、沒有高出血風險 → 可考慮 |
+| **P2Y12 選擇** | **Prasugrel 或 ticagrelor（I）**；不能用才 clopidogrel｜**要做 PCI → prasugrel 優於 ticagrelor（IIa）** | 同左 |
+| **前 12 個月** | **Aspirin＋P2Y12（DAPT，I）** | 同左 |
+| **12 個月後** | **Aspirin 單一（I）** | 同左 |
+
+- **Fondaparinux** 用在 NSTE-ACS **保守治療**或無法 24 h 內轉院 PCI 時（PCI 時加一劑 UFH）
+- **Clopidogrel**：prasugrel、ticagrelor 不能用時，也**可考慮用於老人（約 > 70–80 歲）**
+
+### 降低出血的替代策略（Figure 11 依內容重新整理）
+
+| 策略 | 做法 |
+| --- | --- |
+| **縮短 DAPT**（高出血風險） | **DAPT 1 個月** → **P2Y12 inhibitor 或 aspirin 單一治療**到 12 個月 |
+| **縮短 DAPT**（高或非高出血風險） | **DAPT 3 個月或 6 個月** → **單一抗血小板**到 12 個月 |
+| **降階（de-escalation）** | 從 aspirin＋**prasugrel 或 ticagrelor** → 換成 **aspirin＋clopidogrel**（**30 天內不降階**） |
 
 <div class="orig-fig" data-src="心臟科/acs-esc-2023-originals/figure-10.png,心臟科/acs-esc-2023-originals/figure-11.png" data-label="Figure 10–11"></div>
 
@@ -107,6 +137,19 @@ tags:
 | PCI 時加 UFH bolus：**服 NOAC**，或 **VKA 而 INR < 2.5** | I C |
 | **Triple therapy 不用 ticagrelor 或 prasugrel** | **III C** |
 | **12 個月後停抗血小板**（只剩 OAC） | I B |
+
+**Figure 12 依內容重新整理**（ACS＋需要 OAC）：
+
+| 時間 | 預設策略 | 缺血風險高時 |
+| --- | --- | --- |
+| **0 → 最多 1 週** | **TAT：(N)OAC＋DAPT（I）** | **TAT 延長到最多 1 個月（IIa）** |
+| **1 週 → 6 個月** | **DAT：(N)OAC＋SAPT（I）** | DAT：(N)OAC＋SAPT（I） |
+| **6 → 12 個月** | **DAT（I）**，或 **只用 (N)OAC（IIb）** | DAT（I） |
+| **12 個月後** | **只用 (N)OAC（I）** | 只用 (N)OAC（I） |
+
+- **NOAC 優於 VKA**；SAPT **首選 P2Y12 inhibitor（通常 clopidogrel）**而非 aspirin
+- TAT 與 DAT 時 NOAC 用中風預防劑量：**apixaban 5 mg bid、dabigatran 110 或 150 mg bid、edoxaban 60 mg qd、rivaroxaban 15 或 20 mg qd**（符合減量條件才減）
+- **PRECISE-DAPT ≥ 25** 視為高出血風險
 
 <div class="orig-fig" data-src="心臟科/acs-esc-2023-originals/figure-12.png" data-label="Figure 12"></div>
 

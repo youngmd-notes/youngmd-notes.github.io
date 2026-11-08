@@ -34,6 +34,22 @@ tags:
 | **Unstable angina** | 同上 | **正常** |
 
 <div class="orig-fig" data-src="心臟科/acs-esc-2023-originals/figure-01.png" data-label="Figure 1 Central illustration"></div>
+### ACS 光譜（Figure 2 依內容重新整理）
+
+| 臨床表現 | 幾乎沒症狀 → 胸痛加重 → 持續胸痛 → 休克或急性 HF → 心跳停止 |
+| --- | --- |
+| **ECG** | 正常 → **ST 下降** → **ST 上升** → 惡性心律不整 |
+| **工作診斷** | 前段 **NSTE-ACS**、後段 **STEMI** |
+| **hs-cTn** | **沒上升**（UA）或**上升又下降**（MI） |
+| **最終診斷** | **Unstable angina** → **NSTEMI** → **STEMI** |
+
+### 從工作診斷到最終診斷（Figure 3 依內容重新整理）
+
+1. **臨床表現**：有疑似 ACS 的症狀或徵象 → **FMC 後 10 分鐘內 ECG**
+2. **工作診斷**：依 ECG 與臨床分成 **STEMI** 或 **NSTE-ACS**，用來**初步分流**
+3. **進一步檢查**：**hs-cTn**、± 冠狀動脈攝影、± 影像
+4. **最終診斷**：**STEMI、NSTEMI、unstable angina**，或**不是 ACS**（工作診斷是 ACS 的病人，最後可能是其他診斷）
+
 <div class="orig-fig" data-src="心臟科/acs-esc-2023-originals/figure-02.png,心臟科/acs-esc-2023-originals/figure-03.png" data-label="Figure 2–3"></div>
 <div class="orig-fig" data-src="心臟科/acs-esc-2023-originals/table-03.png" data-label="Table 3 侵入性策略名詞定義"></div>
 <div class="orig-fig" data-src="心臟科/acs-esc-2023-originals/table-04-1.png,心臟科/acs-esc-2023-originals/table-04-2.png" data-label="Table 4 新建議"></div>
@@ -66,6 +82,16 @@ tags:
 | 懷疑 STEMI、其他 ECG 變化或持續胸痛、確診 MI → **連續 ECG 監測＋隨時可電擊** | I B |
 | **下壁 STEMI** 或懷疑完全阻塞但標準導程不確定 → **V3R、V4R、V7–V9** | I B |
 | 症狀復發或診斷不確定 → 再做 12 導程 | I C |
+
+### 初步分流全貌（Figure 4 依內容重新整理）
+
+| 階段 | 內容 |
+| --- | --- |
+| **A.C.S. 初評** | ECG、理學檢查、病史、生命徵象、hs-cTn（**STEMI 或 very high-risk 不必等 hs-cTn**） |
+| **工作診斷** | **STEMI**｜**NSTE-ACS＋very high risk**｜**NSTE-ACS 沒有 very high risk** |
+| **依風險決定攝影** | STEMI：**立即攝影 ± PPCI**，PPCI 不及時 → **fibrinolysis**｜very high：**立即攝影 ± PCI**｜high risk：**24 小時內攝影**（住院中一定要做） |
+| **進一步檢查** | 非立即攝影、超音波、血管內影像、非侵入影像、hs-cTn、ECG 監測 |
+| **後續處置** | PCI 或 CABG、長期藥物、生活型態、戒菸 |
 
 <div class="orig-fig" data-src="心臟科/acs-esc-2023-originals/figure-04.png,心臟科/acs-esc-2023-originals/figure-05.png" data-label="Figure 4–5"></div>
 
