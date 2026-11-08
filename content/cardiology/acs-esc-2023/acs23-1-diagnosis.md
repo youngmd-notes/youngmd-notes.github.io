@@ -33,6 +33,14 @@ tags:
 | **NSTEMI** | 沒有持續 ST 上升（ST 下降、T 倒置或正常） | **上升且有變化** |
 | **Unstable angina** | 同上 | **正常** |
 
+**Central illustration（Figure 1）：ACS 的五個「Think」**
+
+1. **Think A.C.S.**：Abnormal ECG？Clinical context？Stable patient？
+2. **Think invasive management**：STEMI → PPCI（不及時則 fibrinolysis）｜very high-risk NSTE-ACS → 立即攝影｜high-risk → 24 h 內攝影
+3. **Think antithrombotic therapy**：**aspirin＋P2Y12**，**加**抗凝（UFH、LMWH、bivalirudin 或 fondaparinux 擇一）
+4. **Think revascularization**：依臨床、共病、病灶複雜度選 **PCI 或 CABG**，**目標完全再通**，可用血管內影像與生理檢查輔助
+5. **Think secondary prevention**：抗血栓、降血脂、戒菸、心臟復健、危險因子控制、心理社會
+
 <div class="orig-fig" data-src="心臟科/acs-esc-2023-originals/figure-01.png" data-label="Figure 1 Central illustration"></div>
 ### ACS 光譜（Figure 2 依內容重新整理）
 
