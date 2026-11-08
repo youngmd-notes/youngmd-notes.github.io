@@ -6,15 +6,18 @@ title: 內專考點總覽
 > 這頁會**自動彙整**所有筆記裡的「🎯 內專考點」，每次網站更新時重新產生，不需要手動編輯。
 > 「考過次數」把重複出現的同一題分開計算（例如 106-132／108-94 算 2 次），越多次代表越常考。
 
-目前共整理 **259 次考題**，分布在 **20 篇筆記、88 個考點**。
+目前共整理 **294 次考題**，分布在 **21 篇筆記、94 個考點**。
 
 ## 最常考的考點
 
 | 考點 | 筆記 | 考過次數 | 年份 |
 | --- | --- | --- | --- |
+| [[cardiology/heart-failure-esc-2026/hf26-exam#分類、流行病學與診斷\|分類、流行病學與診斷]] | [[cardiology/heart-failure-esc-2026/hf26-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 12 | 106、108、109、112、113、114 |
+| [[cardiology/heart-failure-esc-2026/hf26-exam#慢性 HFrEF 用藥\|慢性 HFrEF 用藥]] | [[cardiology/heart-failure-esc-2026/hf26-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 10 | 105、106、108、109、110、111、114 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#病毒性肝炎的血清學\|病毒性肝炎的血清學]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 10 | 105、106、108、109、112、113、114 |
 | [[infectious-disease/pneumonia/pna-exam#病原與宿主或暴露的配對\|病原與宿主或暴露的配對]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 8 | 104、107、108、109、111、112、113、114 |
 | [[cardiology/dyslipidemia-esc/lipid-esc-exam#嚴重高 TG：先控糖，LDL-C 已達標就加 fenofibrate\|嚴重高 TG：先控糖，LDL-C 已達標就加 fenofibrate]] | [[cardiology/dyslipidemia-esc/lipid-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 7 | 104、105、106、108、111、112、114 |
+| [[cardiology/heart-failure-esc-2026/hf26-exam#Decompensated HF 與心因性休克\|Decompensated HF 與心因性休克]] | [[cardiology/heart-failure-esc-2026/hf26-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 6 | 107、108、110、111、112、114 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#AS 與動態聽診\|AS 與動態聽診]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 6 | 104、107、108、114 |
 | [[infectious-disease/c-difficile-idsa/cdi-exam#治療\|治療]] | [[infectious-disease/c-difficile-idsa/cdi-exam#🎯 內專考點\|④內專考點 Board Exam Review]] | 6 | 105、106、108、110、114 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#ALD、NAFLD／MASLD\|ALD、NAFLD／MASLD]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 6 | 108、110、111、113、114 |
@@ -43,6 +46,7 @@ title: 內專考點總覽
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#AV block 與 pacing\|AV block 與 pacing]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 3 | 105、109、114 |
 | [[infectious-disease/pneumonia/pna-exam#特殊病原\|特殊病原]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 113、114 |
 | [[nephrology/calcium-phosphate-disorders#低血鎂\|低血鎂]] | [[nephrology/calcium-phosphate-disorders#🎯 內專考點\|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]] | 3 | 107、112、113 |
+| [[cardiology/heart-failure-esc-2026/hf26-exam#HF 合併 AF\|HF 合併 AF]] | [[cardiology/heart-failure-esc-2026/hf26-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 3 | 109、111、113 |
 | [[cardiology/pulmonary-embolism-esc/pe-esc-exam#診斷的下一步\|診斷的下一步]] | [[cardiology/pulmonary-embolism-esc/pe-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 3 | 105、106、113 |
 | [[infectious-disease/pneumonia/pna-exam#吸入性肺炎、肺膿瘍與厭氧菌\|吸入性肺炎、肺膿瘍與厭氧菌]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 108、112、113 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#膽管擴張：CBD stone 還是其他？\|膽管擴張：CBD stone 還是其他？]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 109、110、113 |
@@ -65,6 +69,7 @@ title: 內專考點總覽
 | [[cardiology/dyslipidemia-esc/lipid-esc-exam#Statin 機轉、副作用與指引演變\|Statin 機轉、副作用與指引演變]] | [[cardiology/dyslipidemia-esc/lipid-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 2 | 104、113 |
 | [[cardiology/resuscitation-aha-2025/cpr25-exam#寬 QRS 心搏過速\|寬 QRS 心搏過速]] | [[cardiology/resuscitation-aha-2025/cpr25-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 108、113 |
 | [[nephrology/renal-tubular-acidosis#Distal RTA：Sjögren syndrome\|Distal RTA：Sjögren syndrome]] | [[nephrology/renal-tubular-acidosis#🎯 內專考點\|腎小管酸中毒 Renal Tubular Acidosis]] | 2 | 107、112 |
+| [[cardiology/heart-failure-esc-2026/hf26-exam#病理生理\|病理生理]] | [[cardiology/heart-failure-esc-2026/hf26-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 112 |
 | [[cardiology/resuscitation-aha-2025/cpr25-exam#心跳停止的第一步與心律判讀\|心跳停止的第一步與心律判讀]] | [[cardiology/resuscitation-aha-2025/cpr25-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 106、112 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#Cholecystitis 的手術時機\|Cholecystitis 的手術時機]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 111、112 |
 | [[cardiology/resuscitation-aha-2025/cpr25-exam#AMI 後心室心律不整與猝死預防\|AMI 後心室心律不整與猝死預防]] | [[cardiology/resuscitation-aha-2025/cpr25-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 106、111 |
@@ -72,6 +77,7 @@ title: 內專考點總覽
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#WPW\|WPW]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 2 | 106、111 |
 | [[infectious-disease/covid-19-idsa/covid-exam#感染管制\|感染管制]] | [[infectious-disease/covid-19-idsa/covid-exam#🎯 內專考點\|⑦內專考點 Board Exam Review]] | 2 | 106、111 |
 | [[infectious-disease/pneumonia/pna-exam#診斷檢查\|診斷檢查]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 104、111 |
+| [[cardiology/heart-failure-esc-2026/hf26-exam#裝置與心肌病\|裝置與心肌病]] | [[cardiology/heart-failure-esc-2026/hf26-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 110 |
 | [[cardiology/atrial-fibrillation/af-exam#Cardioversion 前後的抗凝\|Cardioversion 前後的抗凝]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 107、109 |
 | [[cardiology/dyslipidemia-esc/lipid-esc-exam#DM 的血脂與血壓目標\|DM 的血脂與血壓目標]] | [[cardiology/dyslipidemia-esc/lipid-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 2 | 108、109 |
 | [[infectious-disease/influenza-idsa/flu-exam#抗病毒藥物與預防性投藥\|抗病毒藥物與預防性投藥]] | [[infectious-disease/influenza-idsa/flu-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 106、109 |
@@ -288,6 +294,60 @@ title: 內專考點總覽
 
 - 113-012｜Statin 的敘述何者錯誤？
 - 104-007｜2013 年新的美國降膽固醇指引，何者不是新規定？
+
+### ⑤內專考點 Board Exam Review
+
+**[[cardiology/heart-failure-esc-2026/hf26-exam#分類、流行病學與診斷|分類、流行病學與診斷]]**（12 次）
+
+- 109-003｜HFrEF 與 HFpEF 的流行病學：何者不正確？
+- 106-009｜台灣失償性收縮性 HF 登錄研究：何者除外？
+- 108-008｜HF 處置敘述：何者不正確？
+- 108-018｜BNP 與 NT-proBNP：何者錯誤？
+- 109-017｜AKI 與 HF：何者錯誤？
+- 112-011｜評估 HF 病人體液狀態，最合適的理學檢查
+- 113-013｜Framingham criteria 的 major criteria
+- 114-003｜不是急性 HF 理學檢查可能的發現
+- 114-007｜依美國指引的 HF 敘述：何者為非？
+- 113-018、114-002｜LVEF 從 32–35% 改善到 48–52%：何者正確？
+- 114-013｜72 歲女性 LVEF 65%、LVH、LA 擴大、BNP 580
+
+**[[cardiology/heart-failure-esc-2026/hf26-exam#病理生理|病理生理]]**（2 次）
+
+- 112-010｜HF 的 neurohormonal 調節：何者為非？
+- 112-013｜何者不是 HF 的生理代償機轉？
+
+**[[cardiology/heart-failure-esc-2026/hf26-exam#慢性 HFrEF 用藥|慢性 HFrEF 用藥]]**（10 次）
+
+- 105-013｜HFrEF 可以用哪些 beta-blocker？
+- 106-021｜可改善 HFrEF 預後的 beta-blocker
+- 109-019｜有額外血管擴張作用的 beta-blocker
+- 108-013｜HFrEF 藥物：何者有誤？
+- 111-012｜收縮性 HF：哪一個藥不能增加存活？
+- 114-001｜不是 HFrEF GDMT 的 Class I 藥物
+- 110-014｜SGLT2-I 的敘述，哪些正確？
+- 105-004｜HF 敘述：何者不正確？（三種 RAS 抑制合用）
+- 111-017｜HF 敘述：何者不正確？（HFpEF 的 ACE-I）
+- 106-013｜HFpEF 的試驗：何者為誤？
+
+**[[cardiology/heart-failure-esc-2026/hf26-exam#裝置與心肌病|裝置與心肌病]]**（2 次）
+
+- 110-017｜CRT 治療 HFrEF：何者正確？
+- 110-016｜55 歲女性 LVEF 25%、CMR 顯示 non-compaction：哪些錯誤？
+
+**[[cardiology/heart-failure-esc-2026/hf26-exam#HF 合併 AF|HF 合併 AF]]**（3 次）
+
+- 109-021｜AF 合併 HFrEF：何者錯誤？
+- 111-011｜HF 合併 AF 的 rhythm control 首選
+- 113-001｜擴大性心肌病、服藥順從差、AF 快速心室反應
+
+**[[cardiology/heart-failure-esc-2026/hf26-exam#Decompensated HF 與心因性休克|Decompensated HF 與心因性休克]]**（6 次）
+
+- 107-001｜心因性休克：何者錯誤？
+- 110-006｜AMI 心因性休克的實證處置：何者錯誤？
+- 108-014｜急性 HF 治療：何者錯誤？
+- 111-005｜急性 HF 的治療：何者不正確？
+- 112-002｜74 歲女性 HF 惡化、低血壓、低血氧：哪個處置不正確？
+- 114-008｜LVEF 15%、低心輸出、肺水腫，選哪個注射藥？
 
 ### ⑧內專考點 Board Exam Points
 
@@ -664,7 +724,6 @@ title: 內專考點總覽
 
 - [[nephrology/hyponatremia|低血鈉 Hyponatremia]]（腎臟科 Nephrology）
 - [[nephrology/siadh|SIADH]]（腎臟科 Nephrology）
-- [[cardiology/heart-failure-esc-2026/hf26-exam|⑤內專考點 Board Exam Review]]（心臟科 Cardiology）
 - [[cardiology/syncope/index|暈厥 Syncope]]（心臟科 Cardiology）
 - [[cardiology/syncope/symptom-to-diagnosis/index|①教科書整理 Symptom to Diagnosis]]（心臟科 Cardiology）
 - [[cardiology/syncope/symptom-to-diagnosis/syncope-1-approach|①診斷三步驟 Diagnostic Approach]]（心臟科 Cardiology）

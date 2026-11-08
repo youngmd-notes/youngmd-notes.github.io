@@ -146,7 +146,7 @@ tags:
 </a>
 <a class="af-card internal" href="/cardiology/heart-failure-esc-2026/hf26-exam">
 <div class="af-num">⑤</div>
-<div class="af-body"><div class="af-title">內專考點</div><div class="af-desc">HF 標籤 35 題（待補）</div><div class="af-cover">HF 標籤</div></div>
+<div class="af-body"><div class="af-title">內專考點</div><div class="af-desc">HF 標籤 35 題（34 張卡）：<b>beta-blocker 種類</b>、<b>哪些藥不降死亡</b>、<b>NP 影響因素</b>、HFpEF 試驗、<b>HF＋AF</b>、<b>休克與 IABP</b>、利尿；附 2 題模擬題</div><div class="af-cover">HF 標籤</div></div>
 </a>
 </div>
 
