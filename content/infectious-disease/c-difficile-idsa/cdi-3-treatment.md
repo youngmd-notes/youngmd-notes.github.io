@@ -114,6 +114,7 @@ tags:
 | XXX-2 | 需要手術 → **subtotal colectomy、保留直腸** | **Strong, moderate** |
 | XXX-2 | 替代：**diverting loop ileostomy＋大腸灌洗，之後從造口順向灌 vancomycin** | Weak, low |
 
+- **有 ileus 時是三路同時給**：vancomycin **PO 或 NG 不停**＋**rectal vancomycin**＋**IV metronidazole**——口服藥在 ileus 時可能到不了大腸，rectal 補遠端大腸，IV metronidazole 從血流經腸壁進入腸腔
 - **Fidaxomicin 不用於 fulminant**（沒有資料）——2021 版維持 vancomycin
 - 為什麼加 IV metronidazole：ileus 時口服藥到不了大腸，**IV metronidazole 會經膽汁與發炎腸壁進入腸腔**；**IV vancomycin 不會**
 - Rectal vancomycin 能不能到左側大腸以外不確定，但劑量高、合理
