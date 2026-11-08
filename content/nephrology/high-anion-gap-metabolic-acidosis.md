@@ -46,6 +46,15 @@ tags:
 
 ### 2. Anion gap
 
+<div class="orig-fig" data-src="腎臟科/hagma-originals/figure-01.png" data-label="Figure 1（Gamblegram）"></div>
+
+> [!note] 看圖重點
+> - 每根柱子左邊是陽離子（主要 Na⁺）、右邊是陰離子，**兩邊總和一定相等**
+> - **A 正常**：AG＝沒測到的陰離子（主要是 albumin）
+> - **B AG acidosis**：加入的酸把 **HCO₃⁻ 換成未測陰離子**，Cl⁻ 不變 → AG 上升
+> - **C hyperchloremic（non-AG）acidosis**：**HCO₃⁻ 換成 Cl⁻** → AG 不變
+> - **D、E 混合型**：AG 上升幅度和 HCO₃⁻ 下降幅度對不上 → 合併 non-AG acidosis 或 metabolic alkalosis（就是 delta ratio 的概念）
+
 - **AG = Na⁺ − (Cl⁻ + HCO₃⁻)**，正常約 **8–12 mEq/L**（各實驗室不同；不知道病人自己的基準值時，用 **10** 當基準）
 - 溶液一定電中性，AG 只是因為「沒量到的陰離子」比「沒量到的陽離子」多；**albumin 是 AG 最大的組成**
 - 電解質報告上的「HCO₃⁻」通常是**靜脈 total CO₂**，比動脈 HCO₃⁻ 高約 2–4 mEq/L
@@ -104,6 +113,10 @@ flowchart TD
 ```
 
 ## HAGMA 的病因：GOLDMARK
+
+<div class="orig-fig" data-src="腎臟科/hagma-originals/table-01.png" data-label="Table 1"></div>
+
+下表是 Table 1 的中文整理。
 
 | 字母 | 病因 | 累積的酸 |
 | --- | --- | --- |
@@ -191,7 +204,15 @@ T1D 病人腸胃炎後減少胰島素、嘔吐，血糖 800、Na 120、Cl 75、H
 
 （依原文 Table 2 數值重新整理）
 
+<div class="orig-fig" data-src="腎臟科/hagma-originals/table-02.png" data-label="Table 2"></div>
+
 ### 個案：喝酒後越來越糟的病人
+
+<div class="orig-fig" data-src="腎臟科/hagma-originals/figure-03.png" data-label="Figure 3"></div>
+
+> [!note] 看圖重點
+> - **左（典型）**：**「信封背面」形狀**的 calcium oxalate **dihydrate** 結晶——看到就強烈指向 **ethylene glycol**，但不是每個病人都有
+> - **右（較常見）**：**細長針狀**的 calcium oxalate **monohydrate**，比較不具特異性
 
 - 到院：pH 7.40、HCO₃⁻ 24、AG 9（正常）、ethanol 110 mg/dL、**measured osmolality 350**
   - Calculated ≈ 293 → **osmolal gap 約 57**；ethanol 只能解釋約 24 → ==還有約 33 解釋不了 → 一定還有別的 alcohol／glycol==
@@ -202,6 +223,10 @@ T1D 病人腸胃炎後減少胰島素、嘔吐，血糖 800、Na 120、Cl 75、H
 > 一起喝下的 **ethanol 會佔住 alcohol dehydrogenase**，延緩 toxic alcohol 的代謝。Ethanol 濃度下降後，toxic alcohol 加速被氧化成有機酸 → ==osmolal gap 下降，同時 AG 上升==。所以兩者要**一起看、追蹤看**：早期 osmolal gap 高、AG 正常；晚期 osmolal gap 可能已經正常，但 HAGMA 很嚴重。
 
 ### 肝臟代謝路徑（依原圖內容重新繪製）
+
+<div class="orig-fig" data-src="腎臟科/hagma-originals/figure-02.png" data-label="Figure 2"></div>
+
+下方是依原圖重新繪製的中文流程圖。
 
 ```mermaid
 flowchart LR

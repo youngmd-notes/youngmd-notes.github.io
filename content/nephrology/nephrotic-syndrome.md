@@ -32,6 +32,10 @@ tags:
 
 ## 定義與流行病學
 
+<div class="orig-fig" data-src="腎臟科/nephrotic-originals/table-02.png" data-label="Table 2"></div>
+
+下表是 Table 2 的中文整理。
+
 | 項目 | 標準 |
 | --- | --- |
 | **Heavy proteinuria** | Spot urine protein-to-creatinine ratio（UPCR）**> 3–3.5 mg/mg**（300–350 mg/mmol），或 24 小時尿蛋白 **> 3–3.5 g** |
@@ -77,6 +81,8 @@ tags:
 
 ### 診斷流程
 
+<div class="orig-fig" data-src="腎臟科/nephrotic-originals/figure-01.png" data-label="Figure 1"></div>
+
 （依 Kodner 2016 Figure 1 內容重新繪製）
 
 ```mermaid
@@ -101,6 +107,8 @@ flowchart TD
 - **幫助有限**：已知 secondary cause 且治療反應良好
 
 ## 次發性原因（Secondary causes）
+
+<div class="orig-fig" data-src="腎臟科/nephrotic-originals/table-01.png" data-label="Table 1"></div>
 
 依原文 Table 1 內容重新整理：
 
@@ -146,6 +154,8 @@ flowchart TD
 - 沒有可靠發生率資料，也**沒有成人預防性抗生素的指引**
 
 ### Acute kidney injury
+
+<div class="orig-fig" data-src="腎臟科/nephrotic-originals/table-03.png" data-label="Table 3"></div>
 
 - **NS 自發性 AKI 很少見**；真的出現 AKI，要找原因（依原文 Table 3 重新整理）：
 
@@ -234,6 +244,9 @@ flowchart TD
 - Steroid resistance 或沒改善 → 與腎臟科討論其他免疫抑制劑
 
 **Idiopathic MN 可考慮的免疫抑制劑**（原文 Table 4 重新整理）：
+
+
+<div class="orig-fig" data-src="腎臟科/nephrotic-originals/table-04.png" data-label="Table 4"></div>
 
 | 類別 | 藥物 |
 | --- | --- |

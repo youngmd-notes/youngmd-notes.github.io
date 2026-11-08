@@ -38,6 +38,10 @@ tags:
 
 ## 總覽
 
+<div class="orig-fig" data-src="腎臟科/hd-originals/table-03.png,腎臟科/hd-originals/table-03-2.png" data-label="Table 3（2 頁）"></div>
+
+下表是 Table 3 的重點整理，各急症的細節見後面各節。
+
 | 急症 | 關鍵線索 | 立即處置 | 管路血回輸？ |
 | --- | --- | --- | --- |
 | **Dialyzer reaction type A** | 開始 **20–30 分鐘內**；搔癢、wheezing、低血壓 | 停機、epinephrine、輸液、類固醇、抗組織胺 | **==不回輸==** |
@@ -83,6 +87,13 @@ Dialyzer reaction 是對**透析膜本身**或**滅菌用的物質**過敏，現
 - 現在很少見（較低血流、較早開始透析），但輕微症狀可能被低估
 
 ### 機轉：水跑進腦細胞
+
+<div class="orig-fig" data-src="腎臟科/hd-originals/figure-01.png" data-label="Figure 1"></div>
+
+> [!note] 看圖重點
+> - **Normal**：腦細胞與細胞外液滲透壓相同（280）
+> - **尿毒、透析開始前**：腦內外的 urea 都高，滲透壓一樣高（320），平衡
+> - **透析中**：血中 urea 很快被洗掉（ECF 降到 290），腦內 urea 出不去（腦細胞仍 320）→ **水往滲透壓高的腦細胞跑 → cerebral edema**；腦細胞 urea transporter（UT-B）少、aquaporin（AQP4、AQP9）多會加重
 
 | 理論 | 說明 |
 | --- | --- |
@@ -200,6 +211,12 @@ Dialyzer reaction 是對**透析膜本身**或**滅菌用的物質**過敏，現
 
 ## Vascular access hemorrhage
 
+<div class="orig-fig" data-src="腎臟科/hd-originals/figure-02.png" data-label="Figure 2"></div>
+
+> [!note] 看圖重點
+> - 照片是 brachiocephalic AVF 的 aneurysm：**皮膚變薄、緊繃、發亮**
+> - 這是**即將破裂的警訊**（同類警訊：快速變大、皮膚壞死、疼痛、感染）→ 要盡快轉血管外科
+
 - 約佔 HD 病人死亡的 0.4%；**==約 80% 發生在透析室外，最常在家裡==**
 - 多數是 **AVF／AVG 破裂**；少數是 CVC 相關（穿孔、沒蓋、脫接、意外拔除）
 - 破裂多在管壁變弱處：
@@ -227,6 +244,13 @@ Dialyzer reaction 是對**透析膜本身**或**滅菌用的物質**過敏，現
 
 ### 原因
 
+<div class="orig-fig" data-src="腎臟科/hd-originals/figure-03.png" data-label="Figure 3"></div>
+
+> [!note] 看圖重點
+> - **上圖**：正常透析迴路（血從 arterial 端經 blood pump 進 dialyzer，再經 air trap 回 venous 端；透析液由處理水＋濃縮液配成）
+> - **下圖紅字**：溶血的位置與原因——**管路扭折**、**dialyzer 殘留消毒劑（formaldehyde）**、**透析液含 chloramine、銅、硝酸鹽**、**低張透析液**、**arterial 端負壓過大**
+> - 被溶血的血（紅色管路）回到病人身上 → 高血鉀、胸痛、呼吸困難
+
 | 類別 | 例子 |
 | --- | --- |
 | **機械性** | 小號針配高血流、**動脈端負壓過大**、針位置不正、**管路扭折或阻塞**（1998 年多州群聚：一批管路有狹窄處） |
@@ -252,6 +276,8 @@ Dialyzer reaction 是對**透析膜本身**或**滅菌用的物質**過敏，現
 每位 HD 病人**每週接觸超過 400 L 透析液**，透析膜可讓許多毒物通過，所以水處理非常重要。
 
 ### 水處理系統（依原文 Table 1 重新整理）
+
+<div class="orig-fig" data-src="腎臟科/hd-originals/table-01.png" data-label="Table 1"></div>
 
 | 階段 | 元件 | 功能 |
 | --- | --- | --- |
@@ -288,6 +314,8 @@ Dialyzer reaction 是對**透析膜本身**或**滅菌用的物質**過敏，現
 - 誘發因子：**高血鉀**、透析中電解質與體液快速變化、**低鉀透析液（< 2 mEq/L）**、**低鈣透析液（< 2.5 mEq/L）**與較大的血清－透析液鈣濃度差、**metabolic alkalosis**（QT 延長）
 
 ### 預防策略（依原文 Table 2 重新整理）
+
+<div class="orig-fig" data-src="腎臟科/hd-originals/table-02.png" data-label="Table 2"></div>
 
 | 方向 | 做法 |
 | --- | --- |

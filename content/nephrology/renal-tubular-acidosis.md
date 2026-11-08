@@ -68,6 +68,14 @@ tags:
 
 ### 間接估算：Urine osmolal gap（UOG）
 
+<div class="orig-fig" data-src="腎臟科/rta-originals/figure-03.png" data-label="Figure 3"></div>
+
+> [!note] 看圖重點
+> - 三組柱子各比較「實際量到的尿滲透壓（Meas）」和「用 Na⁺、K⁺、urea 算出來的（Calc）」，差值＝UOG，代表沒算到的 **NH₄⁺ 鹽**
+> - **正常、沒有酸中毒**：NH₄⁺ 少 → UOG 小
+> - **酸中毒、腎臟正常**（例如 diarrhea）：NH₄⁺ 大量排出 → **UOG 變大**
+> - **Distal RTA**：NH₄⁺ 排不出來 → 酸中毒下 **UOG 仍然小**
+
 - **UOG = 實測 urine osmolality − [2 × (Na + K) + urea (mg/dL) / 2.8 + glucose (mg/dL) / 18]**
 - NH₄⁺ 鹽是 UOG 的主要來源 → **尿 NH₄⁺（mmol/L）≈ UOG ÷ 2**
 
@@ -93,7 +101,15 @@ UAG = 尿 Na + K − Cl，理論上排 NH₄⁺ 多時 UAG 為負，但：
 
 ## 診斷流程
 
+<div class="orig-fig" data-src="腎臟科/rta-originals/box-04.png" data-label="Box 4（公式）"></div>
+
+本篇用到的公式：AG、delta gap、albumin 校正 AG、urine AG、UOG（UOG 計算見上一節）。
+
 ### Normal AG acidosis 的病因（依原文 Figure 2 重新繪製）
+
+<div class="orig-fig" data-src="腎臟科/rta-originals/figure-02.png" data-label="Figure 2"></div>
+
+下方是依原圖重新繪製的中文流程圖。
 
 ```mermaid
 flowchart TD
@@ -117,6 +133,10 @@ Mixed RTA 兩邊都有：CA 缺乏或被抑制（**topiramate、zonisamide、ace
 
 ### RTA 分型（依原文 Figure 1 重新繪製）
 
+<div class="orig-fig" data-src="腎臟科/rta-originals/figure-01.png" data-label="Figure 1"></div>
+
+下方是依原圖重新繪製的中文流程圖。
+
 ```mermaid
 flowchart TD
     R["RTA"] --> K{"Serum K⁺"}
@@ -135,6 +155,13 @@ flowchart TD
 
 ## 各型比較
 
+<div class="orig-fig" data-src="腎臟科/rta-originals/figure-06.png" data-label="Figure 6"></div>
+
+> [!note] 看圖重點
+> - **左上 Proximal（type 2）**：近端小管 **CA IV、CA II、NHE3、NBCe1** 出問題 → HCO₃⁻ 回收閾值下降
+> - **右 Distal（type 1）**：α-intercalated cell 的 **H⁺-ATPase**、**AE1**（Cl⁻/HCO₃⁻ exchanger）或 CA II 缺陷 → H⁺ 分泌不出去
+> - **左下 Type 4（hyperkalemic）**：principal cell 缺 aldosterone 作用（MR、ENaC）→ Na⁺ 回收少、管腔負電不夠 → **K⁺、H⁺ 都排不出去**；高血鉀再抑制 NH₄⁺ 生成
+
 | | Proximal（type 2） | Classic distal（type 1） | Type 4 | Voltage-dependent distal |
 | --- | --- | --- | --- | --- |
 | 缺陷 | **HCO₃⁻ 回收閾值下降**（26 → 16–18） | α-intercalated cell **H⁺ 分泌**不能 | Aldosterone 不足或阻抗 | 管腔**負電位**建立不起來（ENaC 被阻斷） |
@@ -152,6 +179,13 @@ flowchart TD
 
 ### 病生理：閾值下降，不是完全不能回收
 
+<div class="orig-fig" data-src="腎臟科/rta-originals/figure-04.png" data-label="Figure 4"></div>
+
+> [!note] 看圖重點
+> - 管腔的 HCO₃⁻ 和 NHE3 分泌的 H⁺ 形成 H₂CO₃，由管腔側 **CA IV** 拆成 CO₂＋H₂O 進入細胞
+> - 細胞內 **CA II** 再組合成 H⁺＋HCO₃⁻；HCO₃⁻ 經基底側 **NBCe1**（3HCO₃⁻：1Na⁺）回到血液，H⁺ 再分泌出去循環
+> - **Carbonic anhydrase inhibitor**（acetazolamide、topiramate、zonisamide）同時擋 CA II、CA IV → proximal RTA
+
 - 近端 HCO₃⁻ 回收最大量（Tmax）從約 26 降到 **16–18 mmol/L**（完全不能回收會致命）
 - **病程三個階段**：
   1. 剛發生：HCO₃⁻ 大量從尿流失 → **urine pH 高**、遠端 Na⁺ 與流量增加 → **排 K⁺**
@@ -165,6 +199,8 @@ flowchart TD
 - 兇手是 **zoledronic acid**（近端腎小管損傷、Fanconi syndrome）；骨髓瘤治療反應好，不太會在這時出現 light chain tubulopathy
 
 ### 病因
+
+<div class="orig-fig" data-src="腎臟科/rta-originals/box-01.png" data-label="Box 1"></div>
 
 | 類別 | 例子 |
 | --- | --- |
@@ -197,6 +233,8 @@ flowchart TD
 
 ### 病因
 
+<div class="orig-fig" data-src="腎臟科/rta-originals/box-02.png" data-label="Box 2"></div>
+
 | 類別 | 例子 |
 | --- | --- |
 | Classic distal RTA | **Sjögren syndrome**、**SLE**、nephrocalcinosis、primary biliary cholangitis、sarcoidosis |
@@ -209,6 +247,12 @@ flowchart TD
 - 骨質流失（骨頭緩衝酸）
 
 ### 個案：Ulcerative colitis 合併反覆腎結石
+
+<div class="orig-fig" data-src="腎臟科/rta-originals/figure-05.png" data-label="Figure 5（個案 CT）"></div>
+
+> [!note] 看圖重點
+> - 個案的腹部非顯影 CT：**兩側腎髓質有鈣化**（medullary nephrocalcinosis）
+> - 反覆結石＋nephrocalcinosis＋urine pH 偏高 → 支持 **distal RTA**（原文：鈣回收增加、間質偏鹼、低尿 citrate 都會促成 nephrocalcinosis）
 
 - 每天 2–3 次軟便、反覆腎結石；K 3.2、Cl 100、total CO₂ 19；**urine pH 6.8**；不像低血容，尿 Na 80
 - UOG = 372 − [2 × (80 + 42) + 275/2.8] ≈ 372 − 342 = **30 mOsm/kg** → 尿 NH₄⁺ ≈ 15 mEq/L，約 20–30 mEq/d，==遠低於酸中毒時應有的 > 40==
@@ -242,6 +286,8 @@ flowchart TD
 - **==慢性 hyperkalemia 會抑制近端 NH₃ 生成==** → NAE 下降，但遠端還能酸化 → **尿 pH < 5.5**
 
 ### 病因
+
+<div class="orig-fig" data-src="腎臟科/rta-originals/box-03.png" data-label="Box 3"></div>
 
 | 類別 | 例子 |
 | --- | --- |

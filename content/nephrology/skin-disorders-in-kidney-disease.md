@@ -46,6 +46,12 @@ tags:
 
 ## CKD-associated pruritus（CKD-aP）
 
+<div class="orig-fig" data-src="腎臟科/skin-originals/figure-01.png" data-label="Figure 1"></div>
+
+> [!note] 看圖重點
+> - 透析病人小腿與腳踝**全面性乾燥（xerosis）**，部分呈**魚鱗狀（ichthyosiform）**，散在淡色色素沉著斑
+> - 提醒：CKD-aP 常合併 xerosis，治療先從保濕開始
+
 - 過去稱 uremic pruritus，現在建議叫 **CKD-associated pruritus**
 - 盛行率：**透析約 40%、CKD 約 20%**，實際上被低估（病人常不主動講）→ **==照護團隊要主動問有沒有癢==**
 - 影響：漏洗、生活品質、睡眠、憂鬱、感染
@@ -111,6 +117,11 @@ tags:
 
 ### 表現與診斷
 
+<div class="orig-fig" data-src="腎臟科/skin-originals/figure-02.png" data-label="Figure 2"></div>
+
+> [!note] 看圖重點
+> - 糖尿病腎衰竭透析病人，**雙手雙腳多顆角化丘疹或斑塊**（hyperkeratotic papules／plaques）
+
 - **極癢**甚至疼痛的結節；**2–10 mm 火山口狀結節，中央有角化栓**
 - 好發**軀幹、伸側**，可呈**線狀分布**（Koebner phenomenon）
 - 常長在透析時看不到的部位 → 容易被忽略
@@ -135,6 +146,11 @@ tags:
 > 可用於治療皮膚病灶的是 **topical salicylic acid 2–10%**（不是口服 prednisone、azathioprine、MMF；azathioprine 甚至和 APD 有關）。
 
 ## Calcinosis cutis（CC）
+
+<div class="orig-fig" data-src="腎臟科/skin-originals/figure-03.png" data-label="Figure 3"></div>
+
+> [!note] 看圖重點
+> - 手臂與前臂**逐漸變大、會痛的皮下結節**；部分破皮流出**白色粉筆狀物質**（鈣鹽）
 
 ### 分型
 
@@ -189,6 +205,12 @@ tags:
 
 ### 表現
 
+<div class="orig-fig" data-src="腎臟科/skin-originals/figure-04.png" data-label="Figure 4"></div>
+
+> [!note] 看圖重點
+> - 透析病人大腿**很痛**的紫紅色斑塊，呈**網狀（livedo reticularis）**，中央逐漸壞死、形成黑痂
+> - 典型分布在**脂肪多的部位**（大腿、腹部、臀部）；**疼痛常比外觀嚴重**
+
 - 好發在**脂肪多的部位**：**腹部、臀部、大腿、乳房**
 - **==最早期：疼痛遠超過看到的皮膚變化==**，甚至還沒有皮膚變化
 - 早期：局部紅斑像 **cellulitis**，但**不熱**、底下有**硬結**、疼痛不成比例；**nonblanching retiform purpura**、分枝狀紫斑；**peau d'orange**
@@ -196,6 +218,8 @@ tags:
 - 進展：水疱、大疱 → 潰瘍 → **皮革樣黑色焦痂（eschar）**
 
 ### 診斷：以臨床為主，沒有黃金標準
+
+<div class="orig-fig" data-src="腎臟科/skin-originals/box-01.png" data-label="Box 1（calciphylaxis 的鑑別診斷）"></div>
 
 - **皮膚切片**（有爭議）
   - 典型：**真皮深層與皮下小血管鈣化**、**fibrin thrombi**、表層真皮與表皮壞死
@@ -252,6 +276,12 @@ tags:
 
 ### 分類
 
+<div class="orig-fig" data-src="腎臟科/skin-originals/figure-05.png" data-label="Figure 5"></div>
+
+> [!note] 看圖重點
+> - 肩膀和背部的**環狀（annular）紅斑**，邊緣較紅、中央較淡＝**SCLE**（subacute cutaneous LE）的典型外觀，好發於日曬部位
+> - 原圖個案是 paraneoplastic SCLE
+
 - 四大類：**SLE**（最常見）、**cutaneous LE（CLE）**、drug-induced、neonatal
 - SLE 皮膚侵犯可達 **85%**
 - CLE 可單獨出現或是 SLE 的表現：**acute（ACLE）**、**subacute（SCLE）**、**intermittent（ICLE）**、**chronic（CCLE）**
@@ -289,6 +319,8 @@ tags:
 
 ### AAV 的皮膚表現
 
+<div class="orig-fig" data-src="腎臟科/skin-originals/box-02.png" data-label="Box 2"></div>
+
 - **最多 35%** 以皮膚表現為首發；**EGPA 47% > GPA 34% > MPA 28%**；常同時有多種皮膚表現
 - **Petechiae 與 purpura 是所有 AAV 最常見**的皮膚表現
 - 有用的模式（不具特異性）：
@@ -306,6 +338,12 @@ tags:
 - 治療：多專科、先評估感染與免疫缺乏；依嚴重度與亞型（GPA／MPA vs EGPA）分 **induction** 與 **maintenance**（B-cell depleting therapy 等）
 
 ### Cryoglobulinemic vasculitis
+
+<div class="orig-fig" data-src="腎臟科/skin-originals/figure-06.png" data-label="Figure 6"></div>
+
+> [!note] 看圖重點
+> - 小腿**會痛、逐漸惡化的網狀、有角的紫斑**，中央有**壞死潰瘍**＝retiform purpura
+> - 原圖個案是 multiple myeloma 造成的 cryoglobulinemic vasculitis
 
 - **幾乎所有** cryoglobulin 症候群都有皮膚表現
 - **反覆 palpable purpura**（最常見，下肢為主），可自發、遇冷或久站誘發；病理為 **leukocytoclastic vasculitis**

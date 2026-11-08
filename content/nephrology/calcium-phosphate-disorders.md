@@ -40,6 +40,15 @@ tags:
 
 ## 調控軸：PTH、FGF-23、1,25(OH)₂D
 
+<div class="orig-fig" data-src="腎臟科/ca-phos-originals/table-01.png" data-label="Table 1"></div>
+
+<div class="orig-fig" data-src="腎臟科/ca-phos-originals/figure-01.png" data-label="Figure 1"></div>
+
+> [!note] 看圖重點
+> - 三個荷爾蒙互相負回饋：**PTH 讓 1,25(OH)₂D 上升**、**FGF-23 讓 1,25(OH)₂D 下降**；1,25(OH)₂D 回頭**抑制 PTH、刺激 FGF-23**，也加速自己分解
+> - 作用器官：腎（PTH、FGF-23 都排磷；PTH 留鈣）、骨（PTH 骨吸收）、腸（1,25(OH)₂D 吸收鈣與磷）
+> - 下表是 Table 1 的中文整理
+
 | | PTH | FGF-23 | 1,25(OH)₂D（calcitriol） |
 | --- | --- | --- | --- |
 | 主要調控 | **Ionized Ca**（分秒調控） | **磷** | **腸道吸收 Ca、磷** |
@@ -67,6 +76,14 @@ tags:
 
 ### 腎臟處理鈣
 
+<div class="orig-fig" data-src="腎臟科/ca-phos-originals/figure-02.png" data-label="Figure 2"></div>
+
+> [!note] 看圖重點
+> - **A（PCT）**：Na⁺ 經 NHE3 回收，水跟著走，Ca²⁺、Mg²⁺ 經 **claudin-2、12** 從細胞間隙被動回收
+> - **B（TAL）**：NKCC2 吸 Na⁺K⁺2Cl⁻，K⁺ 經 **ROMK** 漏回管腔 → 管腔帶正電 → 推 Ca²⁺、Mg²⁺ 走 **claudin-16、19**；間質側 **CaSR** 被高血鈣活化會抑制 ROMK
+> - **C（DCT）**：細胞內途徑，**TRPV5** 進入 → calbindin-D28k 運送 → 基底側 **PMCA4、NCX1** 排出
+> - 下表整理三段的比例與調控
+
 | 位置 | 回收比例 | 機制 | 調控 |
 | --- | --- | --- | --- |
 | PCT | 60% | Paracellular（**claudin-2、12**）；由 NHE3 回收 Na⁺ 驅動 | 不受荷爾蒙調控 |
@@ -83,6 +100,10 @@ tags:
 **症狀**：多渴多尿、骨痛、腹痛、volume depletion、**AKI**、情緒低落、**腎結石**；嚴重時 **QT shortening**、obtundation、昏迷。
 
 #### 診斷流程（依原文 Figure 3 重新繪製）
+
+<div class="orig-fig" data-src="腎臟科/ca-phos-originals/figure-03.png" data-label="Figure 3"></div>
+
+下方是依原圖重新繪製的中文流程圖。
 
 ```mermaid
 flowchart TD
@@ -151,6 +172,13 @@ flowchart LR
 
 （依原文 Figure 4 內容重新繪製）
 
+<div class="orig-fig" data-src="腎臟科/ca-phos-originals/figure-04.png" data-label="Figure 4"></div>
+
+> [!note] 看圖重點
+> - 皮膚經 UVB 做出 cholecalciferol（D3），或從食物吃到 ergocalciferol（D2）→ 肝臟變成 **25(OH)D**（儲存型，驗這個看存量）
+> - 腎臟 **CYP27B1** 再變成活性 **1,25(OH)₂D**：PTH 刺激、FGF-23 抑制
+> - **CYP24A1** 把 25(OH)D、1,25(OH)₂D 變成不活化產物：FGF-23、1,25(OH)₂D 刺激，PTH 抑制
+
 - 1,25(OH)₂D 上調腸道 calbindin、**TRPV6**（吸收 Ca）與 **NaPi-2b**（吸收磷；但腸道吸收磷大多走不依賴 vitamin D 的 paracellular 途徑）
 - 25(OH)D 濃度非常高時也能活化 VDR 造成高血鈣
 
@@ -193,6 +221,10 @@ flowchart LR
 - 慢性：骨質疏鬆、蛀牙、**basal ganglia calcification**、白內障等眼部表現
 
 #### 病因
+
+<div class="orig-fig" data-src="腎臟科/ca-phos-originals/box-01.png" data-label="Box 1"></div>
+
+下表是 Box 1 的中文整理。
 
 | 類別 | 例子 |
 | --- | --- |
@@ -247,6 +279,13 @@ flowchart LR
 
 ### 磷的分布、吸收與腎臟處理
 
+<div class="orig-fig" data-src="腎臟科/ca-phos-originals/figure-05.png" data-label="Figure 5"></div>
+
+> [!note] 看圖重點
+> - PCT 管腔側三個鈉磷共同轉運體回收磷：**NaPi-2a**（3 Na⁺：1 HPO₄²⁻）、**NaPi-2c**、**PiT-2**
+> - <strong>FGF-23（經 FGFR–klotho）</strong>與 <strong>PTH（經 PTH1R）</strong>讓這些轉運體內化 → 回收減少、尿磷增加
+> - 基底側把磷送回血液的轉運體還不清楚
+
 - 80–85% 在骨、14% 在細胞內、1% 在細胞外液
 - 每天攝取 800–1,200 mg，約吸收 2/3；**以 paracellular 為主**，血磷低時 1,25(OH)₂D 誘導 **NaPi-2b** 增加 transcellular 吸收
 - 吸收率依來源不同：**食品添加物的無機磷最容易吸收** > 動物蛋白、乳製品 > 植物（phytate，人類缺 phytase，吸收差）→ 加工食品吃多，磷攝取遠超過需要
@@ -259,6 +298,10 @@ flowchart LR
 **症狀**（細胞 ATP 耗竭）：全身肌肉無力、**呼吸肌無力 → 呼吸衰竭**、心肌無力 → heart failure、近端肌病、吞嚥困難、ileus、**rhabdomyolysis**、**hemolysis**、感覺異常、譫妄、seizure、昏迷；慢性：**rickets**（兒童）或 **osteomalacia**（成人）。
 
 #### 病因
+
+<div class="orig-fig" data-src="腎臟科/ca-phos-originals/box-02.png" data-label="Box 2"></div>
+
+下表是 Box 2 的中文整理。
 
 | 類別 | 例子 |
 | --- | --- |
@@ -320,6 +363,10 @@ flowchart LR
 
 #### 病因
 
+<div class="orig-fig" data-src="腎臟科/ca-phos-originals/box-03.png" data-label="Box 3"></div>
+
+下表是 Box 3 的中文整理。
+
 | 類別 | 例子 |
 | --- | --- |
 | 急性磷負荷 | **含磷瀉劑**、**fosphenytoin** |
@@ -342,6 +389,12 @@ flowchart LR
 
 ### 鎂的吸收與腎臟處理
 
+<div class="orig-fig" data-src="腎臟科/ca-phos-originals/figure-06.png" data-label="Figure 6"></div>
+
+> [!note] 看圖重點
+> - **A（TAL，回收大部分鎂）**：NKCC2＋ROMK 造成管腔正電，Mg²⁺ 經 **claudin-16、19** 被動回收；高血鎂時 **claudin-14** 增加、通透性下降
+> - **B（DCT，決定最終尿鎂）**：**TRPM6** 讓 Mg²⁺ 進入細胞，**Kv1.1** 把 K⁺ 排到管腔提供驅動電位，基底側經 **SLC41A1** 排出；**EGFR** 活化增加 TRPM6（所以 anti-EGFR 抗體造成低血鎂）
+
 - 體內第四多的陽離子；與骨、蛋白、DNA 合成，神經肌肉功能，並調控 **PTH**、ACTH、cortisol
 - 腸道經 paracellular 與 transcellular（**TRPM6、TRPM7**）吸收；主要存在骨頭
 
@@ -354,6 +407,10 @@ flowchart LR
 - **Loop diuretic** 抑制 NKCC2 → 鎂回收減少；claudin-16、19 突變 → 遺傳性鎂流失
 
 ### 低血鎂
+
+<div class="orig-fig" data-src="腎臟科/ca-phos-originals/box-04.png" data-label="Box 4"></div>
+
+下方病因表是 Box 4 的中文整理。
 
 - 非常常見：住院病人 12%、**ICU 60%**
 - 症狀：肌肉無力、tetany、confusion、seizure、心律不整、heart failure（很多是合併的**低血鈣、低血鉀**造成）
