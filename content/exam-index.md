@@ -322,13 +322,13 @@ title: 內專考點總覽
 
 **[[cardiology/resuscitation-aha-2025/cpr25-exam#寬 QRS 心搏過速|寬 QRS 心搏過速]]**（2 次）
 
-- 108-022｜CABG 病史、心悸，規則寬 QRS 心搏過速，何者錯誤
+- 108-022｜CABG 病史、心悸，規則寬 QRS 心搏過速：何者錯誤？
 - 113-014｜HR 160 規則寬 QRS、LBBB 型、有 fusion beat
 
 **[[cardiology/resuscitation-aha-2025/cpr25-exam#AMI 後心室心律不整與猝死預防|AMI 後心室心律不整與猝死預防]]**（2 次）
 
-- 106-022｜AMI 後心室心律不整，何者錯誤
-- 111-008｜猝死敘述，何者不正確（抑制 PVC）
+- 106-022｜AMI 後心室心律不整：何者錯誤？
+- 111-008｜猝死敘述：何者不正確？（抑制 PVC）
 
 ### ⑧內專考點 Board Exam Review
 

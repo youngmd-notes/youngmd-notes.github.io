@@ -32,48 +32,119 @@ tags:
 📖 對照：[[cardiology/resuscitation-aha-2025/cpr25-2-adult-als|② 成人 cardiac arrest 流程、Hs & Ts]]
 
 > [!note]- 106-001｜急診胸痛病人突然心跳停止，獨自一人的第一步
-> **情境**：53 歲男性，抽菸 25 年，胸痛冒冷汗到急診；BP 165/109 mmHg、HR 82/min；問診中突然心跳停止（監視器為 arrest 心律）；**只有你一個人**
-> **問**：第一步？選項：amiodarone 150 mg 慢慢打／**開始 CPR（按壓每分鐘 100 次）**／緊急插管／心內注射 epinephrine 1 mg／上 ECMO
-> **答**：開始 CPR（按壓每分鐘 100 次）
-> **重點**：arrest 的核心是**立即高品質 CPR＋可電擊心律盡早電擊**，同時呼救、拿電擊器。藥物在 CPR 與電擊之後；arrest 時 amiodarone 是 **300 mg IV push**，不是 150 mg 慢慢打（那是有脈搏 VT 的用法）；**插管不能延誤按壓**；**心內注射已淘汰**（用 IV／IO）；ECMO（ECPR）是特定情境的進階選項。ROSC 後這位胸痛病人要考慮**緊急冠狀動脈攝影**。
+> **情境**：53 歲男性，胸痛、冒冷汗到急診
+> - 抽菸 25 年，沒有其他病史
+> - BP 165/109 mmHg、HR 82/min
+> - 問診中突然心跳停止，監視器為 arrest 心律
+> - **現場只有你一個人**
+>
+> **問**：第一步做什麼？
+> - Amiodarone 150 mg 加 D5W 20 分鐘打完
+> - **開始 CPR，每分鐘按壓 100 次**
+> - 緊急插管
+> - 心內注射 epinephrine 1 mg
+> - 上 ECMO
+>
+> **答**：**(B) 開始 CPR**
+>
+> **重點**：arrest 的核心是**立即高品質 CPR**，可電擊心律**盡早電擊**，同時呼救、拿電擊器
+> - Amiodarone 在 CPR 與電擊之後；arrest 用的是 **300 mg IV push**，150 mg 慢慢打是**有脈搏 VT** 的用法
+> - **插管不能延誤按壓**；**心內注射已淘汰**（用 IV 或 IO）
+> - ECMO（ECPR）是特定情境的進階選項，不是第一步
+> - ROSC 後：這位胸痛病人要考慮**緊急冠狀動脈攝影**
 
 > [!note]- 112-015｜車禍到院無脈搏，monitor 有規則 QRS
-> **情境**：30 歲男性高速公路車禍，到院**沒有脈搏、沒有呼吸**；monitor 可見 **P 波與窄 QRS，約 40/min**
-> **問**：診斷？選項：asystole／**PEA**／三度房室阻斷／WPW／竇性心搏過緩
-> **答**：PEA（pulseless electrical activity）
-> **重點**：**沒有脈搏＋有組織的電氣活動＝PEA**。Asystole 是平線；三度房室阻斷、竇性心搏過緩都必須**有脈搏**才成立。PEA 處置：**高品質 CPR＋盡早 epinephrine＋找 Hs & Ts**；**外傷性 arrest 優先處理可逆原因**——止血與輸血（hypovolemia）、**胸腔減壓**（tension pneumothorax）、**心包減壓**（tamponade）、給氧——藥物角色次要。
+> **情境**：30 歲男性，高速公路車禍
+> - 到院**沒有脈搏、沒有呼吸**
+> - Monitor：可見 **P 波與窄 QRS**，約 40/min
+>
+> **問**：診斷？（asystole／PEA／三度房室阻斷／WPW／竇性心搏過緩）
+>
+> **答**：**(B) PEA（pulseless electrical activity）**
+>
+> **重點**：**沒有脈搏＋有組織的電氣活動＝PEA**
+> - Asystole 是平線；三度房室阻斷、竇性心搏過緩都必須**有脈搏**才成立
+> - PEA 處置：**高品質 CPR＋盡早 epinephrine＋找 Hs & Ts**
+> - **外傷性 arrest 先處理可逆原因**：止血與輸血、**胸腔減壓**、**心包減壓**、給氧；藥物是次要
 
 ### 寬 QRS 心搏過速
 
 📖 對照：[[cardiology/resuscitation-aha-2025/cpr25-2-adult-als|② Tachyarrhythmia algorithm、WCT 先當 VT]]
 
-> [!note]- 108-022｜CABG 病史、心悸，規則寬 QRS 心搏過速，何者錯誤
-> **情境**：65 歲男性，**曾做 CABG**；心悸到急診，**BP 100/50 mmHg**，意識清楚但虛弱；ECG 為**規則寬 QRS 心搏過速**
-> **問**：何者錯誤？選項：胸前導程沒有 concordance → 對（依圖）／有 AV dissociation → 對／QRS > 140 ms → 對／**判讀為 SVT 合併 RBBB → 錯**／要抽 troponin、CK、CK-MB → 對
-> **答**：判讀為 SVT 合併 RBBB
-> **重點**：**structural heart disease（CAD、prior MI）＋WCT＋AV dissociation → VT**。支持 VT 的線索：**AV dissociation、fusion／capture beats、QRS > 140 ms（RBBB 型）或 > 160 ms（LBBB 型）、precordial concordance、extreme axis**；Brugada 四步驟。不確定時**一律當 VT 處理**：不穩定 → **synchronized cardioversion**；穩定 → **amiodarone、procainamide** 或電擊；**避免 verapamil**。CAD 病人要抽心肌酵素找缺血誘發。
+> [!note]- 108-022｜CABG 病史、心悸，規則寬 QRS 心搏過速：何者錯誤？
+> **情境**：65 歲男性，**曾做 CABG**
+> - 心悸到急診，**BP 100/50 mmHg**
+> - 意識清楚但虛弱，不時打呵欠
+> - ECG：**規則寬 QRS 心搏過速**
+>
+> **問**：哪一個是錯的？
+> - 胸前導程沒有 concordance → 對（依圖）
+> - 有 AV dissociation → 對
+> - QRS > 140 ms → 對
+> - **判讀為 SVT 合併 RBBB → 錯（答案）**
+> - 要抽 troponin T、CK、CK-MB → 對
+>
+> **答**：**(D)**
+>
+> **重點**：**structural heart disease（CAD、prior MI）＋WCT＋AV dissociation → VT**
+> - 支持 VT 的線索：**AV dissociation**、**fusion／capture beats**、**QRS > 140 ms（RBBB 型）或 > 160 ms（LBBB 型）**、precordial concordance、extreme axis
+> - 不確定就**一律當 VT**：不穩定 → **synchronized cardioversion**；穩定 → **amiodarone、procainamide** 或電擊
+> - **避免 verapamil**（VT 時可能血行動力崩潰）
+> - CAD 病人要抽心肌酵素，找缺血誘發
 
 > [!note]- 113-014｜HR 160 規則寬 QRS、LBBB 型、有 fusion beat
-> **情境**：HR 160/min，**QRS 寬、LBBB 型**，**R-R 規則**，lead II 看到 **fusion beat**
-> **問**：ECG 診斷？選項：**VT**／AF／atrial flutter／VF／PSVT
-> **答**：VT（ventricular tachycardia）
-> **重點**：**Fusion beat 是 AV dissociation 的間接證據**（心室異位節律和偶爾下傳的竇性衝動同時激動心室），**對 VT 特異性高**。AF 是不規則；flutter 多為窄 QRS、有鋸齒波；VF 沒有可辨的 QRS；**PSVT 合併 aberrancy 也會寬，但不會有 fusion beat 或 AV dissociation**。
+> **情境**：心電圖
+> - HR 160/min，**R-R 規則**
+> - **QRS 寬、LBBB 型**
+> - Lead II 看到 **fusion beat**
+>
+> **問**：ECG 診斷？（VT／AF／atrial flutter／VF／PSVT）
+>
+> **答**：**(A) VT**
+>
+> **重點**：**fusion beat 是 AV dissociation 的間接證據**，對 VT 特異性高
+> - Fusion beat：心室異位節律和偶爾下傳的竇性衝動同時激動心室
+> - AF 是不規則；flutter 多為窄 QRS、有鋸齒波；VF 沒有可辨的 QRS
+> - **PSVT 合併 aberrancy 也會寬，但不會有 fusion beat 或 AV dissociation**
 
 ### AMI 後心室心律不整與猝死預防
 
 📖 對照：[[cardiology/resuscitation-aha-2025/cpr25-2-adult-als|② Refractory VF 的 amiodarone、lidocaine]]
 
-> [!note]- 106-022｜AMI 後心室心律不整，何者錯誤
+> [!note]- 106-022｜AMI 後心室心律不整：何者錯誤？
 > **情境**：AMI 後心室心律不整的敘述
-> **問**：何者錯誤？選項：AMI 24 小時內常無預警出現 VT／VF → 對／**24 小時內即使沒心律不整也常規預防性給 lidocaine → 錯**／48 小時後因心衰竭出現 VT／VF，住院與長期死亡都增加 → 對／AMI 後可出現 torsades de pointes → 對／電擊無效的 VT／VF 給 amiodarone 可能改善電擊反應 → 對
-> **答**：常規預防性給 lidocaine
-> **重點**：**預防性 lidocaine 不降死亡**（Cochrane 37 個 RCT：全死因 RR 1.02），**不常規使用**；AMI 後預防靠**早期 β-blocker、矯正 K 與 Mg**。**早期（< 48 h）VT/VF** 多和缺血、再灌流有關，長期預後影響較小；**晚期（> 48 h）**多在大面積梗塞或心衰竭背景，院內與長期死亡都上升 → 評估 ICD。**Refractory VF/pVT → amiodarone（或 lidocaine）**。
+>
+> **問**：哪一個是錯的？
+> - AMI 24 小時內常無預警出現 VT／VF → 對
+> - **24 小時內即使沒有心律不整，也常規預防性給 lidocaine → 錯（答案）**
+> - 48 小時後因心衰竭出現 VT／VF，住院與長期死亡都增加 → 對
+> - AMI 後可出現 torsades de pointes → 對
+> - 電擊無效的 VT／VF 給 amiodarone，可能改善電擊反應 → 對
+>
+> **答**：**(B)**
+>
+> **重點**：**預防性 lidocaine 不降死亡**（Cochrane 37 個 RCT：全死因 RR 1.02），**不常規使用**
+> - AMI 後預防靠**早期 β-blocker、矯正 K 與 Mg**
+> - **早期（< 48 h）VT/VF**：多和缺血、再灌流有關，長期預後影響較小
+> - **晚期（> 48 h）VT/VF**：多在大面積梗塞或心衰竭背景，院內與長期死亡都上升 → 評估 ICD
+> - **Refractory VF/pVT → amiodarone（或 lidocaine）**
 
-> [!note]- 111-008｜猝死敘述，何者不正確（抑制 PVC）
-> **情境**：猝死佔心血管死亡約一半；台灣院外猝死救活且無神經後遺症的比例很低
-> **問**：何者不正確？選項：CAD 與心衰竭是最重要危險因子 → 對／asystole 與 PEA 的成因（PEA 多因失血、缺氧、代謝異常、PE）→ 對（考年）／寬 QRS 快跳常是心室性，要緊急處置 → 對／窄 QRS 快跳合併頭暈或低血壓也要緊急處置 → 對／**用藥治療慢性 PVC 可預防猝死 → 錯**
-> **答**：用藥治療慢性 PVC 可預防猝死
-> **重點**：**CAST 試驗**：MI 後用 **class IC（encainide、flecainide）抑制 PVC，心律不整死亡反而增加**（43 vs 16）。能降低猝死的是 **β-blocker、ICD、再灌流、GDMT**；amiodarone 不降死亡（SCD-HeFT）。**不穩定的窄 QRS 或寬 QRS 心搏過速都要緊急同步電擊**。⚠️「asystole 常因電擊造成」是考年敘述。
+> [!note]- 111-008｜猝死敘述：何者不正確？（抑制 PVC）
+> **情境**：猝死約佔心血管死亡的一半；台灣院外猝死救活且無神經後遺症的比例很低
+>
+> **問**：哪一個不正確？
+> - CAD 與心衰竭是猝死最重要的危險因子 → 對
+> - Asystole 與 PEA 的成因（PEA 多因失血、缺氧、代謝異常、PE）→ 對（考年）
+> - 寬 QRS 快跳常是心室性，要緊急處置 → 對
+> - 窄 QRS 快跳合併頭暈或低血壓，也要緊急處置 → 對
+> - **用藥治療慢性 PVC 可預防猝死 → 錯（答案）**
+>
+> **答**：**(E)**
+>
+> **重點**：**CAST 試驗**：MI 後用 **class IC（encainide、flecainide）抑制 PVC，心律不整死亡反而增加**（43 vs 16）
+> - 能降低猝死的是 **β-blocker、ICD、再灌流、GDMT**；amiodarone 不降死亡（SCD-HeFT）
+> - **不穩定的窄 QRS 或寬 QRS 心搏過速都要緊急同步電擊**
+> - ⚠️「asystole 常因電擊造成」是考年敘述
 
 ### 模擬題
 
