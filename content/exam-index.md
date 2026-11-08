@@ -6,7 +6,7 @@ title: 內專考點總覽
 > 這頁會**自動彙整**所有筆記裡的「🎯 內專考點」，每次網站更新時重新產生，不需要手動編輯。
 > 「考過次數」把重複出現的同一題分開計算（例如 106-132／108-94 算 2 次），越多次代表越常考。
 
-目前共整理 **319 次考題**，分布在 **22 篇筆記、98 個考點**。
+目前共整理 **326 次考題**，分布在 **23 篇筆記、102 個考點**。
 
 ## 最常考的考點
 
@@ -70,9 +70,12 @@ title: 內專考點總覽
 | [[nephrology/renal-tubular-acidosis#鑑別：低血鉀但是鹼中毒\|鑑別：低血鉀但是鹼中毒]] | [[nephrology/renal-tubular-acidosis#🎯 內專考點\|腎小管酸中毒 Renal Tubular Acidosis]] | 2 | 104、114 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#HCM：型態與 murmur 動態變化\|HCM：型態與 murmur 動態變化]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 2 | 111、114 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#Gallstone pancreatitis\|Gallstone pancreatitis]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 109、114 |
+| [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam#指引觀念與預防\|指引觀念與預防]] | [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 109、113 |
 | [[cardiology/dyslipidemia-esc/lipid-esc-exam#Statin 機轉、副作用與指引演變\|Statin 機轉、副作用與指引演變]] | [[cardiology/dyslipidemia-esc/lipid-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 2 | 104、113 |
 | [[cardiology/resuscitation-aha-2025/cpr25-exam#寬 QRS 心搏過速\|寬 QRS 心搏過速]] | [[cardiology/resuscitation-aha-2025/cpr25-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 108、113 |
 | [[nephrology/renal-tubular-acidosis#Distal RTA：Sjögren syndrome\|Distal RTA：Sjögren syndrome]] | [[nephrology/renal-tubular-acidosis#🎯 內專考點\|腎小管酸中毒 Renal Tubular Acidosis]] | 2 | 107、112 |
+| [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam#再通：PCI 還是 CABG\|再通：PCI 還是 CABG]] | [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 112 |
+| [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam#流行病學與病理機轉\|流行病學與病理機轉]] | [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 104、112 |
 | [[cardiology/heart-failure-esc-2026/hf26-exam#病理生理\|病理生理]] | [[cardiology/heart-failure-esc-2026/hf26-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 112 |
 | [[cardiology/resuscitation-aha-2025/cpr25-exam#心跳停止的第一步與心律判讀\|心跳停止的第一步與心律判讀]] | [[cardiology/resuscitation-aha-2025/cpr25-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 106、112 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#Cholecystitis 的手術時機\|Cholecystitis 的手術時機]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 111、112 |
@@ -87,6 +90,7 @@ title: 內專考點總覽
 | [[infectious-disease/influenza-idsa/flu-exam#抗病毒藥物與預防性投藥\|抗病毒藥物與預防性投藥]] | [[infectious-disease/influenza-idsa/flu-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 106、109 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#Hyperbilirubinemia 與 Gilbert\|Hyperbilirubinemia 與 Gilbert]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 107、108 |
 | [[infectious-disease/influenza-idsa/flu-exam#禽流感與新型 A 型流感\|禽流感與新型 A 型流感]] | [[infectious-disease/influenza-idsa/flu-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 104、106 |
+| [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam#檢查\|檢查]] | [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 1 | 114 |
 | [[pulmonology/emergent-airway-management#HFNC 的生理效應\|HFNC 的生理效應]] | [[pulmonology/emergent-airway-management#🎯 內專考點\|緊急呼吸道處置 Emergent Airway Management]] | 1 | 114 |
 | [[infectious-disease/infectious-diarrhea-idsa/dia-exam#阿米巴\|阿米巴]] | [[infectious-disease/infectious-diarrhea-idsa/dia-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 1 | 114 |
 | [[nephrology/calcium-phosphate-disorders#低血鈣\|低血鈣]] | [[nephrology/calcium-phosphate-disorders#🎯 內專考點\|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]] | 1 | 113 |
@@ -310,6 +314,27 @@ title: 內專考點總覽
 - 109-021｜AF 合併 HFrEF，何者錯誤？
 - 111-011｜心衰竭合併 AF，rhythm control 首選哪個藥？
 - 111-010｜WPW 病人突發 AF、心跳 180、血壓穩定
+
+### ⑤內專考點 Board Exam Review
+
+**[[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam#再通：PCI 還是 CABG|再通：PCI 還是 CABG]]**（2 次）
+
+- 112-012｜SYNTAX 幾分以上優先 CABG？
+- 112-018｜糖尿病的冠狀動脈疾病：何者不正確？
+
+**[[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam#流行病學與病理機轉|流行病學與病理機轉]]**（2 次）
+
+- 104-002｜女性與冠心病：何者不是實證說法？
+- 112-017｜CKD 病人 CAD 的機轉：何者為非？
+
+**[[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam#檢查|檢查]]**（1 次）
+
+- 114-004｜運動心電圖：哪一個還不需要立刻停止？
+
+**[[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam#指引觀念與預防|指引觀念與預防]]**（2 次）
+
+- 113-009｜2023 AHA/ACC 慢性冠心病指引：何者不是推薦？
+- 109-001｜預防與處置：何者不當？
 
 ### ⑧內專考點 Board Exam Points
 
