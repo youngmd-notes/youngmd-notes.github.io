@@ -89,7 +89,7 @@ export default (() => {
         <meta name="theme-color" content="#3d5a80" />
         <meta name="mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
-        <meta name="apple-mobile-web-app-title" content="內科筆記" />
+        <meta name="apple-mobile-web-app-title" content="內科" />
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />

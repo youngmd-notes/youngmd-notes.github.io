@@ -50,7 +50,7 @@ function steps(): string {
       <ol class="ia-steps">
         <li><span class="ia-badge">1</span><span class="ia-text">點畫面下方（iPad 在右上角）的 <b>分享</b> ${SHARE_ICON}</span></li>
         <li><span class="ia-badge">2</span><span class="ia-text">往下滑，點 <b>加入主畫面</b> ${PLUS_ICON}</span></li>
-        <li><span class="ia-badge">3</span><span class="ia-text">右上角點 <b>新增</b>，桌面就會出現「內科筆記」</span></li>
+        <li><span class="ia-badge">3</span><span class="ia-text">右上角點 <b>新增</b>，桌面就會出現「內科」</span></li>
       </ol>
       <p class="ia-note">如果是用 LINE、Facebook 等 App 內建瀏覽器打開，請先選「用 Safari 開啟」。</p>`
   }
@@ -60,14 +60,14 @@ function steps(): string {
       <ol class="ia-steps">
         <li><span class="ia-badge">1</span><span class="ia-text">點右上角 <b>⋮</b> 選單</span></li>
         <li><span class="ia-badge">2</span><span class="ia-text">點 <b>加到主畫面</b> 或 <b>安裝應用程式</b></span></li>
-        <li><span class="ia-badge">3</span><span class="ia-text">點 <b>安裝</b>，桌面就會出現「內科筆記」</span></li>
+        <li><span class="ia-badge">3</span><span class="ia-text">點 <b>安裝</b>，桌面就會出現「內科」</span></li>
       </ol>`
   }
   return `
     <p class="ia-lead">電腦上用 <b>Chrome</b> 或 <b>Edge</b>：</p>
     <ol class="ia-steps">
       <li><span class="ia-badge">1</span><span class="ia-text">點網址列右邊的 <b>安裝</b> 圖示（螢幕加向下箭頭）</span></li>
-      <li><span class="ia-badge">2</span><span class="ia-text">或從右上角選單選 <b>安裝內科筆記</b>／<b>應用程式 → 將此網站安裝為應用程式</b></span></li>
+      <li><span class="ia-badge">2</span><span class="ia-text">或從右上角選單選 <b>安裝內科</b>／<b>應用程式 → 將此網站安裝為應用程式</b></span></li>
     </ol>
     <p class="ia-note">想裝在手機上，用手機打開 <b>${location.host}</b> 再按一次這個按鈕。</p>`
 }
@@ -84,7 +84,7 @@ function openSheet() {
     <div class="ia-sheet" role="dialog" aria-modal="true" aria-label="加到桌面">
       <div class="ia-head">
         <img src="/static/icon-192.png" alt="" width="44" height="44" />
-        <div><div class="ia-title">把內科筆記加到桌面</div><div class="ia-sub">之後點桌面圖示就能直接打開，像 App 一樣全螢幕</div></div>
+        <div><div class="ia-title">把內科加到桌面</div><div class="ia-sub">之後點桌面圖示就能直接打開，像 App 一樣全螢幕</div></div>
       </div>
       ${steps()}
       <button type="button" class="ia-close">知道了</button>

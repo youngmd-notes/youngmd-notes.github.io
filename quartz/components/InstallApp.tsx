@@ -10,7 +10,7 @@ const InstallApp: QuartzComponent = ({ displayClass }: QuartzComponentProps) => 
     <button
       class={classNames(displayClass, "install-app")}
       type="button"
-      title="把內科筆記加到手機桌面"
+      title="把內科加到手機桌面"
       aria-label="加到桌面"
     >
       <svg

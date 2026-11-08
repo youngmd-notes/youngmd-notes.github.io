@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "內科筆記",
-    pageTitleSuffix: " | 內科筆記",
+    pageTitle: "內科",
+    pageTitleSuffix: " | 內科",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
