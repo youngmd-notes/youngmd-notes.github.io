@@ -266,6 +266,7 @@ Figure 21 是 HF 團隊成員與任務，Figure 22 是穩定病人的追蹤頻�
 
 ## 相關筆記
 
+- [[cardiology/chronic-coronary-syndrome-esc-2024/index|慢性冠心症 CCS（ESC 2024）]]
 - [[cardiology/atrial-fibrillation/index|心房顫動 AF（ESC 2024）]]
 - [[cardiology/resuscitation-aha-2025/index|心肺復甦與急救 CPR & ECC（2025 AHA）]]
 - [[cardiology/pulmonary-embolism-esc/index|肺栓塞 PE（ESC 2019）]]

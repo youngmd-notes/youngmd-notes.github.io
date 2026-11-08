@@ -209,6 +209,7 @@ Figure 17 是出院後的三個目標，Figure 18 是降血脂流程；Figure 19
 
 ## 相關筆記
 
+- [[cardiology/chronic-coronary-syndrome-esc-2024/index|慢性冠心症 CCS（ESC 2024）]]
 - [[cardiology/heart-failure-esc-2026/index|心衰竭 Heart Failure（ESC 2026）]]（心因性休克、MI 後 HF）
 - [[cardiology/resuscitation-aha-2025/index|心肺復甦與急救（2025 AHA）]]
 - [[cardiology/atrial-fibrillation/index|心房顫動 AF（ESC 2024）]]
