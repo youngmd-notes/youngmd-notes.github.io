@@ -201,6 +201,7 @@ cssclasses:
 
 - [[cardiology/syncope/symptom-to-diagnosis/syncope-5-structural|暈厥：structural 與心肺原因]]（PE 造成的 syncope）
 - [[cardiology/atrial-fibrillation/index|心房顫動 Atrial Fibrillation]]（NOAC 的使用）
+- [[cardiology/resuscitation-aha-2025/index|心肺復甦與急救 CPR & ECC（2025 AHA 指引）]]
 
 ## 參考資料
 

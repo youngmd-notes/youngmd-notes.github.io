@@ -6,7 +6,7 @@ title: 內專考點總覽
 > 這頁會**自動彙整**所有筆記裡的「🎯 內專考點」，每次網站更新時重新產生，不需要手動編輯。
 > 「考過次數」把重複出現的同一題分開計算（例如 106-132／108-94 算 2 次），越多次代表越常考。
 
-目前共整理 **253 次考題**，分布在 **19 篇筆記、85 個考點**。
+目前共整理 **259 次考題**，分布在 **20 篇筆記、88 個考點**。
 
 ## 最常考的考點
 
@@ -63,8 +63,11 @@ title: 內專考點總覽
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#HCM：型態與 murmur 動態變化\|HCM：型態與 murmur 動態變化]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 2 | 111、114 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#Gallstone pancreatitis\|Gallstone pancreatitis]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 109、114 |
 | [[cardiology/dyslipidemia-esc/lipid-esc-exam#Statin 機轉、副作用與指引演變\|Statin 機轉、副作用與指引演變]] | [[cardiology/dyslipidemia-esc/lipid-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 2 | 104、113 |
+| [[cardiology/resuscitation-aha-2025/cpr25-exam#寬 QRS 心搏過速\|寬 QRS 心搏過速]] | [[cardiology/resuscitation-aha-2025/cpr25-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 108、113 |
 | [[nephrology/renal-tubular-acidosis#Distal RTA：Sjögren syndrome\|Distal RTA：Sjögren syndrome]] | [[nephrology/renal-tubular-acidosis#🎯 內專考點\|腎小管酸中毒 Renal Tubular Acidosis]] | 2 | 107、112 |
+| [[cardiology/resuscitation-aha-2025/cpr25-exam#心跳停止的第一步與心律判讀\|心跳停止的第一步與心律判讀]] | [[cardiology/resuscitation-aha-2025/cpr25-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 106、112 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#Cholecystitis 的手術時機\|Cholecystitis 的手術時機]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 111、112 |
+| [[cardiology/resuscitation-aha-2025/cpr25-exam#AMI 後心室心律不整與猝死預防\|AMI 後心室心律不整與猝死預防]] | [[cardiology/resuscitation-aha-2025/cpr25-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 106、111 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#Brugada syndrome\|Brugada syndrome]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 2 | 105、111 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#WPW\|WPW]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 2 | 106、111 |
 | [[infectious-disease/covid-19-idsa/covid-exam#感染管制\|感染管制]] | [[infectious-disease/covid-19-idsa/covid-exam#🎯 內專考點\|⑦內專考點 Board Exam Review]] | 2 | 106、111 |
@@ -309,6 +312,23 @@ title: 內專考點總覽
 - 110-032｜PE 敘述何者正確（rivaroxaban、apixaban 單藥）
 - 112-009｜PE 急症處置何者不正確（warfarin vs NOAC）
 - 114-018｜PE 敘述組合題
+
+### ⑤內專考點 Board Exam Review
+
+**[[cardiology/resuscitation-aha-2025/cpr25-exam#心跳停止的第一步與心律判讀|心跳停止的第一步與心律判讀]]**（2 次）
+
+- 106-001｜急診胸痛病人突然心跳停止，獨自一人的第一步
+- 112-015｜車禍到院無脈搏，monitor 有規則 QRS
+
+**[[cardiology/resuscitation-aha-2025/cpr25-exam#寬 QRS 心搏過速|寬 QRS 心搏過速]]**（2 次）
+
+- 108-022｜CABG 病史、心悸，規則寬 QRS 心搏過速，何者錯誤
+- 113-014｜HR 160 規則寬 QRS、LBBB 型、有 fusion beat
+
+**[[cardiology/resuscitation-aha-2025/cpr25-exam#AMI 後心室心律不整與猝死預防|AMI 後心室心律不整與猝死預防]]**（2 次）
+
+- 106-022｜AMI 後心室心律不整，何者錯誤
+- 111-008｜猝死敘述，何者不正確（抑制 PVC）
 
 ### ⑧內專考點 Board Exam Review
 

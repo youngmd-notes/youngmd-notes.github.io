@@ -414,6 +414,7 @@ flowchart TD
 ## 相關筆記
 
 - 呼吸器、ARDS、休克等重症筆記建立後會連結到這裡
+- [[cardiology/resuscitation-aha-2025/index|心肺復甦與急救 CPR & ECC（2025 AHA 指引）]]
 
 ## 參考資料
 

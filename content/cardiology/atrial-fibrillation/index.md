@@ -260,6 +260,10 @@ Table 3 新增、Table 4 修訂（與 2020 版比較）、Table 17 所有必做�
 - <a class="internal" href="/cardiology/atrial-fibrillation/af-esc-2024-5-recommendations#table-17不要做清單全部-class-iii">Table 17</a>：「不要做」清單（全部 Class III）　<span class="af-where">⑤</span>
 - <a class="internal" href="/cardiology/atrial-fibrillation/af-esc-2024-5-recommendations#table-17必做清單class-i依主題">Table 17</a>：「必做」清單（Class I，依主題）　<span class="af-where">⑤</span>
 
+## 相關筆記
+
+- [[cardiology/resuscitation-aha-2025/index|心肺復甦與急救 CPR & ECC（2025 AHA 指引）]]（AF 同步電擊起始 ≥ 200 J）
+
 ## 參考資料
 
 - Van Gelder IC, Rienstra M, Bunting KV, et al. 2024 ESC Guidelines for the management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS). *Eur Heart J*. 2024;45(36):3314–3414.
