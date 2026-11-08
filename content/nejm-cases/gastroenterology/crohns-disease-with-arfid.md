@@ -14,7 +14,8 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 一個焦慮、刻意少吃的青少女，很容易被歸成「飲食障礙」；但 ==ESR／CRP 輕度上升、身高早就掉下來==，提醒醫師**心理診斷不能取代器質性疾病的排除**。Fecal calprotectin 是讓推理轉向 IBD 的轉折點。
+> - 一個焦慮、刻意少吃的青少女，很容易被歸成「飲食障礙」；但 ==ESR／CRP 輕度上升、身高早就掉下來==，提醒醫師**心理診斷不能取代器質性疾病的排除**
+> - Fecal calprotectin 是讓推理轉向 IBD 的轉折點
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 12-Year-Old Girl with Weight Loss〉，2023，[DOI 10.1056/EVIDmr2200308](https://doi.org/10.1056/EVIDmr2200308)。以下用自己的話整理，重點放在作者**怎麼一步步找到答案**。

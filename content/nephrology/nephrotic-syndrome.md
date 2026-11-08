@@ -11,7 +11,10 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **Heavy proteinuria＋hypoalbuminemia＋edema**（常合併 hyperlipidemia），而且沒有 heart failure 或嚴重 liver disease。診斷靠 ==spot UPCR > 3–3.5 g/g＋albumin < 2.5 g/dL==；接著做三件事：**找 secondary cause**（DM、SLE、藥物最重要）、**評估併發症**（VTE、感染、AKI、高血脂）、**決定要不要 biopsy**。多數病人用 ==限鈉限水＋loop diuretic＋ACEI/ARB== 的支持療法；預防性抗凝、降血脂藥、免疫抑制劑都**不是每個人都要用**，要個別評估並會診腎臟科。
+> - **Heavy proteinuria＋hypoalbuminemia＋edema**（常合併 hyperlipidemia），而且沒有 heart failure 或嚴重 liver disease
+> - 診斷靠 ==spot UPCR > 3–3.5 g/g＋albumin < 2.5 g/dL==
+>   - 接著做三件事：**找 secondary cause**（DM、SLE、藥物最重要）、**評估併發症**（VTE、感染、AKI、高血脂）、**決定要不要 biopsy**
+> - 多數病人用 ==限鈉限水＋loop diuretic＋ACEI/ARB== 的支持療法；預防性抗凝、降血脂藥、免疫抑制劑都**不是每個人都要用**，要個別評估並會診腎臟科
 
 ## 🗺️ 總綱
 

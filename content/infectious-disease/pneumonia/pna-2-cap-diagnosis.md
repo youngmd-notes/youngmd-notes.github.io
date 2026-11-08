@@ -14,7 +14,14 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 台灣 CAP 前五名：**S. pneumoniae（23%）、Mycoplasma（14%）、C. pneumoniae（8%）、K. pneumoniae（7%）、H. influenzae（5%）**；颱風後的 **melioidosis**、Q fever、scrub typhus 是台灣特色。臨床表現分不出病原，所以**經驗性治療要同時 cover 典型＋非典型**。嚴重度用 **CURB-65**（2B）：==0–1 門診、2–3 住院、4–5 考慮 ICU==。住院 CAP 抽 **2 套血液培養（每套 10 mL）**＋**痰 Gram stain／culture**；**嚴重 CAP 加做 pneumococcal 與 Legionella 尿液抗原**（1B）。治療失敗以 **72 h** 分早期與晚期，先問「**診斷對不對？有沒有併發症？**」
+> - 台灣 CAP 前五名：
+>   - **S. pneumoniae（23%）、Mycoplasma（14%）、C. pneumoniae（8%）、K. pneumoniae（7%）、H. influenzae（5%）**
+>   - 颱風後的 **melioidosis**、Q fever、scrub typhus 是台灣特色
+> - 臨床表現分不出病原，所以**經驗性治療要同時 cover 典型＋非典型**
+> - 嚴重度用 **CURB-65**（2B）：==0–1 門診、2–3 住院、4–5 考慮 ICU==
+> - 住院 CAP 抽 **2 套血液培養（每套 10 mL）**＋**痰 Gram stain／culture**
+>   - **嚴重 CAP 加做 pneumococcal 與 Legionella 尿液抗原**（1B）
+> - 治療失敗以 **72 h** 分早期與晚期，先問「**診斷對不對？有沒有併發症？**」
 
 > [!info] 系列導覽
 > ↑ 回到 [[infectious-disease/pneumonia/index|台灣肺炎診治指引總覽]]

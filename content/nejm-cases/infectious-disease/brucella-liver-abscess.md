@@ -15,7 +15,8 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 不明熱唯一的定位線索是**乾咳＋右上腹壓痛**，作者把它當成橫膈上下互相刺激的訊號，CT 找到**右肝 11 cm 帶鈣化的 abscess**。給了涵蓋腸道菌的抗生素卻**不退燒、culture-negative** → 用「抗生素無效的六種可能」重新思考，把方向轉向**培養不出來、會形成 granuloma 或鈣化的病原** → 追問飲食：==家人從墨西哥帶來的未殺菌起司== → **Brucella**。
+> - 不明熱唯一的定位線索是**乾咳＋右上腹壓痛**，作者把它當成橫膈上下互相刺激的訊號，CT 找到**右肝 11 cm 帶鈣化的 abscess**
+> - 給了涵蓋腸道菌的抗生素卻**不退燒、culture-negative** → 用「抗生素無效的六種可能」重新思考，把方向轉向**培養不出來、會形成 granuloma 或鈣化的病原** → 追問飲食：==家人從墨西哥帶來的未殺菌起司== → **Brucella**
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 48-Year-Old Man with Fevers and Weight Loss〉，2022，[DOI 10.1056/EVIDmr2200009](https://doi.org/10.1056/EVIDmr2200009)。以下用自己的話整理，重點放在作者的推理過程。

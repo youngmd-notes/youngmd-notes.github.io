@@ -15,7 +15,9 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 本來要排除 PE 的 CT，意外找到**多顆棘狀、部分 cavitation 的肺 nodule**；穩定的病人**先不給 empiric antibiotics**，取組織、等時間讓疾病「自己表態」。最後 biopsy 長出 ==S. intermedius（S. anginosus group）==，健康青少年也可能得到。
+> - 本來要排除 PE 的 CT，意外找到**多顆棘狀、部分 cavitation 的肺 nodule**
+>   - 穩定的病人**先不給 empiric antibiotics**，取組織、等時間讓疾病「自己表態」
+> - 最後 biopsy 長出 ==S. intermedius（S. anginosus group）==，健康青少年也可能得到
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 14-Year-Old Girl with Shortness of Breath and Chest Pain〉，2023，[DOI 10.1056/EVIDmr2300293](https://doi.org/10.1056/EVIDmr2300293)。以下用自己的話整理，重點放在作者的推理過程。

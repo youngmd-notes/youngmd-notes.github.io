@@ -15,7 +15,8 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 年輕、沒有危險因子的 stroke，**常見原因（大小血管動脈硬化、心因性栓塞）全部查完都陰性**時，要轉向**少見原因**：剝離、高凝、**CNS vasculitis**。這位的前驅期（==發燒畏寒＋右側感音性聽力喪失==）是線索，CSF **lymphocyte 增多**、**VZV PCR 陽性** → 沒有皮疹的 herpes zoster（**zoster sine herpete**）造成的小 vasculitis。
+> - 年輕、沒有危險因子的 stroke，**常見原因（大小血管動脈硬化、心因性栓塞）全部查完都陰性**時，要轉向**少見原因**：剝離、高凝、**CNS vasculitis**
+> - 這位的前驅期（==發燒畏寒＋右側感音性聽力喪失==）是線索，CSF **lymphocyte 增多**、**VZV PCR 陽性** → 沒有皮疹的 herpes zoster（**zoster sine herpete**）造成的小 vasculitis
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 50-Year-Old Man with Left-Sided Weakness and Difficulty Speaking Clearly〉，2025，[DOI 10.1056/EVIDmr2400331](https://doi.org/10.1056/EVIDmr2400331)。以下用自己的話整理，重點放在作者的推理過程。另見 [[nejm-cases/infectious-disease/vzv-meningomyelitis-facial-palsy-hiv|VZV 腦脊髓膜炎]]。

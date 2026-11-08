@@ -12,7 +12,8 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 肺炎題最愛考 **「病原 ↔ 宿主或暴露」配對**（鳥 → *C. psittaci*、牛羊或貓的分娩物 → *Coxiella*、流感後 cavitary → *S. aureus*、冷卻水塔 → *Legionella*、bronchiectasis → *Pseudomonas*、酒癮 → *Klebsiella*／*S. pneumoniae*）；其次是 **Legionella**（==β-lactam 無效==、hyponatremia、尿液抗原只測 serogroup 1）、**CURB-65 計分**、**CAP 門診選藥與改口服時機**、**VAP bundle**（制酸劑不是預防措施）。
+> - 肺炎題最愛考 **「病原 ↔ 宿主或暴露」配對**（鳥 → *C. psittaci*、牛羊或貓的分娩物 → *Coxiella*、流感後 cavitary → *S. aureus*、冷卻水塔 → *Legionella*、bronchiectasis → *Pseudomonas*、酒癮 → *Klebsiella*／*S. pneumoniae*）
+>   - 其次是 **Legionella**（==β-lactam 無效==、hyponatremia、尿液抗原只測 serogroup 1）、**CURB-65 計分**、**CAP 門診選藥與改口服時機**、**VAP bundle**（制酸劑不是預防措施）
 
 > [!info] 系列導覽
 > ↑ 回到 [[infectious-disease/pneumonia/index|台灣肺炎診治指引總覽]]

@@ -15,7 +15,13 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **==有發燒、血便或黏液便、劇烈腹痛或壓痛、sepsis 徵象 → 驗糞便：*Salmonella*、*Shigella*、*Campylobacter*、*Yersinia*、*C. difficile*、STEC==**（strong）；**血便不是 *C. difficile* 的表現**。**血液培養**：**< 3 個月嬰兒**、sepsis、**懷疑 enteric fever**、免疫不全、溶血性貧血、流行區回來的不明熱。**不要用**糞便白血球、lactoferrin、血清學、WBC 來找病因。**確診 STEC → 每天追 Hb、PLT、電解質、BUN、Cr 與抹片**（看 HUS）。**持續 ≥ 14 天 → 想原蟲、IBD、IBS**；腹瀉好了**不需要追蹤糞便**（餐飲、照護業依衛生單位規定）。多重 PCR 驗到的是 DNA，**不一定是活菌**。
+> - **==有發燒、血便或黏液便、劇烈腹痛或壓痛、sepsis 徵象 → 驗糞便：Salmonella、Shigella、Campylobacter、Yersinia、C. difficile、STEC==**（strong）
+>   - **血便不是 *C. difficile* 的表現**
+> - **血液培養**：**< 3 個月嬰兒**、sepsis、**懷疑 enteric fever**、免疫不全、溶血性貧血、流行區回來的不明熱
+> - **不要用**糞便白血球、lactoferrin、血清學、WBC 來找病因
+> - **確診 STEC → 每天追 Hb、PLT、電解質、BUN、Cr 與抹片**（看 HUS）
+> - **持續 ≥ 14 天 → 想原蟲、IBD、IBS**；腹瀉好了**不需要追蹤糞便**（餐飲、照護業依衛生單位規定）
+> - 多重 PCR 驗到的是 DNA，**不一定是活菌**
 
 > [!info] 系列導覽
 > ↑ 回到 [[infectious-disease/infectious-diarrhea-idsa/index|IDSA 感染性腹瀉指引總覽]]

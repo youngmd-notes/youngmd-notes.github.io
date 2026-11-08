@@ -10,7 +10,12 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 內專很少直接考「ESC 指引第幾條」，而是考 **syncope vs seizure 的病史鑑別、high-risk ECG（AV block、bifascicular block、Brugada、long QT）、HCM／AS 的猝死風險**——正好對應 ESC 2018 的 **Table 5、6、10** 與 **pacing／ICD 建議**。
+> 內專很少直接考「ESC 指引第幾條」，而是考：
+> - **syncope vs seizure 的病史鑑別**
+> - **high-risk ECG**：AV block、bifascicular block、Brugada、long QT
+> - **HCM／AS 的猝死風險**
+>
+> 正好對應 ESC 2018 的 **Table 5、6、10** 與 **pacing／ICD 建議**。
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/syncope/esc-2018/index|② 2018 ESC 指引總覽]]

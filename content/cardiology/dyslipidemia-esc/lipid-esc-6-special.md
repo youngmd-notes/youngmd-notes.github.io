@@ -12,7 +12,10 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **ACS：盡早開始 high-dose statin（I-A）**，4–6 週驗 LDL-C，未達標依序加 ezetimibe、PCSK9（I-B）；🆕 2025 改成「**the sooner, the lower, the better**」：**住院期間就加強（I-C），未用藥者可直接 statin＋ezetimibe（IIa-B）**。**HF 與 AS（無其他適應症）不要開始降脂藥（III-A）**；**透析且無 ASCVD 不要開始 statin（III-A）**。🆕 2025：**HIV ≥ 40 歲初級預防，不論風險與 LDL-C，都建議 statin（I-B）**；anthracycline 化療高風險者應考慮 statin（IIa-B）。
+> - **ACS：盡早開始 high-dose statin（I-A）**，4–6 週驗 LDL-C，未達標依序加 ezetimibe、PCSK9（I-B）
+>   - 🆕 2025 改成「**the sooner, the lower, the better**」：**住院期間就加強（I-C），未用藥者可直接 statin＋ezetimibe（IIa-B）**
+> - **HF 與 AS（無其他適應症）不要開始降脂藥（III-A）**；**透析且無 ASCVD 不要開始 statin（III-A）**
+> - 🆕 2025：**HIV ≥ 40 歲初級預防，不論風險與 LDL-C，都建議 statin（I-B）**；anthracycline 化療高風險者應考慮 statin（IIa-B）
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/dyslipidemia-esc/index|血脂異常 ESC/EAS 指引總覽]]

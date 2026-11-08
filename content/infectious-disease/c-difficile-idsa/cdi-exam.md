@@ -11,7 +11,16 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> *C. difficile* 幾乎每年考，而且常是「何者正確／錯誤」的綜合題。必背：**==會產孢子 → 酒精殺不死，肥皂和水洗手、含氯消毒環境==**；**toxin A＝enterotoxin、toxin B＝cytotoxin**（題目常顛倒）；**NAP1/BI/027 對 FQ 抗藥**、毒素量大、多 binary toxin；**診斷靠糞便 toxin 或產毒基因**，**不靠內視鏡、不靠培養**；**PPI 增加風險**；**==IV vancomycin 無效==**（taper 也是口服）；**不做 test of cure**。舊考年答案是「輕度用 metronidazole」，**現行（2021）是 fidaxomicin 或 oral vancomycin**。
+> - *C. difficile* 幾乎每年考，而且常是「何者正確／錯誤」的綜合題
+> - 必背：
+>   - **==會產孢子 → 酒精殺不死，肥皂和水洗手、含氯消毒環境==**
+>   - **toxin A＝enterotoxin、toxin B＝cytotoxin**（題目常顛倒）
+>   - **NAP1/BI/027 對 FQ 抗藥**、毒素量大、多 binary toxin
+>   - **診斷靠糞便 toxin 或產毒基因**，**不靠內視鏡、不靠培養**
+>   - **PPI 增加風險**
+>   - **==IV vancomycin 無效==**（taper 也是口服）
+>   - **不做 test of cure**
+> - 舊考年答案是「輕度用 metronidazole」，**現行（2021）是 fidaxomicin 或 oral vancomycin**
 
 > [!info] 系列導覽
 > ↑ 回到 [[infectious-disease/c-difficile-idsa/index|IDSA/SHEA *C. difficile* 指引總覽]]

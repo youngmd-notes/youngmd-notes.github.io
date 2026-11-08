@@ -13,7 +13,9 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 懷孕漏液的鑑別分「**感染／非感染（妊娠相關 vs 無關）**」，靠**三個床邊問題＋無菌窺器檢查（pooling、nitrazine、ferning，三項中兩項）＋超音波羊水量**就能診斷。這位是 ==15 週的可存活期前破水（previable PROM）==：多數在一週內生產，母親有明顯感染與出血風險。標準做法是**共享決策**（立即終止 vs 期待療法）；本個案發生在法律只允許「立即威脅母親生命」才能終止妊娠的州，最後發展成**chorioamnionitis**才進行處置。
+> - 懷孕漏液的鑑別分「**感染／非感染（妊娠相關 vs 無關）**」，靠**三個床邊問題＋無菌窺器檢查（pooling、nitrazine、ferning，三項中兩項）＋超音波羊水量**就能診斷
+> - 這位是 ==15 週的可存活期前破水（previable PROM）==：多數在一週內生產，母親有明顯感染與出血風險
+> - 標準做法是**共享決策**（立即終止 vs 期待療法）；本個案發生在法律只允許「立即威脅母親生命」才能終止妊娠的州，最後發展成**chorioamnionitis**才進行處置
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A Pregnant Patient Presents with Leakage of Vaginal Fluid in the Second Trimester〉，2022，[DOI 10.1056/EVIDmr2200281](https://doi.org/10.1056/EVIDmr2200281)。以下用自己的話整理，重點放在作者的推理過程。

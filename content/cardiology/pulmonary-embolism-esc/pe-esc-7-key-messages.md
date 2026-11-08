@@ -11,7 +11,12 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 2019 版的主要改變：**age-adjusted 或 YEARS D-dimer**、**明確定義 hemodynamic instability**、**sPESI 0 也要評估 RV**、**NOAC 成為首選**、**不再用 provoked／unprovoked，改依復發風險分類（Table 11）**、**延長期可減量 apixaban／rivaroxaban**、**癌症可用 edoxaban／rivaroxaban（GI 癌除外）**、**懷孕專屬流程（Figure 7）**、**PE 後 3–6 個月常規追蹤與 Figure 8**。
+> 2019 版的主要改變：
+> - 診斷：**age-adjusted 或 YEARS D-dimer**、**明確定義 hemodynamic instability**、**sPESI 0 也要評估 RV**
+> - 治療：**NOAC 成為首選**、**延長期可減量 apixaban／rivaroxaban**、**癌症可用 edoxaban／rivaroxaban（GI 癌除外）**
+> - **不再用 provoked／unprovoked，改依復發風險分類（Table 11）**
+> - **懷孕專屬流程（Figure 7）**
+> - **PE 後 3–6 個月常規追蹤與 Figure 8**
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/pulmonary-embolism-esc/index|急性肺栓塞 ESC 2019 指引總覽]]

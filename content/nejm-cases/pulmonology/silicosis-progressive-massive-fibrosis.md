@@ -15,7 +15,9 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 慢性乾咳＋漸進性喘＋**抗生素一再無效** → 把方向從感染轉向 **ILD**。答案藏在職業史：==9 年切割人造石（engineered stone，含矽約 90%）檯面==。CT 的 **perilymphatic micronodule＋鈣化大塊融合＋縱膈淋巴結**，再加上 biopsy 的**偏光矽晶體**，確診矽肺症併 PMF。
+> - 慢性乾咳＋漸進性喘＋**抗生素一再無效** → 把方向從感染轉向 **ILD**
+> - 答案藏在職業史：==9 年切割人造石（engineered stone，含矽約 90%）檯面==
+> - CT 的 **perilymphatic micronodule＋鈣化大塊融合＋縱膈淋巴結**，再加上 biopsy 的**偏光矽晶體**，確診矽肺症併 PMF
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 35-Year-Old Man with Chronic Cough and Worsening Dyspnea〉，2023，[DOI 10.1056/EVIDmr2200338](https://doi.org/10.1056/EVIDmr2200338)。以下用自己的話整理，重點放在作者的推理過程。

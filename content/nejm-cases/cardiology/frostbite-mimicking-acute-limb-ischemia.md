@@ -14,7 +14,9 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> AF＋曾經 IE＋IV drug use 的病人腳冰冷發紫，直覺是**栓塞**；但 CTA 顯示 ==三條小腿動脈在同一高度截斷、沒有栓子來源、echocardiography 乾淨==，比較像**血管收縮**。答案在一個被漏掉的社會史細節：==右腳靴子掉了，在約 −4°C 戶外睡了好幾晚== → **凍傷**。
+> - AF＋曾經 IE＋IV drug use 的病人腳冰冷發紫，直覺是**栓塞**
+>   - 但 CTA 顯示 ==三條小腿動脈在同一高度截斷、沒有栓子來源、echocardiography 乾淨==，比較像**血管收縮**
+> - 答案在一個被漏掉的社會史細節：==右腳靴子掉了，在約 −4°C 戶外睡了好幾晚== → **凍傷**
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 41-Year-Old Woman with a Cold Foot〉，2022，[DOI 10.1056/EVIDmr2200106](https://doi.org/10.1056/EVIDmr2200106)。以下用自己的話整理，重點放在作者的推理過程。

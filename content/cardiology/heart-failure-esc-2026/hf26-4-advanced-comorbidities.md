@@ -18,7 +18,17 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **Advanced HF（stage D）**：FMT＋AMT＋GDIT 下仍 **NYHA III–IV**、**嚴重心臟功能不良（LVEF ≤ 30% 等）**、**12 個月內 ≥ 2 次非計畫住院或需要 inotrope**、**運動能力極差** → **==盡早轉 advanced HF 中心評估換心或 LVAD（I A）==**；低灌流時可**減量或停 beta-blocker／ivabradine（IIa C）**；**LVAD（I C）**。共病：**AF → CHA₂DS₂-VA 決定抗凝（HF 算 1 分）**、**穩定 HFrEF＋AF 的 rate control 首選 beta-blocker（I C）**、不穩定 → **IV amiodarone 或 digoxin**；**HFrEF＋iron deficiency → IV iron（I B1）**；**LVEF ≥ 45%、BMI ≥ 30 → semaglutide 或 tirzepatide（IIa B1）**；**嚴重 AS → TAVI／SAVR（I B1）**；**secondary MR 符合條件 → M-TEER（I B1）**；**TTR amyloidosis → vutrisiran、tafamidis、acoramidis（I A）**。**懷孕：ACE-I、ARB、ARNI、MRA、ivabradine、SGLT2-I 都不能用（III C）**。
+> - **Advanced HF（stage D）**：FMT＋AMT＋GDIT 下仍 **NYHA III–IV**、**嚴重心臟功能不良（LVEF ≤ 30% 等）**、**12 個月內 ≥ 2 次非計畫住院或需要 inotrope**、**運動能力極差** → **==盡早轉 advanced HF 中心評估換心或 LVAD（I A）==**
+>   - 低灌流時可**減量或停 beta-blocker／ivabradine（IIa C）**
+>   - **LVAD（I C）**
+> - 共病：
+>   - **AF → CHA₂DS₂-VA 決定抗凝（HF 算 1 分）**、**穩定 HFrEF＋AF 的 rate control 首選 beta-blocker（I C）**、不穩定 → **IV amiodarone 或 digoxin**
+>   - **HFrEF＋iron deficiency → IV iron（I B1）**
+>   - **LVEF ≥ 45%、BMI ≥ 30 → semaglutide 或 tirzepatide（IIa B1）**
+>   - **嚴重 AS → TAVI／SAVR（I B1）**
+>   - **secondary MR 符合條件 → M-TEER（I B1）**
+>   - **TTR amyloidosis → vutrisiran、tafamidis、acoramidis（I A）**
+> - **懷孕：ACE-I、ARB、ARNI、MRA、ivabradine、SGLT2-I 都不能用（III C）**
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/heart-failure-esc-2026/index|2026 ESC 心衰竭指引總覽]]

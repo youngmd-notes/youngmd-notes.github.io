@@ -17,7 +17,13 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **不論 LVEF，有症狀就給：==SGLT2-I（I A）＋MRA（I A；HFrEF 用 steroidal，HFpEF 可用 steroidal 或 finerenone）==**，有鬱血再加 **loop diuretic 依容積調整**。**HFrEF（LVEF < 50%）再加：beta-blocker＋ACE-I 或 ARNI（I A；ACE-I／ARB 換 ARNI I B1）**。**==至少每 1–2 週調升一次 FMT==** 到試驗目標劑量（I C）；**LVEF 改善或沒症狀也要繼續最高耐受劑量**（I C）。HFpEF：ACE-I／ARB／ARNI 可考慮（IIb C）。AMT：**digoxin／digitoxin（LVEF ≤ 40%，IIa B1）**、**ivabradine**（竇律、HR > 70）、**vericiguat**（LVEF < 45%）、H-ISDN。**ICD**：缺血性 LVEF ≤ 35%、FMT ≥ 3 個月（I B1）；非缺血性（IIa B1）；**MI 40 天內不放**。**CRT**：LVEF ≤ 35%、竇律、**LBBB＋QRS ≥ 150 ms（I A）**。
+> - **不論 LVEF，有症狀就給：==SGLT2-I（I A）＋MRA（I A；HFrEF 用 steroidal，HFpEF 可用 steroidal 或 finerenone）==**，有鬱血再加 **loop diuretic 依容積調整**
+> - **HFrEF（LVEF < 50%）再加：beta-blocker＋ACE-I 或 ARNI（I A；ACE-I／ARB 換 ARNI I B1）**
+> - **==至少每 1–2 週調升一次 FMT==** 到試驗目標劑量（I C）；**LVEF 改善或沒症狀也要繼續最高耐受劑量**（I C）
+> - HFpEF：ACE-I／ARB／ARNI 可考慮（IIb C）
+> - AMT：**digoxin／digitoxin（LVEF ≤ 40%，IIa B1）**、**ivabradine**（竇律、HR > 70）、**vericiguat**（LVEF < 45%）、H-ISDN
+> - **ICD**：缺血性 LVEF ≤ 35%、FMT ≥ 3 個月（I B1）；非缺血性（IIa B1）；**MI 40 天內不放**
+> - **CRT**：LVEF ≤ 35%、竇律、**LBBB＋QRS ≥ 150 ms（I A）**
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/heart-failure-esc-2026/index|2026 ESC 心衰竭指引總覽]]

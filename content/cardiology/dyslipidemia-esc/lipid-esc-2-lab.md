@@ -13,7 +13,11 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **LDL-C 是主要指標**；TG 高、DM、肥胖或 LDL-C 很低時，LDL-C 會**低估**風險，改看 **non-HDL-C 或 ApoB**（ApoB 最準）。**Friedewald 在 TG > 400 mg/dL 不能用**。**非空腹抽血大多可以**。**Lp(a) 一生至少測一次**；🆕 2025 把 **Lp(a) > 50 mg/dL（> 105 nmol/L）**定為所有成人的 risk-enhancing factor（IIa-B）。
+> - **LDL-C 是主要指標**；TG 高、DM、肥胖或 LDL-C 很低時，LDL-C 會**低估**風險，改看 **non-HDL-C 或 ApoB**（ApoB 最準）
+> - **Friedewald 在 TG > 400 mg/dL 不能用**
+> - **非空腹抽血大多可以**
+> - **Lp(a) 一生至少測一次**
+>   - 🆕 2025 把 <strong>Lp(a) > 50 mg/dL（> 105 nmol/L）</strong>定為所有成人的 risk-enhancing factor（IIa-B）
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/dyslipidemia-esc/index|血脂異常 ESC/EAS 指引總覽]]

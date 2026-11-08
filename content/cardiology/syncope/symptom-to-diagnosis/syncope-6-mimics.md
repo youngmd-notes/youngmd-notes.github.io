@@ -13,7 +13,11 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 醒來後 **prolonged confusion（postictal period）** 是 nonsyncopal TLOC 的 **pivotal clue**。Seizure 最 specific 的線索是 **tongue laceration、head turning、unusual posturing**（specificity 97%、LR+ 12–15）；**沒有 postictal confusion 就不太像 generalized seizure（LR− 0.09）**。**Limb jerking 不 specific**：15–90% 的 syncope 也會抽動（**convulsive syncope**）。**Carotid artery obstruction 不會造成 syncope**，syncope 病人不需要評估 anterior circulation。
+> - 醒來後 **prolonged confusion（postictal period）** 是 nonsyncopal TLOC 的 **pivotal clue**
+> - Seizure 最 specific 的線索是 **tongue laceration、head turning、unusual posturing**（specificity 97%、LR+ 12–15）
+>   - **沒有 postictal confusion 就不太像 generalized seizure（LR− 0.09）**
+> - **Limb jerking 不 specific**：15–90% 的 syncope 也會抽動（**convulsive syncope**）
+> - **Carotid artery obstruction 不會造成 syncope**，syncope 病人不需要評估 anterior circulation
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/syncope/symptom-to-diagnosis/index|① 教科書整理總覽]]

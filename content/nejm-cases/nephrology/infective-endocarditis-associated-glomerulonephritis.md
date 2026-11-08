@@ -15,7 +15,9 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> IE 病人的 AKI 有很多條路：**prerenal（心輸出低、sepsis）、栓塞梗塞、藥物（gentamicin ATN、ceftriaxone AIN）、血紅素／肌紅素、免疫複合體 glomerulonephritis**。作者一步步用**尿液顏色 → 尿沉渣 → CK → 影像 → C3 → kidney biopsy**收斂：==dysmorphic RBC＋proteinuria＋低 C3＋IE 復發== → **IE 相關 glomerulonephritis**。治療重點是**治好感染**，而不是 immunosuppression。
+> - IE 病人的 AKI 有很多條路：**prerenal（心輸出低、sepsis）、栓塞梗塞、藥物（gentamicin ATN、ceftriaxone AIN）、血紅素／肌紅素、免疫複合體 glomerulonephritis**
+> - 作者一步步用**尿液顏色 → 尿沉渣 → CK → 影像 → C3 → kidney biopsy**收斂：==dysmorphic RBC＋proteinuria＋低 C3＋IE 復發== → **IE 相關 glomerulonephritis**
+> - 治療重點是**治好感染**，而不是 immunosuppression
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 7-Year-Old Boy with Fever and Dark Urine〉，2023，[DOI 10.1056/EVIDmr2300191](https://doi.org/10.1056/EVIDmr2300191)。以下用自己的話整理，重點放在作者的推理過程。

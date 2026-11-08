@@ -12,7 +12,11 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 治療依 **Figure 8** 分三條路：**reflex／OH → 衛教是基礎，嚴重者依「年齡」選加強治療**；**cardiac → 治療 culprit arrhythmia 或結構性疾病**；**unexplained＋SCD 高風險 → 權衡 ICD**。Reflex syncope 的 **pacemaker 只給 > 40 歲、有記錄到 asystole（症狀 > 3 秒或無症狀 > 6 秒）、CI-CSS 或 tilt asystole** 的人（🆕 2021 ESC pacing 指引升為 **I-A**），**tilt 陽性（有低血壓傾向）療效較差**；**beta-blocker 無效（III-A）**。
+> - 治療依 **Figure 8** 分三條路：**reflex／OH → 衛教是基礎，嚴重者依「年齡」選加強治療**
+>   - **cardiac → 治療 culprit arrhythmia 或結構性疾病**
+>   - **unexplained＋SCD 高風險 → 權衡 ICD**
+> - Reflex syncope 的 **pacemaker 只給 > 40 歲、有記錄到 asystole（症狀 > 3 秒或無症狀 > 6 秒）、CI-CSS 或 tilt asystole** 的人（🆕 2021 ESC pacing 指引升為 **I-A**），**tilt 陽性（有低血壓傾向）療效較差**
+>   - **beta-blocker 無效（III-A）**
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/syncope/esc-2018/index|② 2018 ESC 指引總覽]]

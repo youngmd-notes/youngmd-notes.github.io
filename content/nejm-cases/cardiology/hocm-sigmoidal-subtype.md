@@ -14,7 +14,8 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 年輕人運動中 **VF cardiac arrest**，要用「**可逆因素／結構性心臟病／原發性心律不整**」三大類系統性排除。這位病人之前被當成**運動誘發氣喘**，但 ==albuterol 無效、症狀是運動時胸痛==，回頭看就是 HOCM 的警訊。
+> - 年輕人運動中 **VF cardiac arrest**，要用「**可逆因素／結構性心臟病／原發性心律不整**」三大類系統性排除
+> - 這位病人之前被當成**運動誘發氣喘**，但 ==albuterol 無效、症狀是運動時胸痛==，回頭看就是 HOCM 的警訊
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 12-Year-Old with Sudden Cardiac Arrest〉，2023，[DOI 10.1056/EVIDmr2300063](https://doi.org/10.1056/EVIDmr2300063)。以下用自己的話整理，重點放在作者的推理過程。

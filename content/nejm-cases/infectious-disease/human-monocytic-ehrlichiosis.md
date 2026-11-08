@@ -13,7 +13,9 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 夏末、戶外活動後的**發燒＋thrombocytopenia＋肝指數上升＋hyponatremia**，就是蜱媒傳染病的樣子；==不必等到確診，先給 doxycycline==。病人不記得被蜱叮咬很常見。途中的**malaria 快篩陽性**和**疑似 HLH** 都是要放回臨床脈絡判讀的陷阱。
+> - 夏末、戶外活動後的**發燒＋thrombocytopenia＋肝指數上升＋hyponatremia**，就是蜱媒傳染病的樣子；==不必等到確診，先給 doxycycline==
+> - 病人不記得被蜱叮咬很常見
+> - 途中的**malaria 快篩陽性**和**疑似 HLH** 都是要放回臨床脈絡判讀的陷阱
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 35-Year-Old Man with Fever〉，2023，[DOI 10.1056/EVIDmr2300047](https://doi.org/10.1056/EVIDmr2300047)。以下用自己的話整理，重點放在作者的推理過程。

@@ -15,7 +15,9 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 雙腿無力先**定位**：有**sensory level＋上 LMN 混合徵象** → 脊髓。第一件事是==全脊椎顯影 MRI 排除壓迫==（可逆、不能漏）；看到脊髓本身發炎後，問題變成「**HIV（CD4 20）的 acute myelitis**」。之後出現 facial palsy，名單收斂到同時造成兩者的病原，CSF PCR 證實 **VZV**——==沒有皮疹==。
+> - 雙腿無力先**定位**：有**sensory level＋上 LMN 混合徵象** → 脊髓
+> - 第一件事是==全脊椎顯影 MRI 排除壓迫==（可逆、不能漏）；看到脊髓本身發炎後，問題變成「**HIV（CD4 20）的 acute myelitis**」
+> - 之後出現 facial palsy，名單收斂到同時造成兩者的病原，CSF PCR 證實 **VZV**——==沒有皮疹==
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 42-Year-Old Man with Back Pain and Lower Extremity Weakness〉，2022，[DOI 10.1056/EVIDmr2200088](https://doi.org/10.1056/EVIDmr2200088)。以下用自己的話整理，重點放在作者的推理過程。另見 [[nejm-cases/neurology/vzv-vasculopathy-pontine-stroke|VZV 血管病變造成的腦幹中風]]。

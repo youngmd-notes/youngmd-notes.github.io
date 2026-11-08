@@ -14,7 +14,9 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 發燒＋右上腹痛＋Murphy's sign，很像 cholecystitis；但**肝指數破 5000** 把問題改寫成「**急性肝細胞損傷**」，這個量級只剩 ==藥物毒性（acetaminophen）、缺血、病毒==。immunosuppression＋口腔潰瘍＋leukopenia → **HSV hepatitis**，要==在確診前就先給 IV acyclovir==。
+> - 發燒＋右上腹痛＋Murphy's sign，很像 cholecystitis
+>   - 但**肝指數破 5000** 把問題改寫成「**急性肝細胞損傷**」，這個量級只剩 ==藥物毒性（acetaminophen）、缺血、病毒==
+> - immunosuppression＋口腔潰瘍＋leukopenia → **HSV hepatitis**，要==在確診前就先給 IV acyclovir==
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 20-Year-Old Woman with Fever and Right Upper Quadrant Abdominal Pain〉，2022，[DOI 10.1056/EVIDmr2200170](https://doi.org/10.1056/EVIDmr2200170)。以下用自己的話整理，重點放在作者的推理過程。另見同類個案 [[nejm-cases/gastroenterology/hsv2-hepatitis-postpartum-acute-liver-failure|產後 HSV-2 肝炎]]。

@@ -11,7 +11,11 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 原書用四個病例走完 syncope 的三步驟，每個病例的**轉折點**都是一個值得記住的臨床習慣：① **典型 vasovagal 也要排除 HCM 與 long QT** → ② **心臟病史＋坐著昏倒 → 想 VT，telemetry 正常也不夠** → ③ **醒來很久還 confused、咬到舌頭 → seizure，新發 seizure 一定要 imaging** → ④ **站起來量血壓才抓到 orthostatic hypotension，再回到主訴（腹痛）找到出血**。
+> 原書用四個病例走完 syncope 的三步驟，每個病例的**轉折點**都是一個值得記住的臨床習慣：
+> 1. **典型 vasovagal 也要排除 HCM 與 long QT**
+> 2. **心臟病史＋坐著昏倒 → 想 VT，telemetry 正常也不夠**
+> 3. **醒來很久還 confused、咬到舌頭 → seizure，新發 seizure 一定要 imaging**
+> 4. **站起來量血壓才抓到 orthostatic hypotension，再回到主訴（腹痛）找到出血**
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/syncope/symptom-to-diagnosis/index|① 教科書整理總覽]]

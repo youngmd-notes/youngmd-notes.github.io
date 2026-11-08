@@ -12,7 +12,10 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **老人**：多重原因一起評估（I-B），**unexplained fall 要當 unexplained syncope 評估（IIa-C）**。**Syncope vs seizure（Table 10）**：看 **myoclonus 的數量與時機、咬舌頭位置、恢復時間、事後 confusion**。**EEG、頸動脈超音波、腦部 CT／MRI 不是 syncope 的常規檢查（III-B）**。**Syncope unit** 是 2018 版的組織面重點（Table 11–14）。
+> - **老人**：多重原因一起評估（I-B），**unexplained fall 要當 unexplained syncope 評估（IIa-C）**
+> - **Syncope vs seizure（Table 10）**：看 **myoclonus 的數量與時機、咬舌頭位置、恢復時間、事後 confusion**
+> - **EEG、頸動脈超音波、腦部 CT／MRI 不是 syncope 的常規檢查（III-B）**
+> - **Syncope unit** 是 2018 版的組織面重點（Table 11–14）
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/syncope/esc-2018/index|② 2018 ESC 指引總覽]]

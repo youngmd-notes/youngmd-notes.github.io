@@ -16,7 +16,8 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 嬰兒生長遲滯合併**多喝多尿**，要想到腎臟。這位病人用**酸鹼分析**一路推進：混合型 metabolic acidosis → non-AG 部分 → 尿 pH 7 不像 distal RTA → ==血糖正常卻有 glucosuria＋低磷== = **近端小管全面失能（Fanconi）** → 兒童最常見的遺傳原因 **cystinosis**。
+> - 嬰兒生長遲滯合併**多喝多尿**，要想到腎臟
+> - 這位病人用**酸鹼分析**一路推進：混合型 metabolic acidosis → non-AG 部分 → 尿 pH 7 不像 distal RTA → ==血糖正常卻有 glucosuria＋低磷== = **近端小管全面失能（Fanconi）** → 兒童最常見的遺傳原因 **cystinosis**
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 15-Month-Old with Faltering Growth〉，2024，[DOI 10.1056/EVIDmr2300340](https://doi.org/10.1056/EVIDmr2300340)。以下用自己的話整理，重點放在作者的推理過程。

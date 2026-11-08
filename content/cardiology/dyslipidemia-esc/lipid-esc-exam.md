@@ -10,7 +10,10 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 血脂考題最愛考同一題型：**DM＋CAD 放支架、statin 下 LDL-C 已達標、但 TG 600–800 mg/dL → 加 fenofibrate**（104–114 年出現 7 次）；**血糖沒控好時，先控糖（insulin）**。其次是「**酒精讓 TG 升但 HDL 也升**」（考 3 次）、**Friedewald 在 TG > 400 不能用**、**statin 是「上調」LDL receptor**。
+> - 血脂考題最愛考同一題型：
+>   - **DM＋CAD 放支架、statin 下 LDL-C 已達標、但 TG 600–800 mg/dL → 加 fenofibrate**（104–114 年出現 7 次）
+>   - **血糖沒控好時，先控糖（insulin）**
+> - 其次是「**酒精讓 TG 升但 HDL 也升**」（考 3 次）、**Friedewald 在 TG > 400 不能用**、**statin 是「上調」LDL receptor**
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/dyslipidemia-esc/index|血脂異常 ESC/EAS 指引總覽]]

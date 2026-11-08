@@ -15,7 +15,17 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **Aspirin 150–300 mg LD → 75–100 mg qd（I A）＋P2Y12 inhibitor 12 個月（I A）**：**prasugrel**（P2Y12-naïve、要做 PCI；60 → 10 mg，**≥ 75 歲或 < 60 kg 用 5 mg**、**中風史禁用**）或 **ticagrelor**（不論侵入或保守；180 → 90 mg bid）；**clopidogrel**（300–600 → 75 mg）只在前兩者不能用時。**==NSTE-ACS 預計 24 小時內攝影 → 不常規預先給 P2Y12（III A）==**；**GP IIb/IIIa 不預先給（III A）**。**抗凝：診斷時就給（I A）**；PCI 時 **UFH 70–100 U/kg**；**NSTE-ACS 不會 24 小時內攝影 → fondaparinux 2.5 mg qd（I B）**，但 **STEMI 做 PPCI 不用 fondaparinux（III B）**。**Fibrinolysis**：aspirin＋**clopidogrel**，抗凝首選 **enoxaparin**。**ACS＋AF**：**triple 最多 1 週 → NOAC＋clopidogrel 到 12 個月 → 只剩 NOAC（I A／I B）**；**triple 不用 ticagrelor 或 prasugrel（III C）**。**頭 30 天不降階（III B）**。
+> - **Aspirin 150–300 mg LD → 75–100 mg qd（I A）＋P2Y12 inhibitor 12 個月（I A）**：**prasugrel**（P2Y12-naïve、要做 PCI；60 → 10 mg，**≥ 75 歲或 < 60 kg 用 5 mg**、**中風史禁用**）或 **ticagrelor**（不論侵入或保守；180 → 90 mg bid）
+>   - **clopidogrel**（300–600 → 75 mg）只在前兩者不能用時
+> - **==NSTE-ACS 預計 24 小時內攝影 → 不常規預先給 P2Y12（III A）==**；**GP IIb/IIIa 不預先給（III A）**
+> - **抗凝：診斷時就給（I A）**
+>   - PCI 時 **UFH 70–100 U/kg**
+>   - **NSTE-ACS 不會 24 小時內攝影 → fondaparinux 2.5 mg qd（I B）**，但 **STEMI 做 PPCI 不用 fondaparinux（III B）**
+> - **Fibrinolysis**：aspirin＋**clopidogrel**，抗凝首選 **enoxaparin**
+> - **ACS＋AF**：
+>   - **triple 最多 1 週 → NOAC＋clopidogrel 到 12 個月 → 只剩 NOAC（I A／I B）**
+>   - **triple 不用 ticagrelor 或 prasugrel（III C）**
+> - **頭 30 天不降階（III B）**
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/acs-esc-2023/index|2023 ESC ACS 指引總覽]]

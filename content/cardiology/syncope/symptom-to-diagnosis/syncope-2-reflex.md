@@ -14,7 +14,9 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> Reflex syncope 是**不適當的心血管反射**造成 hypotension：**cardioinhibitory（bradycardia）、vasodepressor（vasodilatation）或兩者**。最常見的是 **vasovagal syncope**（占 syncope 20–33%）：**年輕、有明確 trigger（久站、疼痛、恐懼）、典型 prodrome、ECG 正常 → 臨床診斷即可**，不需要再做檢查；**> 40 歲、非典型或反覆發作**才要找 arrhythmia、做 ILR、CSM 或 tilt-table。
+> - Reflex syncope 是**不適當的心血管反射**造成 hypotension：**cardioinhibitory（bradycardia）、vasodepressor（vasodilatation）或兩者**
+> - 最常見的是 **vasovagal syncope**（占 syncope 20–33%）：**年輕、有明確 trigger（久站、疼痛、恐懼）、典型 prodrome、ECG 正常 → 臨床診斷即可**，不需要再做檢查
+>   - **> 40 歲、非典型或反覆發作**才要找 arrhythmia、做 ILR、CSM 或 tilt-table
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/syncope/symptom-to-diagnosis/index|① 教科書整理總覽]]

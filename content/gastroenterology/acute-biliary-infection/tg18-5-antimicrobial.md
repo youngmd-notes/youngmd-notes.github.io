@@ -13,7 +13,14 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 抗生素**越早越好**：**septic shock 1 小時內**、其他 6 小時內，且**一定要在引流或手術前**給。選藥依 **嚴重度＋社區／醫療照護相關＋當地 antibiogram**；**Grade III 與 healthcare-associated 要 cover Pseudomonas（± vancomycin for Enterococcus）**；**有 biliary-enteric anastomosis 要 cover anaerobes**。療程：**Cholecystitis Grade I／II 開完刀 24 h 內停**；**cholangitis 與 Grade III 在 source control 後 4–7 天**；**Enterococcus、Streptococcus 菌血症至少 2 週**。
+> - 抗生素**越早越好**：**septic shock 1 小時內**、其他 6 小時內，且**一定要在引流或手術前**給
+> - 選藥依 **嚴重度＋社區／醫療照護相關＋當地 antibiogram**
+>   - **Grade III 與 healthcare-associated 要 cover Pseudomonas（± vancomycin for Enterococcus）**
+>   - **有 biliary-enteric anastomosis 要 cover anaerobes**
+> - 療程：
+>   - **Cholecystitis Grade I／II 開完刀 24 h 內停**
+>   - **cholangitis 與 Grade III 在 source control 後 4–7 天**
+>   - **Enterococcus、Streptococcus 菌血症至少 2 週**
 
 > [!info] 系列導覽
 > ↑ 回到 [[gastroenterology/acute-biliary-infection/index|急性膽道感染 TG18 總覽]]

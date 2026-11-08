@@ -15,7 +15,9 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 腹痛＋無力＋altered mental status，表面上很散，**一個血鈣值把它們串起來**：Ca > 20 mg/dL。下一步用 ==PTH 分成「PTH 依賴」與「PTH 非依賴」==：PTH 1350 → primary hyperparathyroidism（腺瘤或癌）。一般 hyperparathyroidism 只是輕中度 hypercalcemia，這麼嚴重要想到**parathyroid storm**，而且 hypercalcemia 會造成**hypercoagulable state** → 這位最後發生**主動脈阻塞**。
+> - 腹痛＋無力＋altered mental status，表面上很散，**一個血鈣值把它們串起來**：Ca > 20 mg/dL
+> - 下一步用 ==PTH 分成「PTH 依賴」與「PTH 非依賴」==：PTH 1350 → primary hyperparathyroidism（腺瘤或癌）
+> - 一般 hyperparathyroidism 只是輕中度 hypercalcemia，這麼嚴重要想到**parathyroid storm**，而且 hypercalcemia 會造成**hypercoagulable state** → 這位最後發生**主動脈阻塞**
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 52-Year-Old Woman with Weakness〉，2024，[DOI 10.1056/EVIDmr2300300](https://doi.org/10.1056/EVIDmr2300300)。以下用自己的話整理，重點放在作者的推理過程。

@@ -16,7 +16,17 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **Pancreatic cancer**：**無痛性黃疸＋體重減輕＋ALP 為主**，extrahepatic obstruction 最常見的惡性原因；**先 US，看到 mass 做 pancreatic-protocol CT**。**Hemochromatosis**：先驗 **transferrin saturation（≥ 45%）＋ferritin**，異常再驗 **HFE**；治療 **phlebotomy**。**AIH**：**ANA＋SMA 合起來才 specific**，用評分表（≥ 7 分 definite）；**prednisolone＋azathioprine**（🆕 EASL 2025：MMF 可取代 azathioprine）。**Acetaminophen**：**AST 可 > 10,000**，用 **Rumack-Matthew nomogram** 判斷 NAC；**==8 小時內給 NAC，肝毒性 < 5–10%==**。
+> - **Pancreatic cancer**：**無痛性黃疸＋體重減輕＋ALP 為主**，extrahepatic obstruction 最常見的惡性原因
+>   - **先 US，看到 mass 做 pancreatic-protocol CT**
+> - **Hemochromatosis**：
+>   - 先驗 **transferrin saturation（≥ 45%）＋ferritin**，異常再驗 **HFE**
+>   - 治療 **phlebotomy**
+> - **AIH**：
+>   - **ANA＋SMA 合起來才 specific**，用評分表（≥ 7 分 definite）
+>   - **prednisolone＋azathioprine**（🆕 EASL 2025：MMF 可取代 azathioprine）
+> - **Acetaminophen**：
+>   - **AST 可 > 10,000**，用 **Rumack-Matthew nomogram** 判斷 NAC
+>   - **==8 小時內給 NAC，肝毒性 < 5–10%==**
 
 > [!info] 系列導覽
 > ↑ 回到 [[gastroenterology/abnormal-liver-tests/index|肝功能異常與黃疸 總覽]]

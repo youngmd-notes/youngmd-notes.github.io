@@ -15,7 +15,10 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 「**旅遊回來＋發燒＋altered mental status**」很容易一路往熱帶感染走；作者用三個領域分類：**旅遊相關感染／非旅遊相關感染／非感染**，同時處理（empiric antibiotics）與檢查。感染全部陰性時回到**第三題的答案**：==levodopa 已經停了 10 天== → **高燒＋僵硬＋altered mental status＋自律神經不穩＋CK 上升** = NMLS。補回巴金森藥＋dantrolene，數小時內退燒。
+> - 「**旅遊回來＋發燒＋altered mental status**」很容易一路往熱帶感染走
+>   - 作者用三個領域分類：**旅遊相關感染／非旅遊相關感染／非感染**，同時處理（empiric antibiotics）與檢查
+> - 感染全部陰性時回到**第三題的答案**：==levodopa 已經停了 10 天== → **高燒＋僵硬＋altered mental status＋自律神經不穩＋CK 上升** = NMLS
+> - 補回巴金森藥＋dantrolene，數小時內退燒
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 66-Year-Old Man with Fever and Confusion〉，2022，[DOI 10.1056/EVIDmr2100037](https://doi.org/10.1056/EVIDmr2100037)。以下用自己的話整理，重點放在作者的推理過程。

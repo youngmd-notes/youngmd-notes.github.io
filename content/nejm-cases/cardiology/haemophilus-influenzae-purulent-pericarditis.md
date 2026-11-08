@@ -15,7 +15,10 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 胸痛先問兩件事：**有沒有需要緊急處理的（ACS、aortic dissection、PE、pneumothorax）**？**心因性還是非心因性**？這位的痛**躺下、深呼吸加重，坐起來好**，還聽到**friction rub**——典型 pericarditis；但冒汗喘、高風險，ACS 還是要先排除。冠狀動脈正常後**發燒**、ECG 演變出 ==廣泛 ST 上升＋PR 壓低==，超音波看到積液，**pericardiocentesis 抽出膿** → H. influenzae。
+> - 胸痛先問兩件事：
+>   - **有沒有需要緊急處理的（ACS、aortic dissection、PE、pneumothorax）**？**心因性還是非心因性**？這位的痛**躺下、深呼吸加重，坐起來好**，還聽到**friction rub**——典型 pericarditis
+>   - 但冒汗喘、高風險，ACS 還是要先排除
+> - 冠狀動脈正常後**發燒**、ECG 演變出 ==廣泛 ST 上升＋PR 壓低==，超音波看到積液，**pericardiocentesis 抽出膿** → H. influenzae
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 61-Year-Old Man with Chest Pain〉，2022，[DOI 10.1056/EVIDmr2200151](https://doi.org/10.1056/EVIDmr2200151)。以下用自己的話整理，重點放在作者的推理過程。

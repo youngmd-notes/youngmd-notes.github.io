@@ -12,7 +12,15 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 流感題最愛考**藥物機轉**（==oseltamivir、zanamivir 是 **neuraminidase** inhibitor，不是 hemagglutinin==；baloxavir 是 cap-dependent endonuclease inhibitor；amantadine 普遍抗藥）、**暴露後預防**（藥物 PEP：**influenza 用 oseltamivir**、HIV、meningococcus；麻疹是打疫苗或 IG）、**孕婦疫苗**（**不活化流感疫苗任何孕期都可打**，禁忌的是 **MMR、varicella** 等活疫苗）、**流感疫苗副作用與禁忌**、**禽流感 H5N1、H7N9、H5N6**。
+> 流感題最愛考：
+> - **藥物機轉**
+>   - ==oseltamivir、zanamivir 是 neuraminidase inhibitor，不是 hemagglutinin==
+>   - baloxavir 是 cap-dependent endonuclease inhibitor
+>   - amantadine 普遍抗藥
+> - **暴露後預防**：藥物 PEP 有 **influenza（oseltamivir）**、HIV、meningococcus；麻疹是打疫苗或 IG
+> - **孕婦疫苗**：**不活化流感疫苗任何孕期都可打**，禁忌的是 **MMR、varicella** 等活疫苗
+> - **流感疫苗副作用與禁忌**
+> - **禽流感 H5N1、H7N9、H5N6**
 
 > [!info] 系列導覽
 > ↑ 回到 [[infectious-disease/influenza-idsa/index|IDSA 流感指引總覽]]

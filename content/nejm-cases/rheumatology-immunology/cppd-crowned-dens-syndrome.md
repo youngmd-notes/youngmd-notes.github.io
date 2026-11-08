@@ -15,7 +15,10 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> Acute polyarthritis 第一步：**抽關節液**（Gram stain＋培養、細胞數、結晶）。這位看到 ==細胞內的正雙折射菱形結晶== → 急性 CPP crystal arthritis；但結晶不能排除合併感染，發燒時仍要找 bacteremia 與 peritonitis。**嚴重頸痛**要想到 **crowned dens syndrome**（可被誤認為 meningitis）。最後一層推理：找 CPPD 的**續發原因**——hyperparathyroidism、低 ALP（**缺鋅**）。
+> - Acute polyarthritis 第一步：**抽關節液**（Gram stain＋培養、細胞數、結晶）
+> - 這位看到 ==細胞內的正雙折射菱形結晶== → 急性 CPP crystal arthritis；但結晶不能排除合併感染，發燒時仍要找 bacteremia 與 peritonitis
+> - **嚴重頸痛**要想到 **crowned dens syndrome**（可被誤認為 meningitis）
+> - 最後一層推理：找 CPPD 的**續發原因**——hyperparathyroidism、低 ALP（**缺鋅**）
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 64-Year-Old Man with Joint Pain〉，2023，[DOI 10.1056/EVIDmr2200337](https://doi.org/10.1056/EVIDmr2200337)。以下用自己的話整理，重點放在作者的推理過程。

@@ -14,7 +14,12 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> IDSA 2021 版：一般照護 **外科口罩或 N95 都可（strong, moderate）＋眼部防護（conditional, very low）**；**==aerosol-generating procedure（插管、支氣管鏡等）一定要 N95 而不是外科口罩（strong）==**；N95 短缺時可**再處理後重複使用**，或在 N95 外面加 **face shield／外科口罩**延長使用。雙層手套、鞋套 → **證據不足，不給建議**。🆕 **CDC 現行建議（2023-05）：照護疑似或確診病人一律 N95 等級 respirator＋gown＋gloves＋eye protection**，IDSA 本身也註明美國院所以 CDC／OSHA 為準。
+> - IDSA 2021 版：
+>   - 一般照護 **外科口罩或 N95 都可（strong, moderate）＋眼部防護（conditional, very low）**
+>   - **==aerosol-generating procedure（插管、支氣管鏡等）一定要 N95 而不是外科口罩（strong）==**
+>   - N95 短缺時可**再處理後重複使用**，或在 N95 外面加 **face shield／外科口罩**延長使用
+> - 雙層手套、鞋套 → **證據不足，不給建議**
+> - 🆕 **CDC 現行建議（2023-05）：照護疑似或確診病人一律 N95 等級 respirator＋gown＋gloves＋eye protection**，IDSA 本身也註明美國院所以 CDC／OSHA 為準
 
 > [!info] 系列導覽
 > ↑ 回到 [[infectious-disease/covid-19-idsa/index|IDSA COVID-19 指引總覽]]

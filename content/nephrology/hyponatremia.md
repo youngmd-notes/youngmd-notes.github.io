@@ -9,7 +9,8 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 先確認是 **hypotonic hyponatremia**，再用 **urine osmolality → urine Na** 分流；治療的關鍵是**有沒有嚴重症狀**，以及**不要矯正太快**。
+> - 先確認是 **hypotonic hyponatremia**，再用 **urine osmolality → urine Na** 分流
+>   - 治療的關鍵是**有沒有嚴重症狀**，以及**不要矯正太快**
 
 ## 定義與嚴重度
 

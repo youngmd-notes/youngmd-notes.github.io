@@ -18,7 +18,17 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **ROSC 後一次做完**：**呼吸道確認（waveform capnography）**、**==SpO2 90–98%（PaO2 60–105）、PaCO2 35–45==**、**==MAP ≥ 65 mmHg==**（更高 MAP 沒有好處）、**12 導程 ECG**，可考慮 **head-to-pelvis CT** 與**心臟超音波**。**不能遵從指令 → 溫度控制 32–37.5°C，至少 36 小時**（2025 更新）；**EEG 找 seizure**；**==神經預後至少等 72 小時、多模式==**，新增**良好預後**的指標（**72 小時內連續 EEG、沒有放電**）與 **neurofilament light chain**。**沒有 EEG 對應的 myoclonus 不要壓**。**疑似心因性 → 出院前做 coronary angiography**；**ST 上升、休克、反覆 VT/VF → 緊急**。特殊情況：**==孕婦 arrest 時就開始準備，5 分鐘內完成 resuscitative delivery==**；**hyperkalemia arrest 給 IV calcium 效益未確立**（不能延誤 CPR、電擊、epinephrine）；**LVAD 病人灌流不足就要按壓**；**鴉片類過量給 naloxone 但不干擾 CPR**。
+> - **ROSC 後一次做完**：**呼吸道確認（waveform capnography）**、**==SpO2 90–98%（PaO2 60–105）、PaCO2 35–45==**、**==MAP ≥ 65 mmHg==**（更高 MAP 沒有好處）、**12 導程 ECG**，可考慮 **head-to-pelvis CT** 與**心臟超音波**
+> - **不能遵從指令 → 溫度控制 32–37.5°C，至少 36 小時**（2025 更新）
+>   - **EEG 找 seizure**
+>   - **==神經預後至少等 72 小時、多模式==**，新增**良好預後**的指標（**72 小時內連續 EEG、沒有放電**）與 **neurofilament light chain**
+> - **沒有 EEG 對應的 myoclonus 不要壓**
+> - **疑似心因性 → 出院前做 coronary angiography**；**ST 上升、休克、反覆 VT/VF → 緊急**
+> - 特殊情況：
+>   - **==孕婦 arrest 時就開始準備，5 分鐘內完成 resuscitative delivery==**
+>   - **hyperkalemia arrest 給 IV calcium 效益未確立**（不能延誤 CPR、電擊、epinephrine）
+>   - **LVAD 病人灌流不足就要按壓**
+>   - **鴉片類過量給 naloxone 但不干擾 CPR**
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/resuscitation-aha-2025/index|2025 AHA 急救指引總覽]]

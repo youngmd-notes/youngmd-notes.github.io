@@ -18,7 +18,15 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **多數感染性腹瀉不給抗生素**——血便也一樣（strong），等檢驗結果。**例外才經驗性給**：**< 3 個月嬰兒**、**醫療場所量到發燒＋腹痛＋血便、像 bacillary dysentery（*Shigella*）**、**國外回來 ≥ 38.5°C 或 sepsis**、**免疫不全重症**；成人用 **azithromycin 或 ciprofloxacin**（依旅遊地與抗藥）。**==STEC O157 或產 Stx2 → 不給抗生素（會增加 HUS）==**。**懷疑 enteric fever＋sepsis → 抽完血液、糞便、尿液培養後給廣效抗生素**。**水瀉、持續 ≥ 14 天、無症狀接觸者 → 不經驗性給**。找到病原就照 Table 6 **調整或停藥**。🆕 *C. difficile*：**fidaxomicin 首選、oral vancomycin 替代**，metronidazole 不再是成人首選。
+> - **多數感染性腹瀉不給抗生素**——血便也一樣（strong），等檢驗結果
+> - **例外才經驗性給**：
+>   - **< 3 個月嬰兒**、**醫療場所量到發燒＋腹痛＋血便、像 bacillary dysentery（*Shigella*）**、**國外回來 ≥ 38.5°C 或 sepsis**、**免疫不全重症**
+>   - 成人用 **azithromycin 或 ciprofloxacin**（依旅遊地與抗藥）
+> - **==STEC O157 或產 Stx2 → 不給抗生素（會增加 HUS）==**
+> - **懷疑 enteric fever＋sepsis → 抽完血液、糞便、尿液培養後給廣效抗生素**
+> - **水瀉、持續 ≥ 14 天、無症狀接觸者 → 不經驗性給**
+> - 找到病原就照 Table 6 **調整或停藥**
+> - 🆕 *C. difficile*：**fidaxomicin 首選、oral vancomycin 替代**，metronidazole 不再是成人首選
 
 > [!info] 系列導覽
 > ↑ 回到 [[infectious-disease/infectious-diarrhea-idsa/index|IDSA 感染性腹瀉指引總覽]]

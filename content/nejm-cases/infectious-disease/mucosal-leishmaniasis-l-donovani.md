@@ -14,7 +14,9 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 慢性、會侵蝕的鼻部病灶，鑑別分「**感染（寄生蟲、fungal、分枝桿菌、慢性細菌）／autoimmune（GPA）／腫瘤（NK/T 細胞 lymphoma）**」。完整的**移民路徑**（蘇丹 → 肯亞，不只是「從東非來」）是關鍵。第一次 biopsy 什麼都沒找到時，作者推理：==利什曼病灶裡蟲很少，常要分子檢測== → 潰瘍邊緣再切、送 PCR → **L. donovani**。
+> - 慢性、會侵蝕的鼻部病灶，鑑別分「**感染（寄生蟲、fungal、分枝桿菌、慢性細菌）／autoimmune（GPA）／腫瘤（NK/T 細胞 lymphoma）**」
+> - 完整的**移民路徑**（蘇丹 → 肯亞，不只是「從東非來」）是關鍵
+> - 第一次 biopsy 什麼都沒找到時，作者推理：==利什曼病灶裡蟲很少，常要分子檢測== → 潰瘍邊緣再切、送 PCR → **L. donovani**
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 52-Year-Old Man with a Chronic Nasal Wound〉，2024，[DOI 10.1056/EVIDmr2400089](https://doi.org/10.1056/EVIDmr2400089)。以下用自己的話整理，重點放在作者的推理過程。

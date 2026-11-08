@@ -10,7 +10,8 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> AF 內專最常考**中風預防**：==抗凝看 CHA₂DS₂-VASc 分數，不看 AF 類型或發作時間；aspirin 不能取代抗凝==；其次是 DOAC 的機轉與解毒劑、抗凝中出血或中風的處置，以及心衰竭、WPW 合併 AF 時的選藥禁忌。
+> - AF 內專最常考**中風預防**：==抗凝看 CHA₂DS₂-VASc 分數，不看 AF 類型或發作時間；aspirin 不能取代抗凝==
+>   - 其次是 DOAC 的機轉與解毒劑、抗凝中出血或中風的處置，以及心衰竭、WPW 合併 AF 時的選藥禁忌
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/atrial-fibrillation/index|心房顫動 AF 總覽]]

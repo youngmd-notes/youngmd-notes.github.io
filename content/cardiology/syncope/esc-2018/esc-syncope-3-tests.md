@@ -11,7 +11,14 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 每項檢查都有「**適應症**」和「**診斷標準**」兩組建議。必背：**CSM 用在 > 40 歲（I-B）**；**active standing 3 分鐘（I-C）**；**tilt test 降為 IIa**，代表的是 **hypotensive susceptibility** 而非確診；**ILR 有兩個 I-A**；**bifascicular block＋HV ≥ 70 ms → pacemaker（I-B）**；**HCM＋syncope、靜止 gradient < 50 → exercise echo（I-B）**。
+> - 每項檢查都有「**適應症**」和「**診斷標準**」兩組建議
+> - 必背：
+>   - **CSM 用在 > 40 歲（I-B）**
+>   - **active standing 3 分鐘（I-C）**
+>   - **tilt test 降為 IIa**，代表的是 **hypotensive susceptibility** 而非確診
+>   - **ILR 有兩個 I-A**
+>   - **bifascicular block＋HV ≥ 70 ms → pacemaker（I-B）**
+>   - **HCM＋syncope、靜止 gradient < 50 → exercise echo（I-B）**
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/syncope/esc-2018/index|② 2018 ESC 指引總覽]]

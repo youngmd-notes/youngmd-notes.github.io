@@ -13,7 +13,8 @@ cssclasses:
 ---
 
 > [!abstract] 一句話重點
-> 2024 ESC 把 AF 照護整理成 **AF-CARE**：**[C] 共病與危險因子 → [A] 預防中風 → [R] 心率與節律控制 → [E] 定期再評估**。抗凝看 **CHA₂DS₂-VA（≥ 2 分給 OAC）**，不看 AF 類型；rate control 先看 **LVEF**。
+> - 2024 ESC 把 AF 照護整理成 **AF-CARE**：**[C] 共病與危險因子 → [A] 預防中風 → [R] 心率與節律控制 → [E] 定期再評估**
+> - 抗凝看 **CHA₂DS₂-VA（≥ 2 分給 OAC）**，不看 AF 類型；rate control 先看 **LVEF**
 
 ## 🌳 值班決策流程：照順序回答 4 個問題
 

@@ -14,7 +14,9 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 輸注中出現**urticaria＋呼吸窘迫＋hypoxemia** = anaphylaxis，**先給 IM epinephrine**。tryptase 上升確認是 mast cell 活化，24 小時後回到正常排除 mastocytosis。最有意思的推理在最後：==IgE 介導的過敏照理要先致敏，第一劑就發作很不尋常== → 一定是**交叉致敏** → cetuximab 帶有 **α-gal** → 蜱咬造成的 α-gal 症候群。
+> - 輸注中出現**urticaria＋呼吸窘迫＋hypoxemia** = anaphylaxis，**先給 IM epinephrine**
+> - tryptase 上升確認是 mast cell 活化，24 小時後回到正常排除 mastocytosis
+> - 最有意思的推理在最後：==IgE 介導的過敏照理要先致敏，第一劑就發作很不尋常== → 一定是**交叉致敏** → cetuximab 帶有 **α-gal** → 蜱咬造成的 α-gal 症候群
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 67-Year-Old Man with Pruritus and Dyspnea〉，2022，[DOI 10.1056/EVIDmr2200210](https://doi.org/10.1056/EVIDmr2200210)。以下用自己的話整理，重點放在作者的推理過程。

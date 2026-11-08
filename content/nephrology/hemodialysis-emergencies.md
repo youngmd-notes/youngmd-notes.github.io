@@ -16,7 +16,8 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 透析中出事，先想「**管路裡的血要不要回輸**」：**==Dialyzer reaction（type A）、air embolism、hemolysis → 停機且不回血==**。另外三個高頻考點：**DDS 用低血流（約 200 mL/min、2 小時、BUN 降幅 ≤ 40%）預防**、**uremic pericarditis 透析時不用 heparin、有 tamponade 不能洗**、**HD 病人猝死最常在長週末後**。
+> - 透析中出事，先想「**管路裡的血要不要回輸**」：**==Dialyzer reaction（type A）、air embolism、hemolysis → 停機且不回血==**
+> - 另外三個高頻考點：**DDS 用低血流（約 200 mL/min、2 小時、BUN 降幅 ≤ 40%）預防**、**uremic pericarditis 透析時不用 heparin、有 tamponade 不能洗**、**HD 病人猝死最常在長週末後**
 
 ## 🗺️ 總綱
 

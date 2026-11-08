@@ -15,7 +15,8 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 「**有東西在動**」這個主訴本身就是最強的線索，作者仍先用「**感染／非感染**」框架把慢性鼻部腫塊與分泌物的鑑別列完整（鼻硬結症、fungal、利什曼、Chagas、腫瘤、GPA）。關鍵檢查是**一個便宜的超音波**：==鼻翼內看到移動的物體== → 名單收斂到**蠕蟲或體外寄生蟲** → 依位置與地區，**人膚蠅（Dermatobia hominis）蠅蛆症**最符合。
+> - 「**有東西在動**」這個主訴本身就是最強的線索，作者仍先用「**感染／非感染**」框架把慢性鼻部腫塊與分泌物的鑑別列完整（鼻硬結症、fungal、利什曼、Chagas、腫瘤、GPA）
+> - 關鍵檢查是**一個便宜的超音波**：==鼻翼內看到移動的物體== → 名單收斂到**蠕蟲或體外寄生蟲** → 依位置與地區，**人膚蠅（Dermatobia hominis）蠅蛆症**最符合
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 70-Year-Old Woman with a Sensation of Something Moving in Her Nose〉，2024，[DOI 10.1056/EVIDmr2300351](https://doi.org/10.1056/EVIDmr2300351)。以下用自己的話整理，重點放在作者的推理過程。

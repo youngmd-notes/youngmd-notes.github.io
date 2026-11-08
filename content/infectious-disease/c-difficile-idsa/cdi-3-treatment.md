@@ -19,7 +19,15 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **先停掉誘發的抗生素**。**初次發作（非 fulminant）**：**==fidaxomicin 200 mg PO bid × 10 天首選==**（復發較少），**vancomycin 125 mg PO qid × 10 天**可替代；**metronidazole 只在兩者都拿不到、而且非嚴重**時用（500 mg PO tid × 10–14 天，**只用一次**，會累積神經毒性）。**==Fulminant（低血壓或休克、ileus、megacolon）：vancomycin 500 mg PO/NG qid＋IV metronidazole 500 mg q8h，ileus 加 rectal vancomycin==**；**WBC ≥ 25,000 或 lactate ≥ 5 → 盡早會診外科**（subtotal colectomy）。**第一次復發**：fidaxomicin（標準或延長脈衝）優先，或 **vancomycin taper/pulse**。**≥ 2 次復發**：fidaxomicin、vancomycin taper/pulse、vancomycin → rifaximin、**FMT**（至少試過 2 次復發的抗生素治療）。**==IV vancomycin 無效==**；**不做 test of cure**。🆕 **Bezlotoxumab 已在 2025-01 停產**；預防復發改用 FDA 核准的**活菌叢製劑**（Rebyota、Vowst）。
+> - **先停掉誘發的抗生素**
+> - **初次發作（非 fulminant）**：**==fidaxomicin 200 mg PO bid × 10 天首選==**（復發較少），**vancomycin 125 mg PO qid × 10 天**可替代
+>   - **metronidazole 只在兩者都拿不到、而且非嚴重**時用（500 mg PO tid × 10–14 天，**只用一次**，會累積神經毒性）
+> - **==Fulminant（低血壓或休克、ileus、megacolon）：vancomycin 500 mg PO/NG qid＋IV metronidazole 500 mg q8h，ileus 加 rectal vancomycin==**
+>   - **WBC ≥ 25,000 或 lactate ≥ 5 → 盡早會診外科**（subtotal colectomy）
+> - **第一次復發**：fidaxomicin（標準或延長脈衝）優先，或 **vancomycin taper/pulse**
+> - **≥ 2 次復發**：fidaxomicin、vancomycin taper/pulse、vancomycin → rifaximin、**FMT**（至少試過 2 次復發的抗生素治療）
+> - **==IV vancomycin 無效==**；**不做 test of cure**
+> - 🆕 **Bezlotoxumab 已在 2025-01 停產**；預防復發改用 FDA 核准的**活菌叢製劑**（Rebyota、Vowst）
 
 > [!info] 系列導覽
 > ↑ 回到 [[infectious-disease/c-difficile-idsa/index|IDSA/SHEA *C. difficile* 指引總覽]]

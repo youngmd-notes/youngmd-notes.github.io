@@ -17,7 +17,10 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 想到特殊病原的時機：**免疫不全**（neutropenia、asplenia、HIV、移植、TNF-α blocker、長期類固醇）、**治療失敗**、**流行季節與地域**（流感、颱風後 **melioidosis**）。**流感**：有危險徵兆或高風險就給 **oseltamivir 75 mg bid × 5 天**，==不必等檢驗、快篩陰性也不能排除==。**PCP**：**TMP-SMX（TMP 15–20 mg/kg/day）**，==PaO₂ < 70 或 A-a gradient > 35 加類固醇==，HIV 21 天、非 HIV 14 天。**Melioidosis**：**==強化期 ceftazidime 或 carbapenem ≥ 14 天＋根除期 TMP-SMX 3–6 個月==**。
+> - 想到特殊病原的時機：**免疫不全**（neutropenia、asplenia、HIV、移植、TNF-α blocker、長期類固醇）、**治療失敗**、**流行季節與地域**（流感、颱風後 **melioidosis**）
+> - **流感**：有危險徵兆或高風險就給 **oseltamivir 75 mg bid × 5 天**，==不必等檢驗、快篩陰性也不能排除==
+> - **PCP**：**TMP-SMX（TMP 15–20 mg/kg/day）**，==PaO₂ < 70 或 A-a gradient > 35 加類固醇==，HIV 21 天、非 HIV 14 天
+> - **Melioidosis**：**==強化期 ceftazidime 或 carbapenem ≥ 14 天＋根除期 TMP-SMX 3–6 個月==**
 
 > [!info] 系列導覽
 > ↑ 回到 [[infectious-disease/pneumonia/index|台灣肺炎診治指引總覽]]

@@ -13,7 +13,9 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 乳癌病史＋新的腋下淋巴結，第一直覺一定是**復發或轉移**。作者還是用「**感染／autoimmune／腫瘤／藥物／其他（疫苗、矽膠）**」框架完整列出鑑別，並靠病史把很多病刪掉；**最後只有 core biopsy 能分辨**。biopsy 看到 ==necrotizing granuloma＋抗酸菌==、Xpert 證實 TB → 出生地（**印度**）才是被忽略的危險因子。
+> - 乳癌病史＋新的腋下淋巴結，第一直覺一定是**復發或轉移**
+> - 作者還是用「**感染／autoimmune／腫瘤／藥物／其他（疫苗、矽膠）**」框架完整列出鑑別，並靠病史把很多病刪掉；**最後只有 core biopsy 能分辨**
+> - biopsy 看到 ==necrotizing granuloma＋抗酸菌==、Xpert 證實 TB → 出生地（**印度**）才是被忽略的危險因子
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 53-Year-Old Woman with Axillary Lymphadenopathy〉，2024，[DOI 10.1056/EVIDmr2400040](https://doi.org/10.1056/EVIDmr2400040)。以下用自己的話整理，重點放在作者的推理過程。

@@ -20,7 +20,15 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **ALD（alcohol-associated liver disease）**：靠「**有肝病＋證實過量飲酒**」診斷；**alcohol-associated hepatitis 的 transaminase 通常 < 6–7 倍 ULN（AST < 500、ALT < 300）、AST:ALT > 2**；🆕 **MELD > 20 為 severe → prednisolone 40 mg/day，第 7 天 Lille ≥ 0.45 停藥；pentoxifylline 不建議**（ACG 2024）；**戒酒並治療 AUD 是所有 ALD 的主要治療**。**MASLD（舊稱 NAFLD）**：🆕 **steatosis＋至少一項 cardiometabolic 危險因子**，沒有其他原因；美國肝指數異常最常見的原因，**ALT > AST、transaminase 多 < 400**；🆕 **先用 FIB-4 分層 fibrosis**；治療核心是**減重與運動**，**F2–F3 的 MASH 有核准藥物（resmetirom、semaglutide）**。
+> - **ALD（alcohol-associated liver disease）**：靠「**有肝病＋證實過量飲酒**」診斷
+>   - **alcohol-associated hepatitis 的 transaminase 通常 < 6–7 倍 ULN（AST < 500、ALT < 300）、AST:ALT > 2**
+>   - 🆕 **MELD > 20 為 severe → prednisolone 40 mg/day，第 7 天 Lille ≥ 0.45 停藥；pentoxifylline 不建議**（ACG 2024）
+>   - **戒酒並治療 AUD 是所有 ALD 的主要治療**
+> - **MASLD（舊稱 NAFLD）**：
+>   - 🆕 **steatosis＋至少一項 cardiometabolic 危險因子**，沒有其他原因
+>   - 美國肝指數異常最常見的原因，**ALT > AST、transaminase 多 < 400**
+>   - 🆕 **先用 FIB-4 分層 fibrosis**
+>   - 治療核心是**減重與運動**，**F2–F3 的 MASH 有核准藥物（resmetirom、semaglutide）**
 
 > [!info] 系列導覽
 > ↑ 回到 [[gastroenterology/abnormal-liver-tests/index|肝功能異常與黃疸 總覽]]

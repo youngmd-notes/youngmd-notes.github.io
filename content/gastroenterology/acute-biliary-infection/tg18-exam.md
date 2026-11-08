@@ -11,7 +11,10 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 膽道相關考題的核心是**看膽管有沒有擴張、有沒有發炎**：發燒＋黃疸＋膽管擴張 → **cholangitis → ERCP 引流＋IV 抗生素**；膽管不擴張的 RUQ 發炎 → **cholecystitis → 同次住院早期 LC**；膽管擴張但沒發炎 → **CBD stone（多有痛）或胰頭腫瘤（無痛）**。有症狀的膽結石、輕症 gallstone pancreatitis 都是**出院前或早期 LC**。
+> - 膽道相關考題的核心是**看膽管有沒有擴張、有沒有發炎**：發燒＋黃疸＋膽管擴張 → **cholangitis → ERCP 引流＋IV 抗生素**
+>   - 膽管不擴張的 RUQ 發炎 → **cholecystitis → 同次住院早期 LC**
+>   - 膽管擴張但沒發炎 → **CBD stone（多有痛）或胰頭腫瘤（無痛）**
+> - 有症狀的膽結石、輕症 gallstone pancreatitis 都是**出院前或早期 LC**
 
 > [!info] 系列導覽
 > ↑ 回到 [[gastroenterology/acute-biliary-infection/index|急性膽道感染 TG18 總覽]]

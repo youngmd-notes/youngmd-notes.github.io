@@ -17,7 +17,12 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 會造成 syncope 的 structural（obstructive）病因有 **HCM、AS、PE**，再加上少見的 ACS。**HCM 是年輕人與年輕運動員心血管死亡的第一名**，murmur **站起來（preload ↓）變大、squatting 或抬腿變小**；🆕 **近期疑似 arrhythmic syncope 是 ICD 的 major risk factor**，有症狀的 obstructive HCM 在 beta-blocker／CCB 之後可加 **mavacamten**，**多數人可以運動**（2024 AHA/ACC）。**AS 一旦出現 angina、syncope、dyspnea，不換瓣膜的話死亡率急升（syncope 50% 3 年）**，**懷疑 critical AS 不能做 stress test**；🆕 **≥ 70 歲首選 TAVI**、無症狀 severe AS 也可考慮早期介入（2025 ESC/EACTS）。**PE 造成的 syncope 代表大量栓塞，25% 沒有其他症狀**，不明原因 syncope 要想到 PE。
+> - 會造成 syncope 的 structural（obstructive）病因有 **HCM、AS、PE**，再加上少見的 ACS
+> - **HCM 是年輕人與年輕運動員心血管死亡的第一名**，murmur **站起來（preload ↓）變大、squatting 或抬腿變小**
+>   - 🆕 **近期疑似 arrhythmic syncope 是 ICD 的 major risk factor**，有症狀的 obstructive HCM 在 beta-blocker／CCB 之後可加 **mavacamten**，**多數人可以運動**（2024 AHA/ACC）
+> - **AS 一旦出現 angina、syncope、dyspnea，不換瓣膜的話死亡率急升（syncope 50% 3 年）**，**懷疑 critical AS 不能做 stress test**
+>   - 🆕 **≥ 70 歲首選 TAVI**、無症狀 severe AS 也可考慮早期介入（2025 ESC/EACTS）
+> - **PE 造成的 syncope 代表大量栓塞，25% 沒有其他症狀**，不明原因 syncope 要想到 PE
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/syncope/symptom-to-diagnosis/index|① 教科書整理總覽]]

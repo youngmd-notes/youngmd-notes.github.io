@@ -14,7 +14,9 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> Hemoptysis 先分「從哪裡來、出多少」，再用「**感染／血管／腫瘤**」框架。這位的答案其實在病史第一段：==拔牙時吞下大量惡臭口水＋惡臭痰== → 吸入性**primary lung abscess**。但來自 TB 流行區，**TB 一定要認真排除**（三套痰、BAL）；最後 IGRA 陽性只代表 latent TB。
+> - Hemoptysis 先分「從哪裡來、出多少」，再用「**感染／血管／腫瘤**」框架
+> - 這位的答案其實在病史第一段：==拔牙時吞下大量惡臭口水＋惡臭痰== → 吸入性**primary lung abscess**
+> - 但來自 TB 流行區，**TB 一定要認真排除**（三套痰、BAL）；最後 IGRA 陽性只代表 latent TB
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 22-Year-Old Man Coughs Blood〉，2022，[DOI 10.1056/EVIDmr2200230](https://doi.org/10.1056/EVIDmr2200230)。以下用自己的話整理，重點放在作者的推理過程。

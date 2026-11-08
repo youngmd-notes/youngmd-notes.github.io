@@ -14,7 +14,10 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> Edema 先分「**容積過多 vs 等容**」，再用 **JVP、BNP、白蛋白、尿蛋白** 一層層定位：心臟（BNP 16 → ⚪）、肝（無門脈高壓）、腎（==尿蛋白 3+、UPCR 5.2、白蛋白低、LDL 303== → **nephrotic syndrome**）。hypothyroidism（TSH 輕度高、fT4 正常）**解釋不了這麼嚴重的 edema**。胸水是另一條線：**乳白色、triglyceride > 110** → chylothorax。kidney biopsy：**minimal change disease**。
+> - Edema 先分「**容積過多 vs 等容**」，再用 **JVP、BNP、白蛋白、尿蛋白** 一層層定位：心臟（BNP 16 → ⚪）、肝（無門脈高壓）、腎（==尿蛋白 3+、UPCR 5.2、白蛋白低、LDL 303== → **nephrotic syndrome**）
+> - hypothyroidism（TSH 輕度高、fT4 正常）**解釋不了這麼嚴重的 edema**
+> - 胸水是另一條線：**乳白色、triglyceride > 110** → chylothorax
+> - kidney biopsy：**minimal change disease**
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 73-Year-Old Man with Shortness of Breath, Edema, and Weight Gain〉，2024，[DOI 10.1056/EVIDmr2300299](https://doi.org/10.1056/EVIDmr2300299)。以下用自己的話整理，重點放在作者的推理過程。

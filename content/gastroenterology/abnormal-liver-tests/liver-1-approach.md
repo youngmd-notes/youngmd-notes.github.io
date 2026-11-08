@@ -12,7 +12,11 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 黃疸的**第一個 pivotal point：bilirubin 是 unconjugated 還是 conjugated**（> 50% direct 算 conjugated）；**茶色尿＝conjugated**，**陶土便＝extrahepatic obstruction**。Conjugated 的第二步看**其他肝指數的型態**：**hepatocellular（transaminase 為主）再看升高程度（> 1000 U/L 的病因很有限）**；**cholestatic（ALP 為主）先做影像看膽管有沒有擴張**。無症狀的 transaminase 輕度升高 → 先停酒與可疑藥物再重驗，持續異常才系統性抽血。
+> - 黃疸的**第一個 pivotal point：bilirubin 是 unconjugated 還是 conjugated**（> 50% direct 算 conjugated）
+>   - **茶色尿＝conjugated**，**陶土便＝extrahepatic obstruction**
+> - Conjugated 的第二步看**其他肝指數的型態**：**hepatocellular（transaminase 為主）再看升高程度（> 1000 U/L 的病因很有限）**
+>   - **cholestatic（ALP 為主）先做影像看膽管有沒有擴張**
+> - 無症狀的 transaminase 輕度升高 → 先停酒與可疑藥物再重驗，持續異常才系統性抽血
 
 > [!info] 系列導覽
 > ↑ 回到 [[gastroenterology/abnormal-liver-tests/index|肝功能異常與黃疸 總覽]]

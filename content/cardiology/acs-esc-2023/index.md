@@ -18,7 +18,14 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **ECG 10 分鐘內**：ST 上升（或 equivalent）→ **STEMI 路徑**：≤ 12 h → **預估 < 120 分鐘能 PCI 就 primary PCI，不能就 10 分鐘內 fibrinolysis 再轉院**。沒有 ST 上升 → **hs-cTn 0 h/1 h**：rule-in 後依風險決定攝影時機（**very high → 立即**；**high → 24 h 內**）。**Aspirin＋prasugrel 或 ticagrelor 12 個月**；NSTE-ACS 預計 24 h 內攝影**不預先給 P2Y12**；**診斷就抗凝**：等導管室 **run UFH 60 U/kg → 12 U/kg/h（aPTT 60–80 s）**，**PCI 完立即停**；fibrinolysis 用 enoxaparin 到再通或最多 8 天。**SaO2 > 90% 不給氧**；**休克不常規 IABP、只做罪犯血管**。長期：**高劑量 statin，LDL-C < 55 mg/dL**；LVEF ≤ 40% → beta-blocker、ACE-I、MRA。
+> - **ECG 10 分鐘內**：ST 上升（或 equivalent）→ **STEMI 路徑**：≤ 12 h → **預估 < 120 分鐘能 PCI 就 primary PCI，不能就 10 分鐘內 fibrinolysis 再轉院**
+> - 沒有 ST 上升 → **hs-cTn 0 h/1 h**：rule-in 後依風險決定攝影時機（**very high → 立即**；**high → 24 h 內**）
+> - **Aspirin＋prasugrel 或 ticagrelor 12 個月**
+>   - NSTE-ACS 預計 24 h 內攝影**不預先給 P2Y12**
+>   - **診斷就抗凝**：等導管室 **run UFH 60 U/kg → 12 U/kg/h（aPTT 60–80 s）**，**PCI 完立即停**
+>   - fibrinolysis 用 enoxaparin 到再通或最多 8 天
+> - **SaO2 > 90% 不給氧**；**休克不常規 IABP、只做罪犯血管**
+> - 長期：**高劑量 statin，LDL-C < 55 mg/dL**；LVEF ≤ 40% → beta-blocker、ACE-I、MRA
 
 本系列依 **2023 ESC Guidelines for the management of acute coronary syndromes**（*Eur Heart J* 2023，第一次把 STEMI 與 NSTE-ACS 合併）整理成 4 篇指引筆記、📋 建議總整理（Table 9 逐條中文）與第 5 篇內專考點；原圖含 **Table 3–7、9 與 Figure 1–20**。🆕 方框補上 **2025 ACC/AHA ACS 指引**的重點更新。
 

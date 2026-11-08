@@ -15,7 +15,9 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> ICU／急診的插管是**生理上的困難呼吸道**：病人缺氧耐受度低、血行動力學不穩。成功的關鍵在**插管前**——==checklist、團隊分工、好好 preoxygenation、先穩住血壓、先想好 Plan B==；插管時追求 **first-attempt success**，失敗就依 **Plan A → B/C → D（FONA）** 升級，最後一定用 **==waveform capnography（EtCO₂）確認位置==**。
+> - ICU／急診的插管是**生理上的困難呼吸道**：病人缺氧耐受度低、血行動力學不穩
+> - 成功的關鍵在**插管前**——==checklist、團隊分工、好好 preoxygenation、先穩住血壓、先想好 Plan B==
+>   - 插管時追求 **first-attempt success**，失敗就依 **Plan A → B/C → D（FONA）** 升級，最後一定用 **==waveform capnography（EtCO₂）確認位置==**
 
 > [!info] 本篇主要依據
 > 林重甫、謝宗達〈緊急呼吸道處置的觀念更新〉*內科學誌* 2023（成大醫院），整理自 DAS 2018 critically ill adults 指引（Higgs 2018）等文獻。文末另附 **2023–2025 的新 RCT**（DEVICE、PREOXI、RSI trial），與原文不同處已標示。

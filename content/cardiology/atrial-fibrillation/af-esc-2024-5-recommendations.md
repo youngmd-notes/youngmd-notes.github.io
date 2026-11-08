@@ -12,7 +12,9 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 2024 版最大的改變：**CHA₂DS₂-VA 取代 CHA₂DS₂-VASc**、**paroxysmal AF 導管燒灼升為第一線（I）**、共病處理多項升為 Class I（減重 10%、酒精每週 ≤ 3 份、量身運動）；**最常考的「不要做」是：抗血小板取代或加在抗凝上、用 AF 類型或出血分數決定抗凝、不符條件卻減量 DOAC**。
+> - 2024 版最大的改變：
+>   - **CHA₂DS₂-VA 取代 CHA₂DS₂-VASc**、**paroxysmal AF 導管燒灼升為第一線（I）**、共病處理多項升為 Class I（減重 10%、酒精每週 ≤ 3 份、量身運動）
+>   - **最常考的「不要做」是：抗血小板取代或加在抗凝上、用 AF 類型或出血分數決定抗凝、不符條件卻減量 DOAC**
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/atrial-fibrillation/index|心房顫動 AF 總覽]]

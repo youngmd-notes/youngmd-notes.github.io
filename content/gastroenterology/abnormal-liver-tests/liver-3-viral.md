@@ -15,7 +15,13 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> Acute viral hepatitis：**transaminase 常 > 1000 U/L、ALT > AST**。診斷靠抗體：**HAV 看 IgM anti-HAV**；**acute HBV 看 HBsAg＋IgM anti-HBc**（IgM anti-HBc 是 **window period 唯一的標記**）；**HCV 先驗 anti-HCV，陽性再驗 HCV RNA**——**anti-HCV 不代表痊癒，也沒有保護力**。即使 exposure 指向 A 肝，**三種病毒通常都要驗**；所有 hepatitis 都要驗 **INR**，並排除 **HIV**（B 肝另排除 **HDV**）。🆕 **每個成人都要篩一次 HBV（三合一）與 HCV（anti-HCV＋reflex RNA）**，不再只篩高風險族群。
+> - Acute viral hepatitis：**transaminase 常 > 1000 U/L、ALT > AST**
+> - 診斷靠抗體：
+>   - **HAV 看 IgM anti-HAV**
+>   - **acute HBV 看 HBsAg＋IgM anti-HBc**（IgM anti-HBc 是 **window period 唯一的標記**）
+>   - **HCV 先驗 anti-HCV，陽性再驗 HCV RNA**——**anti-HCV 不代表痊癒，也沒有保護力**
+> - 即使 exposure 指向 A 肝，**三種病毒通常都要驗**；所有 hepatitis 都要驗 **INR**，並排除 **HIV**（B 肝另排除 **HDV**）
+> - 🆕 **每個成人都要篩一次 HBV（三合一）與 HCV（anti-HCV＋reflex RNA）**，不再只篩高風險族群
 
 > [!info] 系列導覽
 > ↑ 回到 [[gastroenterology/abnormal-liver-tests/index|肝功能異常與黃疸 總覽]]

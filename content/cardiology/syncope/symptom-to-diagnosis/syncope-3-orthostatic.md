@@ -12,7 +12,11 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> Orthostatic syncope 的線索是**一站起來（從椅子或床上）就昏倒**。定義：站立 3 分鐘內 **SBP 下降 ≥ 20 mmHg、DBP 下降 ≥ 10 mmHg 或 pulse 上升 > 30 bpm**。**Orthostatic vital signs 一定要量「站著」的**：躺著量的 BP 與 pulse 會漏掉大量出血；**站起來 pulse 上升 > 30 bpm 對大量失血 sensitivity 97%、specificity 98%**。原因找 **hypovolemia（含 occult intra-abdominal／retroperitoneal bleeding）、藥物、autonomic failure**。
+> - Orthostatic syncope 的線索是**一站起來（從椅子或床上）就昏倒**
+> - 定義：站立 3 分鐘內 **SBP 下降 ≥ 20 mmHg、DBP 下降 ≥ 10 mmHg 或 pulse 上升 > 30 bpm**
+> - **Orthostatic vital signs 一定要量「站著」的**：躺著量的 BP 與 pulse 會漏掉大量出血
+>   - **站起來 pulse 上升 > 30 bpm 對大量失血 sensitivity 97%、specificity 98%**
+> - 原因找 **hypovolemia（含 occult intra-abdominal／retroperitoneal bleeding）、藥物、autonomic failure**
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/syncope/symptom-to-diagnosis/index|① 教科書整理總覽]]

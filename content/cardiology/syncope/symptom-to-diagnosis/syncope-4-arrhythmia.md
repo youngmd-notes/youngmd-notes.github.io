@@ -17,7 +17,11 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> Cardiac syncope 的死亡率遠高於 reflex、orthostatic 或原因不明的 syncope，**懷疑就要住院**。最常見的是 arrhythmia：**tachy（VT、WPW 等極快 SVT）**與 **brady（sick sinus syndrome、AV block）**。**有 CAD、HF 或其他心臟病的 syncope，要認真想 VT**；**wide complex tachycardia 除非有確切證據，一律當 VT**；**long QT 可以模仿 vasovagal**，所以典型 vasovagal 也要做 ECG 看 QTc。
+> - Cardiac syncope 的死亡率遠高於 reflex、orthostatic 或原因不明的 syncope，**懷疑就要住院**
+> - 最常見的是 arrhythmia：<strong>tachy（VT、WPW 等極快 SVT）</strong>與 **brady（sick sinus syndrome、AV block）**
+> - **有 CAD、HF 或其他心臟病的 syncope，要認真想 VT**
+>   - **wide complex tachycardia 除非有確切證據，一律當 VT**
+>   - **long QT 可以模仿 vasovagal**，所以典型 vasovagal 也要做 ECG 看 QTc
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/syncope/symptom-to-diagnosis/index|① 教科書整理總覽]]

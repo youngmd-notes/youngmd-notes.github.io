@@ -12,7 +12,10 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 急診要回答 **3 個問題：有沒有嚴重的潛在病因？嚴重預後的風險多高？要不要住院？** 依 **Table 6** 分層：**只有 low-risk → 直接出院（I-B）**；**任一 high-risk → 不可出院，早期密集評估（syncope unit、ED observation unit 或住院，I-B）**；**兩者皆無 → ED 或 syncope unit 觀察，不必住院（I-B）**。Risk score 不比臨床判斷好（IIb-B，不可單獨使用）。
+> - 急診要回答 **3 個問題：有沒有嚴重的潛在病因？嚴重預後的風險多高？要不要住院？** 依 **Table 6** 分層：**只有 low-risk → 直接出院（I-B）**
+>   - **任一 high-risk → 不可出院，早期密集評估（syncope unit、ED observation unit 或住院，I-B）**
+>   - **兩者皆無 → ED 或 syncope unit 觀察，不必住院（I-B）**
+> - Risk score 不比臨床判斷好（IIb-B，不可單獨使用）
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/syncope/esc-2018/index|② 2018 ESC 指引總覽]]

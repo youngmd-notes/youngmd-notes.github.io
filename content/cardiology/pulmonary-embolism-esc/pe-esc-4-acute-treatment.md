@@ -14,7 +14,10 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **High-risk → UFH＋systemic thrombolysis（rtPA 100 mg／2 h，I-B）**，溶栓禁忌或失敗 → **surgical embolectomy（I-C）或 catheter-directed treatment（IIa-C）**；**intermediate／low-risk → 抗凝即可，==不常規溶栓（III-B）==**，intermediate-high 要**監測**，惡化才 **rescue thrombolysis（I-B）**；抗凝首選 **NOAC（I-A）**，注射用 **LMWH／fondaparinux 優於 UFH（I-A）**；**low-risk 且條件允許 → 早期出院（IIa-A）**。
+> - **High-risk → UFH＋systemic thrombolysis（rtPA 100 mg／2 h，I-B）**，溶栓禁忌或失敗 → **surgical embolectomy（I-C）或 catheter-directed treatment（IIa-C）**
+>   - **intermediate／low-risk → 抗凝即可，==不常規溶栓（III-B）==**，intermediate-high 要**監測**，惡化才 **rescue thrombolysis（I-B）**
+>   - 抗凝首選 **NOAC（I-A）**，注射用 **LMWH／fondaparinux 優於 UFH（I-A）**
+>   - **low-risk 且條件允許 → 早期出院（IIa-A）**
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/pulmonary-embolism-esc/index|急性肺栓塞 ESC 2019 指引總覽]]

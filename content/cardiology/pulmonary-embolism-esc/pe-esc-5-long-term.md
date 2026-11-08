@@ -13,7 +13,11 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **所有 PE 至少抗凝 3 個月（I-A）**；之後依 **Table 11 的復發風險**決定：**major transient／reversible factor（如大手術、骨折外傷）→ 3 個月停（I-B）**；**反覆 VTE、APS → 終生（I-B，APS 用 VKA）**；**沒有可辨識危險因子、persistent 或 minor transient factor → 應考慮無限期（IIa）**，延長期可用 **apixaban 2.5 mg bid 或 rivaroxaban 10 mg qd（IIa-A）**。**癌症**：前 6 個月 **LMWH（IIa-A）**，非 GI 癌可用 **edoxaban 或 rivaroxaban**，之後**無限期或到癌症治癒**。
+> - **所有 PE 至少抗凝 3 個月（I-A）**
+>   - 之後依 **Table 11 的復發風險**決定：**major transient／reversible factor（如大手術、骨折外傷）→ 3 個月停（I-B）**
+>   - **反覆 VTE、APS → 終生（I-B，APS 用 VKA）**
+>   - **沒有可辨識危險因子、persistent 或 minor transient factor → 應考慮無限期（IIa）**，延長期可用 **apixaban 2.5 mg bid 或 rivaroxaban 10 mg qd（IIa-A）**
+> - **癌症**：前 6 個月 **LMWH（IIa-A）**，非 GI 癌可用 **edoxaban 或 rivaroxaban**，之後**無限期或到癌症治癒**
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/pulmonary-embolism-esc/index|急性肺栓塞 ESC 2019 指引總覽]]

@@ -14,7 +14,8 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 頭痛**合併 objective neurologic deficit**（右側 V2 hypoesthesia）是**紅旗**，不能當緊張型頭痛。MRI 找到 ==兩側 Meckel's cave 顯影== → CSF 乾淨、感染與脫髓鞘疾病排除 → **PET 找可 biopsy 的身體其他部位** → 肝周圍淋巴結 noncaseating granuloma → **probable neurosarcoidosis**。
+> - 頭痛**合併 objective neurologic deficit**（右側 V2 hypoesthesia）是**紅旗**，不能當緊張型頭痛
+> - MRI 找到 ==兩側 Meckel's cave 顯影== → CSF 乾淨、感染與脫髓鞘疾病排除 → **PET 找可 biopsy 的身體其他部位** → 肝周圍淋巴結 noncaseating granuloma → **probable neurosarcoidosis**
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 36-Year-Old Man with Persistent Headache〉，2024，[DOI 10.1056/EVIDmr2400172](https://doi.org/10.1056/EVIDmr2400172)。以下用自己的話整理，重點放在作者的推理過程。

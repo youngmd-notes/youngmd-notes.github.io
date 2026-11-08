@@ -12,7 +12,8 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 2024 版的核心改變：**RF-CL 估 pre-test likelihood**、**5–50% 首選 CCTA**、**抗心絞痛藥不再分一二線**、**clopidogrel 升為 aspirin 的長期替代（I A）**、**沒 MI 沒再通但有阻塞性 CAD 也要終生 aspirin（I B）**、**LM 中等 SYNTAX 可 PCI（IIa A）**。最常考的「不要做」：**ivabradine 給 LVEF > 40% 沒 HF 的人、ivabradine 併 non-DHP CCB、nitrate 給 HCM 或併 PDE5 inhibitor、三合一抗栓用 ticagrelor／prasugrel、停經後荷爾蒙療法**。
+> - 2024 版的核心改變：**RF-CL 估 pre-test likelihood**、**5–50% 首選 CCTA**、**抗心絞痛藥不再分一二線**、**clopidogrel 升為 aspirin 的長期替代（I A）**、**沒 MI 沒再通但有阻塞性 CAD 也要終生 aspirin（I B）**、**LM 中等 SYNTAX 可 PCI（IIa A）**
+> - 最常考的「不要做」：**ivabradine 給 LVEF > 40% 沒 HF 的人、ivabradine 併 non-DHP CCB、nitrate 給 HCM 或併 PDE5 inhibitor、三合一抗栓用 ticagrelor／prasugrel、停經後荷爾蒙療法**
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/chronic-coronary-syndrome-esc-2024/index|2024 ESC 慢性冠心症指引總覽]]

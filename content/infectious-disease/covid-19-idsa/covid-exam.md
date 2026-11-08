@@ -12,7 +12,18 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> COVID-19 題目集中在 **109–112 年**，最愛考 **治療藥物的機轉與適應症**（==Paxlovid＝protease inhibitor＋ritonavir CYP3A4 booster、eGFR 30–60 要減量==；**baricitinib＝JAK inhibitor、可與 dexamethasone 併用**；remdesivir 單用**不是**輕重症都顯著有效；**單株抗體會被變異株逃脫**）、**冠狀病毒學**（==受體：SARS-CoV／SARS-CoV-2 → ACE2、MERS → DPP4==；結合受體的是 **spike** 不是 envelope；**死亡率 MERS 約 35% > SARS 約 10%**）、**COVID-19 臨床**（**症狀前就有傳染力**、肺部病理是 **microthrombi＋microangiopathy**）與**感染管制**（插管＝AGP → **N95＋眼罩＋隔離衣＋手套**；酒精對套膜病毒有效）。
+> COVID-19 題目集中在 **109–112 年**，最常考四塊：
+> - **治療藥物的機轉與適應症**
+>   - ==Paxlovid＝protease inhibitor＋ritonavir CYP3A4 booster、eGFR 30–60 要減量==
+>   - **baricitinib＝JAK inhibitor、可與 dexamethasone 併用**
+>   - remdesivir 單用**不是**輕重症都顯著有效
+>   - **單株抗體會被變異株逃脫**
+> - **冠狀病毒學**
+>   - ==受體：SARS-CoV／SARS-CoV-2 → ACE2、MERS → DPP4==
+>   - 結合受體的是 **spike** 不是 envelope
+>   - **死亡率 MERS 約 35% > SARS 約 10%**
+> - **COVID-19 臨床**：**症狀前就有傳染力**、肺部病理是 **microthrombi＋microangiopathy**
+> - **感染管制**：插管＝AGP → **N95＋眼罩＋隔離衣＋手套**；酒精對套膜病毒有效
 
 > [!info] 系列導覽
 > ↑ 回到 [[infectious-disease/covid-19-idsa/index|IDSA COVID-19 指引總覽]]

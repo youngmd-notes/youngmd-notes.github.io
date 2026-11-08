@@ -14,7 +14,12 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 經驗性治療依 **CURB-65** 分層：**門診**＝β-lactam（amoxicillin、amox/clav、cefuroxime）或 doxycycline／macrolide；**一般病房 CURB-65 ≥ 2**＝**==β-lactam＋macrolide 優於 β-lactam 單用（1B）==**；**ICU**＝**β-lactam＋macrolide 或＋respiratory FQ**。**==台灣肺炎鏈球菌對 azithromycin 已不可靠==**；**懷疑 TB 先別用 levofloxacin、moxifloxacin**（2C）。療程：達 clinical stability 後輕中度 **5–7 天**（1B）、重度 **7 天**（2C）；**IV 2–4 天後可改口服**（1B）。🆕 ATS 2025：非嚴重 CAP 可縮到 **3–5 天**；**嚴重 CAP 建議 corticosteroid**。
+> - 經驗性治療依 **CURB-65** 分層：**門診**＝β-lactam（amoxicillin、amox/clav、cefuroxime）或 doxycycline／macrolide
+>   - <strong>一般病房 CURB-65 ≥ 2</strong>＝<strong><span class="text-highlight">β-lactam＋macrolide 優於 β-lactam 單用（1B）</span></strong>
+>   - **ICU**＝**β-lactam＋macrolide 或＋respiratory FQ**
+> - **==台灣肺炎鏈球菌對 azithromycin 已不可靠==**；**懷疑 TB 先別用 levofloxacin、moxifloxacin**（2C）
+> - 療程：達 clinical stability 後輕中度 **5–7 天**（1B）、重度 **7 天**（2C）；**IV 2–4 天後可改口服**（1B）
+> - 🆕 ATS 2025：非嚴重 CAP 可縮到 **3–5 天**；**嚴重 CAP 建議 corticosteroid**
 
 > [!info] 系列導覽
 > ↑ 回到 [[infectious-disease/pneumonia/index|台灣肺炎診治指引總覽]]

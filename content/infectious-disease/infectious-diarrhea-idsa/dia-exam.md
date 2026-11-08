@@ -12,7 +12,8 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 腹瀉題 **一半是 *C. difficile***（已移到 [[infectious-disease/c-difficile-idsa/cdi-exam|*C. difficile* 內專考點]]）。本篇是另一半：**潛伏期與食物配對**（**3 小時上吐下瀉＝*S. aureus***、郵輪群聚＝norovirus、生豬肉＋右下腹痛＝*Yersinia*）、**NTS 誰要治療**（**> 50 歲、人工血管或關節、免疫抑制**）、**Campylobacter 好了就停藥**、**傷寒用 ceftriaxone**、**amebic colitis 先 metronidazole 再 paromomycin**。
+> - 腹瀉題 **一半是 *C. difficile***（已移到 [[infectious-disease/c-difficile-idsa/cdi-exam|*C. difficile* 內專考點]]）
+> - 本篇是另一半：**潛伏期與食物配對**（**3 小時上吐下瀉＝*S. aureus***、郵輪群聚＝norovirus、生豬肉＋右下腹痛＝*Yersinia*）、**NTS 誰要治療**（**> 50 歲、人工血管或關節、免疫抑制**）、**Campylobacter 好了就停藥**、**傷寒用 ceftriaxone**、**amebic colitis 先 metronidazole 再 paromomycin**
 
 > [!info] 系列導覽
 > ↑ 回到 [[infectious-disease/infectious-diarrhea-idsa/index|IDSA 感染性腹瀉指引總覽]]

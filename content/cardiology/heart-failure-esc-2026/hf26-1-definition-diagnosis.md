@@ -14,7 +14,18 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **==2026 最大改變：HFmrEF 被取消，HFrEF 擴大為 LVEF < 50%，HFpEF 為 LVEF ≥ 50%==**；「acute HF」改稱 **decompensated HF（DHF）**；採用 **stage A–D**；治療改稱 **FMT（foundational）＋AMT（additional）＋GDIT（interventional）**。**Improved LVEF**：絕對值上升 ≥ 10% 且 > 40%，**FMT 仍要繼續**。診斷：症狀徵象 → ECG、檢驗、CXR → **==NT-proBNP 依年齡：< 50 歲 ≥ 125、50–74 歲 ≥ 250、≥ 75 歲 ≥ 500 pg/mL（或 BNP ≥ 35）==** → 心臟超音波；**NT-proBNP > 2000 pg/mL 最好 2 週內做超音波**。HFpEF 要有**結構或功能異常的客觀證據**（Table 10）。預防：**血壓 < 130 mmHg**、T2DM＋CV 危險因子 → **GLP-1 RA**（新）；stage B：**LVEF ≤ 40% → ACE-I／ARB**、**LVEF < 50% → beta-blocker**。
+> - **==2026 最大改變：HFmrEF 被取消，HFrEF 擴大為 LVEF < 50%，HFpEF 為 LVEF ≥ 50%==**
+>   - 「acute HF」改稱 **decompensated HF（DHF）**
+>   - 採用 **stage A–D**
+>   - 治療改稱 **FMT（foundational）＋AMT（additional）＋GDIT（interventional）**
+> - **Improved LVEF**：絕對值上升 ≥ 10% 且 > 40%，**FMT 仍要繼續**
+> - 診斷：
+>   - 症狀徵象 → ECG、檢驗、CXR → **==NT-proBNP 依年齡：< 50 歲 ≥ 125、50–74 歲 ≥ 250、≥ 75 歲 ≥ 500 pg/mL（或 BNP ≥ 35）==** → 心臟超音波
+>   - **NT-proBNP > 2000 pg/mL 最好 2 週內做超音波**
+> - HFpEF 要有**結構或功能異常的客觀證據**（Table 10）
+> - 預防：
+>   - **血壓 < 130 mmHg**、T2DM＋CV 危險因子 → **GLP-1 RA**（新）
+>   - stage B：**LVEF ≤ 40% → ACE-I／ARB**、**LVEF < 50% → beta-blocker**
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/heart-failure-esc-2026/index|2026 ESC 心衰竭指引總覽]]

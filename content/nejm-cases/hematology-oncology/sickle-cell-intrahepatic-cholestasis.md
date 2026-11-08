@@ -14,7 +14,9 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> Sickle cell disease 的腹痛＋黃疸，gallstone、cholangitis、viral hepatitis 都很常見，要一個個排除。這位 ==直接型膽紅素明顯上升、肝外膽管卻不擴張== → 問題在**肝內**；sickle cell disease 的三種肝臟併發症（**sequestration < hepatic crisis < intrahepatic cholestasis**）依嚴重度分開，**直接型膽紅素 > 15** 指向最嚴重的**intrahepatic cholestasis**，即使交換輸血仍可能致命。
+> - Sickle cell disease 的腹痛＋黃疸，gallstone、cholangitis、viral hepatitis 都很常見，要一個個排除
+> - 這位 ==直接型膽紅素明顯上升、肝外膽管卻不擴張== → 問題在**肝內**
+>   - sickle cell disease 的三種肝臟併發症（**sequestration < hepatic crisis < intrahepatic cholestasis**）依嚴重度分開，**直接型膽紅素 > 15** 指向最嚴重的**intrahepatic cholestasis**，即使交換輸血仍可能致命
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 52-Year-Old Man with Abdominal Pain and Jaundice〉，2024，[DOI 10.1056/EVIDmr2400285](https://doi.org/10.1056/EVIDmr2400285)。以下用自己的話整理，重點放在作者的推理過程。

@@ -11,7 +11,11 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 內專的急救題多藏在心臟科 **VT-SCD** 標籤：**目擊 arrest 第一步是 CPR＋盡早電擊**，藥物、插管、ECMO 都在後面；**無脈搏＋有組織的電氣活動＝PEA → 找 Hs & Ts**（外傷先止血、減壓）；**寬 QRS 規則心搏過速＋AV dissociation 或 fusion beat → VT**，有 CAD 更是；**AMI 不常規預防性給 lidocaine**、**refractory VF 給 amiodarone**；**抑制 PVC 不能預防猝死**（CAST）。
+> - 內專的急救題多藏在心臟科 **VT-SCD** 標籤：**目擊 arrest 第一步是 CPR＋盡早電擊**，藥物、插管、ECMO 都在後面
+>   - **無脈搏＋有組織的電氣活動＝PEA → 找 Hs & Ts**（外傷先止血、減壓）
+>   - **寬 QRS 規則心搏過速＋AV dissociation 或 fusion beat → VT**，有 CAD 更是
+>   - **AMI 不常規預防性給 lidocaine**、**refractory VF 給 amiodarone**
+>   - **抑制 PVC 不能預防猝死**（CAST）
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/resuscitation-aha-2025/index|2025 AHA 急救指引總覽]]

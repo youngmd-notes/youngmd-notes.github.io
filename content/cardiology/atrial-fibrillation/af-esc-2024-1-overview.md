@@ -12,7 +12,8 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 2024 ESC 把 AF 照護整理成 **AF-CARE** 四步驟：**[C] 共病與危險因子 → [A] 預防中風 → [R] 用 rate／rhythm control 減輕症狀 → [E] 定期再評估**；rhythm control 的選擇依 **AF 類型**和 **LVEF** 走不同路徑。
+> - 2024 ESC 把 AF 照護整理成 **AF-CARE** 四步驟：**[C] 共病與危險因子 → [A] 預防中風 → [R] 用 rate／rhythm control 減輕症狀 → [E] 定期再評估**
+>   - rhythm control 的選擇依 **AF 類型**和 **LVEF** 走不同路徑
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/atrial-fibrillation/index|心房顫動 AF 總覽]]

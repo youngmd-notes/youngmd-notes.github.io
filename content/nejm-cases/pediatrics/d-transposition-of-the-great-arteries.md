@@ -14,7 +14,11 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 新生兒 hypoxemia 用「**氧氣到血液的五個步驟**」當框架：換氣 → 肺血流 → 擴散 → 血紅素結合 → 氧合血送到全身。每一個檢查都在刪掉一個步驟：氧氣反應差、CXR 肺正常、心臟大小正常；插管後**換氣正常卻仍嚴重 hypoxemia**；最後出現 ==reverse differential cyanosis（右手 < 腳）== —— 幾乎只有 **d-TGA** 會這樣，超音波結果還沒出來就能確定。
+> - 新生兒 hypoxemia 用「**氧氣到血液的五個步驟**」當框架：換氣 → 肺血流 → 擴散 → 血紅素結合 → 氧合血送到全身
+> - 每一個檢查都在刪掉一個步驟：
+>   - 氧氣反應差、CXR 肺正常、心臟大小正常
+>   - 插管後**換氣正常卻仍嚴重 hypoxemia**
+>   - 最後出現 ==reverse differential cyanosis（右手 < 腳）== —— 幾乎只有 **d-TGA** 會這樣，超音波結果還沒出來就能確定
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈Cyanosis in a Newborn Immediately after Birth〉，2022，[DOI 10.1056/EVIDmr2100060](https://doi.org/10.1056/EVIDmr2100060)。以下用自己的話整理，重點放在作者的推理過程。

@@ -15,7 +15,15 @@ cssclasses:
 ---
 
 > [!abstract] 一句話重點
-> **診斷**用 **NAAT（strong）**；快篩陽性可信、**陰性不能排除**（5 天後敏感度只剩 54%），沒有 NAAT 就**重複快篩**；**抗體不診斷急性感染**，只在 **MIS-C** 有用。**治療看氧氣**：**不需氧＋高風險**（**≥ 75 歲、嚴重免疫抑制**，或好幾項 65–74 歲、DM、HF、obesity 等）→ **==5 天內 nirmatrelvir/ritonavir 首選==**，DDI 不行改 **remdesivir 3 天**，最後才 molnupiravir；**沒有危險因子不給藥**、**不給類固醇**。**需氧** → **==dexamethasone 6 mg × 10 天＋remdesivir 5 天==**；**持續惡化或 HFNC／NIV／IMV** → 再加 **baricitinib 或 tocilizumab 擇一**。**感控**：🆕 CDC 現行要求照護時一律 **N95＋gown＋gloves＋eye protection**，**AGP 盡量在負壓室**；**不要用 PCR 轉陰決定解除隔離**。
+> - **診斷**用 **NAAT（strong）**
+>   - 快篩陽性可信、**陰性不能排除**（5 天後敏感度只剩 54%），沒有 NAAT 就**重複快篩**
+>   - **抗體不診斷急性感染**，只在 **MIS-C** 有用
+> - **治療看氧氣**：
+>   - **不需氧＋高風險**（**≥ 75 歲、嚴重免疫抑制**，或好幾項 65–74 歲、DM、HF、obesity 等）→ **==5 天內 nirmatrelvir/ritonavir 首選==**，DDI 不行改 **remdesivir 3 天**，最後才 molnupiravir
+>   - **沒有危險因子不給藥**、**不給類固醇**
+> - **需氧** → **==dexamethasone 6 mg × 10 天＋remdesivir 5 天==**
+>   - **持續惡化或 HFNC／NIV／IMV** → 再加 **baricitinib 或 tocilizumab 擇一**
+> - **感控**：🆕 CDC 現行要求照護時一律 **N95＋gown＋gloves＋eye protection**，**AGP 盡量在負壓室**；**不要用 PCR 轉陰決定解除隔離**
 
 本系列依 **IDSA COVID-19 living guidelines** 的 5 個部分整理：治療（拆成 ① 門診、② 住院兩篇）、③ 醫護人員感染預防、④ 分子檢測、⑤ 抗原快篩、⑥ 血清抗體，加上 ⑦ 內專考點。各部分最後更新時間不同（治療 2026-09、分子檢測 2023-09、抗原 2022-12、血清 2024-02、感染預防 2021-11），已被新規範取代的地方用 🆕 框標出。
 

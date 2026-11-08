@@ -11,7 +11,13 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 題庫裡標為 Syncope 的只有 1 題（**arrhythmic syncope vs seizure 的病史鑑別**），但 syncope 的病因散在各主題反覆出現：**HCM（猝死危險因子、murmur 動態變化）**、**AS（severe 定義、squatting 讓 AS murmur 變大）**、**complete AV block 要 pacing**、**Brugada（sodium channel、發燒與睡眠誘發）**、**wide complex tachycardia 當 VT**、**WPW 合併 AF 禁用 AV nodal blockers**。
+> 題庫裡標為 Syncope 的只有 1 題（**arrhythmic syncope vs seizure 的病史鑑別**），但 syncope 的病因散在各主題反覆出現：
+> - **HCM**：猝死危險因子、murmur 動態變化
+> - **AS**：severe 定義、squatting 讓 AS murmur 變大
+> - **complete AV block 要 pacing**
+> - **Brugada**：sodium channel、發燒與睡眠誘發
+> - **wide complex tachycardia 當 VT**
+> - **WPW 合併 AF 禁用 AV nodal blockers**
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/syncope/symptom-to-diagnosis/index|① 教科書整理總覽]]

@@ -15,7 +15,18 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 兩條腿走路：<strong>改善症狀（抗心絞痛）</strong>與**改善預後（疾病修飾）**。**抗心絞痛**：**舌下 NTG 隨身（I B）**＋**beta-blocker 和／或 CCB 起始（I B）**，beta-blocker **目標靜止 HR 55–60**；不夠 → **BB＋DHP-CCB（IIa）** 或加 **long-acting nitrate、ranolazine（IIa）**、nicorandil、trimetazidine（IIb）；❌ **ivabradine 不加在 LVEF > 40% 沒有 HF 的人（III）**、❌ **ivabradine＋verapamil／diltiazem（III）**、❌ **nitrate＋PDE5 inhibitor 或 HCM（III）**。**預後**：**aspirin 75–100 mg 終生（或 clopidogrel 75 mg，I A）**；**PCI 後 DAPT（aspirin＋clopidogrel）6 個月**，高出血風險 **1–3 個月**；**高強度 statin，LDL-C < 55 mg/dL 且降 ≥ 50%** → ezetimibe → PCSK9i；**T2DM → SGLT2-I、GLP-1 RA（I A）**；**colchicine 0.5 mg（IIa A）**；有 HTN、DM、HF → **ACE-I（I A）**。
+> - 兩條腿走路：<strong>改善症狀（抗心絞痛）</strong>與**改善預後（疾病修飾）**
+> - **抗心絞痛**：
+>   - **舌下 NTG 隨身（I B）**＋**beta-blocker 和／或 CCB 起始（I B）**，beta-blocker **目標靜止 HR 55–60**
+>   - 不夠 → **BB＋DHP-CCB（IIa）** 或加 **long-acting nitrate、ranolazine（IIa）**、nicorandil、trimetazidine（IIb）
+>   - ❌ **ivabradine 不加在 LVEF > 40% 沒有 HF 的人（III）**、❌ **ivabradine＋verapamil／diltiazem（III）**、❌ **nitrate＋PDE5 inhibitor 或 HCM（III）**
+> - **預後**：
+>   - **aspirin 75–100 mg 終生（或 clopidogrel 75 mg，I A）**
+>   - **PCI 後 DAPT（aspirin＋clopidogrel）6 個月**，高出血風險 **1–3 個月**
+>   - **高強度 statin，LDL-C < 55 mg/dL 且降 ≥ 50%** → ezetimibe → PCSK9i
+>   - **T2DM → SGLT2-I、GLP-1 RA（I A）**
+>   - **colchicine 0.5 mg（IIa A）**
+>   - 有 HTN、DM、HF → **ACE-I（I A）**
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/chronic-coronary-syndrome-esc-2024/index|2024 ESC 慢性冠心症指引總覽]]

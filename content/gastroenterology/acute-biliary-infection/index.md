@@ -16,7 +16,9 @@ cssclasses:
 ---
 
 > [!abstract] 一句話重點
-> TG18 沿用 TG13 的診斷與分級，改的是處置：**Cholangitis**＝抗生素＋**依 grade 決定引流時機**（I：無反應才引流；**II：早期引流**；III：穩定後緊急引流），首選 **ERCP 引流**；**Cholecystitis**＝依 grade＋**CCI／ASA-PS** 決定 **early LC 或 GB drainage（PTGBD）**，**Grade III 在嚴格條件下也可以 early LC**。抗生素：cholangitis 引流後 **4–7 天**，cholecystitis Grade I／II **開完刀 24 h 內停**。
+> - TG18 沿用 TG13 的診斷與分級，改的是處置：**Cholangitis**＝抗生素＋**依 grade 決定引流時機**（I：無反應才引流；**II：早期引流**；III：穩定後緊急引流），首選 **ERCP 引流**
+>   - **Cholecystitis**＝依 grade＋**CCI／ASA-PS** 決定 **early LC 或 GB drainage（PTGBD）**，**Grade III 在嚴格條件下也可以 early LC**
+> - 抗生素：cholangitis 引流後 **4–7 天**，cholecystitis Grade I／II **開完刀 24 h 內停**
 
 ## 🌳 一張圖看懂：引流還是開刀？
 

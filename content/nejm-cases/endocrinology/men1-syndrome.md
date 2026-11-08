@@ -13,7 +13,9 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **nephrolithiasis＋上腹痛＋便秘＋疲倦＋腦霧**——「stones, groans, moans」，抽血一看 **Ca 11.5、P 1.2**。PTH 778 → PTH 依賴；影像顯示==多顆 parathyroid adenoma==，這不是一般單顆腺瘤的樣子，要想到**遺傳性**。24 小時尿鈣排除 FHH，**家族史（父兄都有胰臟腫瘤）**把答案指向 MEN1，再找胰臟 NET 與腦下垂體腺瘤，三者到齊。
+> - **nephrolithiasis＋上腹痛＋便秘＋疲倦＋腦霧**——「stones, groans, moans」，抽血一看 **Ca 11.5、P 1.2**
+> - PTH 778 → PTH 依賴；影像顯示==多顆 parathyroid adenoma==，這不是一般單顆腺瘤的樣子，要想到**遺傳性**
+> - 24 小時尿鈣排除 FHH，<strong>家族史（父兄都有胰臟腫瘤）</strong>把答案指向 MEN1，再找胰臟 NET 與腦下垂體腺瘤，三者到齊
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 59-Year-Old Man with Fatigue and Abdominal Pain〉，2025，[DOI 10.1056/EVIDmr2400067](https://doi.org/10.1056/EVIDmr2400067)。以下用自己的話整理，重點放在作者的推理過程。

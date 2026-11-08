@@ -14,7 +14,10 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **先分有沒有 hemodynamic instability**：不穩定 → **bedside TTE 或立即 CTPA**（Figure 4）；穩定 → **先估 clinical probability**（Geneva／Wells）→ **低／中機率做 D-dimer**（> 50 歲用 **age × 10 µg/L**，或 **YEARS**）→ 陽性才 **CTPA**；**高機率直接 CTPA，==不驗 D-dimer==（III-A）**（Figure 5）。高或中機率者**診斷期間就先抗凝**（I-C）。
+> - **先分有沒有 hemodynamic instability**：不穩定 → **bedside TTE 或立即 CTPA**（Figure 4）
+>   - 穩定 → **先估 clinical probability**（Geneva／Wells）→ **低／中機率做 D-dimer**（> 50 歲用 **age × 10 µg/L**，或 **YEARS**）→ 陽性才 **CTPA**
+>   - **高機率直接 CTPA，==不驗 D-dimer==（III-A）**（Figure 5）
+> - 高或中機率者**診斷期間就先抗凝**（I-C）
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/pulmonary-embolism-esc/index|急性肺栓塞 ESC 2019 指引總覽]]

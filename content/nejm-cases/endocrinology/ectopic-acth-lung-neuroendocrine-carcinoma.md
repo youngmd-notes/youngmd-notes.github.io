@@ -15,7 +15,10 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 這個個案的主軸是**電解質推理**：==hypokalemia（1.5）＋metabolic alkalosis（HCO₃⁻ 47）＋hypertension＋edema== → 「**容積擴張型**」鹼中毒 → 驗腎素與醛固酮：**醛固酮低、腎素正常** → 不是 primary aldosteronism → 皮質醇過多活化礦物皮質素受體 → **ACTH 306** → 腦下垂體 MRI 正常、**右肺門大腫塊** → 肺神經內分泌癌異位分泌 ACTH。
+> 這個個案的主軸是**電解質推理**：
+> 1. ==hypokalemia（1.5）＋metabolic alkalosis（HCO₃⁻ 47）＋hypertension＋edema== → 「**容積擴張型**」鹼中毒
+> 2. 驗腎素與醛固酮：**醛固酮低、腎素正常** → 不是 primary aldosteronism → 皮質醇過多活化礦物皮質素受體
+> 3. **ACTH 306** → 腦下垂體 MRI 正常、**右肺門大腫塊** → 肺神經內分泌癌異位分泌 ACTH
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 72-Year-Old Woman with Fatigue and Shortness of Breath〉，2023，[DOI 10.1056/EVIDmr2300084](https://doi.org/10.1056/EVIDmr2300084)。以下用自己的話整理，重點放在作者的推理過程。

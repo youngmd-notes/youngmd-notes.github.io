@@ -14,7 +14,8 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 「老人跌倒」的評估最後變成了 endocarditis：跌倒時**palpitation**、telemetry 看到**陣發性 AF**、**troponin 920 但持平**、聽到**新的主動脈瓣 diastolic murmur**。把這些和**兩個月前只治療 10 天的 S. mitis bacteremia**連起來 → TTE 看到 vegetation、MRI 看到**多發 cerebral emboli** → TEE＋心臟 CT 找到**aortic root abscess** → 手術。
+> - 「老人跌倒」的評估最後變成了 endocarditis：跌倒時**palpitation**、telemetry 看到**陣發性 AF**、**troponin 920 但持平**、聽到**新的主動脈瓣 diastolic murmur**
+> - 把這些和**兩個月前只治療 10 天的 S. mitis bacteremia**連起來 → TTE 看到 vegetation、MRI 看到**多發 cerebral emboli** → TEE＋心臟 CT 找到**aortic root abscess** → 手術
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 73-Year-Old Woman with a Fall〉，2023，[DOI 10.1056/EVIDmr2300254](https://doi.org/10.1056/EVIDmr2300254)。以下用自己的話整理，重點放在作者的推理過程。另見 [[nejm-cases/cardiology/frostbite-mimicking-acute-limb-ischemia|凍傷（偽裝成急性肢體缺血）]]：疑似 IE 但不是的對照個案。

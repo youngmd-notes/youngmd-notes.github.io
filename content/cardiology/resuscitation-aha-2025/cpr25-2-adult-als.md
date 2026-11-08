@@ -18,7 +18,16 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **高品質 CPR＋盡早電擊是基石**，藥物都是之後的事。**==Shockable（VF/pVT）：先電擊，初次電擊失敗後才給 epinephrine 1 mg IV/IO q3–5 min==**（2025 更新）；**nonshockable（PEA/asystole）：epinephrine 盡早給**。**Refractory VF/pVT → amiodarone 300 mg → 150 mg，或 lidocaine 1–1.5 → 0.5–0.75 mg/kg**。**==給藥路徑先 IV，失敗才 IO==**（2025 更新）。**Vasopressin 沒有額外好處**；**double sequential、vector change defibrillation 效益未確立**；**head-up CPR 只限試驗**。**不穩定 WCT → synchronized cardioversion**；**==AF 同步電擊起始 ≥ 200 J==**（flutter 也可 200 J）。**不穩定 bradycardia：atropine 1 mg q3–5 min（最多 3 mg）→ TCP 或 dopamine／epinephrine 滴注 → 藥物無效考慮 transvenous pacing**（2025 新增）。
+> - **高品質 CPR＋盡早電擊是基石**，藥物都是之後的事
+> - **==Shockable（VF/pVT）：先電擊，初次電擊失敗後才給 epinephrine 1 mg IV/IO q3–5 min==**（2025 更新）
+>   - **nonshockable（PEA/asystole）：epinephrine 盡早給**
+> - **Refractory VF/pVT → amiodarone 300 mg → 150 mg，或 lidocaine 1–1.5 → 0.5–0.75 mg/kg**
+> - **==給藥路徑先 IV，失敗才 IO==**（2025 更新）
+> - **Vasopressin 沒有額外好處**
+>   - **double sequential、vector change defibrillation 效益未確立**
+>   - **head-up CPR 只限試驗**
+> - **不穩定 WCT → synchronized cardioversion**；**==AF 同步電擊起始 ≥ 200 J==**（flutter 也可 200 J）
+> - **不穩定 bradycardia：atropine 1 mg q3–5 min（最多 3 mg）→ TCP 或 dopamine／epinephrine 滴注 → 藥物無效考慮 transvenous pacing**（2025 新增）
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/resuscitation-aha-2025/index|2025 AHA 急救指引總覽]]

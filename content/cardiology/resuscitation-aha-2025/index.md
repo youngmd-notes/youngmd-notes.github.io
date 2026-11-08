@@ -19,7 +19,15 @@ cssclasses:
 ---
 
 > [!abstract] 一句話重點
-> **高品質 CPR＋盡早電擊**最重要：**100–120 次/分、至少 5 cm、完全回彈、少中斷**；**沒 advanced airway 前 30:2**（2025 醫護也用 30:2），有了就**每 6 秒 1 次**。**==VF/pVT：先電擊，初次電擊失敗後才給 epinephrine 1 mg q3–5 min；PEA/asystole：epinephrine 盡早給==**；refractory VF → **amiodarone 300 → 150 mg** 或 lidocaine。**==先 IV，失敗才 IO==**（2025）。**ROSC 後：SpO2 90–98%、PaCO2 35–45、MAP ≥ 65、不能遵從指令 → 溫度控制 ≥ 36 小時、預後 ≥ 72 小時多模式**。有脈搏：**不穩定心搏過速 → 同步電擊（AF ≥ 200 J）**；**不穩定 bradycardia → atropine 1 mg（最多 3 mg）→ TCP 或滴注 → transvenous pacing**。
+> - **高品質 CPR＋盡早電擊**最重要：**100–120 次/分、至少 5 cm、完全回彈、少中斷**
+>   - **沒 advanced airway 前 30:2**（2025 醫護也用 30:2），有了就**每 6 秒 1 次**
+> - **==VF/pVT：先電擊，初次電擊失敗後才給 epinephrine 1 mg q3–5 min；PEA/asystole：epinephrine 盡早給==**
+>   - refractory VF → **amiodarone 300 → 150 mg** 或 lidocaine
+> - **==先 IV，失敗才 IO==**（2025）
+> - **ROSC 後：SpO2 90–98%、PaCO2 35–45、MAP ≥ 65、不能遵從指令 → 溫度控制 ≥ 36 小時、預後 ≥ 72 小時多模式**
+> - 有脈搏：
+>   - **不穩定心搏過速 → 同步電擊（AF ≥ 200 J）**
+>   - **不穩定 bradycardia → atropine 1 mg（最多 3 mg）→ TCP 或滴注 → transvenous pacing**
 
 本系列依 **2025 AHA Guidelines for CPR and ECC 的 Highlights**（AHA 2025，含倫理、救命之鏈、成人與兒童 BLS／ALS、新生兒、ROSC 後照護、特殊情況、教育）整理成 4 篇指引筆記，加上第 5 篇內專考點；原圖含 Figure 1–8。Highlights 只摘要**有改變的建議**、沒有完整劑量，因此**成人 arrest、bradycardia、tachyarrhythmia 的劑量與流程依 AHA 官網 2025 algorithm 補上**。
 

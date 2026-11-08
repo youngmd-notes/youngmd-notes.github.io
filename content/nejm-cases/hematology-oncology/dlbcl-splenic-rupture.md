@@ -13,7 +13,9 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 左肩痛、**吸氣加重**、肩關節檢查完全正常，加上發燒 night sweats → 要想到**轉移痛**。CT 意外發現的 ==splenomegaly== 讓問題變成「**發燒＋splenomegaly＋cytopenia**」。這個病例的教訓在**認知偏誤**：先被當成 sinusitis、蜱媒感染，脾臟破裂又被歸給「跌倒」，直到**atypical lymphocyte、flow cytometry、PET、bone marrow biopsy**才確診 DLBCL。
+> - 左肩痛、**吸氣加重**、肩關節檢查完全正常，加上發燒 night sweats → 要想到**轉移痛**
+> - CT 意外發現的 ==splenomegaly== 讓問題變成「**發燒＋splenomegaly＋cytopenia**」
+> - 這個病例的教訓在**認知偏誤**：先被當成 sinusitis、蜱媒感染，脾臟破裂又被歸給「跌倒」，直到**atypical lymphocyte、flow cytometry、PET、bone marrow biopsy**才確診 DLBCL
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 47-Year-Old Woman with Left Shoulder Pain〉，2025，[DOI 10.1056/EVIDmr2500031](https://doi.org/10.1056/EVIDmr2500031)。以下用自己的話整理，重點放在作者的推理過程。

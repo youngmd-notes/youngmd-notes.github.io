@@ -10,7 +10,10 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 三個病例各練一種情境：① **黃疸＋茶色尿 → conjugated → ALP 為主的 mixed pattern＋AST > ALT → ALD，但要先用影像排除胰臟癌** → ② **年輕人急性黃疸＋transaminase > 1000、ALT > AST → viral hepatitis，三種病毒都驗** → ③ **無症狀輕度 transaminase 升高＋肥胖 DM → NAFLD，但要先停酒停藥重驗，再系統性排除其他慢性肝病**。
+> 三個病例各練一種情境：
+> 1. **黃疸＋茶色尿 → conjugated → ALP 為主的 mixed pattern＋AST > ALT → ALD，但要先用影像排除胰臟癌**
+> 2. **年輕人急性黃疸＋transaminase > 1000、ALT > AST → viral hepatitis，三種病毒都驗**
+> 3. **無症狀輕度 transaminase 升高＋肥胖 DM → NAFLD，但要先停酒停藥重驗，再系統性排除其他慢性肝病**
 
 > [!info] 系列導覽
 > ↑ 回到 [[gastroenterology/abnormal-liver-tests/index|肝功能異常與黃疸 總覽]]

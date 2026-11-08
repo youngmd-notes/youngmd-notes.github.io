@@ -13,7 +13,8 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 上腹痛的常見原因是 GERD、潰瘍、pancreatitis，但這位的 CT 出現 ==gastric pneumatosis（gastric pneumatosis）＋portal venous gas==，提示**胃或 mesenteric ischemia**。CTA 血管通暢、沒有先吐後痛、沒有腐蝕物、沒有感染 → 內視鏡看到**胃底與大彎側線狀壞死** → 一次大量進食造成的**胃過度擴張性缺血**（Laplace 定律）。
+> - 上腹痛的常見原因是 GERD、潰瘍、pancreatitis，但這位的 CT 出現 ==gastric pneumatosis（gastric pneumatosis）＋portal venous gas==，提示**胃或 mesenteric ischemia**
+> - CTA 血管通暢、沒有先吐後痛、沒有腐蝕物、沒有感染 → 內視鏡看到**胃底與大彎側線狀壞死** → 一次大量進食造成的**胃過度擴張性缺血**（Laplace 定律）
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 52-Year-Old Woman with Abdominal Pain and Vomiting〉，2024，[DOI 10.1056/EVIDmr2300313](https://doi.org/10.1056/EVIDmr2300313)。以下用自己的話整理，重點放在作者的推理過程。

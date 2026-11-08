@@ -14,7 +14,13 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **高 TG 降 CV 風險的第一線還是 statin（I-B）**；high／very high 風險、TG **135–499 mg/dL** 仍高 → 加 **high-dose icosapent ethyl 2 g bid（IIa-B）**；fibrate 只是 IIb。**TG > 880 mg/dL（10 mmol/L）要預防胰臟炎**。**FH** 用 **Dutch Lipid Clinic Network** 診斷（> 8 分 definite），有 ASCVD 或另一主要危險因子算 **very high**，否則算 **high**；確診後做 **cascade screening**。🆕 2025：FCS 可考慮 **volanesorsen**（IIa-B）。
+> - **高 TG 降 CV 風險的第一線還是 statin（I-B）**
+>   - high／very high 風險、TG **135–499 mg/dL** 仍高 → 加 **high-dose icosapent ethyl 2 g bid（IIa-B）**
+>   - fibrate 只是 IIb
+> - **TG > 880 mg/dL（10 mmol/L）要預防胰臟炎**
+> - **FH** 用 **Dutch Lipid Clinic Network** 診斷（> 8 分 definite），有 ASCVD 或另一主要危險因子算 **very high**，否則算 **high**
+>   - 確診後做 **cascade screening**
+> - 🆕 2025：FCS 可考慮 **volanesorsen**（IIa-B）
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/dyslipidemia-esc/index|血脂異常 ESC/EAS 指引總覽]]

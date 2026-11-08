@@ -13,7 +13,15 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **懷孕**：一樣要用驗證過的流程（I-B），D-dimer 與 prediction rule 可用（IIa-B）；有 DVT 症狀先做 **CUS**，**CXR 正常 → CTPA 或 perfusion scan**、**CXR 異常 → CTPA**；治療用**依早期懷孕體重的固定治療劑量 LMWH（I-B）**，**==NOAC 禁用（III-C）==**；**最後一劑治療劑量 LMWH 後 24 小時內不打 neuraxial**、**拔 epidural catheter 後 4 小時內不給 LMWH**。**追蹤**：PE 後 **3–6 個月常規回診（I-B）**；有症狀＋V/Q **mismatched perfusion defect** → 轉 **PH／CTEPH 中心（I-C）**；**CTEPH 診斷：抗凝 ≥ 3 個月後 mPAP ≥ 25、PAWP ≤ 15＋V/Q mismatch**，治療首選 **pulmonary endarterectomy**。
+> - **懷孕**：
+>   - 一樣要用驗證過的流程（I-B），D-dimer 與 prediction rule 可用（IIa-B）
+>   - 有 DVT 症狀先做 **CUS**，**CXR 正常 → CTPA 或 perfusion scan**、**CXR 異常 → CTPA**
+>   - 治療用**依早期懷孕體重的固定治療劑量 LMWH（I-B）**，**==NOAC 禁用（III-C）==**
+>   - **最後一劑治療劑量 LMWH 後 24 小時內不打 neuraxial**、**拔 epidural catheter 後 4 小時內不給 LMWH**
+> - **追蹤**：
+>   - PE 後 **3–6 個月常規回診（I-B）**
+>   - 有症狀＋V/Q **mismatched perfusion defect** → 轉 **PH／CTEPH 中心（I-C）**
+>   - **CTEPH 診斷：抗凝 ≥ 3 個月後 mPAP ≥ 25、PAWP ≤ 15＋V/Q mismatch**，治療首選 **pulmonary endarterectomy**
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/pulmonary-embolism-esc/index|急性肺栓塞 ESC 2019 指引總覽]]

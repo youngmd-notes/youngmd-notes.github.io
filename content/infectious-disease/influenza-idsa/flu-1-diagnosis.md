@@ -13,7 +13,13 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 流行季：**==住院的 acute respiratory illness（含 pneumonia）、慢性心肺病惡化、免疫不全或高風險者一律驗（A-II/A-III）==**；門診**驗了會改變處置才驗**。**檢體**：發病 **4 天內**採，**NP 最好**，沒有就 **nasal＋throat 合併**；**插管病人要送 ETA 或 BAL**（上呼吸道陰性也要）。**檢驗**：門診用 **rapid molecular assay** 優於快篩（RIDT），**住院用 RT-PCR**，免疫不全住院用 **multiplex PCR**。**==RIDT 敏感度只有約 5 成，流行季陰性不能排除，不可因此不給藥==**；**不驗血清抗體、不用病毒培養做初步診斷**。**給藥不必等檢驗結果**。
+> - 流行季：
+>   - **==住院的 acute respiratory illness（含 pneumonia）、慢性心肺病惡化、免疫不全或高風險者一律驗（A-II/A-III）==**
+>   - 門診**驗了會改變處置才驗**
+> - **檢體**：發病 **4 天內**採，**NP 最好**，沒有就 **nasal＋throat 合併**；**插管病人要送 ETA 或 BAL**（上呼吸道陰性也要）
+> - **檢驗**：門診用 **rapid molecular assay** 優於快篩（RIDT），**住院用 RT-PCR**，免疫不全住院用 **multiplex PCR**
+> - **==RIDT 敏感度只有約 5 成，流行季陰性不能排除，不可因此不給藥==**；**不驗血清抗體、不用病毒培養做初步診斷**
+> - **給藥不必等檢驗結果**
 
 > [!info] 系列導覽
 > ↑ 回到 [[infectious-disease/influenza-idsa/index|IDSA 流感指引總覽]]

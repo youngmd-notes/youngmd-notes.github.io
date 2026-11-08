@@ -16,7 +16,11 @@ cssclasses:
 ---
 
 > [!abstract] 一句話重點
-> 黃疸先問 **unconjugated 還是 conjugated**（茶色尿＝conjugated）；conjugated 再看**型態**：**hepatocellular（transaminase 為主）看升高程度**、**cholestatic（ALP 為主）做影像看膽管**。無症狀的 transaminase 輕度升高 → **先停酒停藥重驗**，持續異常再抽 PT、albumin、CBC、A／B／C 肝、iron studies。🆕 **每個成人都要篩一次 HBV（三合一）與 HCV**；最常見的 **MASLD（舊稱 NAFLD）先用 FIB-4 分層 fibrosis**。**PT（INR）是肝合成功能最好的指標**，每個 hepatitis 都要驗。
+> - 黃疸先問 **unconjugated 還是 conjugated**（茶色尿＝conjugated）
+>   - conjugated 再看**型態**：**hepatocellular（transaminase 為主）看升高程度**、**cholestatic（ALP 為主）做影像看膽管**
+> - 無症狀的 transaminase 輕度升高 → **先停酒停藥重驗**，持續異常再抽 PT、albumin、CBC、A／B／C 肝、iron studies
+> - 🆕 **每個成人都要篩一次 HBV（三合一）與 HCV**；最常見的 **MASLD（舊稱 NAFLD）先用 FIB-4 分層 fibrosis**
+> - **PT（INR）是肝合成功能最好的指標**，每個 hepatitis 都要驗
 
 ## 🧭 兩個判斷動作：意義一樣嗎？都要做嗎？
 

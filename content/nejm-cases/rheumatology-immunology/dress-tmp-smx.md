@@ -15,7 +15,9 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 發燒＋morbilliform 皮疹的鑑別很廣，但**一個好的用藥史**就能把它收斂：==TMP-SMX 吃了 5 週==，正好落在**延遲型過敏 2–6 週**的時間窗。之後出現**hepatitis、atypical lymphocyte、eosinophil 上升** → RegiSCAR 6 分 → **definite DRESS**。停藥是第一步，器官受侵犯才用 steroid，steroid 無效時加 cyclosporine。
+> - 發燒＋morbilliform 皮疹的鑑別很廣，但**一個好的用藥史**就能把它收斂：==TMP-SMX 吃了 5 週==，正好落在**延遲型過敏 2–6 週**的時間窗
+> - 之後出現**hepatitis、atypical lymphocyte、eosinophil 上升** → RegiSCAR 6 分 → **definite DRESS**
+> - 停藥是第一步，器官受侵犯才用 steroid，steroid 無效時加 cyclosporine
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 47-Year-Old Man with Fever and Rash〉，2022，[DOI 10.1056/EVIDmr2200179](https://doi.org/10.1056/EVIDmr2200179)。以下用自己的話整理，重點放在作者的推理過程。

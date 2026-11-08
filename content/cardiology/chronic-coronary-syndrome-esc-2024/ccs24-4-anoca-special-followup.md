@@ -16,7 +16,12 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **心絞痛但冠狀動脈沒有阻塞（ANOCA）很常見**（送侵入檢查的人最多約 7 成），機轉是**微血管功能不良**（CFR < 2.5、IMR > 25）或**血管痙攣**（acetylcholine 誘發）。**治療無效、生活品質差 → 侵入性冠狀動脈功能檢查找 endotype（I B）**，再依 endotype 用藥：**血管痙攣 → CCB（I A）＋nitrate（IIa）**；**微血管擴張不良 → beta-blocker、CCB 等抗缺血藥（IIa）**；**內皮功能不良 → ACE-I＋statin（IIa）**。特殊族群：老人注意藥物副作用、**停經後荷爾蒙療法不建議（III A）**、**PRECISE-DAPT 或 ARC-HBR 評估出血（I B）**、HIV 注意 statin 交互作用。**穩定者每年回診**，**新出現或惡化症狀 → stress imaging 分層**；**穩定者不常規重做缺血檢查**。
+> - **心絞痛但冠狀動脈沒有阻塞（ANOCA）很常見**（送侵入檢查的人最多約 7 成），機轉是**微血管功能不良**（CFR < 2.5、IMR > 25）或**血管痙攣**（acetylcholine 誘發）
+> - **治療無效、生活品質差 → 侵入性冠狀動脈功能檢查找 endotype（I B）**，再依 endotype 用藥：**血管痙攣 → CCB（I A）＋nitrate（IIa）**
+>   - **微血管擴張不良 → beta-blocker、CCB 等抗缺血藥（IIa）**
+>   - **內皮功能不良 → ACE-I＋statin（IIa）**
+> - 特殊族群：老人注意藥物副作用、**停經後荷爾蒙療法不建議（III A）**、**PRECISE-DAPT 或 ARC-HBR 評估出血（I B）**、HIV 注意 statin 交互作用
+> - **穩定者每年回診**，**新出現或惡化症狀 → stress imaging 分層**；**穩定者不常規重做缺血檢查**
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/chronic-coronary-syndrome-esc-2024/index|2024 ESC 慢性冠心症指引總覽]]

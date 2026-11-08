@@ -11,7 +11,8 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 最常考的「不要做」：**SpO₂ > 90% 給常規氧氣**、**NSTE-ACS 預計 24 小時內 cath 卻常規 P2Y12 pretreatment**、**GP IIb/IIIa pretreatment**、**STEMI PPCI 用 fondaparinux**、**常規 thrombus aspiration**、**心因性休克常規 IABP**、**> 48 小時且沒症狀還去打通閉塞的 IRA**、**三合一抗栓用 ticagrelor／prasugrel**、**前 30 天降階抗血小板**。必做的骨架：**ECG < 10 分鐘、hs-cTn 0／1 h**、**PPCI 能在 120 分鐘內做就不打 fibrinolysis**、**DAPT 12 個月**、**高強度 statin、LDL < 55**、**LVEF ≤ 40% 給 beta-blocker、ACE-I、MRA**。
+> - 最常考的「不要做」：**SpO₂ > 90% 給常規氧氣**、**NSTE-ACS 預計 24 小時內 cath 卻常規 P2Y12 pretreatment**、**GP IIb/IIIa pretreatment**、**STEMI PPCI 用 fondaparinux**、**常規 thrombus aspiration**、**心因性休克常規 IABP**、**> 48 小時且沒症狀還去打通閉塞的 IRA**、**三合一抗栓用 ticagrelor／prasugrel**、**前 30 天降階抗血小板**
+> - 必做的骨架：**ECG < 10 分鐘、hs-cTn 0／1 h**、**PPCI 能在 120 分鐘內做就不打 fibrinolysis**、**DAPT 12 個月**、**高強度 statin、LDL < 55**、**LVEF ≤ 40% 給 beta-blocker、ACE-I、MRA**
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/acs-esc-2023/index|2023 ESC 急性冠心症指引總覽]]

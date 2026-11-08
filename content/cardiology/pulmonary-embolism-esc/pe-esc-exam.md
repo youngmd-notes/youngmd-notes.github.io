@@ -10,7 +10,8 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 內專的 PE 題幾乎都是**情境題**：**術後臥床、癌症、長骨骨折＋突發喘、低血氧、hypocapnia、tachycardia、JVP 上升** → 想 PE；接著考**穩定 vs 不穩定的診斷路徑**（不穩定不等 D-dimer、穩定高機率直接 CTPA）、**不常規溶栓**、**NOAC 優於 warfarin**、**rivaroxaban／apixaban 可單藥起始**、**GI cancer 避免 edoxaban**。
+> - 內專的 PE 題幾乎都是**情境題**：**術後臥床、癌症、長骨骨折＋突發喘、低血氧、hypocapnia、tachycardia、JVP 上升** → 想 PE
+>   - 接著考**穩定 vs 不穩定的診斷路徑**（不穩定不等 D-dimer、穩定高機率直接 CTPA）、**不常規溶栓**、**NOAC 優於 warfarin**、**rivaroxaban／apixaban 可單藥起始**、**GI cancer 避免 edoxaban**
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/pulmonary-embolism-esc/index|急性肺栓塞 ESC 2019 指引總覽]]

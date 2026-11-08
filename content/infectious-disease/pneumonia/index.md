@@ -18,7 +18,12 @@ cssclasses:
 ---
 
 > [!abstract] 一句話重點
-> 先**分類**（CAP、HCAP、HAP、VAP），再**評估嚴重度**（CURB-65）與**抗藥風險**，最後看**免疫狀態**。CAP：門診 β-lactam 或 doxycycline／macrolide，**==CURB-65 ≥ 2 用 β-lactam＋macrolide==**，ICU 用 β-lactam＋macrolide 或 FQ，**懷疑 TB 別用 FQ**；療程 5–7 天、穩定後 IV 2–4 天改口服。HAP／VAP：台灣以 ***P. aeruginosa*、*K. pneumoniae*、*A. baumannii*** 為主，**MDR 風險低單一 anti-pseudomonal、高風險或休克用兩類**，**==不例行 cover MRSA==**，療程 7 天。🆕 2018 年後的重要更新：**HCAP 已被美國指引廢除**、**ATS 2025 嚴重 CAP 給類固醇且非嚴重 CAP 療程可縮到 3–5 天**、**IDSA 2024 抗藥 GNB 改用新一代 β-lactam 組合**、**台灣 2026 成人公費肺炎鏈球菌疫苗改 PCV20／PCV21 一劑**。
+> - 先**分類**（CAP、HCAP、HAP、VAP），再**評估嚴重度**（CURB-65）與**抗藥風險**，最後看**免疫狀態**
+> - CAP：
+>   - 門診 β-lactam 或 doxycycline／macrolide，**==CURB-65 ≥ 2 用 β-lactam＋macrolide==**，ICU 用 β-lactam＋macrolide 或 FQ，**懷疑 TB 別用 FQ**
+>   - 療程 5–7 天、穩定後 IV 2–4 天改口服
+> - HAP／VAP：台灣以 ***P. aeruginosa*、*K. pneumoniae*、*A. baumannii*** 為主，**MDR 風險低單一 anti-pseudomonal、高風險或休克用兩類**，**==不例行 cover MRSA==**，療程 7 天
+> - 🆕 2018 年後的重要更新：**HCAP 已被美國指引廢除**、**ATS 2025 嚴重 CAP 給類固醇且非嚴重 CAP 療程可縮到 3–5 天**、**IDSA 2024 抗藥 GNB 改用新一代 β-lactam 組合**、**台灣 2026 成人公費肺炎鏈球菌疫苗改 PCV20／PCV21 一劑**
 
 本系列依 **台灣肺炎診治指引 2018**（台灣感染症醫學會＋台灣胸腔暨重症加護醫學會）成人部分，整理成 5 篇指引筆記，加上第 6 篇內專考點；兒童肺炎章節未收錄。2018 年之後被新指引取代的地方，都用 🆕 框標出新版建議。
 

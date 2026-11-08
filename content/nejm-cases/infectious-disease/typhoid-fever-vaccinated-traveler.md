@@ -14,7 +14,10 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 長期發燒＋結膜紅＋嘴唇乾裂，小孩很容易先想 **Kawasaki**；但**血小板很低**（Kawasaki 第二週應該升高）就不像。接著鑑別在 **HUS、leukemia／lymphoma、HLH、熱帶感染**間擺盪，flow cytometry 的**異常 γδ T 細胞**甚至把方向帶到 hepatosplenic T-cell lymphoma。最後是**blood culture**給答案：==S. Typhi==。教訓：**打過傷寒疫苗也會得傷寒**（保護力 50–80%），旅遊發燒一定要抽 blood culture。
+> - 長期發燒＋結膜紅＋嘴唇乾裂，小孩很容易先想 **Kawasaki**；但**血小板很低**（Kawasaki 第二週應該升高）就不像
+> - 接著鑑別在 **HUS、leukemia／lymphoma、HLH、熱帶感染**間擺盪，flow cytometry 的**異常 γδ T 細胞**甚至把方向帶到 hepatosplenic T-cell lymphoma
+> - 最後是**blood culture**給答案：==S. Typhi==
+> - 教訓：**打過傷寒疫苗也會得傷寒**（保護力 50–80%），旅遊發燒一定要抽 blood culture
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 7-Year-Old Boy with Prolonged Fever〉，2025，[DOI 10.1056/EVIDmr2400330](https://doi.org/10.1056/EVIDmr2400330)。以下用自己的話整理，重點放在作者的推理過程。

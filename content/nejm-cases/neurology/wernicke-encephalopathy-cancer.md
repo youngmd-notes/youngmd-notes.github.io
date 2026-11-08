@@ -14,7 +14,10 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> Brain metastasis、全腦放療後的混亂，很容易被歸給「腫瘤進展」或「放療副作用」。但**放療後長期嘔吐、吃不下**，加上**gaze-evoked nystagmus＋gait ataxia＋記憶差**，就是 Wernicke 三徵；MRI ==乳頭體（mammillary bodies）顯影==是轉折點。**沒有可靠的確診檢驗，懷疑就先給高劑量 IV thiamine**。
+> - Brain metastasis、全腦放療後的混亂，很容易被歸給「腫瘤進展」或「放療副作用」
+> - 但**放療後長期嘔吐、吃不下**，加上**gaze-evoked nystagmus＋gait ataxia＋記憶差**，就是 Wernicke 三徵
+>   - MRI ==乳頭體（mammillary bodies）顯影==是轉折點
+> - **沒有可靠的確診檢驗，懷疑就先給高劑量 IV thiamine**
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 47-Year-Old Woman with Confusion and Weakness〉，2023，[DOI 10.1056/EVIDmr2300176](https://doi.org/10.1056/EVIDmr2300176)。以下用自己的話整理，重點放在作者的推理過程。

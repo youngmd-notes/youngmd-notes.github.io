@@ -15,7 +15,8 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 產後肝損傷第一直覺是 **HELLP／子癲前症／AFLP**，但這些病**生產後應該逐漸改善**；==產後反而持續惡化、高燒、轉胺酶數千、INR 上升==，就要跳出產科框架。HSV hepatitis**超過一半沒有皮疹**，要主動驗 HSV PCR 並**empiric 給 acyclovir**。
+> - 產後肝損傷第一直覺是 **HELLP／子癲前症／AFLP**，但這些病**生產後應該逐漸改善**；==產後反而持續惡化、高燒、轉胺酶數千、INR 上升==，就要跳出產科框架
+> - HSV hepatitis**超過一半沒有皮疹**，要主動驗 HSV PCR 並**empiric 給 acyclovir**
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 26-Year-Old Woman with Postpartum Abdominal Pain〉，2025，[DOI 10.1056/EVIDmr2400398](https://doi.org/10.1056/EVIDmr2400398)。以下用自己的話整理，重點放在作者的推理過程。另見同類個案 [[nejm-cases/gastroenterology/hsv-hepatitis-acute-liver-failure-sle|SLE 病人的 HSV 肝炎]]。

@@ -18,7 +18,11 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 移植後「pancytopenia」不要照字面處理。作者用**三個切入點**（**哪一系最受影響**、**各系出現的時間**、**嚴重度是否成比例**）把它拆開：WBC 下降主要是**淋巴球**、PLT 下降**移植前就有**，真正的主角是**不成比例的嚴重貧血**（Hb 5.6）。接著用 **reticulocyte** 分流 → ==reticulocyte < 0.5%＋haptoglobin 正常 → hypoproliferative==，再加上 **EPO 極高、ferritin 上升、transferrin saturation 接近 100%** → **pure red-cell aplasia（PRCA）**。==免疫抑制的移植病人，PRCA 第一個想 parvovirus B19==；抗體常常不會產生，要驗 **PCR**。骨髓看到**巨大 proerythroblast 合併核內 inclusion** 確診，治療是**減少免疫抑制＋IVIG＋輸血**。
+> - 移植後「pancytopenia」不要照字面處理
+> - 作者用**三個切入點**（**哪一系最受影響**、**各系出現的時間**、**嚴重度是否成比例**）把它拆開：WBC 下降主要是**淋巴球**、PLT 下降**移植前就有**，真正的主角是**不成比例的嚴重貧血**（Hb 5.6）
+> - 接著用 **reticulocyte** 分流 → ==reticulocyte < 0.5%＋haptoglobin 正常 → hypoproliferative==，再加上 **EPO 極高、ferritin 上升、transferrin saturation 接近 100%** → **pure red-cell aplasia（PRCA）**
+> - ==免疫抑制的移植病人，PRCA 第一個想 parvovirus B19==；抗體常常不會產生，要驗 **PCR**
+> - 骨髓看到**巨大 proerythroblast 合併核內 inclusion** 確診，治療是**減少免疫抑制＋IVIG＋輸血**
 
 > [!info] 個案來源
 > NEJM Case Records of the Massachusetts General Hospital〈Case 17-2026: A 74-Year-Old Man with Pancytopenia〉，2026，[DOI 10.1056/NEJMcpc2517867](https://doi.org/10.1056/NEJMcpc2517867)。以下用自己的話整理，重點放在討論者（Dr. Aird）的 approach 與鑑別思維。這是 CPC 格式，沒有 Morning Report 的「作者問的三個問題」，改以討論者**縮小範圍的三個切入點**當作推理核心。

@@ -14,7 +14,10 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> Immunosuppressed 病人「**頭痛越來越嚴重＋低燒＋行為改變 → first seizure＋focal neurologic sign**」= 顱內 space-occupying lesion，先影像再談 LP。MRI 的 ==多發 ring enhancement＋大量 edema== 指向**abscess**；之前吃過抗生素讓 culture-negative，靠 **16S rRNA PCR** 找到 **Nocardia**。==TMP-SMX 過敏而沒有預防==，是它能趁虛而入的原因之一。
+> - Immunosuppressed 病人「**頭痛越來越嚴重＋低燒＋行為改變 → first seizure＋focal neurologic sign**」= 顱內 space-occupying lesion，先影像再談 LP
+> - MRI 的 ==多發 ring enhancement＋大量 edema== 指向**abscess**
+>   - 之前吃過抗生素讓 culture-negative，靠 **16S rRNA PCR** 找到 **Nocardia**
+> - ==TMP-SMX 過敏而沒有預防==，是它能趁虛而入的原因之一
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 42-Year-Old Man with a Seizure〉，2023，[DOI 10.1056/EVIDmr2200320](https://doi.org/10.1056/EVIDmr2200320)。以下用自己的話整理，重點放在作者的推理過程。

@@ -14,7 +14,12 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> TG18 cholecystitis 以 **early LC 為主軸**，用 **CCI 與 ASA-PS** 判斷能不能開。**Grade I**：低風險 → **early LC**。**Grade II**：低風險＋有 advanced LC 技術 → **urgent／early LC**；抗生素控制不了 → **GB drainage**。**Grade III（TG18 新增）**：**沒有 negative predictive factor（T-bil ≥ 2、意識、呼吸）**、衰竭屬 **FOSF（心血管或腎、可快速恢復）**、PS 好且在 advanced center → 可 **early LC**；否則 **urgent／early GB drainage（首選 PTGBD）**。只要能開，**不必死守 72 h**。
+> - TG18 cholecystitis 以 **early LC 為主軸**，用 **CCI 與 ASA-PS** 判斷能不能開
+> - **Grade I**：低風險 → **early LC**
+> - **Grade II**：低風險＋有 advanced LC 技術 → **urgent／early LC**；抗生素控制不了 → **GB drainage**
+> - **Grade III（TG18 新增）**：**沒有 negative predictive factor（T-bil ≥ 2、意識、呼吸）**、衰竭屬 **FOSF（心血管或腎、可快速恢復）**、PS 好且在 advanced center → 可 **early LC**
+>   - 否則 **urgent／early GB drainage（首選 PTGBD）**
+> - 只要能開，**不必死守 72 h**
 
 > [!info] 系列導覽
 > ↑ 回到 [[gastroenterology/acute-biliary-infection/index|急性膽道感染 TG18 總覽]]

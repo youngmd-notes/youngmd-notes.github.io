@@ -14,7 +14,10 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 急性混亂＋lymphocytic CSF（**蛋白很高、糖偏低、開放壓高**）→ 先當 viral encephalitis，症狀自己好轉就出院；三天後**快速惡化**。擴大鑑別：**非典型感染、autoimmune／副腫瘤 encephalitis、CJD、隱藏腫瘤、Hashimoto 腦病**，全部陰性，steroid 與 IVIG 也無效。最後的突破來自一個「**很細微的發現**」：==CT 上輕微的胃壁增厚== → EGDbiopsy → **胃印戒細胞癌**；再從**腦室引流的 CSF** 做細胞學 → leptomeningeal metastasis。
+> - 急性混亂＋lymphocytic CSF（**蛋白很高、糖偏低、開放壓高**）→ 先當 viral encephalitis，症狀自己好轉就出院；三天後**快速惡化**
+> - 擴大鑑別：**非典型感染、autoimmune／副腫瘤 encephalitis、CJD、隱藏腫瘤、Hashimoto 腦病**，全部陰性，steroid 與 IVIG 也無效
+> - 最後的突破來自一個「**很細微的發現**」：==CT 上輕微的胃壁增厚== → EGDbiopsy → **胃印戒細胞癌**
+>   - 再從**腦室引流的 CSF** 做細胞學 → leptomeningeal metastasis
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 72-Year-Old Man with Rapid Cognitive Decline〉，2023，[DOI 10.1056/EVIDmr2300086](https://doi.org/10.1056/EVIDmr2300086)。以下用自己的話整理，重點放在作者的推理過程。

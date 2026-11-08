@@ -16,7 +16,11 @@ cssclasses:
 ---
 
 > [!abstract] 一句話重點
-> **先看 hemodynamic instability**：有 → **high-risk**，bedside echo／CTPA、**UFH＋systemic thrombolysis**；沒有 → **臨床機率 → D-dimer（age × 10）→ CTPA** 確診，再用 **PESI／sPESI＋RV＋troponin** 分成 intermediate-high／-low 與 low（**sPESI 0 也要看 RV**）；**抗凝首選 NOAC**、**intermediate 不常規溶栓**、low-risk 可早期出院；**至少 3 個月**，之後依**復發風險**決定停或無限期；**3–6 個月回診**找 CTEPH。
+> - **先看 hemodynamic instability**：有 → **high-risk**，bedside echo／CTPA、**UFH＋systemic thrombolysis**
+>   - 沒有 → **臨床機率 → D-dimer（age × 10）→ CTPA** 確診，再用 **PESI／sPESI＋RV＋troponin** 分成 intermediate-high／-low 與 low（**sPESI 0 也要看 RV**）
+>   - **抗凝首選 NOAC**、**intermediate 不常規溶栓**、low-risk 可早期出院
+>   - **至少 3 個月**，之後依**復發風險**決定停或無限期
+>   - **3–6 個月回診**找 CTEPH
 
 本主題整理 **2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism（與 ERS 合作）** 的 **Table 1–13 與 Figure 1–8**（含建議表、key messages 與必做／不做）。懷孕部分另以 **🆕** 標出 **2025 ESC 懷孕與心血管疾病指引**的補充。
 

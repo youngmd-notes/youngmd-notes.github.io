@@ -14,7 +14,8 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 皮疹＋polyarthritis＋雙側聽損＋ESR 高＋**ANA 1:320**，非常像風濕病。但特定 antibody 全陰性、**steroid 只換來短暫改善**，作者決定「==要確定診斷，不要再 empiric treatment==」→ 皮疹 biopsy 看到**漿細胞** → 想到 syphilis，**8 個月前陰性就沒再驗**的 RPR 這次 1:128 → CSF VDRL 陽性 → **神經 syphilis（耳 syphilis）**。
+> - 皮疹＋polyarthritis＋雙側聽損＋ESR 高＋**ANA 1:320**，非常像風濕病
+> - 但特定 antibody 全陰性、**steroid 只換來短暫改善**，作者決定「==要確定診斷，不要再 empiric treatment==」→ 皮疹 biopsy 看到**漿細胞** → 想到 syphilis，**8 個月前陰性就沒再驗**的 RPR 這次 1:128 → CSF VDRL 陽性 → **神經 syphilis（耳 syphilis）**
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 59-Year-Old Man with a Rash and Hearing Loss〉，2024，[DOI 10.1056/EVIDmr2400254](https://doi.org/10.1056/EVIDmr2400254)。以下用自己的話整理，重點放在作者的推理過程。

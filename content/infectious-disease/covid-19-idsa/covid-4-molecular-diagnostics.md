@@ -14,7 +14,11 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **有症狀懷疑 COVID → NAAT（strong）**：pooled **sensitivity 97%、specificity 100%**。檢體 **NP、AN、OP、MT、唾液、漱口液都可**，**病人自採 AN／MT 也可以**；**rapid NAAT 和實驗室 NAAT 都可**。第一次陰性但**新出現或惡化的症狀、或檢體採得不好** → **24–48 h 後重驗**。**無症狀暴露者：暴露後 ≥ 5 天驗**（有症狀立即驗）。**==不建議常規做入院篩檢、術前篩檢、術前重驗、用重驗陰性決定解除隔離==**（RNA 可長期陽性但已無活病毒；Ct 值不能判斷傳染力）。
+> - **有症狀懷疑 COVID → NAAT（strong）**：pooled **sensitivity 97%、specificity 100%**
+> - 檢體 **NP、AN、OP、MT、唾液、漱口液都可**，**病人自採 AN／MT 也可以**；**rapid NAAT 和實驗室 NAAT 都可**
+> - 第一次陰性但**新出現或惡化的症狀、或檢體採得不好** → **24–48 h 後重驗**
+> - **無症狀暴露者：暴露後 ≥ 5 天驗**（有症狀立即驗）
+> - **==不建議常規做入院篩檢、術前篩檢、術前重驗、用重驗陰性決定解除隔離==**（RNA 可長期陽性但已無活病毒；Ct 值不能判斷傳染力）
 
 > [!info] 系列導覽
 > ↑ 回到 [[infectious-disease/covid-19-idsa/index|IDSA COVID-19 指引總覽]]

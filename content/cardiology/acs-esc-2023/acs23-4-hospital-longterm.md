@@ -14,7 +14,15 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **住院**：高風險（所有 STEMI、very high-risk NSTE-ACS）**ECG 監測 ≥ 24 h**、CCU ≥ 24 h。**AF**：沒有 HF 或低血壓 → **IV beta-blocker**；有急性 HF、沒有低血壓 → **IV amiodarone**；不穩定 → **電擊**。**多形性 VT／VF → IV beta-blocker 和／或 amiodarone＋完全再通**；**沒症狀的心室心律不整不用抗心律不整藥（III）**。**高度 AV block → atropine、腎上腺素 → 暫時起搏；MI 後 ≥ 5 天仍未恢復才放永久起搏器**。**長期**：**心臟復健（I A）**、**==高劑量 statin 盡早（I A），LDL-C < 55 mg/dL 且下降 ≥ 50%（I A）==** → 4–6 週未達標加 **ezetimibe** → 再加 **PCSK9i**；**LVEF ≤ 40% → beta-blocker、ACE-I、MRA（有 HF 或糖尿病）（I A）**；**流感疫苗（I A）**；出院前 LVEF ≤ 40% → **6–12 週後再評估 ICD**。
+> - **住院**：高風險（所有 STEMI、very high-risk NSTE-ACS）**ECG 監測 ≥ 24 h**、CCU ≥ 24 h
+> - **AF**：沒有 HF 或低血壓 → **IV beta-blocker**；有急性 HF、沒有低血壓 → **IV amiodarone**；不穩定 → **電擊**
+> - **多形性 VT／VF → IV beta-blocker 和／或 amiodarone＋完全再通**；**沒症狀的心室心律不整不用抗心律不整藥（III）**
+> - **高度 AV block → atropine、腎上腺素 → 暫時起搏；MI 後 ≥ 5 天仍未恢復才放永久起搏器**
+> - **長期**：
+>   - **心臟復健（I A）**、**==高劑量 statin 盡早（I A），LDL-C < 55 mg/dL 且下降 ≥ 50%（I A）==** → 4–6 週未達標加 **ezetimibe** → 再加 **PCSK9i**
+>   - **LVEF ≤ 40% → beta-blocker、ACE-I、MRA（有 HF 或糖尿病）（I A）**
+>   - **流感疫苗（I A）**
+>   - 出院前 LVEF ≤ 40% → **6–12 週後再評估 ICD**
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/acs-esc-2023/index|2023 ESC ACS 指引總覽]]

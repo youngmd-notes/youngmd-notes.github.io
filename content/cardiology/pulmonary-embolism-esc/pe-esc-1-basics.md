@@ -12,7 +12,8 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> PE 致死的主因是 **acute RV failure**：afterload 突然上升 → RV dilatation、wall tension ↑、septum 推向 LV → **LV preload 與 CO 下降 → obstructive shock**。**High-risk PE 只看 hemodynamic instability（Table 4）**：**cardiac arrest、obstructive shock（SBP < 90 或需 vasopressor＋end-organ hypoperfusion）、persistent hypotension（SBP < 90 或下降 ≥ 40 mmHg 持續 > 15 分鐘）**三者其一。
+> - PE 致死的主因是 **acute RV failure**：afterload 突然上升 → RV dilatation、wall tension ↑、septum 推向 LV → **LV preload 與 CO 下降 → obstructive shock**
+> - **High-risk PE 只看 hemodynamic instability（Table 4）**：<strong>cardiac arrest、obstructive shock（SBP < 90 或需 vasopressor＋end-organ hypoperfusion）、persistent hypotension（SBP < 90 或下降 ≥ 40 mmHg 持續 > 15 分鐘）</strong>三者其一
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/pulmonary-embolism-esc/index|急性肺栓塞 ESC 2019 指引總覽]]

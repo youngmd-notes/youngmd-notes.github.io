@@ -14,7 +14,14 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 再通有兩個目的：**改善症狀**（GDMT 仍有心絞痛 → 再通功能顯著的狹窄，I A）與**改善預後**。**LVEF > 35%**：**顯著 LM 狹窄**、**三條血管**、**含近端 LAD 的一或兩條** → **再通＋GDMT**（I）。**LVEF ≤ 35%＋多條血管、可開刀 → CABG 優於藥物（I B）**。選 PCI 或 CABG：**LM 低手術風險 → CABG 為首選（I A）**，**LM 且 SYNTAX ≤ 22 → PCI 可替代（I A）**、**23–32 → IIa**；**多條血管＋糖尿病 → CABG（I A）**；**三條血管、無 DM、低到中複雜度 → PCI 可替代（I A）**。複雜病例找 **Heart Team**；PCI 用 **IVUS／OCT**（複雜病灶 I A）與 **FFR/iFR** 選病灶。
+> - 再通有兩個目的：**改善症狀**（GDMT 仍有心絞痛 → 再通功能顯著的狹窄，I A）與**改善預後**
+> - **LVEF > 35%**：**顯著 LM 狹窄**、**三條血管**、**含近端 LAD 的一或兩條** → **再通＋GDMT**（I）
+> - **LVEF ≤ 35%＋多條血管、可開刀 → CABG 優於藥物（I B）**
+> - 選 PCI 或 CABG：
+>   - **LM 低手術風險 → CABG 為首選（I A）**，**LM 且 SYNTAX ≤ 22 → PCI 可替代（I A）**、**23–32 → IIa**
+>   - **多條血管＋糖尿病 → CABG（I A）**
+>   - **三條血管、無 DM、低到中複雜度 → PCI 可替代（I A）**
+> - 複雜病例找 **Heart Team**；PCI 用 **IVUS／OCT**（複雜病灶 I A）與 **FFR/iFR** 選病灶
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/chronic-coronary-syndrome-esc-2024/index|2024 ESC 慢性冠心症指引總覽]]

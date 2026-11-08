@@ -19,7 +19,15 @@ cssclasses:
 ---
 
 > [!abstract] 一句話重點
-> **只驗「說不出原因、新發生、24 小時 ≥ 3 次不成形便」**（先排除 laxative），**送 1 次、7 天內不重驗**；沒有送檢門檻的醫院要用**含 toxin 的多步驟流程**（GDH＋toxin ± NAAT）。**懷疑就接觸隔離、手套隔離衣、肥皂和水洗手**，**停掉誘發的抗生素**。**初次發作：==fidaxomicin 200 mg bid × 10 天首選==，vancomycin 125 mg PO qid × 10 天替代**；metronidazole 只在兩者拿不到的非嚴重病人。**==Fulminant：vancomycin 500 mg PO/NG qid＋IV metronidazole 500 mg q8h（ileus 加 rectal vancomycin），WBC ≥ 25,000 或 lactate ≥ 5 找外科==**。**復發**：fidaxomicin 或 vancomycin taper/pulse；**≥ 2 次復發 → 加考慮 rifaximin chaser、FMT**。**==IV vancomycin 無效、不做 test of cure==**。🆕 **Bezlotoxumab 2025 停產**；預防復發可用 **Rebyota、Vowst**。
+> - **只驗「說不出原因、新發生、24 小時 ≥ 3 次不成形便」**（先排除 laxative），**送 1 次、7 天內不重驗**
+>   - 沒有送檢門檻的醫院要用**含 toxin 的多步驟流程**（GDH＋toxin ± NAAT）
+> - **懷疑就接觸隔離、手套隔離衣、肥皂和水洗手**，**停掉誘發的抗生素**
+> - **初次發作：==fidaxomicin 200 mg bid × 10 天首選==，vancomycin 125 mg PO qid × 10 天替代**
+>   - metronidazole 只在兩者拿不到的非嚴重病人
+> - **==Fulminant：vancomycin 500 mg PO/NG qid＋IV metronidazole 500 mg q8h（ileus 加 rectal vancomycin），WBC ≥ 25,000 或 lactate ≥ 5 找外科==**
+> - **復發**：fidaxomicin 或 vancomycin taper/pulse；**≥ 2 次復發 → 加考慮 rifaximin chaser、FMT**
+> - **==IV vancomycin 無效、不做 test of cure==**
+> - 🆕 **Bezlotoxumab 2025 停產**；預防復發可用 **Rebyota、Vowst**
 
 本系列依 **2017 IDSA/SHEA *C. difficile* 指引**（McDonald LC, et al. *Clin Infect Dis* 2018，成人與兒童，含流行病學、診斷、感染管制、治療共 35 個問題）與 **2021 IDSA/SHEA Focused Update**（Johnson S, et al. *Clin Infect Dis* 2021，成人，fidaxomicin 與 bezlotoxumab）整理成 3 篇指引筆記，加上第 4 篇內專考點；原圖含 2017 Table 1–7、Figure 2 與 2021 Table 1–4、Figure 4–5。另用 🆕 補上 **bezlotoxumab 停產**（2025）與 **FDA 核准的活菌叢製劑**（2022、2023）。
 

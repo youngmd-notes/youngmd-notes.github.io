@@ -12,7 +12,8 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> Syncope 的評估是**三個 pivotal step**：① 先確定是 syncope（**abrupt onset、brief、spontaneous complete recovery**）而不是 seizure、hypoglycemia 等 nonsyncopal TLOC → ② 用 **history＋PE（含 orthostatic vital signs）＋ECG** 分成 **reflex、orthostatic、cardiac** 三類 → ③ 懷疑 **cardiac syncope 就住院**，再找出特定病因。三類裡只有 cardiac syncope 會**猝死**，所以每一位病人都要先回答「有沒有 cardiac 的線索」。
+> - Syncope 的評估是**三個 pivotal step**：① 先確定是 syncope（**abrupt onset、brief、spontaneous complete recovery**）而不是 seizure、hypoglycemia 等 nonsyncopal TLOC → ② 用 **history＋PE（含 orthostatic vital signs）＋ECG** 分成 **reflex、orthostatic、cardiac** 三類 → ③ 懷疑 **cardiac syncope 就住院**，再找出特定病因
+> - 三類裡只有 cardiac syncope 會**猝死**，所以每一位病人都要先回答「有沒有 cardiac 的線索」
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/syncope/symptom-to-diagnosis/index|① 教科書整理總覽]]

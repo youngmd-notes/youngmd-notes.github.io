@@ -17,7 +17,16 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **==2026 ESC：HFmrEF 取消，HFrEF＝LVEF < 50%、HFpEF＝LVEF ≥ 50%==**；acute HF 改稱 **decompensated HF**。診斷：**NT-proBNP 依年齡（≥ 125／250／500）→ 心臟超音波**。治療：**所有有症狀 HF → SGLT2-I＋MRA（I A）＋需要時 loop diuretic**；**HFrEF 再加 beta-blocker＋ACE-I／ARNI（I A）**；**每 1–2 週調升、改善了也不停**。DHF：**找 CHAMPIT 誘因 → IV furosemide（沒用過 40 mg、長期使用給口服量 2 倍）→ 2 h 尿鈉 ≥ 70 或 6 h 尿量 ≥ 100 mL/h 看反應 → 不夠就加倍或加 acetazolamide／HCTZ**；**穩定後住院中就開始 SGLT2-I**，出院前快速調藥、6 週內密集追蹤。**休克：Shock Team；IABP 與未篩選的 MCS 都不建議**。
+> - **==2026 ESC：HFmrEF 取消，HFrEF＝LVEF < 50%、HFpEF＝LVEF ≥ 50%==**；acute HF 改稱 **decompensated HF**
+> - 診斷：**NT-proBNP 依年齡（≥ 125／250／500）→ 心臟超音波**
+> - 治療：
+>   - **所有有症狀 HF → SGLT2-I＋MRA（I A）＋需要時 loop diuretic**
+>   - **HFrEF 再加 beta-blocker＋ACE-I／ARNI（I A）**
+>   - **每 1–2 週調升、改善了也不停**
+> - DHF：
+>   - **找 CHAMPIT 誘因 → IV furosemide（沒用過 40 mg、長期使用給口服量 2 倍）→ 2 h 尿鈉 ≥ 70 或 6 h 尿量 ≥ 100 mL/h 看反應 → 不夠就加倍或加 acetazolamide／HCTZ**
+>   - **穩定後住院中就開始 SGLT2-I**，出院前快速調藥、6 週內密集追蹤
+> - **休克：Shock Team；IABP 與未篩選的 MCS 都不建議**
 
 本系列依 **2026 ESC Guidelines for the management of heart failure**（*Eur Heart J* 2026，取代 2021 版與 2023 focused update）整理成 4 篇指引筆記、📋 建議總整理（Table 5、6 逐條中文）與第 5 篇內專考點；原圖含 **Table 4–20、Figure 1–23**，各放在對應段落下方，也在下方「依主題找 Table 與 Figure」集中列出。這份就是目前最新版，沒有需要 🆕 更新的地方。
 

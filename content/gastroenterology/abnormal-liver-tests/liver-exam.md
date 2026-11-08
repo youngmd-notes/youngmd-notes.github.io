@@ -10,7 +10,11 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 肝指數題幾乎都在考**型態判讀**：**ALP＋GGT 一起高＝肝膽來源的 cholestasis**；**單獨 AST 高＝想肝外**（hemolysis、MI、肌肉）；**肝內外膽管都擴張＝遠端阻塞**（胰頭、ampulla、遠端 CBD）。病毒血清學考 **IgM anti-HAV 才是急性 A 肝**、**isolated anti-HBc**、**anti-HCV 不代表現症也沒有保護力**。另外常考 **Gilbert（unconjugated、UGT1A1）**、**alcoholic hepatitis 用 steroid**、**NAFLD 首選減重、照樣可用 statin**。
+> - 肝指數題幾乎都在考**型態判讀**：**ALP＋GGT 一起高＝肝膽來源的 cholestasis**
+>   - **單獨 AST 高＝想肝外**（hemolysis、MI、肌肉）
+>   - **肝內外膽管都擴張＝遠端阻塞**（胰頭、ampulla、遠端 CBD）
+> - 病毒血清學考 **IgM anti-HAV 才是急性 A 肝**、**isolated anti-HBc**、**anti-HCV 不代表現症也沒有保護力**
+> - 另外常考 **Gilbert（unconjugated、UGT1A1）**、**alcoholic hepatitis 用 steroid**、**NAFLD 首選減重、照樣可用 statin**
 
 > [!info] 系列導覽
 > ↑ 回到 [[gastroenterology/abnormal-liver-tests/index|肝功能異常與黃疸 總覽]]

@@ -14,7 +14,8 @@ cssclasses:
 ---
 
 > [!abstract] 一句話重點
-> Syncope ＝ **transient global cerebral hypoperfusion** 造成的 TLOC（abrupt、brief、spontaneous complete recovery）。這個主題有兩份整理：**教科書版**照臨床推理的順序走，**ESC 指引版**整理 2018 ESC 的 Table、Figure 與建議等級。
+> - Syncope ＝ **transient global cerebral hypoperfusion** 造成的 TLOC（abrupt、brief、spontaneous complete recovery）
+> - 這個主題有兩份整理：**教科書版**照臨床推理的順序走，**ESC 指引版**整理 2018 ESC 的 Table、Figure 與建議等級
 
 ## 選一份整理
 

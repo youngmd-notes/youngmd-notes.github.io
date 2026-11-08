@@ -14,7 +14,10 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 先**分級嚴重度**（不需氧氣＝mild–moderate），再用 **Table 1／Table 2 估住院風險**：**1 個 high-risk 因子或「好幾個」increased-risk 因子＝高風險** → **==nirmatrelvir/ritonavir 首選（strong）==**，有 DDI 不能用改 **remdesivir IV 3 天（strong）**，兩者都不行才 **molnupiravir（conditional）**；**沒有任何危險因子 → 不給抗病毒、支持性治療**。越早越好：**==Paxlovid、molnupiravir 症狀 5 天內，remdesivir 7 天內==**。Paxlovid 依 eGFR 調整劑量（**30–60 減半 nirmatrelvir；< 30 含洗腎改 D1 300 mg 後 150 mg qd**）。
+> - 先**分級嚴重度**（不需氧氣＝mild–moderate），再用 **Table 1／Table 2 估住院風險**：**1 個 high-risk 因子或「好幾個」increased-risk 因子＝高風險** → **==nirmatrelvir/ritonavir 首選（strong）==**，有 DDI 不能用改 **remdesivir IV 3 天（strong）**，兩者都不行才 **molnupiravir（conditional）**
+>   - **沒有任何危險因子 → 不給抗病毒、支持性治療**
+> - 越早越好：**==Paxlovid、molnupiravir 症狀 5 天內，remdesivir 7 天內==**
+> - Paxlovid 依 eGFR 調整劑量（**30–60 減半 nirmatrelvir；< 30 含洗腎改 D1 300 mg 後 150 mg qd**）
 
 > [!info] 系列導覽
 > ↑ 回到 [[infectious-disease/covid-19-idsa/index|IDSA COVID-19 指引總覽]]

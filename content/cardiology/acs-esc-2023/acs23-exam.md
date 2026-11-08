@@ -11,7 +11,17 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> ACS 每年 2–3 題，**ECG 判讀定位罪犯血管**最多（下壁＋後壁 → RCA、前壁 → LAD、後壁 MI 看 V1–V3 ST 下降）。其他反覆考的：**休克只做罪犯血管、不常規 IABP**；**SaO2 正常不給氧**；**低血壓不給 nitrate、beta-blocker**；**短效 nifedipine 不用**；**NSTEMI 不打 fibrinolysis**；**clopidogrel 比 ticagrelor、prasugrel 弱**；**tPA 的 ICH 比 streptokinase 多**；**type 2 MI 處理誘因**；**VSR 是全收縮期雜音**。
+> - ACS 每年 2–3 題，**ECG 判讀定位罪犯血管**最多（下壁＋後壁 → RCA、前壁 → LAD、後壁 MI 看 V1–V3 ST 下降）
+> - 其他反覆考的：
+>   - **休克只做罪犯血管、不常規 IABP**
+>   - **SaO2 正常不給氧**
+>   - **低血壓不給 nitrate、beta-blocker**
+>   - **短效 nifedipine 不用**
+>   - **NSTEMI 不打 fibrinolysis**
+>   - **clopidogrel 比 ticagrelor、prasugrel 弱**
+>   - **tPA 的 ICH 比 streptokinase 多**
+>   - **type 2 MI 處理誘因**
+>   - **VSR 是全收縮期雜音**
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/acs-esc-2023/index|2023 ESC ACS 指引總覽]]

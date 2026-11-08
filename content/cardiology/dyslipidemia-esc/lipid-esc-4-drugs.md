@@ -15,7 +15,12 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 標準三步驟：**high-intensity statin 用到最高耐受劑量（I-A）→ 未達標加 ezetimibe（I-B）→ 次級預防仍未達標加 PCSK9 inhibitor（I-A）**。效益取決於**絕對 LDL-C 降幅**（每降 1 mmol/L，主要血管事件降約 22%）。🆕 2025：**不能用 statin 的人，建議用有 CV 證據的 non-statin（ezetimibe、PCSK9 mAb、bempedoic acid）單用或合併（I-A）**；**bempedoic acid** 進入建議（不能用 statin 時 I-B；加在 statin±ezetimibe 上 IIa-C）；HoFH 可考慮 **evinacumab**（IIa-B）。
+> - 標準三步驟：**high-intensity statin 用到最高耐受劑量（I-A）→ 未達標加 ezetimibe（I-B）→ 次級預防仍未達標加 PCSK9 inhibitor（I-A）**
+> - 效益取決於**絕對 LDL-C 降幅**（每降 1 mmol/L，主要血管事件降約 22%）
+> - 🆕 2025：
+>   - **不能用 statin 的人，建議用有 CV 證據的 non-statin（ezetimibe、PCSK9 mAb、bempedoic acid）單用或合併（I-A）**
+>   - **bempedoic acid** 進入建議（不能用 statin 時 I-B；加在 statin±ezetimibe 上 IIa-C）
+>   - HoFH 可考慮 **evinacumab**（IIa-B）
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/dyslipidemia-esc/index|血脂異常 ESC/EAS 指引總覽]]

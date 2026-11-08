@@ -15,7 +15,15 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **STEMI ≤ 12 小時 → 再灌流（I A）**：**預估診斷到 PCI < 120 分鐘 → primary PCI**（PCI 中心 **< 60 分鐘**、轉院 **< 90 分鐘**到 wire crossing）；**做不到 → 12 小時內 fibrinolysis（診斷到 bolus < 10 分鐘）**，打完**立即轉 PCI 中心**，**60–90 分鐘 ST 回落 < 50% → rescue PCI**，成功則 **2–24 小時**攝影。**> 12 小時**仍有症狀或不穩定 → PPCI；**> 48 小時沒症狀 → 不常規打通閉塞血管（III A）**。**NSTE-ACS**：**very high risk → immediate（盡快）**；**high risk（確診 NSTEMI、動態 ST-T、短暫 ST 上升、GRACE > 140）→ 24 小時內（IIa）**；其他 → selective。**休克 → 只做 IRA（I B）、不常規 IABP（III B）**；穩定 STEMI 多條血管 → **45 天內完全再通（I A）**。**MINOCA → CMR**。
+> - **STEMI ≤ 12 小時 → 再灌流（I A）**：**預估診斷到 PCI < 120 分鐘 → primary PCI**（PCI 中心 **< 60 分鐘**、轉院 **< 90 分鐘**到 wire crossing）
+>   - **做不到 → 12 小時內 fibrinolysis（診斷到 bolus < 10 分鐘）**，打完**立即轉 PCI 中心**，**60–90 分鐘 ST 回落 < 50% → rescue PCI**，成功則 **2–24 小時**攝影
+> - **> 12 小時**仍有症狀或不穩定 → PPCI；**> 48 小時沒症狀 → 不常規打通閉塞血管（III A）**
+> - **NSTE-ACS**：
+>   - **very high risk → immediate（盡快）**
+>   - **high risk（確診 NSTEMI、動態 ST-T、短暫 ST 上升、GRACE > 140）→ 24 小時內（IIa）**
+>   - 其他 → selective
+> - **休克 → 只做 IRA（I B）、不常規 IABP（III B）**；穩定 STEMI 多條血管 → **45 天內完全再通（I A）**
+> - **MINOCA → CMR**
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/acs-esc-2023/index|2023 ESC ACS 指引總覽]]

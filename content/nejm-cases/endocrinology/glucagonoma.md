@@ -15,7 +15,10 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 上腹痛最常見的是 GERD、潰瘍、functional dyspepsia，**內視鏡正常就給 PPI 試驗**是合理的；但 ==empiric treatment 無效== 就必須擴大鑑別。被忽略的線索早就在第一次抽血：**血糖 202**；後來出現**在不同部位反覆出現的皮疹** → CT 找到胰臟腫塊 → Ga-68 PET、切除、IHC＋血中升糖素 → **glucagonoma**，皮疹是 **necrolytic migratory erythema**。
+> - 上腹痛最常見的是 GERD、潰瘍、functional dyspepsia，**內視鏡正常就給 PPI 試驗**是合理的；但 ==empiric treatment 無效== 就必須擴大鑑別
+> - 被忽略的線索早就在第一次抽血：
+>   - **血糖 202**
+>   - 後來出現**在不同部位反覆出現的皮疹** → CT 找到胰臟腫塊 → Ga-68 PET、切除、IHC＋血中升糖素 → **glucagonoma**，皮疹是 **necrolytic migratory erythema**
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 53-Year-Old Man with Persistent Epigastric Pain〉，2024，[DOI 10.1056/EVIDmr2400027](https://doi.org/10.1056/EVIDmr2400027)。以下用自己的話整理，重點放在作者的推理過程。

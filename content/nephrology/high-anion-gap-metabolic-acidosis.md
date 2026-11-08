@@ -14,7 +14,10 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 每次看到電解質就算 AG：**==先用 albumin 校正 AG==**，再用 **Winter's formula** 看呼吸代償、用 **ΔAG/ΔHCO₃⁻** 找藏起來的第二、第三個酸鹼異常；HAGMA 合併 **osmolal gap** 時要想到 toxic alcohol／glycol。AG 太低甚至是負的，也一定要找原因。
+> - 每次看到電解質就算 AG：
+>   - **==先用 albumin 校正 AG==**，再用 **Winter's formula** 看呼吸代償、用 **ΔAG/ΔHCO₃⁻** 找藏起來的第二、第三個酸鹼異常
+>   - HAGMA 合併 **osmolal gap** 時要想到 toxic alcohol／glycol
+> - AG 太低甚至是負的，也一定要找原因
 
 ## 🗺️ 總綱
 

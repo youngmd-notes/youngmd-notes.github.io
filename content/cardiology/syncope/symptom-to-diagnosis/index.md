@@ -11,7 +11,9 @@ cssclasses:
 ---
 
 > [!abstract] 一句話重點
-> Syncope ＝ **transient global cerebral hypoperfusion** 造成的 TLOC，特徵是 **abrupt、brief、spontaneous complete recovery**。評估三步驟：**① 是不是 syncope → ② reflex、orthostatic 還是 cardiac → ③ 找特定病因**。每一位都要做 **history、PE（含 orthostatic vital signs）、ECG**；**cardiac syncope 會猝死，懷疑就住院**。
+> - Syncope ＝ **transient global cerebral hypoperfusion** 造成的 TLOC，特徵是 **abrupt、brief、spontaneous complete recovery**
+> - 評估三步驟：**① 是不是 syncope → ② reflex、orthostatic 還是 cardiac → ③ 找特定病因**
+> - 每一位都要做 **history、PE（含 orthostatic vital signs）、ECG**；**cardiac syncope 會猝死，懷疑就住院**
 
 ## 🌳 臨床決策圖：昏倒的病人在眼前
 

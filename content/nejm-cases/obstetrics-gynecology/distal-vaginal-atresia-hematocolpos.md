@@ -14,7 +14,8 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> Primary amenorrhea 先分兩大類：**HPG 軸異常**或**結構性阻塞**。這位女孩青春期發育正常、腹痛**每月一次**，提示「有月經、但流不出來」；==外陰檢查看不到陰道開口==就是答案的入口，影像只是用來分辨阻塞在哪一層。
+> - Primary amenorrhea 先分兩大類：**HPG 軸異常**或**結構性阻塞**
+> - 這位女孩青春期發育正常、腹痛**每月一次**，提示「有月經、但流不出來」；==外陰檢查看不到陰道開口==就是答案的入口，影像只是用來分辨阻塞在哪一層
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 13-Year-Old Girl with Primary Amenorrhea〉，2022，[DOI 10.1056/EVIDmr2200001](https://doi.org/10.1056/EVIDmr2200001)。以下用自己的話整理，重點放在作者的推理過程。

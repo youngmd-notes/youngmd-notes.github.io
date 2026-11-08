@@ -15,7 +15,12 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 判斷點是**氧氣**：**room air SpO₂ ≤ 94% 或需要氧氣＝severe** → **==dexamethasone 6 mg IV/PO qd × 10 天或到出院==**（severe conditional、critical strong）＋ **remdesivir 5 天**（需氧但未插管）；**==不需氧氣的病人不要給類固醇==**（有變差的趨勢）。**持續惡化或已上 HFNC、NIV、IMV、ECMO** → 在類固醇之上**加 baricitinib 或 tocilizumab 擇一**（IDSA 2025：兩者都可）；兩者都沒有才用 abatacept 或 infliximab。**插管或 ECMO 後才開始 remdesivir 不建議**。HCQ、ivermectin、colchicine、lopinavir/r、convalescent plasma（免疫正常）、famotidine **都不建議**。
+> - 判斷點是**氧氣**：**room air SpO₂ ≤ 94% 或需要氧氣＝severe** → **==dexamethasone 6 mg IV/PO qd × 10 天或到出院==**（severe conditional、critical strong）＋ **remdesivir 5 天**（需氧但未插管）
+>   - **==不需氧氣的病人不要給類固醇==**（有變差的趨勢）
+> - **持續惡化或已上 HFNC、NIV、IMV、ECMO** → 在類固醇之上**加 baricitinib 或 tocilizumab 擇一**（IDSA 2025：兩者都可）
+>   - 兩者都沒有才用 abatacept 或 infliximab
+> - **插管或 ECMO 後才開始 remdesivir 不建議**
+> - HCQ、ivermectin、colchicine、lopinavir/r、convalescent plasma（免疫正常）、famotidine **都不建議**
 
 > [!info] 系列導覽
 > ↑ 回到 [[infectious-disease/covid-19-idsa/index|IDSA COVID-19 指引總覽]]

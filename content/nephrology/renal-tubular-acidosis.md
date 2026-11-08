@@ -15,7 +15,8 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> Normal AG acidosis 先問「**腎臟有沒有在排 NH₄⁺**」：==尿液 NH₄⁺ 夠（> 40 mEq/d、urine osmolal gap 高）→ 腸胃道丟 HCO₃⁻；不夠 → RTA==。再用 **serum K⁺** 分低鉀（proximal、classic distal）與高鉀（type 4、voltage-dependent），最後用 **urine pH** 定型。
+> - Normal AG acidosis 先問「**腎臟有沒有在排 NH₄⁺**」：==尿液 NH₄⁺ 夠（> 40 mEq/d、urine osmolal gap 高）→ 腸胃道丟 HCO₃⁻；不夠 → RTA==
+> - 再用 **serum K⁺** 分低鉀（proximal、classic distal）與高鉀（type 4、voltage-dependent），最後用 **urine pH** 定型
 
 ## 🗺️ 總綱
 

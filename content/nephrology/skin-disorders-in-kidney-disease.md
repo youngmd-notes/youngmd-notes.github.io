@@ -18,7 +18,8 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 透析病人的皮膚問題記四個：**CKD-aP**（先擦 **emollient**）、**acquired perforating dermatosis**（抓出來的中央角栓結節，先止癢）、**metastatic calcinosis cutis**（關節旁白色粉筆樣結節，矯正鈣磷）、**calciphylaxis**（==疼痛不成比例、脂肪多的部位、retiform purpura → 黑痂==，停 warfarin、鈣與 vitamin D，用 sodium thiosulfate）。另外，皮膚也可以是 **lupus、vasculitis** 這類「同時打到腎臟」的疾病線索。
+> - 透析病人的皮膚問題記四個：**CKD-aP**（先擦 **emollient**）、**acquired perforating dermatosis**（抓出來的中央角栓結節，先止癢）、**metastatic calcinosis cutis**（關節旁白色粉筆樣結節，矯正鈣磷）、**calciphylaxis**（==疼痛不成比例、脂肪多的部位、retiform purpura → 黑痂==，停 warfarin、鈣與 vitamin D，用 sodium thiosulfate）
+> - 另外，皮膚也可以是 **lupus、vasculitis** 這類「同時打到腎臟」的疾病線索
 
 ## 🗺️ 總綱
 

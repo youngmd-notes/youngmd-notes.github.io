@@ -12,7 +12,12 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 先分**風險等級**，再定 **LDL-C 目標**：**very high → < 55 mg/dL 且下降 ≥ 50%**；**high → < 70 mg/dL 且下降 ≥ 50%**；moderate → < 100；low → < 116。🆕 2025 Focused Update 把無 ASCVD 者的風險計算從 **SCORE（10 年致命 CVD）改成 SCORE2／SCORE2-OP（10 年致命＋非致命 CVD）**，切點變成 **< 2%／2–10%／10–20%／≥ 20%**；**LDL-C 目標本身沒變**。
+> - 先分**風險等級**，再定 **LDL-C 目標**：**very high → < 55 mg/dL 且下降 ≥ 50%**
+>   - **high → < 70 mg/dL 且下降 ≥ 50%**
+>   - moderate → < 100
+>   - low → < 116
+> - 🆕 2025 Focused Update 把無 ASCVD 者的風險計算從 **SCORE（10 年致命 CVD）改成 SCORE2／SCORE2-OP（10 年致命＋非致命 CVD）**，切點變成 **< 2%／2–10%／10–20%／≥ 20%**
+>   - **LDL-C 目標本身沒變**
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/dyslipidemia-esc/index|血脂異常 ESC/EAS 指引總覽]]

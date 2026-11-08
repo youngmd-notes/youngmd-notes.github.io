@@ -16,7 +16,9 @@ cssclasses:
 ---
 
 > [!abstract] 一句話重點
-> **先分風險、再定 LDL-C 目標、最後依序加藥**：very high **< 55 mg/dL 且降 ≥ 50%**、high **< 70 且降 ≥ 50%**、moderate < 100、low < 116；**high-intensity statin → ezetimibe → PCSK9 inhibitor**。🆕 2025 Focused Update：風險改用 **SCORE2／SCORE2-OP**、**bempedoic acid** 與 **non-statin 合併**（statin 不耐受 I-A）、**ACS 住院就合併治療**、**Lp(a) > 50 mg/dL** 為風險增強因子、**HIV ≥ 40 歲一律 statin**、**補充品不建議（III）**。
+> - **先分風險、再定 LDL-C 目標、最後依序加藥**：very high **< 55 mg/dL 且降 ≥ 50%**、high **< 70 且降 ≥ 50%**、moderate < 100、low < 116
+>   - **high-intensity statin → ezetimibe → PCSK9 inhibitor**
+> - 🆕 2025 Focused Update：風險改用 **SCORE2／SCORE2-OP**、**bempedoic acid** 與 **non-statin 合併**（statin 不耐受 I-A）、**ACS 住院就合併治療**、**Lp(a) > 50 mg/dL** 為風險增強因子、**HIV ≥ 40 歲一律 statin**、**補充品不建議（III）**
 
 本主題整理 **2019 ESC/EAS Guidelines for the management of dyslipidaemias** 與 **2025 Focused Update** 的 Table 與 Figure（含建議表與重要 Box）。以 2019 為主體，2025 的新建議與修訂用 **🆕** 標出，被取代的 2019 原文保留並註明；單位以 **mg/dL** 為主。
 

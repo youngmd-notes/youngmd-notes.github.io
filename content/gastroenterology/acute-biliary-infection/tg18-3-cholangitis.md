@@ -13,7 +13,10 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> Cholangitis 治療三支柱：**抗生素、膽道引流、處理病因**。**Grade I** 先抗生素，**24 h 沒反應才引流**；**Grade II 早期引流**（最能降低死亡率的族群）；**Grade III 先穩定呼吸循環，再盡快緊急引流**。引流首選 **endoscopic transpapillary drainage（ENBD 或 EBS 都可）**，單純引流**不需要 EST**；凝血異常或抗凝者用 **stent，避免 EST 與 PTCD**。
+> - Cholangitis 治療三支柱：**抗生素、膽道引流、處理病因**
+> - **Grade I** 先抗生素，**24 h 沒反應才引流**；**Grade II 早期引流**（最能降低死亡率的族群）；**Grade III 先穩定呼吸循環，再盡快緊急引流**
+> - 引流首選 **endoscopic transpapillary drainage（ENBD 或 EBS 都可）**，單純引流**不需要 EST**
+>   - 凝血異常或抗凝者用 **stent，避免 EST 與 PTCD**
 
 > [!info] 系列導覽
 > ↑ 回到 [[gastroenterology/acute-biliary-infection/index|急性膽道感染 TG18 總覽]]

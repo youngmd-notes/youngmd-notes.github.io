@@ -17,7 +17,16 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **先排除 ACS**（像 ACS → 急診、hs-troponin）。疑似 CCS：**ECG、抽血（LDL、CBC、Cr、HbA1c、甲狀腺）、靜止心臟超音波** → 用 **RF-CL**（症狀分數＋危險因子數＋年齡性別）估可能性 → **≤ 5% 延後檢查**｜**＞ 5–50% 首選 CCTA**｜**＞ 15–85% 功能影像（PET 較佳）**｜**＞ 85% 或低運動量心絞痛 → 直接 ICA＋FFR/iFR**。治療：**舌下 NTG＋beta-blocker 和／或 CCB**（HR 55–60）；**aspirin 75–100 mg 終生（或 clopidogrel）**；**PCI 後 aspirin＋clopidogrel 6 個月**（高出血 1–3 個月）；**高強度 statin，LDL < 55 mg/dL**；T2DM → **SGLT2-I、GLP-1 RA**。**LM、三條血管、近端 LAD（LVEF > 35%）→ 再通改善預後**；**LVEF ≤ 35%＋多條血管 → CABG**；**多條血管＋DM → CABG**。冠狀動脈正常但持續心絞痛 → **ANOCA／INOCA**（血管痙攣 → **CCB**）。
+> - **先排除 ACS**（像 ACS → 急診、hs-troponin）
+> - 疑似 CCS：**ECG、抽血（LDL、CBC、Cr、HbA1c、甲狀腺）、靜止心臟超音波** → 用 **RF-CL**（症狀分數＋危險因子數＋年齡性別）估可能性 → **≤ 5% 延後檢查**｜**＞ 5–50% 首選 CCTA**｜**＞ 15–85% 功能影像（PET 較佳）**｜**＞ 85% 或低運動量心絞痛 → 直接 ICA＋FFR/iFR**
+> - 治療：
+>   - **舌下 NTG＋beta-blocker 和／或 CCB**（HR 55–60）
+>   - **aspirin 75–100 mg 終生（或 clopidogrel）**
+>   - **PCI 後 aspirin＋clopidogrel 6 個月**（高出血 1–3 個月）
+>   - **高強度 statin，LDL < 55 mg/dL**
+>   - T2DM → **SGLT2-I、GLP-1 RA**
+> - **LM、三條血管、近端 LAD（LVEF > 35%）→ 再通改善預後**；**LVEF ≤ 35%＋多條血管 → CABG**；**多條血管＋DM → CABG**
+> - 冠狀動脈正常但持續心絞痛 → **ANOCA／INOCA**（血管痙攣 → **CCB**）
 
 本系列依 **2024 ESC Guidelines for the management of chronic coronary syndromes**（*Eur Heart J* 2024）整理成 4 篇指引筆記、📋 建議總整理（Table 3、4、10 逐條中文）與第 5 篇內專考點；原圖含 **Table 3–10 與 Figure 1–18**。🆕 方框補上 **2026 ESC 心衰竭指引**與 **2025 ESC/EAS 血脂 Focused Update** 的更新。
 

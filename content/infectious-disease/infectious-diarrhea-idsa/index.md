@@ -17,7 +17,14 @@ cssclasses:
 ---
 
 > [!abstract] 一句話重點
-> **先補液**（輕中度 **ORS**、嚴重或休克 **IV LR／NS**）。**多數不驗、不給抗生素**——**血便也先不給**。**發燒、血便、劇烈腹痛、sepsis → 驗糞便**（*Salmonella*、*Shigella*、*Campylobacter*、*Yersinia*、*C. difficile*、STEC）。**經驗性抗生素只給 4 種人**：**< 3 個月嬰兒**、**像 *Shigella* 痢疾（醫院量到發燒＋血便＋tenesmus）**、**國外回來 ≥ 38.5°C 或 sepsis**、**免疫不全重症**——用 **azithromycin 或 ciprofloxacin**。**==像 STEC（血便、不太燒、腹痛明顯）→ 不給抗生素、不給止瀉藥，每天追 Hb、PLT、Cr 看 HUS==**。**流行區回來發燒 → 血液培養、懷疑 enteric fever＋sepsis 就給廣效**（ceftriaxone）。**止瀉藥 < 18 歲、發燒或血便不給**。🆕 ***C. difficile*：fidaxomicin 首選、oral vancomycin 替代**。
+> - **先補液**（輕中度 **ORS**、嚴重或休克 **IV LR／NS**）
+> - **多數不驗、不給抗生素**——**血便也先不給**
+> - **發燒、血便、劇烈腹痛、sepsis → 驗糞便**（*Salmonella*、*Shigella*、*Campylobacter*、*Yersinia*、*C. difficile*、STEC）
+> - **經驗性抗生素只給 4 種人**：**< 3 個月嬰兒**、**像 *Shigella* 痢疾（醫院量到發燒＋血便＋tenesmus）**、**國外回來 ≥ 38.5°C 或 sepsis**、**免疫不全重症**——用 **azithromycin 或 ciprofloxacin**
+> - **==像 STEC（血便、不太燒、腹痛明顯）→ 不給抗生素、不給止瀉藥，每天追 Hb、PLT、Cr 看 HUS==**
+> - **流行區回來發燒 → 血液培養、懷疑 enteric fever＋sepsis 就給廣效**（ceftriaxone）
+> - **止瀉藥 < 18 歲、發燒或血便不給**
+> - 🆕 ***C. difficile*：fidaxomicin 首選、oral vancomycin 替代**
 
 本系列依 **2017 IDSA 感染性腹瀉指引**（Shane AL, et al. *Clin Infect Dis* 2017）整理成 4 篇指引筆記，加上第 5 篇內專考點；共 60 條建議、Table 1–7、Figure 1–2。*C. difficile* 原書只簡述、交給專屬指引，已用 🆕 補上 **IDSA/SHEA 2021** 的治療建議，另補 CDC 2023 **XDR *Shigella*** 警訊。
 

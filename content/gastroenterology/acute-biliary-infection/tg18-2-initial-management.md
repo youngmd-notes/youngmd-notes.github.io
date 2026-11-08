@@ -12,7 +12,10 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 懷疑膽道感染：**先看 vital signs，不穩就先救（不用等確診）** → 問診、PE、抽血、**US（第一線）或 CT** → 用 TG18 標準診斷 → 立刻給**輸液、止痛、足量 IV 抗生素、禁食** → 分級＋評估 general status（**CCI、ASA-PS**）→ 依流程圖治療；醫院做不到引流或 ICU 就**轉院**。分級要**重複評估**（診斷時、24 h 內、24–48 h）。
+> - 懷疑膽道感染：
+>   - **先看 vital signs，不穩就先救（不用等確診）** → 問診、PE、抽血、**US（第一線）或 CT** → 用 TG18 標準診斷 → 立刻給**輸液、止痛、足量 IV 抗生素、禁食** → 分級＋評估 general status（**CCI、ASA-PS**）→ 依流程圖治療
+>   - 醫院做不到引流或 ICU 就**轉院**
+> - 分級要**重複評估**（診斷時、24 h 內、24–48 h）
 
 > [!info] 系列導覽
 > ↑ 回到 [[gastroenterology/acute-biliary-infection/index|急性膽道感染 TG18 總覽]]

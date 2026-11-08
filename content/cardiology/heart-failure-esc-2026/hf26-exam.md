@@ -11,7 +11,14 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> HF 是心臟科**考最多的主題**（35 題）。反覆考的：**改善預後的 beta-blocker 只有 bisoprolol、carvedilol、metoprolol succinate（＋nebivolol）**；**不改善存活的：loop diuretic、digoxin、ivabradine（非 Class I）、aliskiren、bosentan、tolvaptan、levosimendan、inotrope**；**ARNI 會讓 BNP 上升**（NT-proBNP 不受影響）、**肥胖讓 NP 偏低**；**HFpEF 的 ACE-I／ARB 試驗沒有降低死亡**；**HF＋AF 的 rhythm control 用 amiodarone**，**dronedarone 在嚴重 HF 增加死亡**；**休克不常規放 IABP**、**低血壓不給血管擴張劑**、**不追求高氧**。
+> - HF 是心臟科**考最多的主題**（35 題）
+> - 反覆考的：
+>   - **改善預後的 beta-blocker 只有 bisoprolol、carvedilol、metoprolol succinate（＋nebivolol）**
+>   - **不改善存活的：loop diuretic、digoxin、ivabradine（非 Class I）、aliskiren、bosentan、tolvaptan、levosimendan、inotrope**
+>   - **ARNI 會讓 BNP 上升**（NT-proBNP 不受影響）、**肥胖讓 NP 偏低**
+>   - **HFpEF 的 ACE-I／ARB 試驗沒有降低死亡**
+>   - **HF＋AF 的 rhythm control 用 amiodarone**，**dronedarone 在嚴重 HF 增加死亡**
+>   - **休克不常規放 IABP**、**低血壓不給血管擴張劑**、**不追求高氧**
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/heart-failure-esc-2026/index|2026 ESC 心衰竭指引總覽]]

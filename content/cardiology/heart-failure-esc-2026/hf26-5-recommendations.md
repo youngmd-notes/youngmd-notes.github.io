@@ -12,7 +12,10 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 2026 版 **MRA 不論 LVEF、有症狀就給（I A）**、**住院中穩定後就開始 SGLT2-I（I B1）**、**FMT 至少每 1–2 週調升一次、LVEF 改善也不停（I C）**、**高血壓或 stage B → SBP < 130（I A）**；升級的有 **M-TEER（IIa → I）**、**LVAD（IIa → I）**、**digoxin（IIb → IIa）**、**TTR 用 vutrisiran／tafamidis／acoramidis（I A）**；降級的有 **CRT 取代 RV pacing（I → IIa）**。新的「不要做」：**未篩選的 MI 休克用 temporary MCS、懷孕用 RAAS 抑制劑／MRA／ivabradine／SGLT2-I**。
+> - 2026 版 **MRA 不論 LVEF、有症狀就給（I A）**、**住院中穩定後就開始 SGLT2-I（I B1）**、**FMT 至少每 1–2 週調升一次、LVEF 改善也不停（I C）**、**高血壓或 stage B → SBP < 130（I A）**
+>   - 升級的有 **M-TEER（IIa → I）**、**LVAD（IIa → I）**、**digoxin（IIb → IIa）**、**TTR 用 vutrisiran／tafamidis／acoramidis（I A）**
+>   - 降級的有 **CRT 取代 RV pacing（I → IIa）**
+> - 新的「不要做」：**未篩選的 MI 休克用 temporary MCS、懷孕用 RAAS 抑制劑／MRA／ivabradine／SGLT2-I**
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/heart-failure-esc-2026/index|2026 ESC 心衰竭指引總覽]]

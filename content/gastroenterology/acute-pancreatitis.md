@@ -14,7 +14,11 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 診斷看 **upper abdominal pain＋pancreatic enzyme（首選 lipase）＋imaging 三項中兩項**；確診後**立刻、並在 48 小時內反覆**做 severity assessment（JSS）。早期處置的核心是 **Ringer's lactate 輸液到 MAP ≥ 65、UO ≥ 0.5 mL/kg/h**、止痛、**早期 enteral nutrition**；第一件要分辨的病因是 **gallstone**（合併 cholangitis／膽道阻塞才做 early ERCP/ES，出院前把膽囊拿掉）。Necrosis 先保守，真的要介入也**等到 4 週後 WON 期**，用 step-up approach。
+> - 診斷看 **upper abdominal pain＋pancreatic enzyme（首選 lipase）＋imaging 三項中兩項**
+>   - 確診後**立刻、並在 48 小時內反覆**做 severity assessment（JSS）
+> - 早期處置的核心是 **Ringer's lactate 輸液到 MAP ≥ 65、UO ≥ 0.5 mL/kg/h**、止痛、**早期 enteral nutrition**
+>   - 第一件要分辨的病因是 **gallstone**（合併 cholangitis／膽道阻塞才做 early ERCP/ES，出院前把膽囊拿掉）
+> - Necrosis 先保守，真的要介入也**等到 4 週後 WON 期**，用 step-up approach
 
 ## 🗺️ 總綱
 

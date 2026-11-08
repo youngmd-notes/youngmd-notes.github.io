@@ -13,7 +13,10 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> ACS 是一個**光譜**：先依 ECG 分成 **STEMI（含 STEMI equivalent）** 與 **NSTE-ACS**，再用 **hs-cTn** 分成 **NSTEMI** 與 **unstable angina**。**==ECG 在 FMC 後 10 分鐘內==**、**==hs-cTn 抽血後 60 分鐘內出結果==**，用 **ESC 0 h/1 h（或 0 h/2 h）演算法** rule-in／rule-out，**不確定 → 3 小時再驗**。下壁 STEMI 或懷疑完全阻塞但標準導程不確定 → **加做 V3R、V4R、V7–V9**。**休克或懷疑機械併發症 → 緊急 TTE**；**不常規做早期 CCTA**。
+> - ACS 是一個**光譜**：先依 ECG 分成 **STEMI（含 STEMI equivalent）** 與 **NSTE-ACS**，再用 **hs-cTn** 分成 **NSTEMI** 與 **unstable angina**
+> - **==ECG 在 FMC 後 10 分鐘內==**、**==hs-cTn 抽血後 60 分鐘內出結果==**，用 **ESC 0 h/1 h（或 0 h/2 h）演算法** rule-in／rule-out，**不確定 → 3 小時再驗**
+> - 下壁 STEMI 或懷疑完全阻塞但標準導程不確定 → **加做 V3R、V4R、V7–V9**
+> - **休克或懷疑機械併發症 → 緊急 TTE**；**不常規做早期 CCTA**
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/acs-esc-2023/index|2023 ESC ACS 指引總覽]]

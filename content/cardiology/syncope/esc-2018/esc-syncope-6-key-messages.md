@@ -11,7 +11,9 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **Figure 1** 是 2009 → 2018 的變化：**tilt test 全面降級**（I → IIa／IIb）、**HV ≥ 70 ms 的 pacing 升為 I**、**empirical pacing 降為 IIb**、**high-risk HCM 的 ICD 升為 I**、**ARVC 的 ICD 降為 IIb**；新增 **ED 風險分層三條 I-B** 和 **ILR 的新適應症**。最後用 **19 條 key messages** 與 **Class I／III 清單**收尾。
+> - **Figure 1** 是 2009 → 2018 的變化：**tilt test 全面降級**（I → IIa／IIb）、**HV ≥ 70 ms 的 pacing 升為 I**、**empirical pacing 降為 IIb**、**high-risk HCM 的 ICD 升為 I**、**ARVC 的 ICD 降為 IIb**
+>   - 新增 **ED 風險分層三條 I-B** 和 **ILR 的新適應症**
+> - 最後用 **19 條 key messages** 與 **Class I／III 清單**收尾
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/syncope/esc-2018/index|② 2018 ESC 指引總覽]]

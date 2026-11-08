@@ -17,7 +17,17 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 台灣 ICU 的 HAP／VAP 前三名是 **==P. aeruginosa、K. pneumoniae、A. baumannii==**，***S. aureus* 只約 1 成**（美國可到 3 成），而且 **CRKP、CRAB** 逐年上升。診斷：**CPIS 不當常規診斷**、**PCT／CRP 不用來決定開始抗生素**、**VAE 監測不能拿來診斷 VAP**（1A）；**血液培養要常規做**（1C）；VAP 先用 **ETA 半定量培養**（2C）。經驗性治療：低 MDR 風險 → **單一 anti-pseudomonal**；**休克或高 MDR 風險 → 兩種不同類別**；**台灣不常規 cover MRSA**、**colistin 不當常規經驗用藥**。療程 **7 天**，藥敏出來就降階。🆕 IDSA 2024：CRE、CRAB、DTR-PA 改用新一代 β-lactam 組合，**不建議吸入型抗生素**。
+> - 台灣 ICU 的 HAP／VAP 前三名是 **==P. aeruginosa、K. pneumoniae、A. baumannii==**，***S. aureus* 只約 1 成**（美國可到 3 成），而且 **CRKP、CRAB** 逐年上升
+> - 診斷：
+>   - **CPIS 不當常規診斷**、**PCT／CRP 不用來決定開始抗生素**、**VAE 監測不能拿來診斷 VAP**（1A）
+>   - **血液培養要常規做**（1C）
+>   - VAP 先用 **ETA 半定量培養**（2C）
+> - 經驗性治療：
+>   - 低 MDR 風險 → **單一 anti-pseudomonal**
+>   - **休克或高 MDR 風險 → 兩種不同類別**
+>   - **台灣不常規 cover MRSA**、**colistin 不當常規經驗用藥**
+> - 療程 **7 天**，藥敏出來就降階
+> - 🆕 IDSA 2024：CRE、CRAB、DTR-PA 改用新一代 β-lactam 組合，**不建議吸入型抗生素**
 
 > [!info] 系列導覽
 > ↑ 回到 [[infectious-disease/pneumonia/index|台灣肺炎診治指引總覽]]

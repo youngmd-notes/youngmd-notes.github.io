@@ -14,7 +14,11 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 抗體**不是用來診斷急性感染的**：**==發病 2 週內不要用 serology（strong）==**（1 週 sensitivity 只有 24–35%）；**臨床懷疑高但 NAAT 反覆陰性**也**不要用 IgG 佐證（strong）**——現在多數人打過疫苗或得過，陽性只代表過去暴露。真正有用的是 **MIS-C**：**==IgG＋NAAT 一起驗（strong）==**。要證明「曾經感染」→ 發病後 **3–5 週**驗 **IgG、IgG/IgM 或 total**（**不要只驗 IgM**），且選 **anti-nucleocapsid（N）而不是 anti-spike（S）**（疫苗只產生 anti-S）。**不建議打過疫苗或得過的人常規驗抗體**，也**不要用抗體決定要不要打追加劑**。
+> - 抗體**不是用來診斷急性感染的**：**==發病 2 週內不要用 serology（strong）==**（1 週 sensitivity 只有 24–35%）
+>   - **臨床懷疑高但 NAAT 反覆陰性**也**不要用 IgG 佐證（strong）**——現在多數人打過疫苗或得過，陽性只代表過去暴露
+> - 真正有用的是 **MIS-C**：**==IgG＋NAAT 一起驗（strong）==**
+> - 要證明「曾經感染」→ 發病後 **3–5 週**驗 **IgG、IgG/IgM 或 total**（**不要只驗 IgM**），且選 **anti-nucleocapsid（N）而不是 anti-spike（S）**（疫苗只產生 anti-S）
+> - **不建議打過疫苗或得過的人常規驗抗體**，也**不要用抗體決定要不要打追加劑**
 
 > [!info] 系列導覽
 > ↑ 回到 [[infectious-disease/covid-19-idsa/index|IDSA COVID-19 指引總覽]]

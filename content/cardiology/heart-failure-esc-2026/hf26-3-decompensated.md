@@ -18,7 +18,19 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **先找誘因（CHAMPIT）＋分型**（cardiogenic shock／acute pulmonary oedema／左側／右側 DHF）。**氧氣只給 SpO2 < 90% 或 PaO2 < 60**；呼吸窘迫（RR > 25、SpO2 < 90%）→ **盡早 NIPPV**。**==IV loop diuretic：沒用過的人 furosemide 40 mg，長期使用者給每日口服量的 2 倍==** → **2 小時 spot urine Na ≥ 70 mmol/L 或 6 小時尿量 ≥ 100 mL/h** → 有反應就每 12 小時重複；沒反應 → **劑量加倍，或加 IV acetazolamide 500 mg qd 或 HCTZ**（IIa B1）→ 再不夠 → 加到最大（furosemide 一般最多 600 mg/day）＋其他利尿劑 → ultrafiltration。**==穩定後住院中就開始 SGLT2-I（I B1）==**，出院前**快速調升 FMT、6 週內密集追蹤（I B2）**。**Vasodilator 只在 SBP > 110**；**inotrope 只在 SBP < 90＋低灌流**；**vasopressor 首選 norepinephrine**；**不常規給 opiate**。休克：**Shock Team**；**STEMI 休克＋LV 功能差、沒有缺氧腦傷 → 可考慮 microaxial flow pump（IIa B1）**；**未篩選的 MI 休克不用 temporary MCS（III）**、**IABP 不建議（III）**。
+> - **先找誘因（CHAMPIT）＋分型**（cardiogenic shock／acute pulmonary oedema／左側／右側 DHF）
+> - **氧氣只給 SpO2 < 90% 或 PaO2 < 60**；呼吸窘迫（RR > 25、SpO2 < 90%）→ **盡早 NIPPV**
+> - **==IV loop diuretic：沒用過的人 furosemide 40 mg，長期使用者給每日口服量的 2 倍==** → **2 小時 spot urine Na ≥ 70 mmol/L 或 6 小時尿量 ≥ 100 mL/h** → 有反應就每 12 小時重複
+>   - 沒反應 → **劑量加倍，或加 IV acetazolamide 500 mg qd 或 HCTZ**（IIa B1）→ 再不夠 → 加到最大（furosemide 一般最多 600 mg/day）＋其他利尿劑 → ultrafiltration
+> - **==穩定後住院中就開始 SGLT2-I（I B1）==**，出院前**快速調升 FMT、6 週內密集追蹤（I B2）**
+> - **Vasodilator 只在 SBP > 110**
+>   - **inotrope 只在 SBP < 90＋低灌流**
+>   - **vasopressor 首選 norepinephrine**
+>   - **不常規給 opiate**
+> - 休克：
+>   - **Shock Team**
+>   - **STEMI 休克＋LV 功能差、沒有缺氧腦傷 → 可考慮 microaxial flow pump（IIa B1）**
+>   - **未篩選的 MI 休克不用 temporary MCS（III）**、**IABP 不建議（III）**
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/heart-failure-esc-2026/index|2026 ESC 心衰竭指引總覽]]

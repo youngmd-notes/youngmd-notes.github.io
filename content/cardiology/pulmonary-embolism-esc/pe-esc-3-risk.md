@@ -13,7 +13,11 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **Table 8 四級分層**：**hemodynamic instability → high**；穩定者看 **PESI III–V／sPESI ≥ 1**（或 RV、troponin 異常）→ **intermediate**，其中 **RV dysfunction（TTE／CTPA）＋troponin 上升「兩者都有」→ intermediate-high**，只有一項或都沒有 → intermediate-low；**PESI I–II／sPESI 0 且 RV、troponin 都正常 → low**。**==sPESI 0 但 RV 或 troponin 異常 → 仍歸 intermediate-low==**。
+> - **Table 8 四級分層**：
+>   - **hemodynamic instability → high**
+>   - 穩定者看 **PESI III–V／sPESI ≥ 1**（或 RV、troponin 異常）→ **intermediate**，其中 **RV dysfunction（TTE／CTPA）＋troponin 上升「兩者都有」→ intermediate-high**，只有一項或都沒有 → intermediate-low
+>   - **PESI I–II／sPESI 0 且 RV、troponin 都正常 → low**
+> - **==sPESI 0 但 RV 或 troponin 異常 → 仍歸 intermediate-low==**
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/pulmonary-embolism-esc/index|急性肺栓塞 ESC 2019 指引總覽]]

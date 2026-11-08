@@ -13,7 +13,10 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> TG18 **完全沿用 TG13** 的診斷與分級。Cholangitis 看 **A 全身發炎＋B cholestasis＋C imaging**（A 必備）；cholecystitis 看 **A 局部徵象＋B 全身發炎＋C imaging**。兩者 **Grade III 的器官衰竭定義相同**，**Grade II 完全不同**：cholangitis 是「五項中 **≥ 2 項**」，cholecystitis 是「四項中 **任 1 項**」。
+> - TG18 **完全沿用 TG13** 的診斷與分級
+> - Cholangitis 看 **A 全身發炎＋B cholestasis＋C imaging**（A 必備）
+>   - cholecystitis 看 **A 局部徵象＋B 全身發炎＋C imaging**
+> - 兩者 **Grade III 的器官衰竭定義相同**，**Grade II 完全不同**：cholangitis 是「五項中 **≥ 2 項**」，cholecystitis 是「四項中 **任 1 項**」
 
 > [!info] 系列導覽
 > ↑ 回到 [[gastroenterology/acute-biliary-infection/index|急性膽道感染 TG18 總覽]]

@@ -14,7 +14,11 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 每個腹瀉病人都要問**詳細病史與暴露史**（strong），並**評估脫水**（strong, high；嬰幼兒與老人最危險）。**發燒或血便 → 要找可治療的菌：*Salmonella*、*Shigella*、*Campylobacter***；**發燒＋到過流行區（或吃過流行區來的人做的食物）→ 想 enteric fever**（可以沒有腹瀉）。**==疑似 STEC（血便、不太燒、腹痛明顯）→ 要驗 Shiga toxin 並區分 O157==**，它是 **HUS** 的元兇。還要留意**感染後併發症**：GBS（*Campylobacter*）、reactive arthritis、post-infectious IBS。
+> - 每個腹瀉病人都要問**詳細病史與暴露史**（strong），並**評估脫水**（strong, high；嬰幼兒與老人最危險）
+> - **發燒或血便 → 要找可治療的菌：*Salmonella*、*Shigella*、*Campylobacter***
+>   - **發燒＋到過流行區（或吃過流行區來的人做的食物）→ 想 enteric fever**（可以沒有腹瀉）
+> - **==疑似 STEC（血便、不太燒、腹痛明顯）→ 要驗 Shiga toxin 並區分 O157==**，它是 **HUS** 的元兇
+> - 還要留意**感染後併發症**：GBS（*Campylobacter*）、reactive arthritis、post-infectious IBS
 
 > [!info] 系列導覽
 > ↑ 回到 [[infectious-disease/infectious-diarrhea-idsa/index|IDSA 感染性腹瀉指引總覽]]

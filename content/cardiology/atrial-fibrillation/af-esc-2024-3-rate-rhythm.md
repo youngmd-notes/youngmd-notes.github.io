@@ -13,7 +13,8 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> Rate control 先看 **LVEF**：**≤ 40% 只能用 beta-blocker 或 digoxin**，> 40% 才能加 diltiazem／verapamil；cardioversion 的關鍵是**抗凝狀態與 AF 持續時間**，而且**做完不論分數都要抗凝 4 週**。
+> - Rate control 先看 **LVEF**：**≤ 40% 只能用 beta-blocker 或 digoxin**，> 40% 才能加 diltiazem／verapamil
+>   - cardioversion 的關鍵是**抗凝狀態與 AF 持續時間**，而且**做完不論分數都要抗凝 4 週**
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/atrial-fibrillation/index|心房顫動 AF 總覽]]

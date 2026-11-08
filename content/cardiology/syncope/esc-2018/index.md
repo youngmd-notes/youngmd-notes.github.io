@@ -16,7 +16,13 @@ cssclasses:
 ---
 
 > [!abstract] 一句話重點
-> 2018 ESC 暈厥指引的三大主軸：**① 初步評估（H&P＋supine／standing BP＋ECG）能確診就治療 → ② 不能確診就做風險分層，low-risk 出院、high-risk 早期密集評估（不一定住院） → ③ 依機轉治療**：reflex 依年齡選治療、**pacing 只給記錄到 asystole 的 > 40 歲**（🆕 2021 ESC pacing 升為 I-A）、unexplained syncope＋SCD 高風險權衡 ICD（或先放 ILR）。
+> 2018 ESC 暈厥指引的三大主軸：
+> 1. **初步評估（H&P＋supine／standing BP＋ECG）能確診就治療**
+> 2. **不能確診就做風險分層**：low-risk 出院、high-risk 早期密集評估（不一定住院）
+> 3. **依機轉治療**
+>    - reflex 依年齡選治療
+>    - **pacing 只給記錄到 asystole 的 > 40 歲**（🆕 2021 ESC pacing 升為 I-A）
+>    - unexplained syncope＋SCD 高風險權衡 ICD（或先放 ILR）
 
 本主題**只整理 2018 ESC Guidelines for the diagnosis and management of syncope 的 Table 與 Figure**（含建議表），和 [[cardiology/syncope/symptom-to-diagnosis/index|① 教科書整理（Symptom to Diagnosis）]] 同屬 [[cardiology/syncope/index|暈厥 Syncope]] 主題；兩邊互相補充，但這裡的內容一律以 ESC 指引為準。2018 之後被**更新版 ESC 指引**取代的建議用 **🆕** 標出（2021 ESC pacing）。
 

@@ -11,7 +11,9 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 2018 ESC 定義 **syncope = cerebral hypoperfusion 造成的 TLOC**（rapid onset、short duration、spontaneous complete recovery）。分三大類：**reflex、OH、cardiac**。每個病人都做 **initial syncope evaluation：history＋PE（含 supine 與 standing BP）＋ECG**，能確診的就治療，不能確診的就進入 **risk stratification**。
+> - 2018 ESC 定義 **syncope = cerebral hypoperfusion 造成的 TLOC**（rapid onset、short duration、spontaneous complete recovery）
+> - 分三大類：**reflex、OH、cardiac**
+> - 每個病人都做 **initial syncope evaluation：history＋PE（含 supine 與 standing BP）＋ECG**，能確診的就治療，不能確診的就進入 **risk stratification**
 
 > [!info] 系列導覽（本系列只整理指引中的 Table 與 Figure）
 > ↑ 回到 [[cardiology/syncope/esc-2018/index|② 2018 ESC 指引總覽]]

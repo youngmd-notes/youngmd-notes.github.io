@@ -15,7 +15,9 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> 慢性瀰漫性皮膚 nodule 的鑑別很廣（granulomatous infection、免疫缺乏、autoimmune、lymphoma、組織球疾病）。這個病例的推理工具很漂亮：==SPEP polyclonal hypergammaglobulinemia → 用 CRP 分兩群==（CRP 低：肝病、IgG4-RD；CRP 高：感染、Castleman、vasculitis、**組織球疾病**），再看 IgG 亞型。最後 biopsy 的關鍵是**組織球吞入完整白血球（emperipolesis）** → Rosai–Dorfman 病。
+> - 慢性瀰漫性皮膚 nodule 的鑑別很廣（granulomatous infection、免疫缺乏、autoimmune、lymphoma、組織球疾病）
+> - 這個病例的推理工具很漂亮：==SPEP polyclonal hypergammaglobulinemia → 用 CRP 分兩群==（CRP 低：肝病、IgG4-RD；CRP 高：感染、Castleman、vasculitis、**組織球疾病**），再看 IgG 亞型
+> - 最後 biopsy 的關鍵是**組織球吞入完整白血球（emperipolesis）** → Rosai–Dorfman 病
 
 > [!info] 個案來源
 > NEJM Evidence Morning Report〈A 54-Year-Old Woman with Cutaneous Nodules〉，2022，[DOI 10.1056/EVIDmr2200035](https://doi.org/10.1056/EVIDmr2200035)。以下用自己的話整理，重點放在作者的推理過程。
