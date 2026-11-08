@@ -36,10 +36,13 @@ tags:
 
 <div class="orig-fig" data-src="心臟科/hf-esc-2026-originals/table-04.png" data-label="Table 4"></div>
 
+### 新建議與修訂建議（Table 5–6）
+
 - **Table 5（新建議）、Table 6（修訂建議）**：逐條整理在本系列各篇的建議表，以「**（新）**」「**（修訂）**」標示
 
 <div class="orig-fig" data-src="心臟科/hf-esc-2026-originals/table-05-1.png,心臟科/hf-esc-2026-originals/table-05-2.png,心臟科/hf-esc-2026-originals/table-05-3.png" data-label="Table 5 新建議"></div>
 <div class="orig-fig" data-src="心臟科/hf-esc-2026-originals/table-06-1.png,心臟科/hf-esc-2026-originals/table-06-2.png,心臟科/hf-esc-2026-originals/table-06-3.png" data-label="Table 6 修訂建議"></div>
+
 ### Central illustration：依 LVEF 誰用什麼（Figure 1 依內容重新整理）
 
 | 類別 | 治療 | 適用 LVEF | 等級 |
@@ -87,6 +90,8 @@ tags:
 
 - 用單一 LVEF 切點有點武斷；**MR 時 LVEF 可能假性偏高**
 
+### HF 分期 Stage A–D（Figure 2 依內容重新整理）
+
 | Stage | 意義 |
 | --- | --- |
 | **A：At risk** | 有危險因子，但**沒有**症狀或徵象、**沒有**結構變化、**沒有**心臟生物標記上升（不是每個人都會發展成 HF，但可能要介入危險因子） |
@@ -96,7 +101,9 @@ tags:
 
 <div class="orig-fig" data-src="心臟科/hf-esc-2026-originals/figure-02.png" data-label="Figure 2"></div>
 
-**治療的新名稱（Figure 3）**：金字塔底層是 **FMT（foundational medical therapy）**，上層是 **AMT（additional medical therapy）** 與 **GDIT（guideline-directed interventional therapy）**；**GDMT＝FMT＋AMT**。
+### 治療的新名稱（Figure 3）
+
+金字塔底層是 **FMT（foundational medical therapy）**，上層是 **AMT（additional medical therapy）** 與 **GDIT（guideline-directed interventional therapy）**；**GDMT＝FMT＋AMT**。
 
 <div class="orig-fig" data-src="心臟科/hf-esc-2026-originals/figure-03.png" data-label="Figure 3"></div>
 
@@ -184,7 +191,7 @@ flowchart TD
 
 ### 找病因（Figure 5–9、Recommendation Table 4）
 
-**HFrEF 的主要原因（Figure 5）與 HFpEF 的主要危險因子（Figure 6）**：
+#### HFrEF 的原因與 HFpEF 的危險因子（Figure 5–6 依內容重新整理）
 
 | HFrEF 主要原因 | HFpEF 主要危險因子 |
 | --- | --- |
@@ -200,6 +207,7 @@ flowchart TD
   - HFrEF＋高度懷疑阻塞性 CAD → **侵入性冠狀動脈攝影**（IIa C）
 
 <div class="orig-fig" data-src="心臟科/hf-esc-2026-originals/figure-05.png,心臟科/hf-esc-2026-originals/figure-06.png" data-label="Figure 5–6"></div>
+
 ### 找病因的多參數流程（Figure 7 依內容重新整理）
 
 **病史與理學檢查 → ECG、檢驗 → 心臟超音波 → 個別評估** → 依前面的發現選加做：

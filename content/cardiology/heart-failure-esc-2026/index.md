@@ -182,17 +182,87 @@ tags:
 
 ## 依主題找 Table 與 Figure
 
-| 主題 | 原圖 | 在哪篇 |
-| --- | --- | --- |
-| 新觀念、新建議、修訂建議 | Table 4–6、Figure 1 | ① |
-| HF stage、治療名稱 | Figure 2–3 | ① |
-| 症狀徵象、NYHA、NP、HFpEF 超音波 | Table 7–10 | ① |
-| 診斷流程、病因 | Figure 4–9 | ① |
-| FMT 劑量、CRT | Table 11、Figure 10 | ② |
-| DHF 表現、SCAI、處置、去鬱血 | Table 12–13、Figure 11–15 | ③ |
-| Advanced HF、LVAD、換心 | Table 14–17、Figure 16–18 | ④ |
-| AF、CAD、MR | Table 18–19、Figure 19–20 | ④ |
-| HF 團隊、追蹤、amyloidosis | Table 20、Figure 21–23 | ④ |
+相關的圖表放在同一組，點圖表名稱會直接跳到該段（說明在前、📷 原圖在後）；右邊圓圈數字是所在的分篇。依病程順序排列。
+
+### 2026 改了什麼
+
+Table 4 是新觀念總表；Table 5、6 逐條列出新增與修訂的建議；Figure 1 用一張圖把「依 LVEF 誰用什麼」畫出來。
+
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-1-definition-diagnosis#2026-有什麼新觀念table-4">Table 4</a>：2026 新觀念（HFmrEF 取消、FMT／AMT／GDIT）　<span class="af-where">①</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-1-definition-diagnosis#新建議與修訂建議table-56">Table 5–6</a>：新建議與修訂建議　<span class="af-where">①</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-1-definition-diagnosis#central-illustration依-lvef-誰用什麼figure-1-依內容重新整理">Figure 1</a>：Central illustration：依 LVEF 誰用什麼　<span class="af-where">①</span>
+
+### 定義、分期與治療名稱
+
+Figure 2 從 stage A 到 D 串起整個病程；Figure 3 是新的治療分層名稱。
+
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-1-definition-diagnosis#hf-分期-stage-adfigure-2-依內容重新整理">Figure 2</a>：HF 分期與分類　<span class="af-where">①</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-1-definition-diagnosis#治療的新名稱figure-3">Figure 3</a>：HF 治療的新名稱（FMT、AMT、GDIT）　<span class="af-where">①</span>
+
+### 診斷慢性 HF
+
+先看症狀徵象與 NYHA（Table 7–8），走 Figure 4 的診斷流程；NP 判讀要知道哪些情況會偏高或偏低（Table 9），HFpEF 要有超音波客觀證據（Table 10）。
+
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-1-definition-diagnosis#症狀徵象與-nyhatable-78">Table 7–8</a>：HF 症狀徵象、NYHA 分級　<span class="af-where">①</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-1-definition-diagnosis#診斷流程figure-4-依內容重新繪製">Figure 4</a>：慢性 HF 診斷流程　<span class="af-where">①</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-1-definition-diagnosis#np-為什麼高或低table-9">Table 9</a>：NP 偏高或偏低的原因　<span class="af-where">①</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-1-definition-diagnosis#hfpef-的客觀證據table-10">Table 10</a>：支持 HFpEF 的簡化超音波標準　<span class="af-where">①</span>
+
+### 找病因
+
+Figure 5–6 分別列出 HFrEF 的原因與 HFpEF 的危險因子；Figure 7 是多參數找病因，Figure 8、9 展開缺血性與心律不整造成的 HF。
+
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-1-definition-diagnosis#hfref-的原因與-hfpef-的危險因子figure-56-依內容重新整理">Figure 5–6</a>：HFrEF 的主要原因、HFpEF 的主要危險因子　<span class="af-where">①</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-1-definition-diagnosis#找病因的多參數流程figure-7-依內容重新整理">Figure 7</a>：多參數找病因　<span class="af-where">①</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-1-definition-diagnosis#缺血性-hf-的診斷figure-8-依內容重新整理">Figure 8</a>：缺血性 HF 的診斷　<span class="af-where">①</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-1-definition-diagnosis#心律不整或傳導異常造成的-hfreffigure-9-依內容重新整理">Figure 9</a>：心律不整或傳導異常造成的 HF　<span class="af-where">①</span>
+
+### 慢性治療：藥物與裝置
+
+Table 11 是所有 FMT、AMT 的起始與目標劑量；Figure 10 決定誰放 CRT。
+
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-2-chronic-treatment#fmt-起始與目標劑量table-11">Table 11</a>：FMT 與 AMT 起始、目標劑量　<span class="af-where">②</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-2-chronic-treatment#crt-決策流程figure-10-依內容重新繪製">Figure 10</a>：CRT 適應症　<span class="af-where">②</span>
+
+### Decompensated HF 與休克
+
+Figure 11 與 Table 12 用症狀、徵象與檢驗判斷 DHF 表型，休克用 Table 13 分期；Figure 13 是初始處置、Figure 15 是去鬱血階梯，Figure 12 把住院分成三階段，Figure 14 判斷出院前去鬱血是否完成。
+
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-3-decompensated#診斷與分型figure-11table-12">Figure 11、Table 12</a>：診斷 DHF、鬱血與低灌流的表現　<span class="af-where">③</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-3-decompensated#心因性休克-scai-分期table-13">Table 13</a>：心因性休克 SCAI 分期　<span class="af-where">③</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-3-decompensated#初始處置figure-13-依內容重新繪製">Figure 13</a>：DHF 初始處置（CHAMPIT、四種表型）　<span class="af-where">③</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-3-decompensated#住院三階段與目標figure-12-依內容重新整理">Figure 12</a>：住院三階段與目標　<span class="af-where">③</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-3-decompensated#去鬱血流程figure-15-依內容重新繪製">Figure 15</a>：去鬱血流程（尿鈉、尿量）　<span class="af-where">③</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-3-decompensated#出院前怎麼確認去鬱血完成figure-14-依內容重新整理">Figure 14</a>：評估去鬱血的工具與目標值　<span class="af-where">③</span>
+
+### Advanced HF
+
+Table 14 定義 advanced HF，Table 15 與 Figure 16 決定何時轉介；Figure 17 INTERMACS 分級決定 MCS 時機，Figure 18 是治療流程，Table 16–17 列出 LVAD 與換心的適應症、禁忌。
+
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-4-advanced-comorbidities#定義table-14在-fmtamtgdit-下全部符合">Table 14</a>：Advanced HF 的定義　<span class="af-where">④</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-4-advanced-comorbidities#高風險該提早轉介的線索table-15-依內容重新整理">Table 15</a>：高風險線索（Rule of three、I NEED HELP）　<span class="af-where">④</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-4-advanced-comorbidities#何時轉介-advanced-hf-中心figure-16-依內容重新繪製">Figure 16</a>：分流與轉介 advanced HF 中心　<span class="af-where">④</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-4-advanced-comorbidities#intermacs-分級figure-17-依內容重新整理">Figure 17</a>：INTERMACS 分級　<span class="af-where">④</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-4-advanced-comorbidities#advanced-hf-治療figure-18-依內容重新繪製">Figure 18</a>：Advanced HF 的治療　<span class="af-where">④</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-4-advanced-comorbidities#lvad-與換心的適應症禁忌table-1617-依內容重新整理">Table 16–17</a>：LVAD 與換心的適應症、禁忌　<span class="af-where">④</span>
+
+### 心血管共病
+
+AF 用 Table 18 的 CHA₂DS₂-VA 決定抗凝；CAD 依 Figure 19；secondary MR 依 Figure 20，符合 Table 19 條件才做 M-TEER。
+
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-4-advanced-comorbidities#afrecommendation-table-15table-18">Table 18</a>：CHA₂DS₂-VA 新定義　<span class="af-where">④</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-4-advanced-comorbidities#hf-合併-cadfigure-19-依內容重新繪製">Figure 19</a>：HF 合併 CAD 的處置　<span class="af-where">④</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-4-advanced-comorbidities#hfref-合併-secondary-mrfigure-20-依內容重新繪製">Figure 20</a>：HFrEF 合併 secondary MR 的處置　<span class="af-where">④</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-4-advanced-comorbidities#其他心血管共病">Table 19</a>：M-TEER 的選擇條件　<span class="af-where">④</span>
+
+### 團隊、追蹤與特殊病因
+
+Figure 21 是 HF 團隊成員與任務，Figure 22 是穩定病人的追蹤頻率；amyloidosis 先用 Table 20 的 red flags 懷疑，再走 Figure 23 的診斷流程。
+
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-4-advanced-comorbidities#hf-團隊figure-21-依內容重新整理">Figure 21</a>：HF 團隊　<span class="af-where">④</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-4-advanced-comorbidities#穩定-hf-的長期追蹤做什麼多久誰figure-22-依內容重新整理">Figure 22</a>：長期追蹤：做什麼、多久、誰　<span class="af-where">④</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-4-advanced-comorbidities#cardiac-amyloidosis-red-flagstable-20-依內容重新整理">Table 20</a>：Cardiac amyloidosis red flags　<span class="af-where">④</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-4-advanced-comorbidities#cardiac-amyloidosis-診斷與治療figure-23-依內容重新繪製">Figure 23</a>：Cardiac amyloidosis 診斷與治療　<span class="af-where">④</span>
 
 ## 相關筆記
 

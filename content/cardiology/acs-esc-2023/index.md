@@ -146,17 +146,66 @@ tags:
 
 ## 依主題找 Table 與 Figure
 
-| 主題 | 原圖 | 在哪篇 |
-| --- | --- | --- |
-| Central illustration、ACS 光譜、分類 | Figure 1–3 | ① |
-| 名詞定義、新與修訂建議 | Table 3–5 | ① |
-| 分流、A.C.S.、hs-cTn 0 h/1 h | Figure 4–6 | ① |
-| STEMI 路徑、侵入策略選擇 | Figure 7–8 | ② |
-| 血管內影像、多條血管、MINOCA | Figure 13–16 | ② |
-| 抗血栓劑量、降低出血 | Table 6–7 | ③ |
-| 抗血栓作用、DAPT、替代策略、OAC | Figure 9–12 | ③ |
-| 長期治療、降血脂、病人為中心 | Figure 17–20 | ④ |
-| What to do／What not to do | Table 9 | ④ |
+相關的圖表放在同一組，點圖表名稱會直接跳到該段（說明在前、📷 原圖在後）；右邊圓圈數字是所在的分篇。依值班處理的順序排列。
+
+### 總覽與 2023 改了什麼
+
+Figure 1 是整份指引的五個「Think」；Table 3 先統一侵入策略的名詞；Table 4、5 是新增與修訂的建議。
+
+- <a class="internal" href="/cardiology/acs-esc-2023/acs23-1-diagnosis#總覽與分類figure-13table-35">Figure 1</a>：Central illustration：ACS 的五個 Think　<span class="af-where">①</span>
+- <a class="internal" href="/cardiology/acs-esc-2023/acs23-1-diagnosis#侵入性策略的名詞table-3">Table 3</a>：侵入性策略相關名詞　<span class="af-where">①</span>
+- <a class="internal" href="/cardiology/acs-esc-2023/acs23-1-diagnosis#2023-新建議重點table-4-依內容重新整理">Table 4</a>：2023 新建議　<span class="af-where">①</span>
+- <a class="internal" href="/cardiology/acs-esc-2023/acs23-1-diagnosis#2023-修訂建議table-5-依內容重新整理">Table 5</a>：2023 修訂建議（與 2017／2020 版對照）　<span class="af-where">①</span>
+
+### 分類與分流
+
+Figure 2 把 ACS 看成光譜，Figure 3 從工作診斷走到最終診斷；Figure 4 是初步分流全貌，Figure 5 的 A.C.S. 是第一眼評估。
+
+- <a class="internal" href="/cardiology/acs-esc-2023/acs23-1-diagnosis#acs-光譜figure-2-依內容重新整理">Figure 2</a>：ACS 光譜：臨床、ECG、troponin　<span class="af-where">①</span>
+- <a class="internal" href="/cardiology/acs-esc-2023/acs23-1-diagnosis#從工作診斷到最終診斷figure-3-依內容重新整理">Figure 3</a>：從工作診斷到最終診斷　<span class="af-where">①</span>
+- <a class="internal" href="/cardiology/acs-esc-2023/acs23-1-diagnosis#初步分流全貌figure-4-依內容重新整理">Figure 4</a>：初步分流、處置與檢查　<span class="af-where">①</span>
+- <a class="internal" href="/cardiology/acs-esc-2023/acs23-1-diagnosis#初步分流figure-45">Figure 5</a>：A.C.S. 初始評估　<span class="af-where">①</span>
+
+### hs-cTn
+
+
+- <a class="internal" href="/cardiology/acs-esc-2023/acs23-1-diagnosis#hs-ctn-演算法figure-6">Figure 6</a>：0 h/1 h、0 h/2 h rule-in／rule-out　<span class="af-where">①</span>
+
+### 再灌流與侵入策略
+
+Figure 7 是 STEMI 的到院路徑與時間目標，Figure 8 依工作診斷決定侵入時機與 PPCI 或 fibrinolysis。
+
+- <a class="internal" href="/cardiology/acs-esc-2023/acs23-2-reperfusion-invasive#stemi-再灌流figure-78">Figure 7</a>：STEMI 的就醫路徑與再灌流時間目標　<span class="af-where">②</span>
+- <a class="internal" href="/cardiology/acs-esc-2023/acs23-2-reperfusion-invasive#stemi-再灌流figure-78">Figure 8</a>：侵入策略與再灌流治療的選擇　<span class="af-where">②</span>
+
+### PCI、多條血管與 MINOCA
+
+Figure 13 決定何時用血管內影像；Figure 14 處理多條血管疾病；MINOCA 先看 Figure 15 的可能原因，再依 Figure 16 評估。
+
+- <a class="internal" href="/cardiology/acs-esc-2023/acs23-2-reperfusion-invasive#血管內影像怎麼用figure-13-依內容重新整理">Figure 13</a>：血管內影像的使用流程　<span class="af-where">②</span>
+- <a class="internal" href="/cardiology/acs-esc-2023/acs23-2-reperfusion-invasive#多條血管疾病section-10figure-14">Figure 14</a>：多條血管疾病的處置　<span class="af-where">②</span>
+- <a class="internal" href="/cardiology/acs-esc-2023/acs23-2-reperfusion-invasive#minocasection-11figure-1516">Figure 15</a>：MINOCA 的可能原因　<span class="af-where">②</span>
+- <a class="internal" href="/cardiology/acs-esc-2023/acs23-2-reperfusion-invasive#minoca-三步驟評估figure-16-依內容重新整理">Figure 16</a>：MINOCA 的評估　<span class="af-where">②</span>
+
+### 抗血栓治療
+
+Table 6 是所有抗血小板與抗凝的劑量；Figure 9 說明各藥作用在哪；Figure 10 是預設 DAPT，Figure 11 與 Table 7 是降低出血的策略，Figure 12 處理需要 OAC 的病人。
+
+- <a class="internal" href="/cardiology/acs-esc-2023/acs23-3-antithrombotic#劑量table-6">Table 6</a>：抗血小板與抗凝劑量　<span class="af-where">③</span>
+- <a class="internal" href="/cardiology/acs-esc-2023/acs23-3-antithrombotic#抗血栓藥作用在哪裡figure-9-依內容重新整理">Figure 9</a>：抗血栓藥的作用位置　<span class="af-where">③</span>
+- <a class="internal" href="/cardiology/acs-esc-2023/acs23-3-antithrombotic#預設抗血栓組合figure-10-依內容重新整理沒有-oac-適應症">Figure 10</a>：預設抗血栓組合（沒有 OAC 適應症）　<span class="af-where">③</span>
+- <a class="internal" href="/cardiology/acs-esc-2023/acs23-3-antithrombotic#降低出血的替代策略figure-11-依內容重新整理">Figure 11</a>：降低出血的替代抗血小板策略　<span class="af-where">③</span>
+- <a class="internal" href="/cardiology/acs-esc-2023/acs23-3-antithrombotic#降低-pci-出血風險table-7">Table 7</a>：降低 PCI 出血風險　<span class="af-where">③</span>
+- <a class="internal" href="/cardiology/acs-esc-2023/acs23-3-antithrombotic#需要口服抗凝的病人figure-12">Figure 12</a>：需要 OAC 的 ACS 病人　<span class="af-where">③</span>
+
+### 長期治療與以病人為中心
+
+Figure 17 是出院後的三個目標，Figure 18 是降血脂流程；Figure 19–20 是以病人為中心的照護；Table 9 彙整所有 Class I 與 III 建議。
+
+- <a class="internal" href="/cardiology/acs-esc-2023/acs23-4-hospital-longterm#長期治療的三個目標figure-17-依內容重新整理">Figure 17</a>：ACS 後的長期治療　<span class="af-where">④</span>
+- <a class="internal" href="/cardiology/acs-esc-2023/acs23-4-hospital-longterm#降血脂流程figure-18-依內容重新整理">Figure 18</a>：降血脂流程　<span class="af-where">④</span>
+- <a class="internal" href="/cardiology/acs-esc-2023/acs23-4-hospital-longterm#以病人為中心section-14figure-1920">Figure 19–20</a>：以病人為中心、病人的期待　<span class="af-where">④</span>
+- <a class="internal" href="/cardiology/acs-esc-2023/acs23-4-hospital-longterm#what-to-dowhat-not-to-dotable-9">Table 9</a>：What to do／What not to do　<span class="af-where">④</span>
 
 ## 相關筆記
 

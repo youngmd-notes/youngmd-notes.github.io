@@ -41,6 +41,7 @@ tags:
 | **Fondaparinux** | **2.5 mg SC qd** | PCI 時要加一劑 **UFH**；**CrCl < 20 避免** |
 
 <div class="orig-fig" data-src="心臟科/acs-esc-2023-originals/table-06.png" data-label="Table 6"></div>
+
 ### 抗血栓藥作用在哪裡（Figure 9 依內容重新整理）
 
 斑塊**破裂或侵蝕** → 一路是 **tissue factor（TF：FVIIa）→ FXa → thrombin → fibrin**（凝血），一路是**血小板活化 → 聚集**，兩者合成成熟的 fibrin 血栓。

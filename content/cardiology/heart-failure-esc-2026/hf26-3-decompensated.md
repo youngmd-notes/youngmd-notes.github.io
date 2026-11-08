@@ -76,7 +76,7 @@ flowchart TD
 <div class="orig-fig" data-src="心臟科/hf-esc-2026-originals/figure-13.png" data-label="Figure 13"></div>
 <div class="orig-fig" data-src="心臟科/hf-esc-2026-originals/figure-12.png" data-label="Figure 12 住院三階段"></div>
 
-**住院三階段與目標（Figure 12 依內容重新整理）**：
+### 住院三階段與目標（Figure 12 依內容重新整理）
 
 | 階段 | 目標 |
 | --- | --- |

@@ -42,6 +42,7 @@ tags:
 5. **Think secondary prevention**：抗血栓、降血脂、戒菸、心臟復健、危險因子控制、心理社會
 
 <div class="orig-fig" data-src="心臟科/acs-esc-2023-originals/figure-01.png" data-label="Figure 1 Central illustration"></div>
+
 ### ACS 光譜（Figure 2 依內容重新整理）
 
 | 臨床表現 | 幾乎沒症狀 → 胸痛加重 → 持續胸痛 → 休克或急性 HF → 心跳停止 |
