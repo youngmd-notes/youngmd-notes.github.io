@@ -846,3 +846,13 @@ a.af-card {
     grid-template-columns: 1fr;
   }
 }
+
+// 值班總綱：四欄版（情境｜侵入｜抗血小板｜抗凝與何時停）
+@media (min-width: 761px) {
+  .oncall .oc-time.four .oc-tr {
+    grid-template-columns: 1fr 1fr 1.05fr 1.7fr;
+  }
+}
+.oncall .oc-time .hep {
+  background: #7b5cc41c;
+}

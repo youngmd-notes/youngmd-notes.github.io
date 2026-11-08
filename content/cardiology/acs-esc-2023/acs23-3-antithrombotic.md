@@ -119,6 +119,18 @@ tags:
 | **PCI 時 UFH bolus 70–100 IU/kg** | I C |
 | **STEMI 做 PPCI → 不用 fondaparinux** | **III B** |
 | **==NSTE-ACS、不會 24 小時內攝影 → fondaparinux==** | **I B** |
+| STEMI PPCI：enoxaparin 或 bivalirudin（PCI 後全劑量續滴）可取代 UFH | IIa A |
+| NSTE-ACS 預計 24 h 內攝影：enoxaparin 可取代 UFH | IIa B |
+| **==侵入性處置後立即考慮停 parenteral 抗凝==** | **IIa C** |
+
+- **避免 UFH 與 LMWH 互換**；唯一例外是 fondaparinux 治療中進 PCI → **加 UFH**
+- **PCI 後通常立即停抗凝**，例外：**確定有 LV aneurysm 合併血栓**、**AF 需要抗凝**；STEMI 用 bivalirudin 則 PCI 後要全劑量續滴
+
+> [!info] 🆕 新版指引（2025 ACC/AHA ACS Guideline）：UFH 滴注劑量與持續時間
+> - **UFH 起始**：**60 U/kg IV bolus（max 4000 U）→ 12 U/kg/h（max 1000 U/h）**，**aPTT 60–80 s**；PCI 時依 **ACT 250–300 s** 補，沒給過抗凝則 70–100 U/kg
+> - **同次住院要做 PCI 或 CABG → 抗凝持續到再通**（Class 1）；停藥後 4–8 小時 rebound 再梗塞風險最高
+> - Enoxaparin PCI：沒給過抗凝 → **0.5–0.75 mg/kg IV**；Bivalirudin PPCI 後續滴 **2–4 h**
+> - **Fondaparinux 不可單獨撐 PCI**（Class 3: Harm）
 
 ## Fibrinolysis 合併用藥
 
@@ -128,6 +140,16 @@ tags:
 | 抗凝到再通或住院期間（**最多 8 天**） | I A |
 | **==Enoxaparin（IV 再 SC）為首選抗凝==** | **I A** |
 | 沒有 enoxaparin → UFH（依體重 bolus＋滴注） | I B |
+
+**Fibrinolysis 的抗凝劑量**（ESC 放在補充資料 Table S10；下表依 2025 ACC/AHA Table 10）：
+
+| 藥物 | 劑量 | 持續 |
+| --- | --- | --- |
+| **Enoxaparin＜75 歲** | **30 mg IV bolus → 15 分鐘後 1 mg/kg SC q12h**（前兩劑各 ≤ 100 mg） | **到再通，或住院期間最多 8 天** |
+| **Enoxaparin ≥ 75 歲** | **不給 IV bolus**，0.75 mg/kg SC q12h（前兩劑各 ≤ 75 mg） | 同上 |
+| Enoxaparin CrCl < 30 | 1 mg/kg SC **q24h** | 同上 |
+| UFH | **60 U/kg IV（max 4000）→ 12 U/kg/h（max 1000）** | **至少 48 h**，到再通 |
+| Fondaparinux | 2.5 mg IV → 隔天起 2.5 mg SC qd；**CrCl < 30 禁用** | 最多 8 天 |
 
 ## 需要口服抗凝的病人（Figure 12）
 

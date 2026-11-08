@@ -18,7 +18,7 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> **ECG 10 分鐘內**：ST 上升（或 equivalent）→ **STEMI 路徑**：≤ 12 h → **預估 < 120 分鐘能 PCI 就 primary PCI，不能就 10 分鐘內 fibrinolysis 再轉院**。沒有 ST 上升 → **hs-cTn 0 h/1 h**：rule-in 後依風險決定攝影時機（**very high → 立即**；**high → 24 h 內**）。**Aspirin＋prasugrel 或 ticagrelor 12 個月**；NSTE-ACS 預計 24 h 內攝影**不預先給 P2Y12**；**診斷就抗凝**。**SaO2 > 90% 不給氧**；**休克不常規 IABP、只做罪犯血管**。長期：**高劑量 statin，LDL-C < 55 mg/dL**；LVEF ≤ 40% → beta-blocker、ACE-I、MRA。
+> **ECG 10 分鐘內**：ST 上升（或 equivalent）→ **STEMI 路徑**：≤ 12 h → **預估 < 120 分鐘能 PCI 就 primary PCI，不能就 10 分鐘內 fibrinolysis 再轉院**。沒有 ST 上升 → **hs-cTn 0 h/1 h**：rule-in 後依風險決定攝影時機（**very high → 立即**；**high → 24 h 內**）。**Aspirin＋prasugrel 或 ticagrelor 12 個月**；NSTE-ACS 預計 24 h 內攝影**不預先給 P2Y12**；**診斷就抗凝**：等導管室 **run UFH 60 U/kg → 12 U/kg/h（aPTT 60–80 s）**，**PCI 完立即停**；fibrinolysis 用 enoxaparin 到再通或最多 8 天。**SaO2 > 90% 不給氧**；**休克不常規 IABP、只做罪犯血管**。長期：**高劑量 statin，LDL-C < 55 mg/dL**；LVEF ≤ 40% → beta-blocker、ACE-I、MRA。
 
 本系列依 **2023 ESC Guidelines for the management of acute coronary syndromes**（*Eur Heart J* 2023，第一次把 STEMI 與 NSTE-ACS 合併）整理成 4 篇指引筆記與第 5 篇內專考點；原圖含 **Table 3–7、9 與 Figure 1–20**。🆕 方框補上 **2025 ACC/AHA ACS 指引**的重點更新。
 
@@ -30,15 +30,25 @@ tags:
 <div class="oncall">
 <div class="oc-start">胸痛或疑似 ACS｜先做：<b>12 導程 ECG（10 分鐘內）</b>、監視器、電擊器在旁、<b>抽 hs-cTn</b>｜先問：<b>血壓、心律、有沒有休克或 HF？胸痛多久了？出血風險、中風史、抗凝？</b></div>
 
-<div class="oc-time">
-<div class="oc-tt">⏱ 先記住：眼前是哪一種？→ 什麼時候進導管室、給什麼</div>
-<div class="oc-tr oc-th"><div>情境</div><div>🫀 侵入時機</div><div>💊 用藥</div></div>
-<div class="oc-tr"><div class="oc-sit"><b>STEMI ≤ 12 h</b>，能 120 分鐘內 PCI</div><div class="ac-now" data-l="🫀"><b>Primary PCI</b>：PCI 中心 &lt; 60 分、轉院 &lt; 90 分 wire crossing</div><div class="yes" data-l="💊">Aspirin 150–300 mg＋<b>prasugrel 60</b> 或 <b>ticagrelor 180</b>＋<b>UFH 70–100 U/kg</b></div></div>
-<div class="oc-tr"><div class="oc-sit"><b>STEMI ≤ 12 h</b>，PCI 會 &gt; 120 分</div><div class="ac-now" data-l="🫀"><b>Fibrinolysis（10 分內）</b>→ 立即轉院；失敗 rescue、成功 2–24 h 攝影</div><div class="yes" data-l="💊">Aspirin＋<b>clopidogrel 300</b>（&gt; 75 歲 75）＋<b>enoxaparin</b></div></div>
-<div class="oc-tr"><div class="oc-sit"><b>NSTE-ACS very high risk</b>：休克、頑固胸痛、致命心律不整、機械併發症、缺血性 HF</div><div class="ac-now" data-l="🫀"><b>Immediate</b>（盡快）</div><div class="yes" data-l="💊">Aspirin＋抗凝；P2Y12 在導管室決定</div></div>
-<div class="oc-tr"><div class="oc-sit"><b>NSTE-ACS high risk</b>：NSTEMI、動態 ST-T、短暫 ST 上升、GRACE &gt; 140</div><div class="ac-now" data-l="🫀"><b>24 小時內</b></div><div class="wait" data-l="💊">Aspirin＋抗凝；<b>不預先給 P2Y12</b></div></div>
-<div class="oc-tr"><div class="oc-sit"><b>低風險 NSTE-ACS 或 UA</b></div><div class="ac-now" data-l="🫀"><b>Selective</b>（依檢查決定）</div><div class="yes" data-l="💊">不會 24 h 內攝影 → <b>fondaparinux 2.5 mg qd</b></div></div>
-<div class="oc-tf">❌ SaO2 &gt; 90% 給氧｜❌ 預先給 GP IIb/IIIa｜❌ STEMI 的 PPCI 用 fondaparinux｜❌ 休克常規 IABP、休克做多條血管｜❌ 常規 thrombus aspiration｜❌ Triple therapy 用 ticagrelor 或 prasugrel｜❌ 穩定的 arrest 後沒有 ST 上升就立即攝影</div>
+<div class="oc-time four">
+<div class="oc-tt">⏱ 總綱：眼前是哪一種？→ 何時進導管室、抗血小板、heparin 給多少、何時停</div>
+<div class="oc-tr oc-th"><div>情境</div><div>🫀 侵入時機</div><div>💊 抗血小板</div><div>💉 抗凝：給多少 → 何時停</div></div>
+<div class="oc-tr"><div class="oc-sit"><b>STEMI ≤ 12 h</b>，<b>&lt; 120 分</b>能 PCI</div><div class="ac-now" data-l="🫀"><b>Primary PCI</b>：PCI 中心 &lt; 60 分、轉院 &lt; 90 分 wire crossing</div><div class="yes" data-l="💊">Aspirin 150–300 mg＋<b>prasugrel 60</b> 或 <b>ticagrelor 180</b></div><div class="hep" data-l="💉"><b>不用先 run</b>：導管室 <b>UFH 70–100 U/kg IV bolus</b>（ACT 250–300 s）<br/>→ <b>PCI 完立即停</b>｜❌ fondaparinux</div></div>
+<div class="oc-tr"><div class="oc-sit"><b>STEMI ≤ 12 h</b>，PCI 會 <b>&gt; 120 分</b></div><div class="ac-now" data-l="🫀"><b>Fibrinolysis（10 分內）</b>→ 立即轉院；失敗 rescue、成功 <b>2–24 h</b> 攝影</div><div class="yes" data-l="💊">Aspirin＋<b>clopidogrel 300</b>（&gt; 75 歲 <b>75</b>）</div><div class="hep" data-l="💉"><b>Enoxaparin 首選</b>：&lt; 75 歲 <b>30 mg IV → 15 分後 1 mg/kg SC q12h</b>（前兩劑 ≤ 100）｜≥ 75 歲<b>不 bolus、0.75 mg/kg q12h</b>（≤ 75）<br/>→ <b>到再通，或住院最多 8 天</b></div></div>
+<div class="oc-tr"><div class="oc-sit"><b>NSTE-ACS very high risk</b>：休克、頑固胸痛、致命心律不整、機械併發症、缺血性 HF</div><div class="ac-now" data-l="🫀"><b>Immediate</b>（盡快）</div><div class="yes" data-l="💊">Aspirin；P2Y12 在導管室決定</div><div class="hep" data-l="💉"><b>UFH bolus 後直接進導管室</b>，PCI 時依 ACT 補<br/>→ <b>PCI 完立即停</b></div></div>
+<div class="oc-tr"><div class="oc-sit"><b>NSTE-ACS high risk</b>：NSTEMI、動態 ST-T、短暫 ST 上升、GRACE &gt; 140</div><div class="ac-now" data-l="🫀"><b>24 小時內</b></div><div class="wait" data-l="💊">Aspirin；<b>不預先給 P2Y12</b></div><div class="hep" data-l="💉"><b>Run UFH</b>：<b>60 U/kg（≤ 4000）→ 12 U/kg/h（≤ 1000）</b>，<b>aPTT 60–80 s</b>｜或 enoxaparin <b>1 mg/kg SC q12h</b><br/>→ <b>run 到導管室，PCI 完立即停</b>；要 CABG → 繼續到開刀</div></div>
+<div class="oc-tr"><div class="oc-sit"><b>NSTE-ACS 不會 24 h 內攝影</b>（低風險、UA、等轉院）</div><div class="ac-now" data-l="🫀"><b>Selective</b>（依檢查決定）</div><div class="yes" data-l="💊">Aspirin＋<b>ticagrelor</b> 或 clopidogrel</div><div class="hep" data-l="💉"><b>Fondaparinux 2.5 mg SC qd</b>（CrCl &lt; 20 避免）；PCI 時<b>加一劑 UFH</b>｜或 enoxaparin 1 mg/kg q12h <b>≥ 2 天到穩定</b></div></div>
+<div class="oc-tf">❌ SaO2 &gt; 90% 給氧｜❌ 預先給 GP IIb/IIIa｜❌ STEMI 的 PPCI 用 fondaparinux｜❌ UFH 與 enoxaparin 互換｜❌ 休克常規 IABP、休克做多條血管｜❌ 常規 thrombus aspiration｜❌ Triple therapy 用 ticagrelor 或 prasugrel｜❌ 穩定的 arrest 後沒有 ST 上升就立即攝影</div>
+</div>
+
+<div class="oc-rx">
+<div class="oc-rxh">💉 Heparin 一張卡：何時開始 → run 多少 → 導管室 → 何時停</div>
+<div class="oc-rr"><div class="oc-k k-r">1</div><div class="oc-if"><b>何時開始</b></div><div class="oc-drug"><b>診斷 ACS 就給 parenteral 抗凝</b>（STEMI、NSTE-ACS 都是，I A），不等 troponin 第二套、不等導管室</div></div>
+<div class="oc-rr"><div class="oc-k k-o">2</div><div class="oc-if"><b>Run 多少</b>（等導管室）</div><div class="oc-drug"><b>UFH bolus 60 U/kg（max 4000 U）→ drip 12 U/kg/h（max 1000 U/h）</b>，<b>aPTT 60–80 s</b>（2025 ACC/AHA）｜ESC Table 6：bolus <b>70–100 U/kg</b> → 同樣調到 aPTT 60–80 s｜例：70 kg → <b>4000 U IV push → 840 U/h</b></div></div>
+<div class="oc-rr"><div class="oc-k k-b">3</div><div class="oc-if"><b>進導管室</b></div><div class="oc-drug">沒給過抗凝 → <b>UFH 70–100 U/kg IV</b>｜已 run UFH → <b>依 ACT 補到 250–300 s</b>｜Enoxaparin 最後一劑 <b>&lt; 8 h 不補</b>、<b>&gt; 8 h 加 0.3 mg/kg IV</b>｜Fondaparinux → <b>一定加 UFH bolus</b>（否則 catheter thrombosis）</div></div>
+<div class="oc-rr"><div class="oc-k k-g">4</div><div class="oc-if"><b>何時停</b></div><div class="oc-drug"><b>PCI 完 → 立即停</b>（IIa C）｜例外：<b>LV thrombus、AF 需要抗凝</b>｜<b>要 CABG → 繼續到開刀</b>（ACC/AHA I）｜<b>Fibrinolysis → 到再通，或住院期間最多 8 天</b>（I A；UFH 至少 48 h）｜不做侵入 → enoxaparin <b>至少 2 天、到臨床穩定</b>｜Rule-out ACS → 停</div></div>
+<div class="oc-rr"><div class="oc-k k-a">5</div><div class="oc-if"><b>本來就吃抗凝</b></div><div class="oc-drug"><b>PCI 不中斷 VKA 或 NOAC</b>｜<b>VKA 且 INR &gt; 2.5 → 不加 UFH</b>｜NOAC（不論最後一劑何時）→ PCI 時加<b>低劑量</b>：enoxaparin 0.5 mg/kg IV 或 <b>UFH 60 U/kg</b></div></div>
+<div class="oc-rf">Enoxaparin 腎功能：<b>CrCl &lt; 30 → 1 mg/kg q24h</b>｜<b>不要 UFH 與 LMWH 互換</b>（出血增加）｜停藥後 4–8 小時是 rebound 再梗塞風險最高的時段，<b>沒做再通前不要提早停</b>｜Bivalirudin（STEMI PPCI 替代）：0.75 mg/kg → 1.75 mg/kg/h，<b>PCI 後續滴</b>（ESC 全劑量；ACC/AHA 2–4 h）</div>
 </div>
 
 <div class="oc-q"><span class="oc-n">1</span><div><span class="oc-qt">ECG 有沒有 ST 上升（或 equivalent）？</span><small>下壁 STEMI 或懷疑完全阻塞但標準導程不確定 → 加做 <b>V3R、V4R、V7–V9</b></small></div></div>
@@ -68,7 +78,7 @@ tags:
 <div class="oc-rxh">💊 抗血小板＋抗凝</div>
 <div class="oc-rr"><div class="oc-k k-b">1</div><div class="oc-if"><b>Aspirin</b>（所有人）</div><div class="oc-drug"><b>LD 150–300 mg PO</b>（或 75–250 mg IV）→ <b>75–100 mg qd</b></div></div>
 <div class="oc-rr"><div class="oc-k k-r">2</div><div class="oc-if"><b>P2Y12</b>（12 個月）</div><div class="oc-drug"><b>Prasugrel 60 → 10 mg qd</b>（要 PCI；&lt; 60 kg 或 ≥ 75 歲 5 mg；<b>中風史禁用</b>）｜<b>Ticagrelor 180 → 90 mg bid</b>（不論策略）｜Clopidogrel 300–600 → 75 mg（前兩者不能用、fibrinolysis、triple therapy）｜<b>NSTE-ACS 預計 24 h 內攝影 → 不預先給</b></div></div>
-<div class="oc-rr"><div class="oc-k k-o">3</div><div class="oc-if"><b>抗凝</b>（診斷時就給）</div><div class="oc-drug"><b>PCI：UFH 70–100 U/kg</b>｜Enoxaparin 1 mg/kg bid（CrCl &lt; 30 → qd）｜<b>NSTE-ACS 不會 24 h 內攝影 → fondaparinux 2.5 mg qd</b>（PCI 時加 UFH）｜<b>STEMI PPCI 不用 fondaparinux</b>｜Fibrinolysis → <b>enoxaparin 首選</b></div></div>
+<div class="oc-rr"><div class="oc-k k-o">3</div><div class="oc-if"><b>抗凝</b>（診斷時就給）</div><div class="oc-drug">劑量與停藥時機見上方 <b>💉 Heparin 一張卡</b>｜PCI：<b>UFH</b>（I）｜NSTE-ACS 不會 24 h 內攝影 → <b>fondaparinux</b>｜<b>STEMI PPCI 不用 fondaparinux</b>｜Fibrinolysis → <b>enoxaparin 首選</b></div></div>
 <div class="oc-rr"><div class="oc-k k-a">4</div><div class="oc-if"><b>合併 AF</b></div><div class="oc-drug"><b>Triple 最多 1 週 → NOAC＋clopidogrel 到 12 個月 → 只剩 NOAC</b>｜triple 不用 ticagrelor、prasugrel</div></div>
 <div class="oc-rf">GI 出血高風險 → <b>PPI</b>｜<b>不預先給 GP IIb/IIIa</b>（只 bail-out）｜<b>頭 30 天不降階</b>｜🆕 2025 ACC/AHA：出血風險 → DAPT 1 個月後 ticagrelor 單一治療（Class 1）</div>
 </div>
@@ -81,7 +91,7 @@ tags:
 </div>
 
 <div class="oc-foot">❌ 等 troponin 才啟動 STEMI｜❌ 常規早期 CCTA｜❌ Prasugrel 給中風史｜❌ NSTE-ACS 常規預先給 P2Y12｜❌ 休克做多條血管｜❌ 無症狀心室心律不整給抗心律不整藥｜❌ AV block 再通後恢復還放起搏器｜❌ 癌症 PLT &lt; 10k 給 aspirin</div>
-<div class="oc-note">依 2023 ESC ACS Guidelines Figure 4–8、10–12、Table 6、9 內容自製；🆕 依 2025 ACC/AHA ACS Guideline</div>
+<div class="oc-note">依 2023 ESC ACS Guidelines Figure 4–8、10–12、Table 6、9 與抗凝建議（Section 6.2）內容自製；UFH 滴注、fibrinolysis 的 enoxaparin 劑量與「到 CABG 前持續」依 2025 ACC/AHA ACS Guideline Table 10、Section 4.4</div>
 </div>
 
 ## 📌 必看表：四種 P2Y12 inhibitor 怎麼選
@@ -158,4 +168,4 @@ tags:
 ## 參考資料
 
 - Byrne RA, Rossello X, Coughlan JJ, et al. 2023 ESC Guidelines for the management of acute coronary syndromes. *Eur Heart J* 2023;44(38):3720–3826（參考資料庫：心臟科／2023 ESC Guidelines for the management of acute coronary syndromes.pdf）
-- 🆕 Rao SV, O'Donoghue ML, Ruel M, et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes. *Circulation* 2025（摘要依 [Cleveland Clinic ConsultQD](https://consultqd.clevelandclinic.org/new-guideline-on-acute-coronary-syndromes-key-takeaways-for-cardiologists)）
+- 🆕 Rao SV, O'Donoghue ML, Ruel M, et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes. *Circulation* 2025（Section 4.4 Parenteral Anticoagulation、Table 10 抗凝劑量；其餘摘要依 [Cleveland Clinic ConsultQD](https://consultqd.clevelandclinic.org/new-guideline-on-acute-coronary-syndromes-key-takeaways-for-cardiologists)）
