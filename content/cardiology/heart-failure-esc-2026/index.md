@@ -19,7 +19,7 @@ tags:
 > [!abstract] 一句話重點
 > **==2026 ESC：HFmrEF 取消，HFrEF＝LVEF < 50%、HFpEF＝LVEF ≥ 50%==**；acute HF 改稱 **decompensated HF**。診斷：**NT-proBNP 依年齡（≥ 125／250／500）→ 心臟超音波**。治療：**所有有症狀 HF → SGLT2-I＋MRA（I A）＋需要時 loop diuretic**；**HFrEF 再加 beta-blocker＋ACE-I／ARNI（I A）**；**每 1–2 週調升、改善了也不停**。DHF：**找 CHAMPIT 誘因 → IV furosemide（沒用過 40 mg、長期使用給口服量 2 倍）→ 2 h 尿鈉 ≥ 70 或 6 h 尿量 ≥ 100 mL/h 看反應 → 不夠就加倍或加 acetazolamide／HCTZ**；**穩定後住院中就開始 SGLT2-I**，出院前快速調藥、6 週內密集追蹤。**休克：Shock Team；IABP 與未篩選的 MCS 都不建議**。
 
-本系列依 **2026 ESC Guidelines for the management of heart failure**（*Eur Heart J* 2026，取代 2021 版與 2023 focused update）整理成 4 篇指引筆記與第 5 篇內專考點；原圖含 **Table 4–20、Figure 1–23**，各放在對應段落下方，也在下方「依主題找 Table 與 Figure」集中列出。這份就是目前最新版，沒有需要 🆕 更新的地方。
+本系列依 **2026 ESC Guidelines for the management of heart failure**（*Eur Heart J* 2026，取代 2021 版與 2023 focused update）整理成 4 篇指引筆記、📋 建議總整理（Table 5、6 逐條中文）與第 5 篇內專考點；原圖含 **Table 4–20、Figure 1–23**，各放在對應段落下方，也在下方「依主題找 Table 與 Figure」集中列出。這份就是目前最新版，沒有需要 🆕 更新的地方。
 
 > [!tip] 原圖
 > 各篇的表格、流程圖下方都有「📷 原圖」區塊。原圖存在私人資料庫，只有設定過權杖的瀏覽器看得到。<a class="of-settings-link" href="javascript:void 0">🔑 原圖設定</a>
@@ -174,6 +174,10 @@ tags:
 <div class="af-num">④</div>
 <div class="af-body"><div class="af-title">Advanced HF、共病與特殊情況</div><div class="af-desc"><b>Advanced HF 定義</b>、LVAD 與換心、<b>AF（CHA₂DS₂-VA）</b>、CAD、AS、<b>M-TEER</b>、肥胖、<b>IV iron</b>、懷孕、amyloidosis</div><div class="af-cover">Table 14–20｜Figure 16–23｜Rec Table 11–28</div></div>
 </a>
+<a class="af-card internal" href="/cardiology/heart-failure-esc-2026/hf26-5-recommendations">
+<div class="af-num">📋</div>
+<div class="af-body"><div class="af-title">建議總整理（新增與修訂）</div><div class="af-desc"><b>2021→2026 升降級對照</b>（MRA、digoxin、M-TEER、LVAD、CRT 降級）、2026 新增建議與新的「不要做」，全部逐條中文</div><div class="af-cover">Table 2、5、6</div></div>
+</a>
 <a class="af-card internal" href="/cardiology/heart-failure-esc-2026/hf26-exam">
 <div class="af-num">⑤</div>
 <div class="af-body"><div class="af-title">內專考點</div><div class="af-desc">HF 標籤 35 題（34 張卡）：<b>beta-blocker 種類</b>、<b>哪些藥不降死亡</b>、<b>NP 影響因素</b>、HFpEF 試驗、<b>HF＋AF</b>、<b>休克與 IABP</b>、利尿；附 2 題模擬題</div><div class="af-cover">HF 標籤</div></div>
@@ -189,7 +193,8 @@ tags:
 Table 4 是新觀念總表；Table 5、6 逐條列出新增與修訂的建議；Figure 1 用一張圖把「依 LVEF 誰用什麼」畫出來。
 
 - <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-1-definition-diagnosis#2026-有什麼新觀念table-4">Table 4</a>：2026 新觀念（HFmrEF 取消、FMT／AMT／GDIT）　<span class="af-where">①</span>
-- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-1-definition-diagnosis#新建議與修訂建議table-56">Table 5–6</a>：新建議與修訂建議　<span class="af-where">①</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-5-recommendations#table-52026-新增的建議">Table 5</a>：2026 新增建議（逐條中文）　<span class="af-where">📋</span>
+- <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-5-recommendations#table-6與-2021-版相比修訂的建議">Table 6</a>：修訂建議（2021 vs 2026 逐條對照）　<span class="af-where">📋</span>
 - <a class="internal" href="/cardiology/heart-failure-esc-2026/hf26-1-definition-diagnosis#central-illustration依-lvef-誰用什麼figure-1-依內容重新整理">Figure 1</a>：Central illustration：依 LVEF 誰用什麼　<span class="af-where">①</span>
 
 ### 定義、分期與治療名稱

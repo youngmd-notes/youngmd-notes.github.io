@@ -20,7 +20,7 @@ tags:
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/acs-esc-2023/index|2023 ESC ACS 指引總覽]]
 >
-> ① [[cardiology/acs-esc-2023/acs23-1-diagnosis|分類、分流與診斷]]｜② [[cardiology/acs-esc-2023/acs23-2-reperfusion-invasive|再灌流與侵入性策略]]｜③ 抗血栓治療（本篇）｜④ [[cardiology/acs-esc-2023/acs23-4-hospital-longterm|住院、特殊情況與長期治療]]｜⑤ [[cardiology/acs-esc-2023/acs23-exam|內專考點]]
+> ① [[cardiology/acs-esc-2023/acs23-1-diagnosis|分類、分流與診斷]]｜② [[cardiology/acs-esc-2023/acs23-2-reperfusion-invasive|再灌流與侵入性策略]]｜③ 抗血栓治療（本篇）｜④ [[cardiology/acs-esc-2023/acs23-4-hospital-longterm|住院、特殊情況與長期治療]]｜📋 [[cardiology/acs-esc-2023/acs23-5-recommendations|建議總整理]]｜⑤ [[cardiology/acs-esc-2023/acs23-exam|內專考點]]
 >
 > 本篇來源：2023 ESC ACS Guidelines Section 6、Table 6–7、Figure 9–12
 
@@ -170,7 +170,7 @@ tags:
 | **6 → 12 個月** | **DAT（I）**，或 **只用 (N)OAC（IIb）** | DAT（I） |
 | **12 個月後** | **只用 (N)OAC（I）** | 只用 (N)OAC（I） |
 
-- **NOAC 優於 VKA**；SAPT **首選 P2Y12 inhibitor（通常 clopidogrel）**而非 aspirin
+- **NOAC 優於 VKA**；SAPT <strong>首選 P2Y12 inhibitor（通常 clopidogrel）</strong>而非 aspirin
 - TAT 與 DAT 時 NOAC 用中風預防劑量：**apixaban 5 mg bid、dabigatran 110 或 150 mg bid、edoxaban 60 mg qd、rivaroxaban 15 或 20 mg qd**（符合減量條件才減）
 - **PRECISE-DAPT ≥ 25** 視為高出血風險
 

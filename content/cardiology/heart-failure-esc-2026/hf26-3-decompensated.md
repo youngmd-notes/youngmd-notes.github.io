@@ -23,13 +23,13 @@ tags:
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/heart-failure-esc-2026/index|2026 ESC 心衰竭指引總覽]]
 >
-> ① [[cardiology/heart-failure-esc-2026/hf26-1-definition-diagnosis|定義、分類、預防與診斷]]｜② [[cardiology/heart-failure-esc-2026/hf26-2-chronic-treatment|慢性 HF 治療]]｜③ Decompensated HF 與休克（本篇）｜④ [[cardiology/heart-failure-esc-2026/hf26-4-advanced-comorbidities|Advanced HF、共病與特殊情況]]｜⑤ [[cardiology/heart-failure-esc-2026/hf26-exam|內專考點]]
+> ① [[cardiology/heart-failure-esc-2026/hf26-1-definition-diagnosis|定義、分類、預防與診斷]]｜② [[cardiology/heart-failure-esc-2026/hf26-2-chronic-treatment|慢性 HF 治療]]｜③ Decompensated HF 與休克（本篇）｜④ [[cardiology/heart-failure-esc-2026/hf26-4-advanced-comorbidities|Advanced HF、共病與特殊情況]]｜📋 [[cardiology/heart-failure-esc-2026/hf26-5-recommendations|建議總整理]]｜⑤ [[cardiology/heart-failure-esc-2026/hf26-exam|內專考點]]
 >
 > 本篇來源：2026 ESC HF Guidelines Section 7、Table 12–13、Figure 11–15、Recommendation Table 8–10
 
 ## 診斷與分型（Figure 11、Table 12）
 
-**DHF（decompensated HF）**取代以前的「acute HF」：症狀或徵象**快速或逐漸惡化**，需要緊急就醫或住院。
+<strong>DHF（decompensated HF）</strong>取代以前的「acute HF」：症狀或徵象**快速或逐漸惡化**，需要緊急就醫或住院。
 
 | 左側鬱血 | 右側鬱血 | **低灌流** |
 | --- | --- | --- |
@@ -121,7 +121,7 @@ flowchart TD
 | 加的藥 | 劑量 |
 | --- | --- |
 | **Acetazolamide** | **500 mg IV qd**（較進展的 CKD 可能較好） |
-| **HCTZ**（依 eGFR） | eGFR **> 50：25 mg qd**｜**20–50：50 mg qd**｜**< 20：100 mg qd** |
+| **HCTZ**（依 eGFR） | eGFR <strong>&gt; 50：25 mg qd</strong>｜<strong>20–50：50 mg qd</strong>｜<strong>&lt; 20：100 mg qd</strong> |
 | **Furosemide 最大 IV 劑量** | 一般 **600 mg/day**；嚴重腎功能不良可到 **1000 mg** |
 | 低血鉀 | 考慮 **MRA** 與補鉀 |
 

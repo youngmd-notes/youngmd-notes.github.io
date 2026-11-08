@@ -20,7 +20,7 @@ tags:
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/chronic-coronary-syndrome-esc-2024/index|2024 ESC 慢性冠心症指引總覽]]
 >
-> ① [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-1-diagnosis|臨床表現與診斷]]｜② 藥物與生活型態治療（本篇）｜③ [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-3-revascularization|血管再通與 HF]]｜④ [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-4-anoca-special-followup|ANOCA/INOCA、特殊族群與追蹤]]｜⑤ [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam|內專考點]]
+> ① [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-1-diagnosis|臨床表現與診斷]]｜② 藥物與生活型態治療（本篇）｜③ [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-3-revascularization|血管再通與 HF]]｜④ [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-4-anoca-special-followup|ANOCA/INOCA、特殊族群與追蹤]]｜📋 [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-5-recommendations|建議總整理]]｜⑤ [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam|內專考點]]
 >
 > 本篇來源：2024 ESC CCS Guidelines Section 4.1–4.3、Table 7–8、Figure 9–11、Recommendation Table 15–21
 

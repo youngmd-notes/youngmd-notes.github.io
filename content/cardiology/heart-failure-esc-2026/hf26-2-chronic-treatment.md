@@ -22,7 +22,7 @@ tags:
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/heart-failure-esc-2026/index|2026 ESC 心衰竭指引總覽]]
 >
-> ① [[cardiology/heart-failure-esc-2026/hf26-1-definition-diagnosis|定義、分類、預防與診斷]]｜② 慢性 HF 治療（本篇）｜③ [[cardiology/heart-failure-esc-2026/hf26-3-decompensated|Decompensated HF 與休克]]｜④ [[cardiology/heart-failure-esc-2026/hf26-4-advanced-comorbidities|Advanced HF、共病與特殊情況]]｜⑤ [[cardiology/heart-failure-esc-2026/hf26-exam|內專考點]]
+> ① [[cardiology/heart-failure-esc-2026/hf26-1-definition-diagnosis|定義、分類、預防與診斷]]｜② 慢性 HF 治療（本篇）｜③ [[cardiology/heart-failure-esc-2026/hf26-3-decompensated|Decompensated HF 與休克]]｜④ [[cardiology/heart-failure-esc-2026/hf26-4-advanced-comorbidities|Advanced HF、共病與特殊情況]]｜📋 [[cardiology/heart-failure-esc-2026/hf26-5-recommendations|建議總整理]]｜⑤ [[cardiology/heart-failure-esc-2026/hf26-exam|內專考點]]
 >
 > 本篇來源：2026 ESC HF Guidelines Section 6、Table 11、Figure 10、Recommendation Table 5–7
 

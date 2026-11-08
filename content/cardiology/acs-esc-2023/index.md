@@ -20,7 +20,7 @@ tags:
 > [!abstract] 一句話重點
 > **ECG 10 分鐘內**：ST 上升（或 equivalent）→ **STEMI 路徑**：≤ 12 h → **預估 < 120 分鐘能 PCI 就 primary PCI，不能就 10 分鐘內 fibrinolysis 再轉院**。沒有 ST 上升 → **hs-cTn 0 h/1 h**：rule-in 後依風險決定攝影時機（**very high → 立即**；**high → 24 h 內**）。**Aspirin＋prasugrel 或 ticagrelor 12 個月**；NSTE-ACS 預計 24 h 內攝影**不預先給 P2Y12**；**診斷就抗凝**：等導管室 **run UFH 60 U/kg → 12 U/kg/h（aPTT 60–80 s）**，**PCI 完立即停**；fibrinolysis 用 enoxaparin 到再通或最多 8 天。**SaO2 > 90% 不給氧**；**休克不常規 IABP、只做罪犯血管**。長期：**高劑量 statin，LDL-C < 55 mg/dL**；LVEF ≤ 40% → beta-blocker、ACE-I、MRA。
 
-本系列依 **2023 ESC Guidelines for the management of acute coronary syndromes**（*Eur Heart J* 2023，第一次把 STEMI 與 NSTE-ACS 合併）整理成 4 篇指引筆記與第 5 篇內專考點；原圖含 **Table 3–7、9 與 Figure 1–20**。🆕 方框補上 **2025 ACC/AHA ACS 指引**的重點更新。
+本系列依 **2023 ESC Guidelines for the management of acute coronary syndromes**（*Eur Heart J* 2023，第一次把 STEMI 與 NSTE-ACS 合併）整理成 4 篇指引筆記、📋 建議總整理（Table 9 逐條中文）與第 5 篇內專考點；原圖含 **Table 3–7、9 與 Figure 1–20**。🆕 方框補上 **2025 ACC/AHA ACS 指引**的重點更新。
 
 > [!tip] 原圖
 > 各篇的表格、流程圖下方都有「📷 原圖」區塊。原圖存在私人資料庫，只有設定過權杖的瀏覽器看得到。<a class="of-settings-link" href="javascript:void 0">🔑 原圖設定</a>
@@ -136,7 +136,11 @@ tags:
 </a>
 <a class="af-card internal" href="/cardiology/acs-esc-2023/acs23-4-hospital-longterm">
 <div class="af-num">④</div>
-<div class="af-body"><div class="af-title">住院、特殊情況與長期治療</div><div class="af-desc">AF、VT/VF、<b>AV block</b>、CKD、DM、老人、癌症；<b>LDL &lt; 55</b>、beta-blocker、ACE-I、MRA、心臟復健</div><div class="af-cover">Figure 17–20｜Table 9</div></div>
+<div class="af-body"><div class="af-title">住院、特殊情況與長期治療</div><div class="af-desc">AF、VT/VF、<b>AV block</b>、CKD、DM、老人、癌症；<b>LDL &lt; 55</b>、beta-blocker、ACE-I、MRA、心臟復健</div><div class="af-cover">Figure 17–20</div></div>
+</a>
+<a class="af-card internal" href="/cardiology/acs-esc-2023/acs23-5-recommendations">
+<div class="af-num">📋</div>
+<div class="af-body"><div class="af-title">建議總整理（必做／不做）</div><div class="af-desc"><b>17 條「不要做」</b>（氧氣、P2Y12 pretreatment、fondaparinux、IABP、thrombus aspiration、癌症血小板門檻）與依主題的「必做」，全部逐條中文</div><div class="af-cover">Table 9</div></div>
 </a>
 <a class="af-card internal" href="/cardiology/acs-esc-2023/acs23-exam">
 <div class="af-num">⑤</div>
@@ -205,7 +209,8 @@ Figure 17 是出院後的三個目標，Figure 18 是降血脂流程；Figure 19
 - <a class="internal" href="/cardiology/acs-esc-2023/acs23-4-hospital-longterm#長期治療的三個目標figure-17-依內容重新整理">Figure 17</a>：ACS 後的長期治療　<span class="af-where">④</span>
 - <a class="internal" href="/cardiology/acs-esc-2023/acs23-4-hospital-longterm#降血脂流程figure-18-依內容重新整理">Figure 18</a>：降血脂流程　<span class="af-where">④</span>
 - <a class="internal" href="/cardiology/acs-esc-2023/acs23-4-hospital-longterm#以病人為中心section-14figure-1920">Figure 19–20</a>：以病人為中心、病人的期待　<span class="af-where">④</span>
-- <a class="internal" href="/cardiology/acs-esc-2023/acs23-4-hospital-longterm#what-to-dowhat-not-to-dotable-9">Table 9</a>：What to do／What not to do　<span class="af-where">④</span>
+- <a class="internal" href="/cardiology/acs-esc-2023/acs23-5-recommendations#table-9不要做清單全部-class-iii">Table 9</a>：What not to do（Class III）　<span class="af-where">📋</span>
+- <a class="internal" href="/cardiology/acs-esc-2023/acs23-5-recommendations#table-9必做清單class-i依主題">Table 9</a>：What to do（Class I，依主題）　<span class="af-where">📋</span>
 
 ## 相關筆記
 

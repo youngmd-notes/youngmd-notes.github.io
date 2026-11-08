@@ -19,7 +19,7 @@ tags:
 > [!abstract] 一句話重點
 > **先排除 ACS**（像 ACS → 急診、hs-troponin）。疑似 CCS：**ECG、抽血（LDL、CBC、Cr、HbA1c、甲狀腺）、靜止心臟超音波** → 用 **RF-CL**（症狀分數＋危險因子數＋年齡性別）估可能性 → **≤ 5% 延後檢查**｜**＞ 5–50% 首選 CCTA**｜**＞ 15–85% 功能影像（PET 較佳）**｜**＞ 85% 或低運動量心絞痛 → 直接 ICA＋FFR/iFR**。治療：**舌下 NTG＋beta-blocker 和／或 CCB**（HR 55–60）；**aspirin 75–100 mg 終生（或 clopidogrel）**；**PCI 後 aspirin＋clopidogrel 6 個月**（高出血 1–3 個月）；**高強度 statin，LDL < 55 mg/dL**；T2DM → **SGLT2-I、GLP-1 RA**。**LM、三條血管、近端 LAD（LVEF > 35%）→ 再通改善預後**；**LVEF ≤ 35%＋多條血管 → CABG**；**多條血管＋DM → CABG**。冠狀動脈正常但持續心絞痛 → **ANOCA／INOCA**（血管痙攣 → **CCB**）。
 
-本系列依 **2024 ESC Guidelines for the management of chronic coronary syndromes**（*Eur Heart J* 2024）整理成 4 篇指引筆記與第 5 篇內專考點；原圖含 **Table 3–10 與 Figure 1–18**。🆕 方框補上 **2026 ESC 心衰竭指引**與 **2025 ESC/EAS 血脂 Focused Update** 的更新。
+本系列依 **2024 ESC Guidelines for the management of chronic coronary syndromes**（*Eur Heart J* 2024）整理成 4 篇指引筆記、📋 建議總整理（Table 3、4、10 逐條中文）與第 5 篇內專考點；原圖含 **Table 3–10 與 Figure 1–18**。🆕 方框補上 **2026 ESC 心衰竭指引**與 **2025 ESC/EAS 血脂 Focused Update** 的更新。
 
 > [!tip] 原圖
 > 各篇的表格、流程圖下方都有「📷 原圖」區塊。原圖存在私人資料庫，只有設定過權杖的瀏覽器看得到。<a class="of-settings-link" href="javascript:void 0">🔑 原圖設定</a>
@@ -243,7 +243,11 @@ tags:
 </a>
 <a class="af-card internal" href="/cardiology/chronic-coronary-syndrome-esc-2024/ccs24-4-anoca-special-followup">
 <div class="af-num">④</div>
-<div class="af-body"><div class="af-title">ANOCA/INOCA、特殊族群與追蹤</div><div class="af-desc"><b>微血管與血管痙攣</b>、acetylcholine 試驗、依 endotype 用藥、老人女性、篩檢、<b>服藥順從</b>、長期追蹤、再狹窄</div><div class="af-cover">Table 10｜Figure 12–18</div></div>
+<div class="af-body"><div class="af-title">ANOCA/INOCA、特殊族群與追蹤</div><div class="af-desc"><b>微血管與血管痙攣</b>、acetylcholine 試驗、依 endotype 用藥、老人女性、篩檢、<b>服藥順從</b>、長期追蹤、再狹窄</div><div class="af-cover">Figure 12–18</div></div>
+</a>
+<a class="af-card internal" href="/cardiology/chronic-coronary-syndrome-esc-2024/ccs24-5-recommendations">
+<div class="af-num">📋</div>
+<div class="af-body"><div class="af-title">建議總整理（新增、修訂、必做／不做）</div><div class="af-desc"><b>10 條「不要做」</b>、依主題的「必做」、<b>2019→2024 升降級對照</b>、2024 新增建議，全部逐條中文</div><div class="af-cover">Table 3、4、10</div></div>
 </a>
 <a class="af-card internal" href="/cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam">
 <div class="af-num">⑤</div>
@@ -260,8 +264,8 @@ tags:
 Figure 1 是 CCS 的五種臨床表現與缺血機轉；Table 3、4 是新增與修訂的建議。
 
 - <a class="internal" href="/cardiology/chronic-coronary-syndrome-esc-2024/ccs24-1-diagnosis#ccs-的臨床表現與缺血機轉figure-1-依內容重新整理">Figure 1</a>：Central illustration：CCS 的臨床表現與缺血機轉　<span class="af-where">①</span>
-- <a class="internal" href="/cardiology/chronic-coronary-syndrome-esc-2024/ccs24-1-diagnosis#新建議table-3與修訂建議table-4">Table 3</a>：2024 新建議　<span class="af-where">①</span>
-- <a class="internal" href="/cardiology/chronic-coronary-syndrome-esc-2024/ccs24-1-diagnosis#新建議table-3與修訂建議table-4">Table 4</a>：2024 修訂建議（與 2019 版對照）　<span class="af-where">①</span>
+- <a class="internal" href="/cardiology/chronic-coronary-syndrome-esc-2024/ccs24-5-recommendations#table-32024-新增的建議">Table 3</a>：2024 新建議（逐條中文）　<span class="af-where">📋</span>
+- <a class="internal" href="/cardiology/chronic-coronary-syndrome-esc-2024/ccs24-5-recommendations#table-4與舊版相比修訂的建議">Table 4</a>：2024 修訂建議（舊版 vs 2024 逐條對照）　<span class="af-where">📋</span>
 
 ### 初步評估與症狀
 
@@ -324,7 +328,8 @@ Figure 16、17 是服藥與生活型態的順從策略；Figure 18 是每次回�
 - <a class="internal" href="/cardiology/chronic-coronary-syndrome-esc-2024/ccs24-4-anoca-special-followup#改善服藥順從的五個面向figure-16-依內容重新整理">Figure 16</a>：改善順從的五個面向　<span class="af-where">④</span>
 - <a class="internal" href="/cardiology/chronic-coronary-syndrome-esc-2024/ccs24-4-anoca-special-followup#長期維持健康生活figure-17-依內容重新整理">Figure 17</a>：長期維持健康生活的策略　<span class="af-where">④</span>
 - <a class="internal" href="/cardiology/chronic-coronary-syndrome-esc-2024/ccs24-4-anoca-special-followup#疾病進展的追蹤figure-18recommendation-table-29">Figure 18</a>：穩定 CCS 的追蹤　<span class="af-where">④</span>
-- <a class="internal" href="/cardiology/chronic-coronary-syndrome-esc-2024/ccs24-4-anoca-special-followup#what-to-dowhat-not-to-dotable-10">Table 10</a>：What to do／What not to do　<span class="af-where">④</span>
+- <a class="internal" href="/cardiology/chronic-coronary-syndrome-esc-2024/ccs24-5-recommendations#table-10不要做清單全部-class-iii">Table 10</a>：What not to do（Class III）　<span class="af-where">📋</span>
+- <a class="internal" href="/cardiology/chronic-coronary-syndrome-esc-2024/ccs24-5-recommendations#table-10必做清單class-i依主題">Table 10</a>：What to do（Class I，依主題）　<span class="af-where">📋</span>
 
 
 ## 相關筆記

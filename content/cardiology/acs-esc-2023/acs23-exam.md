@@ -16,7 +16,7 @@ tags:
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/acs-esc-2023/index|2023 ESC ACS 指引總覽]]
 >
-> ① [[cardiology/acs-esc-2023/acs23-1-diagnosis|分類、分流與診斷]]｜② [[cardiology/acs-esc-2023/acs23-2-reperfusion-invasive|再灌流與侵入性策略]]｜③ [[cardiology/acs-esc-2023/acs23-3-antithrombotic|抗血栓治療]]｜④ [[cardiology/acs-esc-2023/acs23-4-hospital-longterm|住院、特殊情況與長期治療]]｜⑤ 內專考點（本篇）
+> ① [[cardiology/acs-esc-2023/acs23-1-diagnosis|分類、分流與診斷]]｜② [[cardiology/acs-esc-2023/acs23-2-reperfusion-invasive|再灌流與侵入性策略]]｜③ [[cardiology/acs-esc-2023/acs23-3-antithrombotic|抗血栓治療]]｜④ [[cardiology/acs-esc-2023/acs23-4-hospital-longterm|住院、特殊情況與長期治療]]｜📋 [[cardiology/acs-esc-2023/acs23-5-recommendations|建議總整理]]｜⑤ 內專考點（本篇）
 
 ## 🎯 內專考點
 

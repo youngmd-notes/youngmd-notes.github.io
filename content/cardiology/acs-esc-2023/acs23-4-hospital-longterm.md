@@ -19,9 +19,9 @@ tags:
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/acs-esc-2023/index|2023 ESC ACS 指引總覽]]
 >
-> ① [[cardiology/acs-esc-2023/acs23-1-diagnosis|分類、分流與診斷]]｜② [[cardiology/acs-esc-2023/acs23-2-reperfusion-invasive|再灌流與侵入性策略]]｜③ [[cardiology/acs-esc-2023/acs23-3-antithrombotic|抗血栓治療]]｜④ 住院、特殊情況與長期治療（本篇）｜⑤ [[cardiology/acs-esc-2023/acs23-exam|內專考點]]
+> ① [[cardiology/acs-esc-2023/acs23-1-diagnosis|分類、分流與診斷]]｜② [[cardiology/acs-esc-2023/acs23-2-reperfusion-invasive|再灌流與侵入性策略]]｜③ [[cardiology/acs-esc-2023/acs23-3-antithrombotic|抗血栓治療]]｜④ 住院、特殊情況與長期治療（本篇）｜📋 [[cardiology/acs-esc-2023/acs23-5-recommendations|建議總整理]]｜⑤ [[cardiology/acs-esc-2023/acs23-exam|內專考點]]
 >
-> 本篇來源：2023 ESC ACS Guidelines Section 8、12–14、Figure 17–20、Table 9（What to do）
+> 本篇來源：2023 ESC ACS Guidelines Section 8、12–14、Figure 17–20（Table 9 逐條整理見 📋 建議總整理）
 
 ## 住院處置（Section 8）
 
@@ -123,9 +123,10 @@ tags:
 
 ## What to do／What not to do（Table 9）
 
-整份指引的 Class I 與 Class III 建議整理在 Table 9，本系列各篇的表格大多來自這張表。
+整份指引的 Class I 與 Class III 建議整理在 Table 9，已逐條翻成中文、依主題分類：
 
-<div class="orig-fig" data-src="心臟科/acs-esc-2023-originals/table-09-1.png,心臟科/acs-esc-2023-originals/table-09-2.png,心臟科/acs-esc-2023-originals/table-09-3.png,心臟科/acs-esc-2023-originals/table-09-4.png,心臟科/acs-esc-2023-originals/table-09-5.png" data-label="Table 9"></div>
+- [[cardiology/acs-esc-2023/acs23-5-recommendations#table-9不要做清單全部-class-iii|📋 「不要做」清單（Class III）]]
+- [[cardiology/acs-esc-2023/acs23-5-recommendations#table-9必做清單class-i依主題|📋 「必做」清單（Class I，依主題）]]
 
 ## 相關筆記
 

@@ -20,7 +20,7 @@ tags:
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/acs-esc-2023/index|2023 ESC ACS 指引總覽]]
 >
-> ① [[cardiology/acs-esc-2023/acs23-1-diagnosis|分類、分流與診斷]]｜② 再灌流與侵入性策略（本篇）｜③ [[cardiology/acs-esc-2023/acs23-3-antithrombotic|抗血栓治療]]｜④ [[cardiology/acs-esc-2023/acs23-4-hospital-longterm|住院、特殊情況與長期治療]]｜⑤ [[cardiology/acs-esc-2023/acs23-exam|內專考點]]
+> ① [[cardiology/acs-esc-2023/acs23-1-diagnosis|分類、分流與診斷]]｜② 再灌流與侵入性策略（本篇）｜③ [[cardiology/acs-esc-2023/acs23-3-antithrombotic|抗血栓治療]]｜④ [[cardiology/acs-esc-2023/acs23-4-hospital-longterm|住院、特殊情況與長期治療]]｜📋 [[cardiology/acs-esc-2023/acs23-5-recommendations|建議總整理]]｜⑤ [[cardiology/acs-esc-2023/acs23-exam|內專考點]]
 >
 > 本篇來源：2023 ESC ACS Guidelines Section 4–5、7、9–11、Figure 7–8、13–16、Table 9（What to do）
 
@@ -108,7 +108,7 @@ flowchart TD
 | 攝影結果 | 怎麼做 | 等級 |
 | --- | --- | --- |
 | **罪犯病灶清楚、適合 PCI** | **IVUS 或 OCT 導引 PCI** → PCI 罪犯病灶 | **IIa** |
-| **看不出罪犯病灶** | **血管內影像（OCT 較佳）**找罪犯 → 依影像結果治療 → 需要時再做其他檢查 | IIb |
+| **看不出罪犯病灶** | <strong>血管內影像（OCT 較佳）</strong>找罪犯 → 依影像結果治療 → 需要時再做其他檢查 | IIb |
 
 - **攝影上容易看不清楚的情況**：多條血管病變、模糊病灶或鈣化、血管彎曲或偏心
 - **OCT 可能看到**：斑塊**侵蝕（erosion）**、**鈣化結節（nodule）**、**破裂（rupture）**、**SCAD**，或**完全沒有病灶**（→ 想 MINOCA）

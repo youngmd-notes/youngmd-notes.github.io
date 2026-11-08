@@ -20,7 +20,7 @@ tags:
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/chronic-coronary-syndrome-esc-2024/index|2024 ESC 慢性冠心症指引總覽]]
 >
-> ① 臨床表現與診斷（本篇）｜② [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-2-medical-therapy|藥物與生活型態治療]]｜③ [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-3-revascularization|血管再通與 HF]]｜④ [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-4-anoca-special-followup|ANOCA/INOCA、特殊族群與追蹤]]｜⑤ [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam|內專考點]]
+> ① 臨床表現與診斷（本篇）｜② [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-2-medical-therapy|藥物與生活型態治療]]｜③ [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-3-revascularization|血管再通與 HF]]｜④ [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-4-anoca-special-followup|ANOCA/INOCA、特殊族群與追蹤]]｜📋 [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-5-recommendations|建議總整理]]｜⑤ [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam|內專考點]]
 >
 > 本篇來源：2024 ESC CCS Guidelines Section 2–3、Table 3–6、Figure 1–8、Recommendation Table 1–14
 
@@ -43,10 +43,7 @@ tags:
 | **再通** | **LVEF > 35%：LM、三條、近端 LAD → 再通改善預後（I）**；**LVEF ≤ 35% 多條血管 → CABG（I B）**；LM 低 SYNTAX → PCI 可當替代（I A）；LM 中等 SYNTAX（23–32）PCI **升為 IIa A** |
 | **ANOCA／INOCA** | **持續症狀 → 侵入性冠狀動脈功能檢查找 endotype（I B）**，依 endotype 用藥 |
 
-- 逐條原文見 Table 3、4 原圖；本系列各篇的建議表已整理
-
-<div class="orig-fig" data-src="心臟科/ccs-esc-2024-originals/table-03-1.png,心臟科/ccs-esc-2024-originals/table-03-2.png,心臟科/ccs-esc-2024-originals/table-03-3.png,心臟科/ccs-esc-2024-originals/table-03-4.png" data-label="Table 3 新建議"></div>
-<div class="orig-fig" data-src="心臟科/ccs-esc-2024-originals/table-04-1.png,心臟科/ccs-esc-2024-originals/table-04-2.png,心臟科/ccs-esc-2024-originals/table-04-3.png,心臟科/ccs-esc-2024-originals/table-04-4.png" data-label="Table 4 修訂建議"></div>
+- **逐條中文整理（含原圖）**：[[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-5-recommendations#table-32024-新增的建議|📋 Table 3 新增]]、[[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-5-recommendations#table-4與舊版相比修訂的建議|📋 Table 4 修訂（舊版 vs 2024 對照）]]
 
 ## CCS 的臨床表現與缺血機轉（Figure 1 依內容重新整理）
 

@@ -19,7 +19,7 @@ tags:
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/heart-failure-esc-2026/index|2026 ESC 心衰竭指引總覽]]
 >
-> ① 定義、分類、預防與診斷（本篇）｜② [[cardiology/heart-failure-esc-2026/hf26-2-chronic-treatment|慢性 HF 治療]]｜③ [[cardiology/heart-failure-esc-2026/hf26-3-decompensated|Decompensated HF 與休克]]｜④ [[cardiology/heart-failure-esc-2026/hf26-4-advanced-comorbidities|Advanced HF、共病與特殊情況]]｜⑤ [[cardiology/heart-failure-esc-2026/hf26-exam|內專考點]]
+> ① 定義、分類、預防與診斷（本篇）｜② [[cardiology/heart-failure-esc-2026/hf26-2-chronic-treatment|慢性 HF 治療]]｜③ [[cardiology/heart-failure-esc-2026/hf26-3-decompensated|Decompensated HF 與休克]]｜④ [[cardiology/heart-failure-esc-2026/hf26-4-advanced-comorbidities|Advanced HF、共病與特殊情況]]｜📋 [[cardiology/heart-failure-esc-2026/hf26-5-recommendations|建議總整理]]｜⑤ [[cardiology/heart-failure-esc-2026/hf26-exam|內專考點]]
 >
 > 本篇來源：2026 ESC HF Guidelines Section 2–5、Table 4–10、Figure 1–9、Recommendation Table 1–4
 
@@ -38,10 +38,7 @@ tags:
 
 ### 新建議與修訂建議（Table 5–6）
 
-- **Table 5（新建議）、Table 6（修訂建議）**：逐條整理在本系列各篇的建議表，以「**（新）**」「**（修訂）**」標示
-
-<div class="orig-fig" data-src="心臟科/hf-esc-2026-originals/table-05-1.png,心臟科/hf-esc-2026-originals/table-05-2.png,心臟科/hf-esc-2026-originals/table-05-3.png" data-label="Table 5 新建議"></div>
-<div class="orig-fig" data-src="心臟科/hf-esc-2026-originals/table-06-1.png,心臟科/hf-esc-2026-originals/table-06-2.png,心臟科/hf-esc-2026-originals/table-06-3.png" data-label="Table 6 修訂建議"></div>
+- **Table 5（新建議）、Table 6（修訂建議）**：已逐條翻成中文、標出升降級，見 [[cardiology/heart-failure-esc-2026/hf26-5-recommendations#table-6與-2021-版相比修訂的建議|📋 Table 6 修訂（2021 vs 2026 對照）]]、[[cardiology/heart-failure-esc-2026/hf26-5-recommendations#table-52026-新增的建議|📋 Table 5 新增]]（含原圖）；各篇的建議表也以「**（新）**」「**（修訂）**」標示
 
 ### Central illustration：依 LVEF 誰用什麼（Figure 1 依內容重新整理）
 
@@ -84,7 +81,7 @@ tags:
 
 | 分類 | 定義 |
 | --- | --- |
-| **HFrEF** | **LVEF < 50%**＋HF 症狀或徵象 |
+| **HFrEF** | <strong>LVEF < 50%</strong>＋HF 症狀或徵象 |
 | **HFpEF** | **LVEF ≥ 50%**＋症狀或徵象＋**LV 舒張功能異常或充填壓上升的客觀證據**（NP 上升支持） |
 | **Improved LVEF** | LVEF **絕對值上升 ≥ 10%** 且 **> 40%**；預後較好，但**除少數外仍要繼續治療** |
 

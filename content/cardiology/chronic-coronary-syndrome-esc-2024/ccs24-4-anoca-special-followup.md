@@ -21,7 +21,7 @@ tags:
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/chronic-coronary-syndrome-esc-2024/index|2024 ESC 慢性冠心症指引總覽]]
 >
-> ① [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-1-diagnosis|臨床表現與診斷]]｜② [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-2-medical-therapy|藥物與生活型態治療]]｜③ [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-3-revascularization|血管再通與 HF]]｜④ ANOCA/INOCA、特殊族群與追蹤（本篇）｜⑤ [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam|內專考點]]
+> ① [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-1-diagnosis|臨床表現與診斷]]｜② [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-2-medical-therapy|藥物與生活型態治療]]｜③ [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-3-revascularization|血管再通與 HF]]｜④ ANOCA/INOCA、特殊族群與追蹤（本篇）｜📋 [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-5-recommendations|建議總整理]]｜⑤ [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam|內專考點]]
 >
 > 本篇來源：2024 ESC CCS Guidelines Section 5–6、Table 10、Figure 12–18、Recommendation Table 25–31
 
@@ -215,9 +215,10 @@ flowchart TD
 
 ## What to do／What not to do（Table 10）
 
-整份指引的 Class I 與 Class III 建議整理在 Table 10，本系列各篇的建議表大多來自這張表。
+整份指引的 Class I 與 Class III 建議整理在 Table 10，已逐條翻成中文、依主題分類：
 
-<div class="orig-fig" data-src="心臟科/ccs-esc-2024-originals/table-10-1.png,心臟科/ccs-esc-2024-originals/table-10-2.png,心臟科/ccs-esc-2024-originals/table-10-3.png,心臟科/ccs-esc-2024-originals/table-10-4.png,心臟科/ccs-esc-2024-originals/table-10-5.png,心臟科/ccs-esc-2024-originals/table-10-6.png,心臟科/ccs-esc-2024-originals/table-10-7.png" data-label="Table 10"></div>
+- [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-5-recommendations#table-10不要做清單全部-class-iii|📋 「不要做」清單（Class III）]]
+- [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-5-recommendations#table-10必做清單class-i依主題|📋 「必做」清單（Class I，依主題）]]
 
 ## 相關筆記
 
