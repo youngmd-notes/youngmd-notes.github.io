@@ -263,6 +263,7 @@ Table 3 新增、Table 4 修訂（與 2020 版比較）、Table 17 所有必做�
 ## 相關筆記
 
 - [[cardiology/resuscitation-aha-2025/index|心肺復甦與急救 CPR & ECC（2025 AHA 指引）]]（AF 同步電擊起始 ≥ 200 J）
+- [[cardiology/heart-failure-esc-2026/index|心衰竭 Heart Failure（ESC 2026）]]（HF＋AF：beta-blocker 控速、AVN ablation＋CRT）
 
 ## 參考資料
 

@@ -664,6 +664,7 @@ title: 內專考點總覽
 
 - [[nephrology/hyponatremia|低血鈉 Hyponatremia]]（腎臟科 Nephrology）
 - [[nephrology/siadh|SIADH]]（腎臟科 Nephrology）
+- [[cardiology/heart-failure-esc-2026/hf26-exam|⑤內專考點 Board Exam Review]]（心臟科 Cardiology）
 - [[cardiology/syncope/index|暈厥 Syncope]]（心臟科 Cardiology）
 - [[cardiology/syncope/symptom-to-diagnosis/index|①教科書整理 Symptom to Diagnosis]]（心臟科 Cardiology）
 - [[cardiology/syncope/symptom-to-diagnosis/syncope-1-approach|①診斷三步驟 Diagnostic Approach]]（心臟科 Cardiology）

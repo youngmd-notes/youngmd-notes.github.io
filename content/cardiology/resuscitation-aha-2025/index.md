@@ -166,6 +166,7 @@ cssclasses:
 - [[cardiology/pulmonary-embolism-esc/index|肺栓塞 PE（ESC 2019）]]
 - [[pulmonology/emergent-airway-management|緊急呼吸道處置]]
 - [[nephrology/hemodialysis-emergencies|血液透析急症]]（hyperkalemia）
+- [[cardiology/heart-failure-esc-2026/index|心衰竭 Heart Failure（ESC 2026）]]（cardiogenic shock、MCS）
 
 ## 參考資料
 
