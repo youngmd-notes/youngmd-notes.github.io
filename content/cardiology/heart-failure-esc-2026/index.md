@@ -24,7 +24,7 @@ tags:
 > [!tip] 原圖
 > 各篇的表格、流程圖下方都有「📷 原圖」區塊。原圖存在私人資料庫，只有設定過權杖的瀏覽器看得到。<a class="of-settings-link" href="javascript:void 0">🔑 原圖設定</a>
 
-## 🌳 值班決策流程：喘、腳腫的 HF 病人，照順序回答 5 個問題
+## 🌳 值班決策流程：喘、腳腫的 HF 病人，照順序回答 7 個問題
 
 <div class="oncall">
 <div class="oc-start">疑似 HF 惡化：<b>喘、端坐呼吸、水腫、體重增加</b>｜先問：<b>血壓多少？摸起來冷還是暖？SpO2、呼吸次數？最近改了什麼藥、吃了什麼、有沒有感染或胸痛？</b></div>
@@ -88,8 +88,38 @@ tags:
 <div class="oc-rf">HFpEF：ACE-I／ARB／ARNI 可考慮（IIb C）｜LVEF ≥ 45%＋BMI ≥ 30 → <b>semaglutide 或 tirzepatide</b>（IIa B1）｜HF＋AF：<b>CHA₂DS₂-VA</b>（HF 算 1 分），穩定 HFrEF 控速首選 <b>beta-blocker</b></div>
 </div>
 
-<div class="oc-foot">❌ 只靠單一 NT-proBNP 125 排除老人 HF｜❌ 用 LVEF 41–49% 叫 HFmrEF（2026 已併入 HFrEF）｜❌ 利尿劑劑量不加、不看尿鈉尿量｜❌ 出院前沒開 SGLT2-I｜❌ 調藥太慢（應每 1–2 週）｜❌ LVEF 改善就停 FMT｜❌ MI 40 天內放初級預防 ICD｜❌ 常規 IABP</div>
-<div class="oc-note">依 2026 ESC HF Guidelines Figure 4、11–15、Table 11–13、Recommendation Table 5–10、15、19 內容自製</div>
+<div class="oc-q"><span class="oc-n">6</span><div><span class="oc-qt">MRA 選哪一顆？什麼時候不能開、什麼時候減？</span><small>先看 <b>LVEF</b> 選藥，再看 <b>K、eGFR</b> 決定劑量</small></div></div>
+<div class="oc-split three">
+<div class="oc-box r"><span class="oc-ans">HFrEF（LVEF &lt; 50%）</span><br/><b>Steroidal MRA</b>（I A）：證據只有 steroidal<br/><b>Spironolactone 12.5–25 → 50 mg qd</b><br/>Eplerenone 25 → 50 mg qd（試驗只收 LVEF ≤ 35%）<br/>HFrEF 才有<b>降死亡率</b></div>
+<div class="oc-box b"><span class="oc-ans">HFpEF（LVEF ≥ 50%）</span><br/><b>Steroidal 或 finerenone</b>（I A）<br/><b>Finerenone</b>：FINEARTS-HF 降 HFH＋CV 死亡；spironolactone 的 TOPCAT 整體陰性（合併分析才有效）<br/>Finerenone 依 eGFR：<b>≤ 60 → 10 → 20 mg</b>｜<b>&gt; 60 → 20 → 40 mg</b></div>
+<div class="oc-box a"><span class="oc-ans">換藥的理由</span><br/><b>男性女乳症、乳房痛</b> → 換 <b>eplerenone 或 finerenone</b>（對 MR 選擇性高）<br/><b>T2DM＋CKD</b>（還沒 HF）→ finerenone 也能<b>預防 HF</b><br/>❌ <b>懷孕</b>不用 MRA（III）</div>
+</div>
+<div class="oc-rx">
+<div class="oc-rxh">🧪 MRA 的 K 與腎功能（由上往下）</div>
+<div class="oc-rr"><div class="oc-k k-o">1</div><div class="oc-if"><b>開始前</b></div><div class="oc-drug"><b>K ≥ 5.0</b> 或 <b>eGFR &lt; 25</b>（沒有試驗資料）→ <b>小心開</b>，spironolactone 從 <b>12.5 mg</b> 起</div></div>
+<div class="oc-rr"><div class="oc-k k-r">2</div><div class="oc-if"><b>K &gt; 5.5</b></div><div class="oc-drug"><b>先重驗 K</b> → 真的高 → <b>減量或暫停</b>；K 回來後<b>要重新開回去</b>｜K &gt; 6 或 AKI 合併 <b>eGFR &lt; 15</b> → 暫停 MRA（與 ACE-I／ARNI／ARB）</div></div>
+<div class="oc-rr"><div class="oc-k k-g">3</div><div class="oc-if"><b>Cr 上升</b></div><div class="oc-drug"><b>比基準上升 &lt; 50%、eGFR 仍 &gt; 15 → 可接受，不要停</b>（開 RAASi、MRA、SGLT2-I 初期一過性下降）</div></div>
+<div class="oc-rr"><div class="oc-k k-b">4</div><div class="oc-if"><b>K 一直偏高</b></div><div class="oc-drug"><b>Patiromer 或 sodium zirconium cyclosilicate</b> 降 K，讓 MRA、ACE-I／ARNI 能<b>繼續或調升</b>（是否改善預後仍未知）</div></div>
+<div class="oc-rf">原則：<b>不要因為怕高血鉀就不開或停掉 MRA</b>，這是 HF 最常被少用的藥｜DHF 合併低血鉀 → 開 MRA 兼補鉀</div>
+</div>
+
+<div class="oc-q"><span class="oc-n">7</span><div><span class="oc-qt">HF 合併高血壓：何時降、降到多少、加什麼？</span><small>HF 專屬血壓目標沒有 RCT；依 <b>2024 ESC 高血壓指引</b>：服藥者 <b>SBP 120–129</b>（可耐受時）</small></div></div>
+<div class="oc-time">
+<div class="oc-tt">🩺 血壓的介入時機</div>
+<div class="oc-tr oc-th"><div>情境</div><div>🩺 何時介入</div><div>💊 怎麼做</div></div>
+<div class="oc-tr"><div class="oc-sit"><b>急性：DHF 或 APO＋SBP 高</b></div><div class="ac-now" data-l="🩺"><b>SBP &gt; 110</b> 就可用</div><div class="yes" data-l="💊"><b>IV 血管擴張劑</b>（nitrate）＋利尿劑＋NIPPV（IIb C）</div></div>
+<div class="oc-tr"><div class="oc-sit"><b>慢性：BP ≥ 140/90</b></div><div class="ac-now" data-l="🩺"><b>立即</b>藥物＋生活型態（I A）</div><div class="yes" data-l="💊">先把 <b>FMT 調到目標劑量</b>（FMT 本身就降壓）</div></div>
+<div class="oc-tr"><div class="oc-sit"><b>慢性：130–139／80–89</b></div><div class="ac-now" data-l="🩺">HF 屬高 CV 風險 → 生活型態 <b>3 個月</b>未達標就用藥（I A）</div><div class="yes" data-l="💊">目標 <b>SBP 120–129</b>（老人、衰弱、姿勢性低血壓可放寬）</div></div>
+<div class="oc-tr"><div class="oc-sit"><b>沒症狀的低血壓</b>（HFrEF）</div><div class="ac-now" data-l="🩺"><b>接受</b>，不處理</div><div class="wait" data-l="💊"><b>維持 FMT 目標劑量</b>，不要因為 SBP 90 幾就減藥</div></div>
+<div class="oc-tf">頑固型高血壓 → 找<b>次發性原因</b>：<b>primary aldosteronism</b>、<b>renovascular</b>、<b>OSA</b>｜所有人：運動、減重、限鹽、限酒、戒菸</div>
+</div>
+<div class="oc-split">
+<div class="oc-box r"><span class="oc-ans">HFrEF：FMT 調完還高</span><br/>FMT 調到目標後血壓還控制不好<b>很少見</b><br/>要加 → <b>amlodipine 或 felodipine</b>（容積正常時）<br/>❌ <b>Verapamil、diltiazem</b>（non-DHP CCB）<br/>❌ <b>Moxonidine</b> 等中樞交感作用藥<br/>❌ <b>Alpha-blocker</b> 不拿來降壓（BPH 已在用、沒低血壓可續用）</div>
+<div class="oc-box b"><span class="oc-ans">HFpEF：沒有哪一顆最好</span><br/>① <b>MRA</b> 開始或調升（FMT 又降壓）<br/>② 有鬱血 → <b>loop diuretic</b><br/>③ <b>SGLT2-I</b>（FMT，輕度降壓）<br/>④ <b>ACE-I、ARB、CCB</b>：讓 <b>LVH 退化</b>，降壓兼改善症狀<br/>⚠ HFpEF <b>preload 儲備少</b> → 維持正常血壓、<b>避免低血壓</b></div>
+</div>
+
+<div class="oc-foot">❌ HFrEF 用 verapamil、diltiazem、moxonidine 降壓｜❌ 怕高血鉀就不開 MRA｜❌ Cr 上升 &lt; 50% 就停 RAASi／MRA｜❌ 只靠單一 NT-proBNP 125 排除老人 HF｜❌ 用 LVEF 41–49% 叫 HFmrEF（2026 已併入 HFrEF）｜❌ 利尿劑劑量不加、不看尿鈉尿量｜❌ 出院前沒開 SGLT2-I｜❌ 調藥太慢（應每 1–2 週）｜❌ LVEF 改善就停 FMT｜❌ MI 40 天內放初級預防 ICD｜❌ 常規 IABP</div>
+<div class="oc-note">依 2026 ESC HF Guidelines Figure 4、11–15、Table 11–13、Recommendation Table 5–10、15、19 與 Section 6.1.2.2（MRA）、9.4（高血壓）內容自製；血壓啟動治療門檻與目標依 2024 ESC 高血壓指引</div>
 </div>
 
 ## 📌 必看表：2021 → 2026 改了什麼
@@ -175,3 +205,4 @@ tags:
 ## 參考資料
 
 - 2026 ESC Guidelines for the management of heart failure. *Eur Heart J* 2026;47(38):5346 起（參考資料庫：心臟科／2026 ESC Guidelines for the management of heart failure.pdf）
+- McEvoy JW, McCarthy CP, Bruno RM, et al. 2024 ESC Guidelines for the management of elevated blood pressure and hypertension. *Eur Heart J* 2024;45(38):3912–4018（治療門檻、目標 SBP 120–129、HF 合併高血壓）

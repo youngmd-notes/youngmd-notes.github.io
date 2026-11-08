@@ -158,6 +158,7 @@ flowchart TD
 | **心室心律不整** | 持續 VT：先穩定（電擊）→ 找誘因 → 最佳化 FMT；**amiodarone 減少心律不整但不降 SCD 或死亡**；**PVC 負荷約 10% 起就增加 HF 風險** → 定期追 LVEF | 敘述 |
 | **CAD** | HF＋阻塞性 CAD＋FMT 與抗心絞痛藥下仍心絞痛 → **血管再通**緩解症狀 | I C（修訂） |
 | **嚴重 AS** | **SAVR 或 TAVI** 改善症狀、降低死亡 | **I B1**（修訂） |
+| **高血壓** | **HF 專屬目標沒有 RCT**（依 2024 ESC 高血壓指引：SBP 120–129）｜**HFrEF**：FMT 本身降壓，調完仍高 → **amlodipine 或 felodipine**（容積正常）；**❌ verapamil、diltiazem、moxonidine**；alpha-blocker 不用來降壓；**沒症狀的低血壓要接受**以維持 FMT｜**HFpEF**：MRA、loop diuretic（鬱血）、ACE-I／ARB／CCB（LVH 退化）；**避免低血壓**｜頑固型 → 找 **primary aldosteronism、renovascular、OSA** | 敘述 |
 | **Secondary MR** | 血行動力穩定、有症狀 HFrEF、optimized FMT（與 CRT）下仍嚴重 MR、符合條件 → **M-TEER** | **I B1**（修訂：升級） |
 
 **M-TEER 選擇條件（Table 19）**：FMT 與 CRT 已最佳化｜**NYHA ≥ II**｜**1 年內 ≥ 1 次 HFH**，或 **BNP ≥ 300／NT-proBNP ≥ 1000 pg/mL**｜不是 advanced HF｜不需要冠狀動脈再通｜不是肥厚、限制或浸潤性心肌病｜**LVEF 20–50%**｜**LVESD ≤ 70 mm**｜解剖適合｜**sPAP ≤ 70 mmHg**｜沒有嚴重 RV 功能不良｜沒有嚴重主動脈瓣或三尖瓣疾病

@@ -89,6 +89,14 @@ tags:
 > [!tip] Pearl：為什麼 MRA、SGLT2-I 變成「不分 LVEF」
 > SGLT2-I 在 HFrEF 與 HFpEF 的試驗都降低 HFH 或 CV 死亡；MRA 在 HFrEF（steroidal）、HFpEF（finerenone）都有效 → 2026 把兩者放進**所有有症狀 HF 的基礎治療**。HFrEF 再多兩根柱子：**beta-blocker＋ACE-I／ARNI**。
 
+> [!tip] MRA 選擇思維（Section 6.1.2.2、Table 11）
+> - **HFrEF → steroidal**（spironolactone、eplerenone）：HFrEF 的證據只有 steroidal，且**只有 HFrEF 降死亡率**；eplerenone 試驗只收 LVEF ≤ 35%
+> - **HFpEF → steroidal 或 finerenone**：finerenone（FINEARTS-HF）降 HFH＋CV 死亡；spironolactone 的 TOPCAT 整體陰性，合併分析才顯著
+> - **Eplerenone、finerenone 對 MR 選擇性高 → 女乳症少**；spironolactone 有女乳症就換
+> - **Finerenone 劑量依 eGFR**：**≤ 60 → 10 起、目標 20 mg**；**> 60 → 20 起、目標 40 mg**；spironolactone 腎功能或 K 需小心時從 **12.5 mg** 起
+> - **K ≥ 5.0 或 eGFR < 25**（沒試驗資料）→ 小心開；**K > 5.5 → 先重驗**，真的高才減量或暫停，**K 回來要重新開**
+> - **Cr 上升 < 50%、eGFR > 15 → 可接受，不要停**；K 一直偏高可用 **patiromer 或 SZC** 幫助維持 MRA
+
 ## ICD（Recommendation Table 6）
 
 | 建議 | 等級 |
