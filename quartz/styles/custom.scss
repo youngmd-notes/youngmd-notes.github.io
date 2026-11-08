@@ -856,3 +856,76 @@ a.af-card {
 .oncall .oc-time .hep {
   background: #7b5cc41c;
 }
+
+// 檢查選擇尺：臨床可能性 → 做什麼（CCS 總綱）
+.oncall .oc-scale {
+  margin: 0.9rem 0 0.6rem;
+  border: 1.5px solid var(--lightgray);
+  border-radius: 10px;
+  overflow: hidden;
+  .oc-sc-title {
+    padding: 0.45rem 0.8rem;
+    background: var(--secondary);
+    color: var(--light);
+    font-weight: 700;
+  }
+  .oc-sc-bar {
+    display: grid;
+    grid-template-columns: 0.7fr 1fr 1.3fr 1.3fr 1fr;
+  }
+  .oc-sc-seg {
+    padding: 0.5rem 0.45rem 0.6rem;
+    text-align: center;
+    border-right: 2px solid var(--light);
+    line-height: 1.35;
+  }
+  .oc-sc-seg:last-child { border-right: none; }
+  .oc-sc-pct {
+    display: block;
+    font-size: 1.02rem;
+    font-weight: 800;
+  }
+  .oc-sc-do {
+    display: block;
+    font-weight: 800;
+    font-size: 0.95rem;
+    margin: 0.15rem 0;
+  }
+  .oc-sc-sub { display: block; font-size: 0.78rem; opacity: 0.9; }
+  .s0 { background: #8a94a61f; }
+  .s1 { background: #3d7cc91f; }
+  .s2 { background: #3d7cc938; }
+  .s3 { background: #e0a10030; }
+  .s4 { background: #d64b4b30; }
+  .s1 .oc-sc-do, .s2 .oc-sc-do { color: var(--oc-blue); }
+  .s3 .oc-sc-do { color: #b07d00; }
+  .s4 .oc-sc-do { color: var(--oc-red); }
+  .oc-sc-arrow {
+    height: 10px;
+    background: linear-gradient(90deg, #8a94a6, var(--oc-blue), var(--oc-amber), var(--oc-red));
+  }
+}
+.oncall .oc-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.6rem;
+  margin: 0.6rem 0 0.9rem;
+  .oc-card {
+    border: 1.5px solid var(--lightgray);
+    border-top: 5px solid var(--oc-blue);
+    border-radius: 10px;
+    padding: 0.55rem 0.7rem 0.6rem;
+    background: var(--light);
+  }
+  .oc-card.r { border-top-color: var(--oc-red); }
+  .oc-card.a { border-top-color: var(--oc-amber); }
+  .oc-card.g { border-top-color: var(--oc-green); }
+  .oc-card-h { font-weight: 800; margin-bottom: 0.3rem; }
+  ul { margin: 0; padding-left: 1.1rem; }
+  li { margin: 0.12rem 0; }
+}
+@media (max-width: 760px) {
+  .oncall .oc-scale .oc-sc-bar { grid-template-columns: 1fr; }
+  .oncall .oc-scale .oc-sc-seg { border-right: none; border-bottom: 2px solid var(--light); }
+  .oncall .oc-cards { grid-template-columns: 1fr; }
+}

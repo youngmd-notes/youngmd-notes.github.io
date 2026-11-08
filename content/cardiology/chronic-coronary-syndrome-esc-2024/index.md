@@ -29,6 +29,49 @@ tags:
 <div class="oncall">
 <div class="oc-start">胸痛、運動時喘或疑似心絞痛｜先做：<b>12 導程 ECG</b>、<b>抽血（LDL-C、CBC、Cr／eGFR、HbA1c、TSH）</b>、<b>靜止心臟超音波</b>｜先問：<b>症狀三特徵（性質位置、誘因、休息或 NTG 緩解）？危險因子幾個？LVEF？有沒有不穩定？</b></div>
 
+<div class="oc-scale">
+<div class="oc-sc-title">🧭 一眼看懂：算出 RF-CL 可能性 → 往右越高，檢查越侵入</div>
+<div class="oc-sc-arrow"></div>
+<div class="oc-sc-bar">
+<div class="oc-sc-seg s0"><span class="oc-sc-pct">≤ 5%</span><span class="oc-sc-do">不檢查</span><span class="oc-sc-sub">找非心臟原因、控制危險因子</span></div>
+<div class="oc-sc-seg s1"><span class="oc-sc-pct">5–15%</span><span class="oc-sc-do">CCTA</span><span class="oc-sc-sub">或先 <b>CACS</b>：0 分 → 可停</span></div>
+<div class="oc-sc-seg s2"><span class="oc-sc-pct">15–50%</span><span class="oc-sc-do">CCTA 首選</span><span class="oc-sc-sub">（功能影像也可）<br/>目的：<b>排除</b> CAD</span></div>
+<div class="oc-sc-seg s3"><span class="oc-sc-pct">50–85%</span><span class="oc-sc-do">功能影像</span><span class="oc-sc-sub">stress echo、SPECT、<b>PET</b>、CMR<br/>目的：<b>找缺血</b></span></div>
+<div class="oc-sc-seg s4"><span class="oc-sc-pct">&gt; 85%</span><span class="oc-sc-do">直接 Cath</span><span class="oc-sc-sub">ICA＋FFR/iFR<br/>目的：<b>準備再通</b></span></div>
+</div>
+</div>
+
+<div class="oc-cards">
+<div class="oc-card r"><div class="oc-card-h">🚨 跳過 CCTA，直接 Cath</div><ul>
+<li>可能性 <b>&gt; 85%</b></li>
+<li><b>低運動量就心絞痛</b>（走一兩個街口、爬一層樓）</li>
+<li><b>GDMT 下仍嚴重症狀</b></li>
+<li>預後差的徵象：<b>LVEF 低</b>、<b>心室心律不整</b>、<b>運動時血壓下降</b></li>
+<li><b>LVEF ≤ 35% 懷疑缺血性</b> → Cath（為了 CABG）</li>
+</ul></div>
+<div class="oc-card a"><div class="oc-card-h">➡️ 做完非侵入檢查，何時轉 Cath</div><ul>
+<li><b>CCTA</b>：<b>LM ≥ 50%</b>｜<b>三條 ≥ 70%</b>｜<b>兩條含近端 LAD</b>｜近端 LAD 單條＋CT-FFR ≤ 0.8</li>
+<li><b>功能影像</b>：SPECT／PET <b>缺血 ≥ 10%</b>｜stress echo <b>≥ 3／16 節段</b>｜CMR <b>≥ 2 灌流缺損</b></li>
+<li>CCTA 是中度狹窄、意義不明 → <b>再做功能影像</b>（或 Cath＋FFR）</li>
+<li>非高風險但 <b>GDMT 仍有心絞痛</b> → Cath 準備再通</li>
+</ul></div>
+<div class="oc-card g"><div class="oc-card-h">🚫 不適合 CCTA → 改功能影像</div><ul>
+<li><b>eGFR &lt; 30</b>、碘過敏</li>
+<li><b>快且不規則的心律</b>（AF 控不下來）</li>
+<li><b>失償 HF</b>、無法閉氣、嚴重肥胖</li>
+<li><b>大量冠狀動脈鈣化</b></li>
+<li>CCTA <b>沒有結論</b> → 功能影像（反之亦然）</li>
+</ul></div>
+</div>
+
+<div class="oc-rx">
+<div class="oc-rxh">🧪 三個例子：算分 → 落點 → 檢查</div>
+<div class="oc-rr"><div class="oc-k k-g">A</div><div class="oc-if"><b>45 歲女性</b>，刺痛、和用力無關（症狀 0–1 分），1 個危險因子</div><div class="oc-drug">→ <b>1%</b>（≤ 5%）→ <b>不檢查</b>，找非心臟原因</div></div>
+<div class="oc-rr"><div class="oc-k k-b">B</div><div class="oc-if"><b>55 歲男性</b>，用力時胸骨後壓迫、休息 3 分鐘好（3 分），高血壓＋吸菸</div><div class="oc-drug">→ <b>27%</b>（15–50%）→ <b>CCTA</b>；CCTA 若見 <b>LM ≥ 50%</b> → 轉 Cath</div></div>
+<div class="oc-rr"><div class="oc-k k-r">C</div><div class="oc-if"><b>75 歲男性</b>，典型心絞痛（3 分），4 個危險因子，<b>走一個街口就痛</b></div><div class="oc-drug">→ <b>45%</b>，但<b>低運動量心絞痛</b> → <b>直接 Cath</b>（不必等 CCTA）</div></div>
+<div class="oc-rf">注意：RF-CL 最高只到 <b>45%</b>，所以「&gt; 85%」通常是<b>加上其他發現往上調</b>（ECG Q 波、LV 功能差、運動 ECG 異常、舊 CT 鈣化、PAD）或臨床判斷</div>
+</div>
+
 <div class="oc-time four">
 <div class="oc-tt">⏱ 總綱：眼前是哪一種？→ 做什麼檢查、給什麼、要不要再通</div>
 <div class="oc-tr oc-th"><div>情境</div><div>🔍 檢查</div><div>💊 藥物</div><div>🫀 再通</div></div>
