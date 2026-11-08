@@ -8,7 +8,7 @@ cssclasses:
 ---
 
 > [!abstract] 一句話重點
-> 整理 **NEJM Evidence Morning Report** 的個案（目前 42 篇）。每篇以**最終診斷**命名，但重點不在答案，而在**作者怎麼找到答案**：每一步問了什麼、為什麼做這個檢查、鑑別診斷怎麼升降，以及讓推理轉向的那個關鍵發現。
+> 整理 **NEJM Evidence Morning Report** 的個案（目前 43 篇）。每篇以**最終診斷**命名，但重點不在答案，而在**作者怎麼找到答案**：每一步問了什麼、為什麼做這個檢查、鑑別診斷怎麼升降，以及讓推理轉向的那個關鍵發現。
 
 ## 每篇筆記的讀法
 
@@ -48,8 +48,8 @@ cssclasses:
 <div class="af-body"><div class="af-title">腎臟科 Nephrology</div><div class="af-desc">胱胺酸症造成的腎性 Fanconi 症候群、微小變化腎病合併乳糜胸、感染性心內膜炎相關腎絲球腎炎</div></div>
 </a>
 <a class="af-card internal" href="/nejm-cases/hematology-oncology">
-<div class="af-num">3</div>
-<div class="af-body"><div class="af-title">血液腫瘤科 Hematology & Oncology</div><div class="af-desc">皮膚型 Rosai–Dorfman 病、瀰漫性大 B 細胞淋巴瘤併脾臟自發性破裂、鐮刀型貧血肝內膽汁滯積</div></div>
+<div class="af-num">4</div>
+<div class="af-body"><div class="af-title">血液腫瘤科 Hematology & Oncology</div><div class="af-desc">心臟移植後 Parvovirus B19 純紅血球再生不良、皮膚型 Rosai–Dorfman 病、瀰漫性大 B 細胞淋巴瘤併脾臟自發性破裂、鐮刀型貧血肝內膽汁滯積</div></div>
 </a>
 <a class="af-card internal" href="/nejm-cases/rheumatology-immunology">
 <div class="af-num">3</div>
