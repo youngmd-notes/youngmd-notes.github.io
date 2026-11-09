@@ -83,6 +83,31 @@ cssclasses:
 </div>
 </div>
 
+## 💊 High-dose PPI vs standard PPI：給法差異
+
+先看內視鏡下潰瘍的外觀，就知道要給哪一種（Figure 3）。
+
+| | **High-dose PPI** | **Standard PPI** |
+| --- | --- | --- |
+| **給誰** | ==Active spurting、oozing、visible vessel 止血後==；**adherent clot**（不論有沒有止血） | **Flat pigmented spot、clean base**（不需內視鏡止血） |
+| **定義** | ==每天 ≥ 80 mg、至少 3 天== | 例如**口服 PPI qd**；本版沒有重新評估，沿用之前的指引 |
+| **給法** | 二選一，效果相同：<br/>① **Continuous**：==80 mg IV bolus → 8 mg/h，持續 72 小時==<br/>② **Intermittent**：==40 mg 一天 2–4 次 × 3 天==，口服或 IV，可先給 80 mg bolus | 口服 qd |
+| **每天總量** | Continuous：第 1 天 272 mg（80＋8 × 24），之後 192 mg／天<br/>Intermittent：80–160 mg／天 | 標準單次劑量 |
+| **途徑** | IV；病人清醒、不吐、能吞就可以口服（pH 上升慢 15–60 分鐘，但效果相當） | 口服 |
+| **第 4 天之後** | **高風險者口服 PPI bid 到內視鏡後滿 2 週**（Statement 14）→ 試驗中再改 qd 2 週 | 繼續 qd |
+| **證據** | vs 安慰劑：再出血 **RR 0.43**、死亡 **RR 0.41**、手術 **RR 0.42**（high）<br/>vs H2RA：再出血 RR 0.56<br/>Continuous vs intermittent：**沒有差異** | 本版沒有評估 |
+| **為什麼** | 把胃內 pH 拉高，讓血塊形成、穩定，避免 pepsin 溶解血塊 | 低風險病灶再出血機率低，目的是讓潰瘍癒合 |
+
+> [!tip] Pearl
+> - **High-dose 的重點是「每天 ≥ 80 mg × 3 天」，不是一定要 drip**：12 個 RCT 比較 bolus＋continuous 與較低強度的給法（qd、bid、間歇 bolus），再出血沒有差異
+> - 選 continuous 或 intermittent，看**方便性與成本**；西方人 PPI 效果較弱，intermittent 用較高總量（40 mg tid–qid）可能較好
+> - Day 4–14 的 **40 mg bid**（每天 80 mg）其實就是 intermittent high-dose 的最低劑量 → 等於高風險者 **high-dose 延長到 2 週**；唯一的 RCT 收的是 **Rockall ≥ 6**、止血成功、已給 3 天 continuous PPI 的人，28 天再出血 10.8% vs 28.7%（bid vs qd）
+> - 再更長的 bid 或 PPI 總療程有沒有好處，指引沒有證據
+
+> [!warning] Pitfall
+> - **Adherent clot 沒有止血也要給 high-dose**：只給 PPI 的研究再出血很低（0/24；omeprazole 40 mg bid 0/64 vs 安慰劑 13/61）
+> - **Pre-endoscopic PPI 和這裡不同**：內視鏡前的 PPI 只減少內視鏡時需要止血的比例，不改善再出血或死亡，指引不建議也不反對
+
 ## 📋 16 條建議一覽（Table 1）
 
 <div class="orig-fig" data-src="腸胃肝膽科/ugib-acg-2021-originals/table-01.png" data-label="Table 1"></div>
@@ -154,6 +179,7 @@ cssclasses:
 - <a class="internal" href="/gastroenterology/upper-gi-bleeding-acg/ugib-2-endoscopic#figure-3依潰瘍外觀決定內視鏡治療與-ppi">Figure 3</a>：依潰瘍外觀決定止血與 PPI　<span class="af-where">②</span>
 - <a class="internal" href="/gastroenterology/upper-gi-bleeding-acg/ugib-2-endoscopic#table-7各種內視鏡止血方法的比較">Table 7</a>：各種止血方法的比較　<span class="af-where">②</span>
 - <a class="internal" href="/gastroenterology/upper-gi-bleeding-acg/ugib-2-endoscopic#止血後的-ppistatement-1314">止血後 PPI</a>：劑量與療程　<span class="af-where">②</span>
+- <a class="internal" href="#-high-dose-ppi-vs-standard-ppi給法差異">High-dose vs standard PPI</a>：給誰、給法、療程對照　<span class="af-where">總覽</span>
 - <a class="internal" href="/gastroenterology/upper-gi-bleeding-acg/ugib-2-endoscopic#table-8再出血時再做內視鏡-vs-手術">Table 8</a>：再出血時，再做內視鏡 vs 手術　<span class="af-where">②</span>
 
 ## 相關筆記
