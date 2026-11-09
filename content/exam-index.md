@@ -6,7 +6,7 @@ title: 內專考點總覽
 > 這頁會**自動彙整**所有筆記裡的「🎯 內專考點」，每次網站更新時重新產生，不需要手動編輯。
 > 「考過次數」把重複出現的同一題分開計算（例如 106-132／108-94 算 2 次），越多次代表越常考。
 
-目前共整理 **326 次考題**，分布在 **23 篇筆記、102 個考點**。
+目前共整理 **336 次考題**，分布在 **24 篇筆記、106 個考點**。
 
 ## 最常考的考點
 
@@ -42,6 +42,7 @@ title: 內專考點總覽
 | [[infectious-disease/pneumonia/pna-exam#CURB-65 與門診處置\|CURB-65 與門診處置]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 104、109、111、113 |
 | [[infectious-disease/covid-19-idsa/covid-exam#治療藥物：機轉、適應症與劑量\|治療藥物：機轉、適應症與劑量]] | [[infectious-disease/covid-19-idsa/covid-exam#🎯 內專考點\|⑦內專考點 Board Exam Review]] | 4 | 110、111、112 |
 | [[cardiology/atrial-fibrillation/af-exam#Rate 與 rhythm control\|Rate 與 rhythm control]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 108、109、111 |
+| [[gastroenterology/upper-gi-bleeding-acg/ugib-exam#上下內視鏡都找不到出血點（small bowel bleeding）\|上下內視鏡都找不到出血點（small bowel bleeding）]] | [[gastroenterology/upper-gi-bleeding-acg/ugib-exam#🎯 內專考點\|③內專考點 Board Exam Review]] | 4 | 106、108、109、111 |
 | [[cardiology/dyslipidemia-esc/lipid-esc-exam#生活型態與次發性血脂異常\|生活型態與次發性血脂異常]] | [[cardiology/dyslipidemia-esc/lipid-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 4 | 105、107、109、110 |
 | [[infectious-disease/covid-19-idsa/covid-exam#冠狀病毒學與 MERS\|冠狀病毒學與 MERS]] | [[infectious-disease/covid-19-idsa/covid-exam#🎯 內專考點\|⑦內專考點 Board Exam Review]] | 4 | 105、108、109 |
 | [[cardiology/acs-esc-2023/acs23-exam#病理與 troponin\|病理與 troponin]] | [[cardiology/acs-esc-2023/acs23-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 4 | 105、106、107 |
@@ -60,6 +61,7 @@ title: 內專考點總覽
 | [[infectious-disease/pneumonia/pna-exam#重症 CAP 族群與治療\|重症 CAP 族群與治療]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 104、108、112 |
 | [[endocrinology/dka-hhs#酸鹼與電解質\|酸鹼與電解質]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 3 | 110、112 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#藥物性肝損傷（DILI）與 liver biopsy\|藥物性肝損傷（DILI）與 liver biopsy]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 104、111 |
+| [[gastroenterology/upper-gi-bleeding-acg/ugib-exam#消化性潰瘍的藥物因素\|消化性潰瘍的藥物因素]] | [[gastroenterology/upper-gi-bleeding-acg/ugib-exam#🎯 內專考點\|③內專考點 Board Exam Review]] | 3 | 105、111 |
 | [[infectious-disease/covid-19-idsa/covid-exam#COVID-19 臨床與病理\|COVID-19 臨床與病理]] | [[infectious-disease/covid-19-idsa/covid-exam#🎯 內專考點\|⑦內專考點 Board Exam Review]] | 3 | 109、110 |
 | [[infectious-disease/infectious-diarrhea-idsa/dia-exam#*Salmonella*、*Campylobacter* 與傷寒\|*Salmonella*、*Campylobacter* 與傷寒]] | [[infectious-disease/infectious-diarrhea-idsa/dia-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 3 | 107、108、110 |
 | [[nephrology/renal-tubular-acidosis#Type 4 RTA：糖尿病\|Type 4 RTA：糖尿病]] | [[nephrology/renal-tubular-acidosis#🎯 內專考點\|腎小管酸中毒 Renal Tubular Acidosis]] | 3 | 104、106、109 |
@@ -90,10 +92,12 @@ title: 內專考點總覽
 | [[infectious-disease/influenza-idsa/flu-exam#抗病毒藥物與預防性投藥\|抗病毒藥物與預防性投藥]] | [[infectious-disease/influenza-idsa/flu-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 106、109 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#Hyperbilirubinemia 與 Gilbert\|Hyperbilirubinemia 與 Gilbert]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 107、108 |
 | [[infectious-disease/influenza-idsa/flu-exam#禽流感與新型 A 型流感\|禽流感與新型 A 型流感]] | [[infectious-disease/influenza-idsa/flu-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 104、106 |
+| [[gastroenterology/upper-gi-bleeding-acg/ugib-exam#UGIB 的初步評估與處置\|UGIB 的初步評估與處置]] | [[gastroenterology/upper-gi-bleeding-acg/ugib-exam#🎯 內專考點\|③內專考點 Board Exam Review]] | 2 | 104 |
 | [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam#檢查\|檢查]] | [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 1 | 114 |
 | [[pulmonology/emergent-airway-management#HFNC 的生理效應\|HFNC 的生理效應]] | [[pulmonology/emergent-airway-management#🎯 內專考點\|緊急呼吸道處置 Emergent Airway Management]] | 1 | 114 |
 | [[infectious-disease/infectious-diarrhea-idsa/dia-exam#阿米巴\|阿米巴]] | [[infectious-disease/infectious-diarrhea-idsa/dia-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 1 | 114 |
 | [[nephrology/calcium-phosphate-disorders#低血鈣\|低血鈣]] | [[nephrology/calcium-phosphate-disorders#🎯 內專考點\|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]] | 1 | 113 |
+| [[gastroenterology/upper-gi-bleeding-acg/ugib-exam#嚴重下消化道出血\|嚴重下消化道出血]] | [[gastroenterology/upper-gi-bleeding-acg/ugib-exam#🎯 內專考點\|③內專考點 Board Exam Review]] | 1 | 113 |
 | [[nephrology/hemodialysis-emergencies#透析中低血壓\|透析中低血壓]] | [[nephrology/hemodialysis-emergencies#🎯 內專考點\|血液透析急症 Hemodialysis Emergencies]] | 1 | 111 |
 | [[nephrology/hemodialysis-emergencies#Vascular access 理學檢查\|Vascular access 理學檢查]] | [[nephrology/hemodialysis-emergencies#🎯 內專考點\|血液透析急症 Hemodialysis Emergencies]] | 1 | 111 |
 | [[cardiology/atrial-fibrillation/af-exam#瓣膜性 AF 與機械瓣\|瓣膜性 AF 與機械瓣]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 1 | 111 |
@@ -754,6 +758,30 @@ title: 內專考點總覽
 - 114-050｜台灣女性、多顆小結石、典型 biliary colic：最適當處置？
 - 105-061、107-050｜膽囊疾病的手術適應症（兩題合併）
 - 105-055｜哪一項不是色素結石的危險因子？
+
+### ③內專考點 Board Exam Review
+
+**[[gastroenterology/upper-gi-bleeding-acg/ugib-exam#UGIB 的初步評估與處置|UGIB 的初步評估與處置]]**（2 次）
+
+- 104-057｜吃 warfarin、吐咖啡渣、生命徵象穩定：最迫切的處置？
+- 104-094｜胃腸道出血的評估：何者錯誤？
+
+**[[gastroenterology/upper-gi-bleeding-acg/ugib-exam#消化性潰瘍的藥物因素|消化性潰瘍的藥物因素]]**（3 次）
+
+- 105-059｜NSAID 造成的 GI 併發症：何者錯誤？
+- 105-047｜哪一種藥物較不會造成潰瘍？
+- 111-043｜PUD 治療綜合題：哪些錯誤？
+
+**[[gastroenterology/upper-gi-bleeding-acg/ugib-exam#上下內視鏡都找不到出血點（small bowel bleeding）|上下內視鏡都找不到出血點（small bowel bleeding）]]**（4 次）
+
+- 106-054｜Obscure GI bleeding 的檢查：何者錯誤？
+- 108-060｜吃 warfarin、缺鐵性貧血、上下內視鏡都陰性：下一步？
+- 109-063｜膠囊內視鏡看到近端空腸 angiodysplasia：下一步？
+- 111-073｜血便、上下內視鏡都陰性：何者錯誤？
+
+**[[gastroenterology/upper-gi-bleeding-acg/ugib-exam#嚴重下消化道出血|嚴重下消化道出血]]**（1 次）
+
+- 113-043｜大量血便、輸液後仍低血壓：最優先的檢查？
 
 ## 內分泌科 Endocrinology
 

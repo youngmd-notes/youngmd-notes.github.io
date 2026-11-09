@@ -188,6 +188,7 @@ tags:
 
 ## 相關筆記
 
+- [[gastroenterology/upper-gi-bleeding-acg/index|上消化道與潰瘍出血（ACG 2021）]]：DAPT 或抗凝病人發生 UGIB 時的處置（含 ACG-CAG 2022 抗栓藥建議）
 - [[cardiology/atrial-fibrillation/af-esc-2024-2-anticoagulation|AF 抗凝]]（AF 合併 ACS／PCI）
 - [[cardiology/acs-esc-2023/acs23-2-reperfusion-invasive|② 再灌流與侵入性策略]]
 - [[cardiology/acs-esc-2023/acs23-exam|⑤ 內專考點]]
