@@ -25,7 +25,8 @@ cssclasses:
 > - **潰瘍止血**：
 >   - ==spurting、oozing、visible vessel → 止血==；adherent clot 兩可
 >   - 方法：thermal 或 absolute ethanol；==epinephrine 不可單用==
-> - **止血後**：==high-dose PPI 3 天==（80 mg → 8 mg/h，或 40 mg bid–qid）→ 高風險者口服 PPI bid 到 2 週
+> - **止血後**：==high-dose PPI 3 天==（80 mg → 8 mg/h，或 40 mg bid–qid）→ 高風險者（試驗用 ==Rockall ≥ 6==）口服 PPI bid 到 2 週
+> - **「高風險」有 4 種意思**：GBS（分流）、臨床特徵（時機）、潰瘍外觀（止血）、Rockall ≥ 6（PPI 延長），見下方 ⚠️ 表
 > - **再出血與失敗**：再出血 → **再做內視鏡**；止不住 → ==TAE 優先於手術==
 
 本系列依 **ACG Clinical Guideline: Upper Gastrointestinal and Ulcer Bleeding**（Laine 等，*Am J Gastroenterol* 2021）整理成 2 篇指引筆記與第 3 篇內專考點。原圖含 **Table 1–8、Figure 1–3**。
@@ -82,6 +83,29 @@ cssclasses:
 <div class="oc-rf">❌ 常規 second-look endoscopy｜❌ 止血後預防性 TAE｜❌ TC-325 在其他方法可做時當第一選擇（太貴）</div>
 </div>
 </div>
+
+## ⚠️「高風險」到底是什麼？
+
+指引裡的「高風險」**不是同一個定義**，要看是在哪個階段說的。照時間順序有 4 種：
+
+| 階段 | 用什麼判斷 | 怎樣算高風險 | 改變什麼處置 |
+| --- | --- | --- | --- |
+| **① 急診分流** | **Glasgow-Blatchford score**（GBS，內視鏡前就能算） | 指引只定義「低風險」：==GBS 0–1 為 very low risk==；**GBS ≥ 2 就不能回家** | GBS 0–1 → 可出院門診追蹤；≥ 2 → 住院或留觀 |
+| **② 內視鏡時機** | **臨床特徵**（high-risk clinical features） | 指引舉例：**血行動力不穩、休克**、**肝硬化**（沿用舊指引）；RCT 用 ==GBS ≥ 12==；世代研究另分出**明顯共病（ASA 3–5）** | **不會**因此提早到 < 6–12 h：仍是==先復甦、24 h 內做==；**復甦後仍休克** → 緊急內視鏡或 IR |
+| **③ 內視鏡看到的潰瘍** | **High-risk stigmata**（Forrest 分類） | ==Active spurting（Ia）、oozing（Ib）、non-bleeding visible vessel（IIa）==；adherent clot（IIb）介於中間 | **內視鏡止血＋high-dose PPI 3 天**；clot 給 high-dose PPI，止血可做可不做；flat spot、clean base = 低風險，只給 standard PPI |
+| **④ 止血後 Day 4–14（Statement 14）** | 指引沒有另外定義，**照唯一 RCT 的收案條件** | ==Rockall score ≥ 6==＋③ 的高風險病灶（active bleeding／visible vessel／clot）已止血＋已給 3 天 IV high-dose PPI | **口服 PPI bid 到內視鏡後滿 2 週** |
+
+> [!tip] 值班時怎麼用
+> - 急診：**GBS** 決定住不住院
+> - 照胃鏡：**潰瘍外觀**決定要不要止血、PPI 給 high-dose 還是 standard
+> - 止血後要不要 bid 到 2 週：算 **Rockall**（年齡＋休克＋共病＋診斷＋內視鏡所見），==≥ 6 就照 Statement 14==
+>   - Rockall 怎麼算：見 [[gastroenterology/upper-gi-bleeding-acg/ugib-2-endoscopic#Rockall score：Statement 14 的「高風險」|② 的 Rockall 表]]
+> - Rockall < 6 的病人，指引沒有給 bid 延長的證據
+
+> [!warning] Pitfall
+> - **「高風險」不等於「越早做內視鏡」**：GBS ≥ 12 的 RCT 裡，< 6 h 做沒有減少再出血或死亡
+> - **Rockall 不在 ACG 指引本文**：指引只說 Statement 14 的試驗收 Rockall ≥ 6，計分方式出自 Rockall 1996 原始文獻
+> - **再出血時另有預測因子**：再出血時**低血壓**、潰瘍 **> 2 cm** → 再做內視鏡較容易失敗，可提早找 IR（TAE）或外科（Table 8）
 
 ## 💊 High-dose PPI vs standard PPI：給法差異
 
@@ -193,3 +217,4 @@ cssclasses:
 
 - Laine L, Barkun AN, Saltzman JR, Martel M, Leontiadis GI. ACG Clinical Guideline: Upper Gastrointestinal and Ulcer Bleeding. *Am J Gastroenterol* 2021;116:899–917. doi:10.14309/ajg.0000000000001245（參考資料庫：腸胃肝膽科／acg-clinical-guideline-upper-gastrointestinal-and-ulcer.pdf）
 - Abraham NS, Barkun AN, Sauer BG, et al. ACG-CAG Clinical Practice Guideline: Management of Anticoagulants and Antiplatelets During Acute Gastrointestinal Bleeding and the Periendoscopic Period. *Am J Gastroenterol* 2022;117:542–558. doi:10.14309/ajg.0000000000001627
+- Rockall TA, Logan RF, Devlin HB, Northfield TC. Risk assessment after acute upper gastrointestinal haemorrhage. *Gut* 1996;38:316–321（「高風險」表的 Rockall score）

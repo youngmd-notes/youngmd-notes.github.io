@@ -200,6 +200,26 @@ flowchart TD
 - 28 天再出血 ==10.8% vs 28.7%==（14 天時也較低）
 - 這是 2012 版之後才有證據的**新建議**
 
+### Rockall score：Statement 14 的「高風險」
+
+> [!info] 補充（Rockall 1996，非 ACG 指引本文）
+> 指引沒有自己定義 Statement 14 的「高風險」，只寫唯一 RCT 收的是 **Rockall ≥ 6**。以下計分依 Rockall 原始文獻整理。
+
+| 項目 | 0 分 | 1 分 | 2 分 | 3 分 |
+| --- | --- | --- | --- | --- |
+| **年齡** | < 60 | 60–79 | ≥ 80 | |
+| **休克** | 沒有（HR < 100、SBP ≥ 100） | **Tachycardia**（HR ≥ 100、SBP ≥ 100） | **Hypotension**（SBP < 100） | |
+| **共病** | 沒有 | | **Heart failure、IHD**、其他重大共病 | **Renal failure、liver failure、disseminated malignancy** |
+| **診斷**（內視鏡） | Mallory-Weiss tear；沒有病灶也沒有 SRH | 其他所有診斷（例如 peptic ulcer） | **Upper GI malignancy** | |
+| **Major SRH**（內視鏡） | 沒有，或只有 dark spot | | **上消化道有血、adherent clot、visible vessel 或 spurting** | |
+
+- 總分 0–11；前 3 項（年齡、休克、共病）= 內視鏡前的 **pre-endoscopic Rockall**（0–7）
+- ==總分 ≥ 6 → 照 Statement 14，口服 PPI bid 到內視鏡後 2 週==
+- 和 GBS 的分工：**GBS 用來分流**（不需內視鏡，找出可回家的人）；**Rockall 含內視鏡所見**，用來預測再出血與死亡
+
+> [!example] 算算看
+> 72 歲（1）、HR 110、SBP 120（1）、有 IHD（2）、潰瘍（1）、visible vessel（2）→ ==Rockall 7==：止血＋high-dose PPI 3 天後，口服 PPI bid 到 2 週
+
 ## 再出血與止血失敗（Statement 15–16）
 
 > [!tip] Statement 15（conditional）
@@ -248,4 +268,5 @@ Lau 1999（NEJM）：止血成功後再出血的病人，隨機分到再做內�
 ## 參考資料
 
 - Laine L, Barkun AN, Saltzman JR, Martel M, Leontiadis GI. ACG Clinical Guideline: Upper Gastrointestinal and Ulcer Bleeding. *Am J Gastroenterol* 2021;116:899–917. doi:10.14309/ajg.0000000000001245（Statement 6–16、Table 7–8、Figure 3）（參考資料庫：腸胃肝膽科／acg-clinical-guideline-upper-gastrointestinal-and-ulcer.pdf）
+- Rockall TA, Logan RF, Devlin HB, Northfield TC. Risk assessment after acute upper gastrointestinal haemorrhage. *Gut* 1996;38:316–321（Rockall score 計分）
 - Forrest JA, Finlayson ND, Shearman DJ. Endoscopy in gastrointestinal bleeding. *Lancet* 1974;2:394–397（Forrest 分類對照）
