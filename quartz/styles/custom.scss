@@ -924,6 +924,9 @@ a.af-card {
   ul { margin: 0; padding-left: 1.1rem; }
   li { margin: 0.12rem 0; }
 }
+// 四格版（UC 嚴重度、MES）
+.oncall .oc-scale.four .oc-sc-bar { grid-template-columns: repeat(4, 1fr); }
+.oncall .oc-scale.four .s0 { background: #2e8b5724; }
 @media (max-width: 760px) {
   .oncall .oc-scale .oc-sc-bar { grid-template-columns: 1fr; }
   .oncall .oc-scale .oc-sc-seg { border-right: none; border-bottom: 2px solid var(--light); }
