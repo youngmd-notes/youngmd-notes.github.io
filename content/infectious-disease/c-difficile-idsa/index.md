@@ -159,6 +159,7 @@ cssclasses:
 
 ## 相關筆記
 
+- [[gastroenterology/ulcerative-colitis-acg/index|潰瘍性結腸炎（ACG 2025）]]：UC 發作與 ASUC 都要驗 C. difficile
 - [[infectious-disease/infectious-diarrhea-idsa/index|感染性腹瀉 Infectious Diarrhea（IDSA 2017 指引）]]
 - [[infectious-disease/pneumonia/index|肺炎 Pneumonia（台灣肺炎診治指引 2018）]]（抗生素療程越短越好）
 - [[infectious-disease/covid-19-idsa/index|新冠肺炎 COVID-19（IDSA 指引）]]

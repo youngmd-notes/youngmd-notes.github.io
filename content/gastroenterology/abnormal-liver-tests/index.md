@@ -163,6 +163,7 @@ cssclasses:
 
 ## 相關筆記
 
+- [[gastroenterology/ulcerative-colitis-acg/index|潰瘍性結腸炎（ACG 2025）]]：PSC 常合併 UC
 - [[gastroenterology/upper-gi-bleeding-acg/index|上消化道與潰瘍出血（ACG 2021）]]：非靜脈曲張的 UGIB 處置；肝病會讓 GBS 加分
 - [[gastroenterology/acute-biliary-infection/index|急性膽道感染 TG18]]
 - [[gastroenterology/acute-pancreatitis|急性胰臟炎]]

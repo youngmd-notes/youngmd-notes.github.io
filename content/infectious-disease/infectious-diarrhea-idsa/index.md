@@ -186,6 +186,7 @@ cssclasses:
 
 ## 相關筆記
 
+- [[gastroenterology/ulcerative-colitis-acg/index|潰瘍性結腸炎（ACG 2025）]]：排除感染後的慢性血便
 - [[infectious-disease/pneumonia/index|肺炎 Pneumonia（台灣肺炎診治指引 2018）]]
 - [[infectious-disease/influenza-idsa/index|流感 Seasonal Influenza（IDSA 2018 指引）]]
 - [[infectious-disease/covid-19-idsa/index|新冠肺炎 COVID-19（IDSA 指引）]]

@@ -6,7 +6,7 @@ title: 內專考點總覽
 > 這頁會**自動彙整**所有筆記裡的「🎯 內專考點」，每次網站更新時重新產生，不需要手動編輯。
 > 「考過次數」把重複出現的同一題分開計算（例如 106-132／108-94 算 2 次），越多次代表越常考。
 
-目前共整理 **336 次考題**，分布在 **24 篇筆記、106 個考點**。
+目前共整理 **351 次考題**，分布在 **25 篇筆記、110 個考點**。
 
 ## 最常考的考點
 
@@ -37,11 +37,14 @@ title: 內專考點總覽
 | [[endocrinology/dka-hhs#初始輸液\|初始輸液]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 5 | 104、105、106、107、108 |
 | [[cardiology/atrial-fibrillation/af-exam#中風風險評估：CHA₂DS₂-VASc\|中風風險評估：CHA₂DS₂-VASc]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 104、105、114 |
 | [[cardiology/atrial-fibrillation/af-exam#抗凝中出血、中風或要做處置\|抗凝中出血、中風或要做處置]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 104、108、112、114 |
+| [[gastroenterology/ulcerative-colitis-acg/uc-exam#嚴重度、急症與治療\|嚴重度、急症與治療]] | [[gastroenterology/ulcerative-colitis-acg/uc-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 4 | 109、113、114 |
 | [[nephrology/nephrotic-syndrome#從臨床與病理判斷 MCD、FSGS\|從臨床與病理判斷 MCD、FSGS]] | [[nephrology/nephrotic-syndrome#🎯 內專考點\|腎病症候群 Nephrotic Syndrome]] | 4 | 105、107、111、113 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#VT 與 wide complex tachycardia\|VT 與 wide complex tachycardia]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 4 | 104、108、109、113 |
 | [[infectious-disease/pneumonia/pna-exam#CURB-65 與門診處置\|CURB-65 與門診處置]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 104、109、111、113 |
 | [[infectious-disease/covid-19-idsa/covid-exam#治療藥物：機轉、適應症與劑量\|治療藥物：機轉、適應症與劑量]] | [[infectious-disease/covid-19-idsa/covid-exam#🎯 內專考點\|⑦內專考點 Board Exam Review]] | 4 | 110、111、112 |
+| [[gastroenterology/ulcerative-colitis-acg/uc-exam#UC vs Crohn's disease\|UC vs Crohn's disease]] | [[gastroenterology/ulcerative-colitis-acg/uc-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 4 | 105、108、109、112 |
 | [[cardiology/atrial-fibrillation/af-exam#Rate 與 rhythm control\|Rate 與 rhythm control]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 108、109、111 |
+| [[gastroenterology/ulcerative-colitis-acg/uc-exam#腸道外表現\|腸道外表現]] | [[gastroenterology/ulcerative-colitis-acg/uc-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 4 | 104、106、107、111 |
 | [[gastroenterology/upper-gi-bleeding-acg/ugib-exam#上下內視鏡都找不到出血點（small bowel bleeding）\|上下內視鏡都找不到出血點（small bowel bleeding）]] | [[gastroenterology/upper-gi-bleeding-acg/ugib-exam#🎯 內專考點\|③內專考點 Board Exam Review]] | 4 | 106、108、109、111 |
 | [[cardiology/dyslipidemia-esc/lipid-esc-exam#生活型態與次發性血脂異常\|生活型態與次發性血脂異常]] | [[cardiology/dyslipidemia-esc/lipid-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 4 | 105、107、109、110 |
 | [[infectious-disease/covid-19-idsa/covid-exam#冠狀病毒學與 MERS\|冠狀病毒學與 MERS]] | [[infectious-disease/covid-19-idsa/covid-exam#🎯 內專考點\|⑦內專考點 Board Exam Review]] | 4 | 105、108、109 |
@@ -64,6 +67,7 @@ title: 內專考點總覽
 | [[gastroenterology/upper-gi-bleeding-acg/ugib-exam#消化性潰瘍的藥物因素\|消化性潰瘍的藥物因素]] | [[gastroenterology/upper-gi-bleeding-acg/ugib-exam#🎯 內專考點\|③內專考點 Board Exam Review]] | 3 | 105、111 |
 | [[infectious-disease/covid-19-idsa/covid-exam#COVID-19 臨床與病理\|COVID-19 臨床與病理]] | [[infectious-disease/covid-19-idsa/covid-exam#🎯 內專考點\|⑦內專考點 Board Exam Review]] | 3 | 109、110 |
 | [[infectious-disease/infectious-diarrhea-idsa/dia-exam#*Salmonella*、*Campylobacter* 與傷寒\|*Salmonella*、*Campylobacter* 與傷寒]] | [[infectious-disease/infectious-diarrhea-idsa/dia-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 3 | 107、108、110 |
+| [[gastroenterology/ulcerative-colitis-acg/uc-exam#流行病學與危險因子\|流行病學與危險因子]] | [[gastroenterology/ulcerative-colitis-acg/uc-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 3 | 105、107、110 |
 | [[nephrology/renal-tubular-acidosis#Type 4 RTA：糖尿病\|Type 4 RTA：糖尿病]] | [[nephrology/renal-tubular-acidosis#🎯 內專考點\|腎小管酸中毒 Renal Tubular Acidosis]] | 3 | 104、106、109 |
 | [[cardiology/atrial-fibrillation/af-exam#DOAC 的機轉與解毒劑\|DOAC 的機轉與解毒劑]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 105、107、109 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#HCM：猝死危險因子\|HCM：猝死危險因子]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 3 | 104、108、109 |
@@ -758,6 +762,35 @@ title: 內專考點總覽
 - 114-050｜台灣女性、多顆小結石、典型 biliary colic：最適當處置？
 - 105-061、107-050｜膽囊疾病的手術適應症（兩題合併）
 - 105-055｜哪一項不是色素結石的危險因子？
+
+### ⑤內專考點 Board Exam Review
+
+**[[gastroenterology/ulcerative-colitis-acg/uc-exam#UC vs Crohn's disease|UC vs Crohn's disease]]**（4 次）
+
+- 105-064｜IBD 的敘述：何者錯誤？
+- 108-051｜UC 和 Crohn's 的比較：何者錯誤？
+- 109-065｜直腸與 terminal ileum 正常、多段大腸發炎：診斷？
+- 112-054｜25 歲反覆血便、tenesmus：何者錯誤？
+
+**[[gastroenterology/ulcerative-colitis-acg/uc-exam#流行病學與危險因子|流行病學與危險因子]]**（3 次）
+
+- 105-051｜UC 與 Crohn's 的流行病學：何者正確？
+- 107-060｜IBD 流行病學：何者錯誤？
+- 110-050｜典型 UC 的危險因子：何者為非？
+
+**[[gastroenterology/ulcerative-colitis-acg/uc-exam#腸道外表現|腸道外表現]]**（4 次）
+
+- 104-050｜哪些腸道外表現較常見於 Crohn's？
+- 107-061｜哪一個不是 IBD 常見的腸道外表現？
+- 106-058｜慢性血便＋關節痛＋皮膚病灶：診斷？
+- 111-157｜UC 病人小腿快速擴大的疼痛潰瘍：診斷？
+
+**[[gastroenterology/ulcerative-colitis-acg/uc-exam#嚴重度、急症與治療|嚴重度、急症與治療]]**（4 次）
+
+- 114-044｜UC 病人突然腹痛、發燒、白血球高、腹部 X 光：診斷？
+- 109-064｜Prednisolone 60 mg 10 天仍每天 6–9 次血便：下一步？
+- 114-051｜胃腸道治療策略：何者為正確組合？
+- 113-039｜癌症篩檢：何者錯誤？（PSC＋IBD）
 
 ### ③內專考點 Board Exam Review
 
