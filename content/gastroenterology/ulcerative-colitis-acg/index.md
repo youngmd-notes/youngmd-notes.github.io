@@ -20,7 +20,8 @@ cssclasses:
 >   - ==大腸鏡進到 ileum，病灶與正常處都切片==
 >   - 不用 serology
 > - **嚴重度**看症狀（含 **urgency**）、發炎（內視鏡、**FC**、CRP、albumin）、病程與生活影響
-> - **預後因子多** → 即使輕症也用中重度治療
+> - ==輕度要每一項都符合；任何一項超出輕度 → 照中重度治療==
+> - 真的輕度才數**預後因子**：年輕＋另一個因子 → 討論直接用中重度治療
 > - **目標**：==MES 0–1＋無類固醇緩解==，用 **FC** 追蹤
 > - **輕到中度**：
 >   - ==依範圍給 5-ASA==：proctitis 栓劑 1 g、left-sided 灌腸＋口服、extensive 口服 ≥ 2 g
@@ -43,12 +44,29 @@ cssclasses:
 > [!tip] 原圖
 > 各篇的表格、流程圖下方都有「📷 原圖」區塊。原圖存在私人資料庫，只有設定過權杖的瀏覽器看得到。<a class="of-settings-link" href="javascript:void 0">🔑 原圖設定</a>
 
-## 🌳 決策流程：先分嚴重度，再照順序回答 5 個問題
+## 🌳 決策流程：照順序回答，每一步都有明確出口
 
 <div class="oncall">
 <div class="oc-start">血便、排便次數增加、bowel urgency｜先做：<b>糞便 C. difficile 與病原</b>、CBC、CRP、albumin、<b>fecal calprotectin</b>｜先問：<b>每天幾次、夜間排便、幾成帶血、urgency、發燒、體重</b>；NSAID、最近戒菸、抗生素</div>
 
-<div class="oc-q"><span class="oc-n">0</span><div><span class="oc-qt">先一眼分嚴重度：內視鏡 MES ＋ 臨床四項</span><small>MES 看內視鏡外觀；臨床看<b>每天幾次、出血、Hb／全身、ESR</b>；除了緩解，<b>不必每一項都符合</b>（ACG Table 4、Mayo Table 5）</small></div></div>
+<div class="oc-q"><span class="oc-n">1</span><div><span class="oc-qt">是 ASUC 嗎？（先排除要住院的）</span><small><b>每天 ≥ 6 次血便</b>＋至少一項：<b>心跳快、發燒、Hb &lt; 10.5、ESR &gt; 30</b>（Figure 3：或 CRP &gt; 5 mg/dL）</small></div></div>
+<div class="oc-split side">
+<div class="oc-box r"><span class="oc-ans">是 → 住院</span><br/>驗 <b>C. difficile</b>｜<b>72 h 內（最好 24 h）sigmoidoscopy</b> 切片找 CMV<br/>評估 <b>toxic megacolon</b>（transverse colon &gt; 5.5 cm）｜<b>LMWH</b>｜停 5-ASA<br/><b>Methylprednisolone 60 mg／天</b><br/>避免 NSAID、opioid、anticholinergic｜不常規抗生素、不 TPN<br/>→ 跳到第 ⑤ 步</div>
+<div class="oc-box b"><span class="oc-ans">不是 → 門診</span><br/>大腸鏡確診（進到 ileum、切片），記錄 <b>MES</b> 與範圍<br/>→ 第 ② 步</div>
+</div>
+
+<div class="oc-q"><span class="oc-n">2</span><div><span class="oc-qt">是「輕度」嗎？每一格都要打勾</span><small>ACG 2025：<b>只要超過輕度，就照中重度治療</b>｜所以不是在找「夠不夠重」，而是看<b>有沒有任何一項超出輕度</b></small></div></div>
+<div class="oc-rx">
+<div class="oc-rxh">✅ 輕度＝下面 7 格全部符合｜❌ 任何一格不符 → 直接中重度（第 ④ 步）</div>
+<div class="oc-rr"><div class="oc-k k-g">1</div><div class="oc-if"><b>排便次數</b></div><div class="oc-drug">✅ <b>&lt; 4 次／天</b>｜❌ <b>≥ 4 次</b>（4–6 次的灰區也算超出輕度）</div></div>
+<div class="oc-rr"><div class="oc-k k-g">2</div><div class="oc-if"><b>便血</b></div><div class="oc-drug">✅ <b>間歇</b>（偶爾帶血）｜❌ 大部分排便都有血</div></div>
+<div class="oc-rr"><div class="oc-k k-g">3</div><div class="oc-if"><b>Urgency</b></div><div class="oc-drug">✅ 輕微、偶爾｜❌ 常常有</div></div>
+<div class="oc-rr"><div class="oc-k k-b">4</div><div class="oc-if"><b>Hb、ESR</b></div><div class="oc-drug">✅ <b>Hb 正常、ESR &lt; 30</b>｜❌ Hb 下降、ESR &gt; 30（CRP 輕度升高在輕度也可見）</div></div>
+<div class="oc-rr"><div class="oc-k k-b">5</div><div class="oc-if"><b>內視鏡</b></div><div class="oc-drug">✅ <b>MES 1</b>（UCEIS 2–4）｜❌ <b>MES 2–3</b>（UCEIS ≥ 5）</div></div>
+<div class="oc-rr"><div class="oc-k k-o">6</div><div class="oc-if"><b>病程</b></div><div class="oc-drug">✅ 沒有失敗過治療｜❌ <b>5-ASA 沒效或不耐受</b>（Key concept 24）、<b>需要全身性類固醇</b>、曾因 UC 住院（Key concept 6）</div></div>
+<div class="oc-rr"><div class="oc-k k-o">7</div><div class="oc-if"><b>生活影響</b></div><div class="oc-drug">✅ 生活大致不受影響｜❌ 明顯影響工作、睡眠、社交（Key concept 6：嚴重度也看 disease impact）</div></div>
+<div class="oc-rf">MES 怎麼看 ↓｜Table 4 每一欄不必全部符合才算「中重度」，但「輕度」要全部符合</div>
+</div>
 
 <div class="oc-scale four">
 <div class="oc-sc-title">🔬 MES（Mayo endoscopic subscore）怎麼算：0–3 分，看有沒有出血、潰瘍</div>
@@ -61,49 +79,24 @@ cssclasses:
 </div>
 </div>
 
-<div class="oc-scale four">
-<div class="oc-sc-title">🧭 嚴重度一條尺：往右越嚴重 → 治療越強</div>
-<div class="oc-sc-arrow"></div>
-<div class="oc-sc-bar">
-<div class="oc-sc-seg s0"><span class="oc-sc-pct">緩解</span><span class="oc-sc-do">→ 繼續維持</span><span class="oc-sc-sub">成形便、無血、無 urgency<br/><b>MES 0–1</b>｜FC &lt; 150–200<br/>Hb、ESR、CRP 正常</span></div>
-<div class="oc-sc-seg s1"><span class="oc-sc-pct">輕度</span><span class="oc-sc-do">→ 5-ASA（依範圍）</span><span class="oc-sc-sub">排便 <b>&lt; 4 次</b>、<b>間歇</b>出血<br/>Hb 正常、ESR &lt; 30<br/><b>MES 1</b>｜UCEIS 2–4</span></div>
-<div class="oc-sc-seg s3"><span class="oc-sc-pct">中重度</span><span class="oc-sc-do">→ Advanced therapy</span><span class="oc-sc-sub">排便 <b>&gt; 6 次</b>、<b>頻繁</b>出血、常 urgency<br/>Hb <b>&lt; 正常 75%</b>、ESR &gt; 30、CRP ↑<br/><b>MES 2–3</b>｜UCEIS 5–8</span></div>
-<div class="oc-sc-seg s4"><span class="oc-sc-pct">ASUC／猛暴</span><span class="oc-sc-do">→ 住院 IV 類固醇</span><span class="oc-sc-sub"><b>≥ 6 次血便＋毒性</b>（HR 快、發燒、Hb &lt; 10.5、ESR &gt; 30）<br/>猛暴：<b>&gt; 10 次</b>、<b>持續</b>出血、<b>需輸血</b>、MES 3</span></div>
+<div class="oc-q"><span class="oc-n">3</span><div><span class="oc-qt">真的是輕度 → 數預後因子，決定要不要升級</span><small>只有通過第 ② 步的人才需要這一步（Table 8 的 MES 3、曾住院已在第 ② 步出局）｜剩下要數的：<b>&lt; 40 歲、extensive、CRP 高、albumin 低</b></small></div></div>
+<div class="oc-split three">
+<div class="oc-box g"><span class="oc-ans">0 個因子</span><br/>→ <b>5-ASA</b>（依範圍，見下方卡片）<br/><b>8 週</b>評估症狀＋FC</div>
+<div class="oc-box b"><span class="oc-ans">只有「年輕」</span><br/>年輕單獨是<b>最弱</b>的因子<br/>→ 先 <b>5-ASA</b><br/><b>8 週</b>一定要客觀評估（FC），沒達標就升級</div>
+<div class="oc-box a"><span class="oc-ans">年輕＋任何一個，或 ≥ 2 個</span><br/>→ <b>和病人討論直接用中重度治療</b>（第 ④ 步）<br/>理由：住院、切除大腸風險高<br/>病人選 5-ASA 也可以，但 8 週沒緩解就升級</div>
 </div>
-</div>
+<div class="oc-note">ACG Key concept 18：預後因子份量不同、要共同決策；「年輕＋另一個因子」就可能足夠升級。上面三欄是依此整理的實用分法，不是指引的正式切點</div>
 
+<div class="oc-down">↓</div>
 <div class="oc-cards">
-<div class="oc-card a"><div class="oc-card-h">⬆️ 看起來輕，也要升級成中重度治療</div><ul>
-<li>排便 <b>4–6 次</b>（灰區）→ 看出血、Hb、MES 決定</li>
-<li><b>預後因子</b>：&lt; 40 歲、extensive、MES 3／UCEIS ≥ 7、曾住院、CRP 高、albumin 低（越多越該升級）</li>
-<li><b>5-ASA 沒反應或不耐受</b></li>
-<li><b>需要類固醇</b>的人</li>
-</ul></div>
-<div class="oc-card r"><div class="oc-card-h">🚨 3 秒判斷 ASUC（要住院）</div><ul>
-<li><b>每天 ≥ 6 次血便</b></li>
-<li>＋至少一項：<b>HR 快、發燒、Hb &lt; 10.5、ESR &gt; 30</b>（Figure 3：CRP &gt; 5 mg/dL）</li>
-<li>再看：腹脹、壓痛 → <b>toxic megacolon</b>（transverse colon &gt; 5.5 cm）</li>
-</ul></div>
-<div class="oc-card g"><div class="oc-card-h">🎯 MES 也是治療目標</div><ul>
-<li>治療後要達到 <b>MES 0–1</b>（strong）</li>
-<li>沒有內鏡時用 <b>FC</b>、CRP 追蹤</li>
-<li>症狀好不代表黏膜好：<b>6–12 週</b>客觀確認</li>
+<div class="oc-card g"><div class="oc-card-h">🎯 不管走哪一條，目標都一樣</div><ul>
+<li>症狀緩解＋<b>MES 0–1</b>＋<b>不用類固醇</b></li>
+<li>輕度 <b>8 週</b>、advanced therapy <b>6–12 週</b>評估；沒有內視鏡就用 <b>FC</b>、CRP</li>
+<li>沒達標 → <b>往右升一級</b>（5-ASA → advanced therapy → 換機轉 → 外科）</li>
 </ul></div>
 </div>
 
-<div class="oc-q"><span class="oc-n">1</span><div><span class="oc-qt">是 ASUC 嗎？</span><small><b>每天 ≥ 6 次血便</b>＋至少一項：心跳快、發燒、Hb &lt; 10.5、ESR &gt; 30（或 CRP 升高）</small></div></div>
-<div class="oc-split side">
-<div class="oc-box r"><span class="oc-ans">是 → 住院</span><br/>驗 <b>C. difficile</b>｜<b>72 h 內（最好 24 h）sigmoidoscopy</b> 切片找 CMV<br/>評估 <b>toxic megacolon</b>｜<b>LMWH</b>｜停 5-ASA<br/><b>Methylprednisolone 60 mg／天</b><br/>避免 NSAID、opioid、anticholinergic｜不常規抗生素、不 TPN<br/>→ 跳到第 ⑤ 步</div>
-<div class="oc-box b"><span class="oc-ans">不是 → 門診</span><br/>大腸鏡確診（進到 ileum、切片）<br/>→ 第 ② 步</div>
-</div>
-
-<div class="oc-q"><span class="oc-n">2</span><div><span class="oc-qt">輕到中度，還是中重度？</span><small>看 Table 4，並數<b>預後不好的因子</b></small></div></div>
-<div class="oc-split side">
-<div class="oc-box g"><span class="oc-ans">輕到中度</span><br/>排便 &lt; 4–6 次、間歇出血、Hb 正常、MES 1<br/><b>而且</b>預後因子少<br/>→ 第 ③ 步</div>
-<div class="oc-box a"><span class="oc-ans">中重度，或預後因子多</span><br/>排便 &gt; 6、頻繁出血、Hb &lt; 正常 75%、MES 2–3<br/>預後因子：<b>&lt; 40 歲、extensive、MES 3／UCEIS ≥ 7、曾住院、CRP 高、albumin 低</b><br/>對 5-ASA 沒反應也算<br/>→ 第 ④ 步</div>
-</div>
-
-<div class="oc-q"><span class="oc-n">3</span><div><span class="oc-qt">輕到中度：依範圍選 5-ASA</span><small><b>8 週內</b>評估反應</small></div></div>
+<div class="oc-q"><span class="oc-n">💊</span><div><span class="oc-qt">第 ③ 步走到 5-ASA 的人：依範圍選 5-ASA</span><small><b>8 週內</b>評估反應</small></div></div>
 <div class="oc-rx">
 <div class="oc-rxh">💊 輕到中度一張卡</div>
 <div class="oc-rr"><div class="oc-k k-g">1</div><div class="oc-if"><b>Proctitis</b></div><div class="oc-drug"><b>Rectal 5-ASA 1 g／天</b>（栓劑）｜沒效 → tacrolimus 或 beclomethasone 栓劑、局部類固醇｜維持：rectal 5-ASA 1 g</div></div>
@@ -113,7 +106,7 @@ cssclasses:
 <div class="oc-rf">❌ 任何類固醇維持｜❌ Probiotics、FMT 當主要治療｜⚠️ 剛開始 5-ASA 就變嚴重 → 想到 5-ASA 的 paradoxical 腹瀉</div>
 </div>
 
-<div class="oc-q"><span class="oc-n">4</span><div><span class="oc-qt">中重度：用哪一個 advanced therapy？</span><small>誘導可用 budesonide MMX（中度）或 prednisone；<b>有計畫用有效藥時可以不用類固醇</b></small></div></div>
+<div class="oc-q"><span class="oc-n">4</span><div><span class="oc-qt">中重度（或升級）：用哪一個 advanced therapy？</span><small>誘導可用 budesonide MMX（中度）或 prednisone；<b>有計畫用有效藥時可以不用類固醇</b></small></div></div>
 <div class="oc-rx">
 <div class="oc-rxh">🧬 中重度一張卡</div>
 <div class="oc-rr"><div class="oc-k k-r">1</div><div class="oc-if"><b>選藥原則</b></div><div class="oc-drug">12 個藥都是 strong｜<b>第一個藥反應最好</b>，不要拖｜<b>哪個誘導就用哪個維持</b>｜用了就<b>停 5-ASA</b>｜<b>6–12 週</b>評估</div></div>
