@@ -297,6 +297,7 @@ tags:
 > **答**：**(A) (1)+(2)**
 >
 > **重點**：高出血風險處置**術前停 2 天、術後 2–3 天恢復原劑量**；**DOAC 不需要 bridging**（PAUSE 研究）
+> - 📖 內視鏡版本：[[gastroenterology/antithrombotic-endoscopy-bsg-esge/ate-1-elective#Figure 3：PAUSE 試驗的停藥與恢復時程|BSG/ESGE ① Figure 3]]
 
 ### Rate 與 rhythm control
 

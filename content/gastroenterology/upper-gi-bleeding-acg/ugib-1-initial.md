@@ -234,6 +234,7 @@ Lau 2020（NEJM）：GBS ≥ 12 的高風險病人，GI 會診後 < 6 h vs 6–2
 - [[gastroenterology/abnormal-liver-tests/index|肝功能異常與黃疸]]：肝病是 GBS 的加分項；varices 出血不在本指引範圍
 - [[cardiology/acs-esc-2023/acs23-3-antithrombotic|ACS 抗血栓治療]]：DAPT 病人出血時的抗血小板處理
 - [[cardiology/atrial-fibrillation/index|心房顫動]]：抗凝病人出血後何時恢復抗凝
+- [[gastroenterology/antithrombotic-endoscopy-bsg-esge/index|抗栓藥物與內視鏡（BSG/ESGE 2021）]]：③ 歐洲指引對急性出血時抗栓藥的處理與恢復時間
 
 ## 參考資料
 

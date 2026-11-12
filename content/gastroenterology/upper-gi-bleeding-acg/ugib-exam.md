@@ -249,6 +249,7 @@ tags:
 - [[gastroenterology/upper-gi-bleeding-acg/ugib-1-initial|① 到院到內視鏡]]
 - [[gastroenterology/upper-gi-bleeding-acg/ugib-2-endoscopic|② 潰瘍出血：內視鏡止血與之後]]
 - [[gastroenterology/abnormal-liver-tests/index|肝功能異常與黃疸]]：肝硬化相關的出血不在本指引範圍
+- [[gastroenterology/antithrombotic-endoscopy-bsg-esge/index|抗栓藥物與內視鏡（BSG/ESGE 2021）]]：內視鏡前停藥與抗凝逆轉
 
 ## 參考資料
 

@@ -212,6 +212,7 @@ cssclasses:
 - [[gastroenterology/acute-pancreatitis|急性胰臟炎 Acute Pancreatitis]]
 - [[cardiology/acs-esc-2023/acs23-3-antithrombotic|ACS 抗血栓治療]]：DAPT 與出血
 - [[cardiology/atrial-fibrillation/index|心房顫動]]：抗凝與出血
+- [[gastroenterology/antithrombotic-endoscopy-bsg-esge/index|抗栓藥物與內視鏡（BSG/ESGE 2021）]]：擇期內視鏡前怎麼停藥、吃抗栓藥時出血的逆轉與恢復
 
 ## 參考資料
 

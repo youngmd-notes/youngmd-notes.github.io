@@ -6,7 +6,7 @@ title: 內專考點總覽
 > 這頁會**自動彙整**所有筆記裡的「🎯 內專考點」，每次網站更新時重新產生，不需要手動編輯。
 > 「考過次數」把重複出現的同一題分開計算（例如 106-132／108-94 算 2 次），越多次代表越常考。
 
-目前共整理 **351 次考題**，分布在 **25 篇筆記、110 個考點**。
+目前共整理 **356 次考題**，分布在 **26 篇筆記、113 個考點**。
 
 ## 最常考的考點
 
@@ -94,12 +94,15 @@ title: 內專考點總覽
 | [[cardiology/atrial-fibrillation/af-exam#Cardioversion 前後的抗凝\|Cardioversion 前後的抗凝]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 107、109 |
 | [[cardiology/dyslipidemia-esc/lipid-esc-exam#DM 的血脂與血壓目標\|DM 的血脂與血壓目標]] | [[cardiology/dyslipidemia-esc/lipid-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 2 | 108、109 |
 | [[infectious-disease/influenza-idsa/flu-exam#抗病毒藥物與預防性投藥\|抗病毒藥物與預防性投藥]] | [[infectious-disease/influenza-idsa/flu-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 106、109 |
+| [[gastroenterology/antithrombotic-endoscopy-bsg-esge/ate-exam#解毒劑配對\|解毒劑配對]] | [[gastroenterology/antithrombotic-endoscopy-bsg-esge/ate-exam#🎯 內專考點\|④內專考點 Board Exam Review]] | 2 | 107、109 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#Hyperbilirubinemia 與 Gilbert\|Hyperbilirubinemia 與 Gilbert]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 107、108 |
 | [[infectious-disease/influenza-idsa/flu-exam#禽流感與新型 A 型流感\|禽流感與新型 A 型流感]] | [[infectious-disease/influenza-idsa/flu-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 104、106 |
+| [[gastroenterology/antithrombotic-endoscopy-bsg-esge/ate-exam#吃抗凝血劑的急性出血\|吃抗凝血劑的急性出血]] | [[gastroenterology/antithrombotic-endoscopy-bsg-esge/ate-exam#🎯 內專考點\|④內專考點 Board Exam Review]] | 2 | 104 |
 | [[gastroenterology/upper-gi-bleeding-acg/ugib-exam#UGIB 的初步評估與處置\|UGIB 的初步評估與處置]] | [[gastroenterology/upper-gi-bleeding-acg/ugib-exam#🎯 內專考點\|③內專考點 Board Exam Review]] | 2 | 104 |
 | [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam#檢查\|檢查]] | [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 1 | 114 |
 | [[pulmonology/emergent-airway-management#HFNC 的生理效應\|HFNC 的生理效應]] | [[pulmonology/emergent-airway-management#🎯 內專考點\|緊急呼吸道處置 Emergent Airway Management]] | 1 | 114 |
 | [[infectious-disease/infectious-diarrhea-idsa/dia-exam#阿米巴\|阿米巴]] | [[infectious-disease/infectious-diarrhea-idsa/dia-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 1 | 114 |
+| [[gastroenterology/antithrombotic-endoscopy-bsg-esge/ate-exam#擇期處置前後的 DOAC\|擇期處置前後的 DOAC]] | [[gastroenterology/antithrombotic-endoscopy-bsg-esge/ate-exam#🎯 內專考點\|④內專考點 Board Exam Review]] | 1 | 114 |
 | [[nephrology/calcium-phosphate-disorders#低血鈣\|低血鈣]] | [[nephrology/calcium-phosphate-disorders#🎯 內專考點\|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]] | 1 | 113 |
 | [[gastroenterology/upper-gi-bleeding-acg/ugib-exam#嚴重下消化道出血\|嚴重下消化道出血]] | [[gastroenterology/upper-gi-bleeding-acg/ugib-exam#🎯 內專考點\|③內專考點 Board Exam Review]] | 1 | 113 |
 | [[nephrology/hemodialysis-emergencies#透析中低血壓\|透析中低血壓]] | [[nephrology/hemodialysis-emergencies#🎯 內專考點\|血液透析急症 Hemodialysis Emergencies]] | 1 | 111 |
@@ -762,6 +765,22 @@ title: 內專考點總覽
 - 114-050｜台灣女性、多顆小結石、典型 biliary colic：最適當處置？
 - 105-061、107-050｜膽囊疾病的手術適應症（兩題合併）
 - 105-055｜哪一項不是色素結石的危險因子？
+
+### ④內專考點 Board Exam Review
+
+**[[gastroenterology/antithrombotic-endoscopy-bsg-esge/ate-exam#擇期處置前後的 DOAC|擇期處置前後的 DOAC]]**（1 次）
+
+- 114-146｜吃 apixaban 要做大腸鏡切多顆 polyp：停藥與復藥
+
+**[[gastroenterology/antithrombotic-endoscopy-bsg-esge/ate-exam#吃抗凝血劑的急性出血|吃抗凝血劑的急性出血]]**（2 次）
+
+- 104-057｜吃 warfarin、吐咖啡渣、生命徵象穩定：最迫切的處置？
+- 104-200｜換瓣＋AF 吃 warfarin，腦出血、INR 5.5：怎麼最快矯正？
+
+**[[gastroenterology/antithrombotic-endoscopy-bsg-esge/ate-exam#解毒劑配對|解毒劑配對]]**（2 次）
+
+- 109-015｜抗凝劑的解毒劑，何者錯誤？
+- 107-019｜口服抗凝劑的機轉與 warfarin 中和：選出錯誤的組合
 
 ### ⑤內專考點 Board Exam Review
 

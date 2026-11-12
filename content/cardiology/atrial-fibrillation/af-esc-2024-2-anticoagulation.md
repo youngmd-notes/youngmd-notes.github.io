@@ -239,6 +239,7 @@ flowchart TD
 
 ## 相關筆記
 
+- [[gastroenterology/antithrombotic-endoscopy-bsg-esge/index|抗栓藥物與內視鏡（BSG/ESGE 2021）]]：內視鏡前後 DOAC、warfarin 怎麼停與恢復（PAUSE）
 - [[cardiology/atrial-fibrillation/af-esc-2024-1-overview|AF 指引圖表①定義、診斷與 AF-CARE]]：Figure 3 的 [A] 五步驟
 - [[cardiology/atrial-fibrillation/af-esc-2024-3-rate-rhythm|AF 指引圖表③ Rate 與 rhythm control]]：cardioversion 前後的抗凝
 - [[cardiology/atrial-fibrillation/af-esc-2024-5-recommendations|AF 指引圖表⑤新增、修訂與必做／不做]]
