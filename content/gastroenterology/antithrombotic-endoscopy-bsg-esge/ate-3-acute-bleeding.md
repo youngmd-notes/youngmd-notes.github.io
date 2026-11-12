@@ -24,6 +24,7 @@ tags:
 >   - **VKA＋血行動力不穩** → ==IV vitamin K＋4-factor PCC==（沒有 PCC 才用 FFP）
 >   - **DOAC＋血行動力不穩** → dabigatran 用 **idarucizumab**；Xa inhibitor 原書建議 andexanet（🆕 已退出美國市場），替代用 **4F-PCC**
 > - **恢復抗凝**：有長期適應症就要恢復；低血栓風險 ==約第 7 天==，高血栓風險**3 天內**並 heparin bridging
+> - 【Martin 2023，AF 吃 NOAC】依 **CHA₂DS₂-VASc × 內視鏡再出血風險**：最多**停 3 天**就恢復，**不 bridging**；CHA₂DS₂-VASc 0–1 先問還要不要抗凝
 
 > [!info] 系列導覽
 > ↑ 回到 [[gastroenterology/antithrombotic-endoscopy-bsg-esge/index|抗栓藥物與內視鏡（BSG/ESGE 2021）總覽]]
@@ -42,6 +43,7 @@ tags:
 <div class="oc-rr"><div class="oc-k k-a">3</div><div class="oc-if"><b>DAPT／stent</b></div><div class="oc-drug"><b>盡量繼續</b>，立刻聯絡介入心臟科｜大出血必須停 → <b>只停 P2Y12 inhibitor、aspirin 繼續</b>｜P2Y12 inhibitor <b>5 天內恢復</b></div></div>
 <div class="oc-rr"><div class="oc-k k-b">4</div><div class="oc-if"><b>Warfarin</b></div><div class="oc-drug">停藥｜<b>血行動力不穩</b> → <b>IV vitamin K＋4-factor PCC</b>（沒有 PCC 才用 FFP）｜機械瓣等高血栓風險，逆轉要小心</div></div>
 <div class="oc-rr"><div class="oc-k k-g">5</div><div class="oc-if"><b>DOAC</b></div><div class="oc-drug">停藥，<b>12–24 h 效果就退</b>，多數等它退即可｜<b>血行動力不穩</b>：dabigatran → <b>idarucizumab</b>；Xa inhibitor → <b>4F-PCC</b>（2000 IU）；原書另列 andexanet（🆕 2025-12 已退出美國市場）｜vitamin K、FFP、protamine <b>無效</b></div></div>
+<div class="oc-rr"><div class="oc-k k-r">6</div><div class="oc-if"><b>NOAC 何時恢復</b><br/><small>【Martin 2023】</small></div><div class="oc-drug">CHA₂DS₂-VASc ≥ 2：Forrest III → <b>停 1–3 天</b>｜Forrest I–II → <b>停 3 天</b>、確認止血後恢復｜CHA₂DS₂-VASc 0–1：先問還要不要抗凝｜<b>不 bridging</b></div></div>
 <div class="oc-rf">❌ 為了矯正 INR 或等 DOAC 退而延後內視鏡、介入放射治療｜❌ 出院時沒有「什麼時候恢復抗栓藥」的計畫</div>
 </div>
 </div>
@@ -133,7 +135,101 @@ tags:
 > | 出血後的 P2Y12 inhibitor（有 stent） | **5 天內** |
 > | 出血後的抗凝（低血栓風險） | **約第 7 天** |
 > | 出血後的抗凝（高血栓風險） | **3 天內**，heparin bridging |
+> | 出血後的 NOAC（AF，Martin 2023） | **停 1–3 天**（見下方 Table 1） |
 > | 次級預防 aspirin | **止血後立刻** |
+
+## 📄 補充：AF 吃 NOAC 的 GI 出血（Martin 2023）
+
+> [!info] 本節出處
+> 以下內容**不是** BSG/ESGE 指引，而是另外補充的文獻：**Martin AC, et al. *Am J Cardiovasc Drugs* 2023**——法國心臟科、腸胃科、血液科、急診科的**多專科討論（review）**，對象是 **AF 吃 NOAC** 的 GI 出血。
+> - 每一點標【Martin 2023】；文中引述其他指引的標「Martin 2023 引述」
+> - 作者自述：目前**沒有指引**專門處理「出血後怎麼恢復 NOAC」，高品質證據有限
+> - 文章的撰稿協助由 **Pfizer／BMS**（apixaban 廠商）贊助，作者也有藥廠利益揭露；看「哪個 NOAC 比較好」的段落時要放在心上
+
+### Table 1：依血栓風險 × 再出血風險決定 NOAC 何時恢復【Martin 2023】
+
+依原表內容重新整理（原表針對 **upper GI bleeding**）：
+
+| | 🟢 **低血栓風險**<br/>CHA₂DS₂-VASc 0–1 | 🔴 **高血栓風險**<br/>CHA₂DS₂-VASc ≥ 2（原表寫「≥ 2 or > 3」） |
+| --- | --- | --- |
+| 🟢 **低再出血風險**<br/>Forrest III（原表寫「> 2」）、esophageal varices **沒有** red sign、低出血風險的內視鏡處置 | **重新思考還需不需要 NOAC** | **停 1–3 天**，穩定後恢復 |
+| 🔴 **高再出血風險**<br/>==Forrest I 或 II==、varices **有** red sign、高出血風險的內視鏡處置 | 重新思考需不需要；真的需要 → **停 3 天後**恢復 | ==停 3 天==，**內視鏡確認止血、穩定後**恢復；可以的話**延後**後續的內視鏡處置 |
+
+> [!tip] Pearl：和 BSG/ESGE 的差別在哪？
+> - BSG/ESGE 是「低血栓風險約 **7 天**、高血栓風險 **3 天內＋bridging**」，而且是 warfarin 的資料延伸
+> - 這張表是**直接寫給 NOAC** 的：最長也只停 **3 天**，**沒有 bridging**（NOAC 幾小時就有效，本身不需要橋）
+> - 低血栓風險（CHA₂DS₂-VASc 0–1）的人，第一步是**問還要不要抗凝**，不是問何時恢復
+
+### 恢復時機的證據【Martin 2023】
+
+- **恢復比不恢復好**：
+  - Meta-analysis：恢復抗凝 → thromboembolism 少 **70%**、死亡少 **49%**，但再出血多 **91%**
+  - 另一個 > 5000 人的 meta-analysis：死亡 **21.3% vs 31%**（OR 0.499）
+  - 限制：全是觀察性研究、異質性大、恢復時間不一
+- **時間點**：
+  - Majeed：==< 7 天恢復，再出血約 3 倍==；但 **< 21 天 vs > 21 天沒有差別**；出血風險隨時間下降，血栓風險則**一直維持**
+  - Kido（warfarin）：**7–15 天**恢復 → 死亡與血栓減少、再出血沒有增加
+  - 多篇建議**不要超過 2 週**才恢復
+  - 試驗中的實際狀況：ARISTOTLE 出血後中位數 **15 天**恢復；REVERSE 66% 在 **16 天內**恢復
+- 作者結論：要**及時**恢復，但記得**越早恢復，出血風險越大於血栓風險**；目前**沒有工具**能預測恢復時的再出血風險
+
+### 其他指引怎麼說（Martin 2023 引述）
+
+| 來源 | 建議 |
+| --- | --- |
+| **EHRA 舊版** | 考慮支持停藥的因素後，major GI bleeding **4–7 天內**恢復 NOAC（效益大於再出血風險時） |
+| **EHRA 2021 Practical Guide** | 改成**傾向恢復**：多專科評估後，**臨床可行就盡早恢復**（見下圖） |
+| **ACC 2020 Expert Consensus** | **高血栓風險** → 止血、穩定後**早期恢復**；中高再出血風險 → 個別化 |
+
+#### EHRA 2021：要不要恢復 NOAC？（Martin 2023 Figure 2 引用）
+
+依原圖內容重新繪製：
+
+```mermaid
+flowchart TD
+    A["GI bleeding 後：繼續或恢復 NOAC？"] --> B["評估支持「不恢復」的因素<br/>・找不到出血點<br/>・GI tract 多處 angiodysplasia<br/>・沒有可逆或可治療的原因<br/>・停藥期間還在出血<br/>・Chronic alcohol abuse<br/>・高齡<br/>・重新評估 stroke 與 bleeding 風險"]
+    B --> C{"多專科綜合評估：<br/>傾向恢復抗凝？"}
+    C -->|"是"| D["臨床可行就盡早<br/>（重新）開始 NOAC"]
+    C -->|"否"| E["考慮不抗凝，<br/>改做 left atrial appendage occlusion"]
+
+    classDef go fill:#e6f4ea,stroke:#3c8d5a,color:#1f2d3d
+    classDef stop fill:#fdecea,stroke:#c0392b,color:#1f2d3d
+    class D go
+    class E stop
+```
+
+### 急診處置與逆轉的補充【Martin 2023】
+
+- **急診先問**：NOAC **種類與劑量**、**最後一劑時間**、併用藥物；抽 **NOAC 濃度**（有的話）、CBC、creatinine、肝功能、血型
+- **Major bleeding 定義（ISTH）**：重要器官出血，或 **Hb 掉 ≥ 20 g/L**，或輸 **≥ 2 單位** RBC
+- **大多數 NOAC 出血，「時間」就是最好的解毒劑**；危及生命或復甦後仍止不住才考慮逆轉
+- **NOAC 濃度 > 50 ng/mL** 才考慮逆轉；低於此濃度，出血不被認為和 NOAC 有關
+- 沒有專一解毒劑時：**PCC 50 IU/kg** 或 **aPCC 30–50 IU/kg**（VKA 逆轉文中寫 PCC 25 IU/kg）
+- ==Erythromycin 是 P-gp 與 CYP3A4 抑制劑==：內視鏡前給會**提高 NOAC 濃度**，可能讓出血更久；也要看 QT
+
+> [!warning] Pitfall
+> PCC 劑量各來源不同：本文（Martin 2023）寫 Xa inhibitor 用 **PCC 50 IU/kg**；BSG/ESGE 寫 **固定 2000 IU**。照院內 protocol。
+
+### 恢復後怎麼預防再出血【Martin 2023】
+
+- **選 NOAC 不選 VKA**：NOAC 的 major bleeding 有下降趨勢（GI bleeding 可能多約 23%，但整體 major bleeding 少約 14%）
+- **各 NOAC 在 RCT 中的 major GI bleeding（vs warfarin）**：
+
+| 藥物（試驗） | Major GI bleeding vs warfarin |
+| --- | --- |
+| **Dabigatran 150 mg bid**（RE-LY） | **增加**（RR 1.50）；110 mg bid 沒有增加 |
+| **Rivaroxaban 20 mg qd**（ROCKET AF） | **增加**（HR 1.66） |
+| **Edoxaban 60 mg qd**（ENGAGE AF） | **增加**（HR 1.23）；30 mg qd **減少**（HR 0.67） |
+| **Apixaban 5 mg bid**（ARISTOTLE） | **沒有差別**（HR 0.89） |
+
+- 沒有 head-to-head 比較；真實世界的回溯研究中 **apixaban** 的 GI bleeding 較低（見上方贊助提醒）
+- 可能機轉：Xa inhibitor 與 dabigatran 有部分**沒被吸收、留在腸道**，可能直接作用在黏膜
+- **其他預防**：
+  - 依**腎功能**調整劑量，避免累積
+  - 避免 **P-gp、CYP3A4 抑制劑**與**抗血小板**（aspirin 讓 major bleeding 至少增加 50%）
+  - **不要用 NSAID**
+  - 加 **PPI**（注意 PPI 和 dabigatran 的交互作用）
+  - Peptic ulcer → 驗 **H. pylori**，陽性就除菌
 
 ## 相關筆記
 
@@ -146,5 +242,6 @@ tags:
 ## 參考資料
 
 - Veitch AM, Radaelli F, Alikhan R, et al. Endoscopy in patients on antiplatelet or anticoagulant therapy: BSG and ESGE guideline update. *Endoscopy* 2021;53:947–969. doi:10.1055/a-1547-2282（Acute GI haemorrhage on antiplatelets and anticoagulants）（參考資料庫：腸胃肝膽科／2021_a_1547_2282.pdf）
+- Martin AC, Benamouzig R, Gouin-Thibault I, Schmidt J. Management of gastrointestinal bleeding and resumption of oral anticoagulant therapy in patients with atrial fibrillation: a multidisciplinary discussion. *Am J Cardiovasc Drugs* 2023;23:407–418. doi:10.1007/s40256-023-00582-9（📄 補充一節；Young 對話上傳）
 - U.S. Food and Drug Administration. Update on the safety of Andexxa（FDA safety communication）. December 18, 2025
 - The Medical Letter. In Brief: Andexanet alfa (Andexxa) withdrawn. *Med Lett Drugs Ther* 2026;68(1746):16. doi:10.58347/tml.2026.1746f

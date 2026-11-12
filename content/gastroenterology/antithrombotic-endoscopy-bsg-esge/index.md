@@ -31,6 +31,7 @@ cssclasses:
 >   - 次級預防 aspirin **不停**；DAPT 必須停時 ==只停 P2Y12 inhibitor、5 天內恢復==
 >   - 抗凝要矯正但**不可延誤內視鏡**；VKA 不穩定 → **vitamin K＋4F-PCC**
 >   - 抗凝約**第 7 天**恢復（高血栓風險 3 天內＋bridging）
+>   - 【Martin 2023】AF 吃 NOAC：依 CHA₂DS₂-VASc × 再出血風險，**停 1–3 天**就恢復、不 bridging
 
 本系列依 **BSG／ESGE guideline update: Endoscopy in patients on antiplatelet or anticoagulant therapy**（Veitch 等，*Endoscopy* 與 *Gut* 2021 同步刊登）整理成 3 篇指引筆記與第 4 篇內專考點。原圖含 **Table 1–3、Figure 1–3**。
 
@@ -108,7 +109,7 @@ cssclasses:
 </a>
 <a class="af-card internal" href="/gastroenterology/antithrombotic-endoscopy-bsg-esge/ate-3-acute-bleeding">
 <div class="af-num">③</div>
-<div class="af-body"><div class="af-title">吃抗栓藥時的急性 GI 出血</div><div class="af-desc">Aspirin 與 DAPT 要不要停、<b>VKA 與 DOAC 的逆轉</b>（🆕 andexanet 退出美國市場）、<b>什麼時候恢復抗凝</b></div><div class="af-cover">2021 版新增章節</div></div>
+<div class="af-body"><div class="af-title">吃抗栓藥時的急性 GI 出血</div><div class="af-desc">Aspirin 與 DAPT 要不要停、<b>VKA 與 DOAC 的逆轉</b>（🆕 andexanet 退出美國市場）、<b>什麼時候恢復抗凝</b>；📄 補充 <b>AF 吃 NOAC 的出血</b>（Martin 2023）</div><div class="af-cover">2021 版新增章節</div></div>
 </a>
 <a class="af-card internal" href="/gastroenterology/antithrombotic-endoscopy-bsg-esge/ate-exam">
 <div class="af-num">④</div>
@@ -149,3 +150,4 @@ cssclasses:
 - Veitch AM, Radaelli F, Alikhan R, Dumonceau JM, Eaton D, Jerrome J, Lester W, Nylander D, Thoufeeq M, Vanbiervliet G, Wilkinson JR, van Hooft JE. Endoscopy in patients on antiplatelet or anticoagulant therapy: British Society of Gastroenterology (BSG) and European Society of Gastrointestinal Endoscopy (ESGE) guideline update. *Endoscopy* 2021;53:947–969. doi:10.1055/a-1547-2282（同步刊於 *Gut* 2021;70:1611–1628）（參考資料庫：腸胃肝膽科／2021_a_1547_2282.pdf）
 - British Society of Gastroenterology. BSG & ESGE Guidelines 2021 Update: Endoscopy in patients on antiplatelet or anticoagulant therapy（網站附錄 2024-06-03）
 - U.S. Food and Drug Administration. Update on the safety of Andexxa. December 18, 2025（③ 🆕）
+- Martin AC, et al. Management of gastrointestinal bleeding and resumption of oral anticoagulant therapy in patients with atrial fibrillation: a multidisciplinary discussion. *Am J Cardiovasc Drugs* 2023;23:407–418（③ 📄 補充）
