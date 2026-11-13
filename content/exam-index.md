@@ -6,7 +6,7 @@ title: 內專考點總覽
 > 這頁會**自動彙整**所有筆記裡的「🎯 內專考點」，每次網站更新時重新產生，不需要手動編輯。
 > 「考過次數」把重複出現的同一題分開計算（例如 106-132／108-94 算 2 次），越多次代表越常考。
 
-目前共整理 **356 次考題**，分布在 **26 篇筆記、113 個考點**。
+目前共整理 **365 次考題**，分布在 **27 篇筆記、117 個考點**。
 
 ## 最常考的考點
 
@@ -35,6 +35,7 @@ title: 內專考點總覽
 | [[cardiology/pulmonary-embolism-esc/pe-esc-exam#從情境認出 PE\|從情境認出 PE]] | [[cardiology/pulmonary-embolism-esc/pe-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 5 | 107、108、110 |
 | [[infectious-disease/pneumonia/pna-exam#HAP／VAP\|HAP／VAP]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 5 | 104、106、107、110 |
 | [[endocrinology/dka-hhs#初始輸液\|初始輸液]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 5 | 104、105、106、107、108 |
+| [[nephrology/therapeutic-plasma-exchange#TMA：哪些 TMA 對 TPE 沒反應\|TMA：哪些 TMA 對 TPE 沒反應]] | [[nephrology/therapeutic-plasma-exchange#🎯 內專考點\|治療性血漿置換 Therapeutic Plasma Exchange]] | 4 | 104、106、113、114 |
 | [[cardiology/atrial-fibrillation/af-exam#中風風險評估：CHA₂DS₂-VASc\|中風風險評估：CHA₂DS₂-VASc]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 104、105、114 |
 | [[cardiology/atrial-fibrillation/af-exam#抗凝中出血、中風或要做處置\|抗凝中出血、中風或要做處置]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 4 | 104、108、112、114 |
 | [[gastroenterology/ulcerative-colitis-acg/uc-exam#嚴重度、急症與治療\|嚴重度、急症與治療]] | [[gastroenterology/ulcerative-colitis-acg/uc-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 4 | 109、113、114 |
@@ -74,12 +75,14 @@ title: 內專考點總覽
 | [[endocrinology/dka-hhs#鑑別診斷\|鑑別診斷]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 3 | 106、107、109 |
 | [[nephrology/nephrotic-syndrome#高凝血狀態與 renal vein thrombosis\|高凝血狀態與 renal vein thrombosis]] | [[nephrology/nephrotic-syndrome#🎯 內專考點\|腎病症候群 Nephrotic Syndrome]] | 3 | 104、105、108 |
 | [[nephrology/renal-tubular-acidosis#鑑別：低血鉀但是鹼中毒\|鑑別：低血鉀但是鹼中毒]] | [[nephrology/renal-tubular-acidosis#🎯 內專考點\|腎小管酸中毒 Renal Tubular Acidosis]] | 2 | 104、114 |
+| [[nephrology/therapeutic-plasma-exchange#Myasthenia gravis crisis\|Myasthenia gravis crisis]] | [[nephrology/therapeutic-plasma-exchange#🎯 內專考點\|治療性血漿置換 Therapeutic Plasma Exchange]] | 2 | 110、114 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#HCM：型態與 murmur 動態變化\|HCM：型態與 murmur 動態變化]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 2 | 111、114 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#Gallstone pancreatitis\|Gallstone pancreatitis]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 109、114 |
 | [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam#指引觀念與預防\|指引觀念與預防]] | [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 109、113 |
 | [[cardiology/dyslipidemia-esc/lipid-esc-exam#Statin 機轉、副作用與指引演變\|Statin 機轉、副作用與指引演變]] | [[cardiology/dyslipidemia-esc/lipid-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 2 | 104、113 |
 | [[cardiology/resuscitation-aha-2025/cpr25-exam#寬 QRS 心搏過速\|寬 QRS 心搏過速]] | [[cardiology/resuscitation-aha-2025/cpr25-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 108、113 |
 | [[nephrology/renal-tubular-acidosis#Distal RTA：Sjögren syndrome\|Distal RTA：Sjögren syndrome]] | [[nephrology/renal-tubular-acidosis#🎯 內專考點\|腎小管酸中毒 Renal Tubular Acidosis]] | 2 | 107、112 |
+| [[nephrology/therapeutic-plasma-exchange#Guillain-Barré syndrome\|Guillain-Barré syndrome]] | [[nephrology/therapeutic-plasma-exchange#🎯 內專考點\|治療性血漿置換 Therapeutic Plasma Exchange]] | 2 | 107、112 |
 | [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam#再通：PCI 還是 CABG\|再通：PCI 還是 CABG]] | [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 112 |
 | [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam#流行病學與病理機轉\|流行病學與病理機轉]] | [[cardiology/chronic-coronary-syndrome-esc-2024/ccs24-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 104、112 |
 | [[cardiology/heart-failure-esc-2026/hf26-exam#病理生理\|病理生理]] | [[cardiology/heart-failure-esc-2026/hf26-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 112 |
@@ -120,6 +123,7 @@ title: 內專考點總覽
 | [[nephrology/calcium-phosphate-disorders#CKD 鈣磷藥物\|CKD 鈣磷藥物]] | [[nephrology/calcium-phosphate-disorders#🎯 內專考點\|鈣磷鎂異常 Calcium, Phosphate and Magnesium Disorders]] | 1 | 108 |
 | [[infectious-disease/pneumonia/pna-exam#疫苗\|疫苗]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 1 | 108 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#Cholecystitis 的影像\|Cholecystitis 的影像]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 1 | 108 |
+| [[nephrology/therapeutic-plasma-exchange#TTP：TPE 是救命治療\|TTP：TPE 是救命治療]] | [[nephrology/therapeutic-plasma-exchange#🎯 內專考點\|治療性血漿置換 Therapeutic Plasma Exchange]] | 1 | 107 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#Cholangitis：引流＋抗生素\|Cholangitis：引流＋抗生素]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 1 | 107 |
 | [[nephrology/high-anion-gap-metabolic-acidosis#Toxic alcohol 與 osmolal gap\|Toxic alcohol 與 osmolal gap]] | [[nephrology/high-anion-gap-metabolic-acidosis#🎯 內專考點\|高陰離子間隙代謝性酸中毒 High Anion Gap Metabolic Acidosis]] | 1 | 106 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#Syncope vs seizure 的病史鑑別\|Syncope vs seizure 的病史鑑別]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 1 | 106 |
@@ -239,6 +243,29 @@ title: 內專考點總覽
 **[[nephrology/skin-disorders-in-kidney-disease#Cutaneous lupus|Cutaneous lupus]]**（1 次）
 
 - 109-200｜年輕男性臉部紫紅色鱗屑斑塊（看圖）
+
+### 治療性血漿置換 Therapeutic Plasma Exchange
+
+**[[nephrology/therapeutic-plasma-exchange#TTP：TPE 是救命治療|TTP：TPE 是救命治療]]**（1 次）
+
+- 107-167｜發燒、意識混亂、MAHA、platelet 11K → 哪些處置有幫助
+
+**[[nephrology/therapeutic-plasma-exchange#TMA：哪些 TMA 對 TPE 沒反應|TMA：哪些 TMA 對 TPE 沒反應]]**（4 次）
+
+- 113-55｜Malignant HTN＋TMA、ADAMTS13 正常 → 何者正確
+- 106-84｜Bone marrow transplant nephropathy 的敘述
+- 104-72｜腎移植病人吃 tacrolimus、sirolimus、避孕藥、clopidogrel → 容易得什麼
+- 114-55｜TMA 的敘述何者最正確
+
+**[[nephrology/therapeutic-plasma-exchange#Myasthenia gravis crisis|Myasthenia gravis crisis]]**（2 次）
+
+- 114-150｜即將插管的 MG crisis 準備做 plasmapheresis → 何者不正確
+- 110-145｜MG 與 NMJ 疾病，何者較不正確
+
+**[[nephrology/therapeutic-plasma-exchange#Guillain-Barré syndrome|Guillain-Barré syndrome]]**（2 次）
+
+- 112-145｜腹瀉後四肢無力、延髓症狀的 GBS → 何者不是立即該考慮的處置
+- 107-186｜疑似 GBS，急診下一步該做哪些
 
 ## 心臟科 Cardiology
 

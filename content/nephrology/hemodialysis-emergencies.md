@@ -410,6 +410,7 @@ Dialyzer reaction 是對**透析膜本身**或**滅菌用的物質**過敏，現
 - [[calcium-phosphate-disorders|鈣磷異常]]（透析液鈣、CKD-MBD）
 - [[skin-disorders-in-kidney-disease|腎臟病的皮膚疾病]]（透析病人的 pruritus、calciphylaxis）
 - [[high-anion-gap-metabolic-acidosis|HAGMA]]（toxic alcohol 需要透析）
+- [[therapeutic-plasma-exchange|治療性血漿置換 TPE]]（TPE 的 citrate、ACEI 與 bradykinin 反應；與 HD 同日先後順序）
 - [[cardiology/resuscitation-aha-2025/index|心肺復甦與急救 CPR & ECC（2025 AHA 指引）]]
 
 ## 參考資料
