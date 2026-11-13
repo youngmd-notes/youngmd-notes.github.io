@@ -19,12 +19,14 @@ tags:
 >   - **初級預防** aspirin → 考慮**永久停用**
 >   - **次級預防** aspirin → ==不常規停==；停了就在**止血後立刻恢復**
 >   - **Coronary stent＋DAPT** → 盡量繼續，**和介入心臟科一起決定**；大出血要停的話 ==只停 P2Y12 inhibitor、aspirin 繼續、5 天內恢復==
-> - **抗凝血劑**：
->   - 先停藥，依出血嚴重度與血栓風險矯正；==矯正凝血不可延誤內視鏡或介入放射治療==
->   - **VKA＋血行動力不穩** → ==IV vitamin K＋4-factor PCC==（沒有 PCC 才用 FFP）
->   - **DOAC＋血行動力不穩** → dabigatran 用 **idarucizumab**；Xa inhibitor 原書建議 andexanet（🆕 已退出美國市場），替代用 **4F-PCC**
-> - **恢復抗凝**：有長期適應症就要恢復；低血栓風險 ==約第 7 天==，高血栓風險**3 天內**並 heparin bridging
-> - 【Martin 2023，AF 吃 NOAC】依 **CHA₂DS₂-VASc × 內視鏡再出血風險**：最多**停 3 天**就恢復，**不 bridging**；CHA₂DS₂-VASc 0–1 先問還要不要抗凝
+> - **抗凝血劑：兩種藥共通**：先停藥，依出血嚴重度與血栓風險矯正；==矯正凝血不可延誤內視鏡或介入放射治療==
+> - **逆轉（只在血行動力不穩時）**：
+>   - 【Warfarin】==IV vitamin K＋4-factor PCC==（沒有 PCC 才用 FFP）
+>   - 【DOAC】多數**停藥等 12–24 小時**就好；dabigatran 用 **idarucizumab**、Xa inhibitor 用 **4F-PCC**（原書寫 andexanet，🆕 已退出美國市場）；vitamin K、FFP 無效
+> - **恢復**（有長期適應症就要恢復）：
+>   - 【Warfarin】低血栓風險 ==約第 7 天==；高血栓風險（例如 **mitral 機械瓣**）**3 天內＋heparin bridging**
+>   - 【DOAC】指引**沒有 DOAC 資料**，比照 warfarin 約第 7 天；**不 bridging**（2–4 小時就完全抗凝）
+>   - 【DOAC，AF】Martin 2023：依 **CHA₂DS₂-VASc × 內視鏡再出血風險**，最多**停 3 天**就恢復；CHA₂DS₂-VASc 0–1 先問還要不要抗凝
 
 > [!info] 系列導覽
 > ↑ 回到 [[gastroenterology/antithrombotic-endoscopy-bsg-esge/index|抗栓藥物與內視鏡（BSG/ESGE 2021）總覽]]
@@ -32,6 +34,23 @@ tags:
 > ① [[gastroenterology/antithrombotic-endoscopy-bsg-esge/ate-1-elective|擇期內視鏡怎麼停藥]]｜② [[gastroenterology/antithrombotic-endoscopy-bsg-esge/ate-2-procedures|各項內視鏡處置的出血風險]]｜③ 抗栓藥物中的急性 GI 出血（本篇）｜④ [[gastroenterology/antithrombotic-endoscopy-bsg-esge/ate-exam|內專考點]]
 >
 > 本篇是 2021 版**新增**的章節；UGIB 的一般處置（GBS、輸血、PPI、內視鏡時機）見 [[gastroenterology/upper-gi-bleeding-acg/index|ACG UGIB 指引]]
+
+## 先分清楚：Warfarin 還是 DOAC？
+
+BSG/ESGE 的 6 條抗凝建議中，**逆轉**的兩條明確分藥；**停藥**和**恢復**的三條寫的是「anticoagulation」，沒有分藥。下表把每一點的適用對象標清楚。
+
+| | 【Warfarin（VKA）】 | 【DOAC】 | 出處 |
+| --- | --- | --- | --- |
+| 停藥後效果持續 | **3–5 天** | **12–24 小時** | BSG/ESGE 內文 |
+| 要不要逆轉 | 看出血嚴重度；**血行動力不穩 → 逆轉** | 多數**停藥等它退**；血行動力不穩才考慮 | BSG/ESGE 建議（分藥寫） |
+| 逆轉劑 | ==IV vitamin K＋4F-PCC==（無 PCC → FFP）；PCC 時同給低劑量 vitamin K 防 INR rebound | Dabigatran → **idarucizumab**；Xa inhibitor → **4F-PCC 2000 IU**（原書：andexanet） | BSG/ESGE 建議（分藥寫） |
+| **無效**的東西 | — | ==Vitamin K、FFP、protamine== | BSG/ESGE 內文 |
+| 低血栓風險：何時恢復 | **約第 7 天盡快恢復**（證據就是 warfarin 的回溯研究：< 7 天再出血多、> 30 天血栓多） | **比照 warfarin，約第 7 天**（指引明說 DOAC **沒有資料**）；DOAC 2–4 小時就完全抗凝 → 提早恢復要更小心 | 建議寫「anticoagulation」；內文分開講 |
+| 高血栓風險：何時恢復 | **3 天內＋heparin bridging**；極高風險（mitral 機械瓣）早用 UFH，或 LMWH 48–72 小時內調到治療劑量 | 建議**沒有分藥**；但 DOAC 不需要 bridging（指引擇期段落：DOAC 暫停**不 bridging**），內文舉的極高風險例子（機械瓣）也只能用 warfarin → **實務上 bridging 這句是 warfarin 的情境** | 建議寫「anticoagulation」；DOAC 部分為依指引其他段落的解讀 |
+| AF 病人何時恢復 | — | **停 1–3 天**，依 CHA₂DS₂-VASc × 再出血風險（不 bridging） | Martin 2023（**只談 NOAC**） |
+
+> [!warning] Pitfall：「3 天內＋heparin bridging」不是 DOAC 的做法
+> 這句建議原文只寫 anticoagulation，但 bridging 的目的是在 **warfarin 慢慢起效（好幾天）** 的期間用 heparin 撐住；DOAC 吃下去 2–4 小時就有完整效果，**bridging 只會增加出血**。DOAC 病人若血栓風險高，要的是**早點恢復 DOAC 本身**（例如 Martin 2023 的停 1–3 天），而不是加 heparin。
 
 ## 值班一張卡
 
@@ -43,7 +62,9 @@ tags:
 <div class="oc-rr"><div class="oc-k k-a">3</div><div class="oc-if"><b>DAPT／stent</b></div><div class="oc-drug"><b>盡量繼續</b>，立刻聯絡介入心臟科｜大出血必須停 → <b>只停 P2Y12 inhibitor、aspirin 繼續</b>｜P2Y12 inhibitor <b>5 天內恢復</b></div></div>
 <div class="oc-rr"><div class="oc-k k-b">4</div><div class="oc-if"><b>Warfarin</b></div><div class="oc-drug">停藥｜<b>血行動力不穩</b> → <b>IV vitamin K＋4-factor PCC</b>（沒有 PCC 才用 FFP）｜機械瓣等高血栓風險，逆轉要小心</div></div>
 <div class="oc-rr"><div class="oc-k k-g">5</div><div class="oc-if"><b>DOAC</b></div><div class="oc-drug">停藥，<b>12–24 h 效果就退</b>，多數等它退即可｜<b>血行動力不穩</b>：dabigatran → <b>idarucizumab</b>；Xa inhibitor → <b>4F-PCC</b>（2000 IU）；原書另列 andexanet（🆕 2025-12 已退出美國市場）｜vitamin K、FFP、protamine <b>無效</b></div></div>
-<div class="oc-rr"><div class="oc-k k-r">6</div><div class="oc-if"><b>NOAC 何時恢復</b><br/><small>【Martin 2023】</small></div><div class="oc-drug">CHA₂DS₂-VASc ≥ 2：Forrest III → <b>停 1–3 天</b>｜Forrest I–II → <b>停 3 天</b>、確認止血後恢復｜CHA₂DS₂-VASc 0–1：先問還要不要抗凝｜<b>不 bridging</b></div></div>
+<div class="oc-rr"><div class="oc-k k-b">6</div><div class="oc-if"><b>Warfarin 何時恢復</b></div><div class="oc-drug">低血栓風險 → <b>約第 7 天</b>｜高血栓風險（mitral 機械瓣等）→ <b>3 天內＋heparin bridging</b></div></div>
+<div class="oc-rr"><div class="oc-k k-g">7</div><div class="oc-if"><b>DOAC 何時恢復</b></div><div class="oc-drug">BSG/ESGE：沒有 DOAC 資料，<b>比照 warfarin 約第 7 天</b>｜<b>不 bridging</b></div></div>
+<div class="oc-rr"><div class="oc-k k-r">8</div><div class="oc-if"><b>AF 吃 NOAC 何時恢復</b><br/><small>【Martin 2023】</small></div><div class="oc-drug">CHA₂DS₂-VASc ≥ 2：Forrest III → <b>停 1–3 天</b>｜Forrest I–II → <b>停 3 天</b>、確認止血後恢復｜CHA₂DS₂-VASc 0–1：先問還要不要抗凝｜<b>不 bridging</b></div></div>
 <div class="oc-rf">❌ 為了矯正 INR 或等 DOAC 退而延後內視鏡、介入放射治療｜❌ 出院時沒有「什麼時候恢復抗栓藥」的計畫</div>
 </div>
 </div>
@@ -73,9 +94,9 @@ tags:
 ## 抗凝血劑：要不要逆轉？
 
 > [!tip] 建議（BSG/ESGE 2021）
-> - **暫停口服抗凝**，依**出血嚴重度**和**血栓風險**矯正凝血，與心臟科或血液科一起決定；==矯正凝血不可延誤內視鏡或介入放射治療==（strong，low）
-> - **VKA＋血行動力不穩**：==IV vitamin K＋4-factor PCC==（strong，low）；沒有 PCC 才用 **FFP**（weak，very low）
-> - **DOAC＋血行動力不穩**：可考慮逆轉劑——dabigatran 用 **idarucizumab**、anti-Xa 用 **andexanet**（weak，low）（原書；已更新，見下方 🆕）；沒有 andexanet 用 **IV 4-factor PCC**（weak，very low）
+> - 【兩者】**暫停口服抗凝**，依**出血嚴重度**和**血栓風險**矯正凝血，與心臟科或血液科一起決定；==矯正凝血不可延誤內視鏡或介入放射治療==（strong，low）
+> - 【Warfarin】**VKA＋血行動力不穩**：==IV vitamin K＋4-factor PCC==（strong，low）；沒有 PCC 才用 **FFP**（weak，very low）
+> - 【DOAC】**DOAC＋血行動力不穩**：可考慮逆轉劑——dabigatran 用 **idarucizumab**、anti-Xa 用 **andexanet**（weak，low）（原書；已更新，見下方 🆕）；沒有 andexanet 用 **IV 4-factor PCC**（weak，very low）
 
 - **背景**：急性 upper GI bleeding 最多 **15%**、lower GI bleeding 最多 **25%** 在吃抗凝
   - 死亡率高（8–12%），但主要來自**共病**；處理得當的話，抗凝本身**不是**死亡或院內再出血的獨立預測因子
@@ -114,16 +135,18 @@ tags:
 ## 什麼時候恢復抗凝？
 
 > [!tip] 建議（BSG/ESGE 2021）
-> - 有**長期抗凝適應症**的人，急性 GI 出血後要**恢復**抗凝（strong，low）
-> - **低血栓風險**：中斷約 ==7 天後盡快恢復==（weak，low）
-> - **高血栓風險**：**更早恢復**，用 **heparin bridging**，最好 ==3 天內==（strong，low）
+> - 【兩者】有**長期抗凝適應症**的人，急性 GI 出血後要**恢復**抗凝（strong，low）
+> - 【兩者，證據來自 warfarin】**低血栓風險**：中斷約 ==7 天後盡快恢復==（weak，low）
+> - 【實務上是 warfarin】**高血栓風險**：**更早恢復**，用 **heparin bridging**，最好 ==3 天內==（strong，low）
+>
+> 這三條建議原文都只寫「anticoagulation」，沒有分 warfarin 或 DOAC；下面依內文標出各自的根據。
 
 - 觀察研究與兩個 meta-analysis 一致：**恢復抗凝有 net clinical benefit**——血栓與死亡減少，雖然再出血增加
 - 最佳時機證據有限：
-  - 單一回溯研究：warfarin 中斷 **< 7 天**再出血多，**> 30 天**血栓多；越早恢復血栓越少 → **第 7 天前後盡快恢復**
-  - DOAC 沒有資料，比照 warfarin，**多數第 7 天前後恢復**
-  - DOAC **2–4 小時就完全抗凝**，太早恢復要小心
-- **極高血栓風險**（例如 **mitral 位置機械瓣**）：心臟學會建議早點用 **UFH**，或 prophylactic dose LMWH 在 **48–72 小時內調到 therapeutic dose**，和心臟科討論
+  - 【Warfarin】單一回溯研究：warfarin 中斷 **< 7 天**再出血多，**> 30 天**血栓多；越早恢復血栓越少 → **第 7 天前後盡快恢復**
+  - 【DOAC】指引明說**沒有資料**，比照 warfarin，**多數第 7 天前後恢復**
+  - 【DOAC】**2–4 小時就完全抗凝**，太早恢復要小心；**不需要 heparin bridging**
+- 【Warfarin】**極高血栓風險**（例如 **mitral 位置機械瓣**，這類病人只能用 warfarin）：心臟學會建議早點用 **UFH**，或 prophylactic dose LMWH 在 **48–72 小時內調到 therapeutic dose**，和心臟科討論
 - **恢復的風險大於效益**時：會診血液科、神經科或心臟科，考慮替代方案
   - AF → **left atrial appendage occlusion**
   - 急性 DVT → **IVC filter**
@@ -133,8 +156,9 @@ tags:
 > | --- | --- |
 > | 擇期內視鏡後（停了的藥） | **≤ 2–3 天**（ESD 可延後） |
 > | 出血後的 P2Y12 inhibitor（有 stent） | **5 天內** |
-> | 出血後的抗凝（低血栓風險） | **約第 7 天** |
-> | 出血後的抗凝（高血栓風險） | **3 天內**，heparin bridging |
+> | 出血後的 warfarin（低血栓風險） | **約第 7 天** |
+> | 出血後的 warfarin（高血栓風險） | **3 天內**，heparin bridging |
+> | 出血後的 DOAC（BSG/ESGE） | 比照 warfarin **約第 7 天**，不 bridging |
 > | 出血後的 NOAC（AF，Martin 2023） | **停 1–3 天**（見下方 Table 1） |
 > | 次級預防 aspirin | **止血後立刻** |
 
@@ -156,7 +180,7 @@ tags:
 | 🔴 **高再出血風險**<br/>==Forrest I 或 II==、varices **有** red sign、高出血風險的內視鏡處置 | 重新思考需不需要；真的需要 → **停 3 天後**恢復 | ==停 3 天==，**內視鏡確認止血、穩定後**恢復；可以的話**延後**後續的內視鏡處置 |
 
 > [!tip] Pearl：和 BSG/ESGE 的差別在哪？
-> - BSG/ESGE 是「低血栓風險約 **7 天**、高血栓風險 **3 天內＋bridging**」，而且是 warfarin 的資料延伸
+> - BSG/ESGE 是「低血栓風險約 **7 天**、高血栓風險 **3 天內＋bridging**」：7 天的證據來自 **warfarin**、DOAC 只是比照；bridging 實務上只用在 warfarin
 > - 這張表是**直接寫給 NOAC** 的：最長也只停 **3 天**，**沒有 bridging**（NOAC 幾小時就有效，本身不需要橋）
 > - 低血栓風險（CHA₂DS₂-VASc 0–1）的人，第一步是**問還要不要抗凝**，不是問何時恢復
 

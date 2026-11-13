@@ -30,7 +30,7 @@ cssclasses:
 > - **急性 GI 出血**：
 >   - 次級預防 aspirin **不停**；DAPT 必須停時 ==只停 P2Y12 inhibitor、5 天內恢復==
 >   - 抗凝要矯正但**不可延誤內視鏡**；VKA 不穩定 → **vitamin K＋4F-PCC**
->   - 抗凝約**第 7 天**恢復（高血栓風險 3 天內＋bridging）
+>   - Warfarin 約**第 7 天**恢復（高血栓風險 3 天內＋heparin bridging）；DOAC 指引沒有資料，**比照約第 7 天、不 bridging**
 >   - 【Martin 2023】AF 吃 NOAC：依 CHA₂DS₂-VASc × 再出血風險，**停 1–3 天**就恢復、不 bridging
 
 本系列依 **BSG／ESGE guideline update: Endoscopy in patients on antiplatelet or anticoagulant therapy**（Veitch 等，*Endoscopy* 與 *Gut* 2021 同步刊登）整理成 3 篇指引筆記與第 4 篇內專考點。原圖含 **Table 1–3、Figure 1–3**。
