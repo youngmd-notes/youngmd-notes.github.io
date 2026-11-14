@@ -65,6 +65,8 @@ tags:
 
 ### Pulmonary artery catheter
 
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-082.png" data-label="投影片 82：PA catheter 位置與壓力波形"></div>
+
 - 沒有 RCT；ESC 2026 沒有 PAC 的建議句
 - 觀察性：MCS 前沒做完整 PAC 評估 → 住院死亡 OR 1.57；34 個 CICU 用 PAC 死亡 OR 0.79；2026 統合分析 OR 0.70（異質性 > 90%）
 - 要上 MCS 前，**先有完整的數字：CI、PCWP、RA、PAPi**
@@ -79,12 +81,16 @@ tags:
 
 **位置**
 
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-084.png" data-label="投影片 84：IABP 尖端在 CXR 上的位置"></div>
+
 - 尖端不透光標記約在 **carina 上方 2 cm**（約左鎖骨下動脈起點），或主動脈弓下方 1–2 cm
 - 氣球近端在**腎動脈之上**
 - **==左 radial 脈搏消失 → 想到氣球往上移位壓到左鎖骨下動脈==**
 - CXR 位置不對：機器 standby、量移動距離、重新 mark，隔著無菌套移動內管（不用退套、不用拆 sheath 縫線）
 
 **波形**
+
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-085.png" data-label="投影片 85：IABP 正確時序與四種時序錯誤"></div>
 
 - **充氣點在 dicrotic notch**
 - 增強的舒張壓峰值 > 前一個收縮壓
@@ -100,6 +106,8 @@ tags:
 
 ### Impella
 
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-088.png" data-label="投影片 88：Impella 在左心室的位置"></div>
+
 - **DanGer Shock**（STEMI 休克，n = 360）：180 天死亡 **45.8% vs 58.5%**（HR 0.74）
   - 收案：SBP < 100 或用升壓劑、**LVEF < 45%**、**lactate > 2.5**；排除 OHCA 後昏迷、機械性併發症、RV failure
   - 代價：安全複合事件 24.0% vs 6.2%；透析 41.9% vs 26.7%
@@ -110,6 +118,8 @@ tags:
   - **Suction alarm 要找原因處理**
 
 ### VA-ECMO
+
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-090.png" data-label="投影片 90：VA-ECMO 管路"></div>
 
 - **ECLS-SHOCK**（AMI 休克，n = 420）：30 天死亡 47.8% vs 49.0%；**中重度出血 23.4% vs 9.6%**、血管併發症 11.0% vs 3.8%
 - ESC 2026：未經選擇的 AMI 休克用暫時性 MCS **III（有害風險）**；**Shock Team I C**
@@ -131,10 +141,14 @@ tags:
 
 ## 失代償心衰（DHF）
 
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-093.png,重症醫學/ccu-originals/slide-094.png" data-label="投影片 93–94：ESC 2026 DHF 診斷流程與處置總圖"></div>
+
 - **ESC 2026 四種表現**：左側、右側、急性肺水腫、cardiogenic shock
 - 先問兩件事：**有沒有鬱血？有沒有灌流不足？** → 鬱血用利尿劑，灌流不足用強心劑或 MCS
 
 ### 利尿劑
+
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-096.png,重症醫學/ccu-originals/slide-097.png" data-label="投影片 96–97：ESC 2026 去鬱血流程"></div>
 
 | 步驟 | 做法 |
 | --- | --- |
@@ -151,6 +165,8 @@ tags:
 - 尿鈉導引（PUSH-AHF、ENACT-HF）：ESC 2026 IIb
 
 ### 急性肺水腫
+
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-101.png" data-label="投影片 101：HF 的 CXR 徵象"></div>
 
 | | 建議 |
 | --- | --- |
@@ -170,6 +186,8 @@ tags:
 - 輸液要謹慎；強心劑或升壓劑；難治者 RV 輔助裝置；RV 保護性通氣
 
 ### 住院中就啟動 GDMT
+
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-103.png" data-label="投影片 103：ESC 2026 住院三階段與目標"></div>
 
 - **STRONG-HF**：出院前與出院後 6 週內密集起始、快速加量 → 180 天死亡或 HF 再住院 **15.2% vs 23.3%**
 - **ESC 2026**：穩定後住院中 **SGLT2i（I）**；出院前後 6 週內密集起始與加量（I）；**==除非灌流不足，不要停 FMT==**

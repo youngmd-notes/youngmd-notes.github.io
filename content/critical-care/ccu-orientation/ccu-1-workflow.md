@@ -64,11 +64,15 @@ tags:
 | **Key data** | 抄 data 的同時開矯正醫囑 | 抄了 K 3.2 卻沒補 |
 
 - 建議用 **I-PASS** 架構；最後一格是**接班的人自己複述一次**
+
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-010.png" data-label="投影片 10：I-PASS 交班單範例"></div>
 - 寫完把自己當夜班讀一遍
 
 ## 電解質
 
 ### 血鉀目標
+
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-011.png" data-label="投影片 11：AMI 血鉀與住院死亡率"></div>
 
 | 情境 | 建議區間 | 依據 |
 | --- | --- | --- |
@@ -100,6 +104,8 @@ tags:
 - 速度越快越要 ECG 監測與回抽；**依院內藥局的濃度與速率規定**
 
 ### 高血鉀緊急處置
+
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-017.png" data-label="投影片 17：K 5.7、7.6、9.6 的 ECG"></div>
 
 | 步驟 | 做法 | 備註 |
 | --- | --- | --- |

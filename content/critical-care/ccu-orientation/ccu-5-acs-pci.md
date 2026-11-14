@@ -33,12 +33,16 @@ tags:
 
 ### 時間目標
 
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-108.png" data-label="投影片 108：ESC 2023 STEMI 再灌流時間目標"></div>
+
 - **ESC 2023**：診斷後 **< 120 分鐘能做 PPCI 就做**（I A）
   - PCI 中心 **< 60 分鐘**、轉院 **< 90 分鐘**到導絲；door-in-door-out ≤ 30 分鐘
 - 做不到 → **溶栓**：診斷後 **< 10 分鐘推 bolus**（I A），用 fibrin-specific 藥物（I B）
 - 台灣 TSOC 2020：door-to-wire ≤ 90 分鐘（I B）
 
 ### Tenecteplase
+
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-110.png,重症醫學/ccu-originals/slide-111.png" data-label="投影片 110–111：ESC 2023 溶栓藥物與合併抗栓劑量表"></div>
 
 | 體重（kg） | < 60 | 60 到 < 70 | 70 到 < 80 | 80 到 < 90 | ≥ 90 |
 | --- | --- | --- | --- | --- | --- |
@@ -49,6 +53,8 @@ tags:
 - 溶栓後**立即轉 PCI 中心**；**成功也要 2–24 小時攝影**（I A）；**ST 回復 < 50% → rescue PCI**（I A）
 
 ### 溶栓絕對禁忌（ACC/AHA 2025）
+
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-113.png,重症醫學/ccu-originals/slide-114.png" data-label="投影片 113–114：ACC/AHA 2025 溶栓絕對與相對禁忌"></div>
 
 - 曾經顱內出血；已知結構性腦血管病變；惡性顱內腫瘤
 - **3 個月內缺血性中風**（急性中風 < 4.5 小時除外）
@@ -62,6 +68,8 @@ tags:
 
 ## NSTE-ACS 侵入時機
 
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-115.png" data-label="投影片 115：ESC 2023 NSTE-ACS 侵入策略時機"></div>
+
 | 風險 | 條件 | 時機 |
 | --- | --- | --- |
 | **極高風險** | 休克、頑固胸痛、致命心律不整、機械性併發症、急性心衰、反覆動態 ST | **立即**（I C） |
@@ -70,7 +78,11 @@ tags:
 - 為什麼只有 IIa：早做不降死亡（RR 0.90），但少再缺血（RR 0.57）、住院短 22 小時；好處集中在 **GRACE > 140**（VERDICT HR 0.81）
 - **風險分數**：ESC 2023 用 **GRACE**（IIa B），入院算一次；**Killip** 床邊用（30 天死亡 I 5%、II 21%、III 35%、IV 67%）；TIMI 看得懂就好
 
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-137.png" data-label="投影片 137：GRACE 與 TIMI 變數對照"></div>
+
 ## 多支病變
+
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-117.png" data-label="投影片 117：ESC 2023 多支病變血運重建流程"></div>
 
 | 情境 | 建議 | 證據 |
 | --- | --- | --- |
@@ -81,6 +93,8 @@ tags:
 
 ### PCI 周邊
 
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-119.png,重症醫學/ccu-originals/slide-120.png" data-label="投影片 119–120：ESC 2023 抗血栓藥物劑量表"></div>
+
 | 藥物 | ESC 2023 | 劑量 |
 | --- | --- | --- |
 | **UFH** | PCI 時 bolus（I C） | **70–100 U/kg**；已抗凝者依 ACT |
@@ -89,6 +103,8 @@ tags:
 | Enoxaparin／bivalirudin | IIa A | 依指引 |
 
 ### P2Y12
+
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-122.png,重症醫學/ccu-originals/slide-123.png" data-label="投影片 122–123：ESC 2023 預設抗栓療程"></div>
 
 | | 內容 |
 | --- | --- |
@@ -99,6 +115,8 @@ tags:
 
 ### DAPT 療程
 
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-124.png" data-label="投影片 124：ESC 2023 降低出血的抗血小板策略"></div>
+
 - **預設 12 個月 aspirin＋強效 P2Y12**（I A）
 - 3–6 個月無事件、非高缺血風險 → **單一抗血小板，優先 P2Y12**（IIa A）；高出血風險 1 個月後單藥（IIb B）
 - 降階到 clopidogrel（IIb A），**前 30 天不降**（III B）
@@ -106,6 +124,8 @@ tags:
 - 高出血風險定義：ARC-HBR（1 年 BARC 3/5 ≥ 4% 或 ICH ≥ 1%）
 
 ### AF 合併 PCI
+
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-125.png" data-label="投影片 125：ESC 2023 AF 病人 PCI 後抗栓"></div>
 
 - **ESC 2023**：**三合一最多 1 週** → **NOAC＋單一抗血小板（優先 clopidogrel）到 12 個月**（I A）；高缺血風險可延到 1 個月（IIa C）
 - **==三合一不用 ticagrelor 或 prasugrel==**（III C）
@@ -121,6 +141,8 @@ tags:
 ## 二級預防
 
 ### 降血脂
+
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-127.png" data-label="投影片 127：ESC 2023 ACS 降血脂流程"></div>
 
 | 項目 | ESC 2023 |
 | --- | --- |
@@ -170,6 +192,8 @@ tags:
 - **==LVEF ≤ 40% → 6–12 週重做，決定 ICD==**（I C）
 
 ### 機械性併發症
+
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-135.png" data-label="投影片 135：AMI 四種機械性併發症"></div>
 
 | 併發症 | 發生率 | 處置 | 死亡率 |
 | --- | --- | --- | --- |

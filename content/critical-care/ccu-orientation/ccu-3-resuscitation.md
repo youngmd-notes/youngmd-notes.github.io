@@ -94,6 +94,8 @@ tags:
 
 ### 復甦後照護順序（ERC-ESICM 2021）
 
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-056.png,重症醫學/ccu-originals/slide-057.png" data-label="投影片 56–57：ERC-ESICM 2021 復甦後照護演算法"></div>
+
 ```mermaid
 flowchart TD
     A["ROSC"] --> B["立即<br/>氣道與通氣、血行動力學<br/>12 導程 ECG、找原因"]
@@ -152,6 +154,8 @@ flowchart TD
 - **不常規預防性抗生素**，懷疑感染才給
 
 ### 神經預後
+
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-067.png" data-label="投影片 67：ERC-ESICM 2021 預後評估策略"></div>
 
 - AHA 2025：**多模式**（1, B-NR）；**常溫後 ≥ 72 小時**才下結論（2a）
 - 個別檢查各 2b：瞳孔與角膜反射（≥ 72 h）、N20 SSEP、NSE 與 NfL、CT 與 MRI

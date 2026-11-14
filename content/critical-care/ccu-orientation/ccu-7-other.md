@@ -32,6 +32,8 @@ tags:
 
 ### 風險分層（2019 ESC）
 
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-173.png" data-label="投影片 173：ESC 2019 PE 嚴重度分類"></div>
+
 | 風險 | 判準 | 處置 |
 | --- | --- | --- |
 | **高** | **血行動力學不穩**（任一）：心跳停止；obstructive shock（SBP < 90 或需升壓劑＋灌流不足）；持續低血壓（SBP < 90 或掉 ≥ 40 mmHg 超過 15 分鐘） | **全身溶栓**，CCU／ICU |
@@ -41,7 +43,11 @@ tags:
 
 - 懷疑 PE 且不穩定：先排除其他原因，**床邊超音波看 RV**，CTPA 或直接再灌流
 
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-174.png" data-label="投影片 174：ESC 2019 依風險調整的 PE 處置流程"></div>
+
 ### 高風險 PE
+
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-176.png" data-label="投影片 176：ESC 2019 溶栓劑量與禁忌"></div>
 
 | | 內容 |
 | --- | --- |
@@ -57,6 +63,8 @@ tags:
 
 ### 抗凝
 
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-179.png" data-label="投影片 179：PE 起始抗凝流程"></div>
+
 | 情境 | 選擇 | 劑量 |
 | --- | --- | --- |
 | **不穩定或可能再灌流** | **UFH** | 80 U/kg bolus＋18 U/kg/h |
@@ -70,6 +78,8 @@ tags:
 
 ## 瓣膜急症
 
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-180.png" data-label="投影片 180：ICU 的急性失代償瓣膜疾病（Miller 2024）"></div>
+
 ### 急性重度 AR 與 MR
 
 | | **急性重度 AR**（IE、type A dissection） | **急性重度 MR／papillary muscle rupture**（MI 後 3–5 天） |
@@ -80,12 +90,16 @@ tags:
 
 ### 重度 AS 與人工瓣膜
 
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-182.png,重症醫學/ccu-originals/slide-183.png" data-label="投影片 182–183：ESC/EACTS 2021 機械瓣血栓處置流程"></div>
+
 - **重度 AS 合併 cardiogenic shock**：**BAV 過渡**（2020 ACC/AHA IIb）；緊急 TAVI 可行（TVT registry 30 天死亡 8.7% vs 選擇性 4.3%）
 - IABP 在 AS 幫助有限；≥ 中度 AR（含 BAV 後）禁用
 - **機械瓣膜血栓**：先抗凝；**阻塞性血栓且危重 → 緊急手術**（2021 ESC/EACTS I B），不能馬上開刀才溶栓；非阻塞性先調好抗凝，≥ 10 mm 合併栓塞才直接手術
 - 任何瓣膜病人失代償，**都先想到人工瓣膜血栓與 IE**
 
 ## Infective endocarditis
+
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-184.png" data-label="投影片 184：ESC 2023 IE 診斷流程"></div>
 
 | 重點 | 內容 |
 | --- | --- |
@@ -95,7 +109,11 @@ tags:
 | 抗生素 | 原生瓣與人工瓣經驗性用藥不同，依感染科會診 |
 | Duke-ISCVID 微生物 | 典型菌加入 *E. faecalis*、*S. lugdunensis* 與多數鏈球菌；加入 PCR |
 
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-185.png,重症醫學/ccu-originals/slide-186.png,重症醫學/ccu-originals/slide-187.png" data-label="投影片 185–187：2023 ESC 與 Duke-ISCVID 主要標準"></div>
+
 ### 手術時機與口服降階
+
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-189.png,重症醫學/ccu-originals/slide-190.png" data-label="投影片 189–190：ESC 2023 左心 IE 手術時機"></div>
 
 - **三個手術適應症**
   1. **Heart failure**（I B）
@@ -119,6 +137,8 @@ tags:
 
 ### 心包炎與 tamponade
 
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-192.png" data-label="投影片 192：心包穿刺進針位置"></div>
+
 - **急性心包炎**：**NSAID 或 aspirin＋colchicine**
   - ICAP：再發或持續 16.7% vs 37.5%（NNT 4）
   - Colchicine：**> 70 kg 0.5 mg bid、≤ 70 kg 0.5 mg qd，3 個月**
@@ -127,6 +147,8 @@ tags:
   - 床邊徵象：頸靜脈怒張、pulsus paradoxus、低電壓與 electrical alternans、超音波 RA／RV collapse
 
 ## 急性主動脈剝離
+
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-194.png" data-label="投影片 194：主動脈剝離合併灌流不良的處置路徑"></div>
 
 - **懷疑**（IRAD）：突發疼痛 84.8%，但 **ECG 正常 31.3%、CXR 正常 12.4%** → **CTA 第一線**；ADD-RS＋D-dimer < 500 可協助排除
 - **Anti-impulse therapy**（2022 ACC/AHA）
@@ -141,6 +163,8 @@ tags:
 > 疑似剝離是溶栓的絕對禁忌；胸痛＋ST 上升也要先想到 type A dissection 侵犯冠狀動脈。
 
 ## 高血壓急症
+
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-196.png" data-label="投影片 196：高血壓急症目標與藥物（ESC 2018 Table 31）"></div>
 
 - 定義：**> 180/120＋急性器官傷害**
 - **無症狀重度高血壓不是急症**：2025 AHA/ACC 把 IV 降壓列為 **3: Harm**

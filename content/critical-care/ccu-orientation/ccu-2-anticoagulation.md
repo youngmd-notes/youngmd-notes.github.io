@@ -40,6 +40,8 @@ tags:
 
 ### aPTT 的檢體前誤差（抽錯比算錯常見）
 
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-025.png" data-label="投影片 25：aPTT 延長的檢查流程"></div>
+
 - 藍頭管（**3.2% citrate**）要抽到 **> 90%**，citrate：血 = 1:9；Hct 很高要調 citrate 量
 - 蝴蝶針或留置管抽血要**先丟一管**（死腔讓藍頭管抽不滿）
 - **==從 heparin 管路抽的檢體不能驗 aPTT==**
@@ -86,6 +88,8 @@ tags:
 - 這些情況 anti-Xa 較準，出血與血栓兩種監測相同；但 anti-Xa 外送，**不要等它**
 
 ## HIT：先算 4Ts
+
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-031.png" data-label="投影片 31：ASH 2018 HIT 診斷流程"></div>
 
 | 4Ts 分數 | 做法 | 依據 |
 | --- | --- | --- |

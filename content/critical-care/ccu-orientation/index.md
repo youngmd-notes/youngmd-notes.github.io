@@ -25,6 +25,9 @@ cssclasses:
 
 本系列依一位心臟內科（電生理、重症）醫師給住院醫師的 **CCU orientation 講義（2026 年 11 月版，204 張投影片）** 整理，共 7 個模組。講義引用的都是最新指引（AHA 2025、ESC HF 2026、ESC ACS 2023、ACC/AHA ACS 2025、ESC／ACC/AHA AF、2026 AHA/ACC PE 等），每個模組最後附講義原有的兩題小考。
 
+> [!tip] 原圖
+> 各篇放了講義中 61 張值得對照的原圖（指引流程圖、劑量表、波形、ECG、CXR），在「📷 原圖」區塊。原圖存在私人資料庫，只有設定過權杖的瀏覽器看得到。<a class="of-settings-link" href="javascript:void 0">🔑 原圖設定</a>
+
 > [!warning] 標示「講義所述院內慣例」的內容
 > 泡法、拔 sheath 的 ACT 門檻、抽血時程、日間整流流程等是**單一醫院的做法**，不是指引；照護時以各院 SOP 的最新版為準。
 

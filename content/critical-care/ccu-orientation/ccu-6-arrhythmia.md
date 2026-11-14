@@ -55,6 +55,8 @@ flowchart TD
 
 ### 下壁 vs 前壁 MI 的 AV block
 
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-145.png" data-label="投影片 145：下壁 MI 合併完全房室阻斷"></div>
+
 | | **下壁 MI** | **前壁 MI** |
 | --- | --- | --- |
 | 阻斷位置 | 多在 **His 之上**（結內、迷走） | 多在 **His 之下**，先有心室內傳導障礙 |
@@ -63,6 +65,8 @@ flowchart TD
 | 永久節律器 | 觀察到**第 10 天**仍未恢復才裝（ESC 2021） | 前壁、雙束支、進行性 AVB：觀察 **≥ 5 天**（ESC 2021；ESC 2023 I C） |
 
 ### 先排除可逆原因
+
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-146.png" data-label="投影片 146：BRASH 惡性循環"></div>
 
 | 類別 | 內容 |
 | --- | --- |
@@ -94,6 +98,8 @@ flowchart TD
 
 ## Brugada 藥物激發試驗
 
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-150.png" data-label="投影片 150：Brugada type 1、2、3"></div>
+
 - 講義所述院內用 **口服 flecainide 300 mg**（共識範圍 200–300 mg）；400 mg 只見於小型系列，不用
 - Ajmaline 比 flecainide 敏感（100% vs 68%）；**口服陰性不能排除**
 - **高位導程**（V1、V2 放第 2、3 肋間）**每一次都做**
@@ -122,12 +128,16 @@ flowchart TD
 
 ### 先治火，再治警報
 
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-153.png" data-label="投影片 153：ICU 新發 AF 處置流程"></div>
+
 - **原因治好後 48 小時內最高 83% 自行轉回竇性**；危重病人緊急整流早期復發率高
 - 穩定的急性 AF：**先控制心跳、觀察，同時處理誘因**
 - AFIB-ICU（n = 1,415）：校正後 90 天死亡不顯著（HR 1.38）→ AF 是**嚴重度的標記**，多於獨立殺手
 - 敗血症 AF 的腸道外抗凝**沒有減少中風**（1.3% vs 1.4%）、出血較多（ACC/AHA 2b）
 
 ### 急性心跳控制（2023 ACC/AHA）
+
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-155.png" data-label="投影片 155：AF 急性心跳控制流程（2023 ACC/AHA）"></div>
 
 | 順序 | 藥物 | Class |
 | --- | --- | --- |
@@ -148,6 +158,8 @@ flowchart TD
 
 ### 電擊整流
 
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-158.png,重症醫學/ccu-originals/slide-159.png" data-label="投影片 158–159：2023 ACC/AHA 整流前後的抗凝"></div>
+
 | 情境 | 怎麼做 |
 | --- | --- |
 | **不穩定且歸因於 AF** | **立刻電**（1） |
@@ -157,6 +169,8 @@ flowchart TD
 | 講義所述院內日間流程 | 中午 TEE、下午電擊、隔天出院 |
 
 **技術**
+
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-160.png" data-label="投影片 160：電擊貼片位置"></div>
 
 - **初始能量 biphasic ≥ 200 J**（2a）：最大固定能量首次成功 75% vs 低能量遞增 34%
 - 貼片：2021 RCT anterior-lateral 首次成功 54% vs anterior-posterior 33%（2002 小試驗相反）；ACC/AHA 兩種皆可，長期 AF 可偏好前後位
@@ -188,6 +202,8 @@ flowchart TD
 
 ### 其他 IV 藥（2023 ACC/AHA Table 21）
 
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-164.png" data-label="投影片 164：IV 心跳控制藥物劑量表"></div>
+
 | 藥物 | 劑量 | 注意 |
 | --- | --- | --- |
 | **Diltiazem** | 0.25 mg/kg IV 2 分鐘，可再 0.35 mg/kg；5–15 mg/h | **HFrEF 避免** |
@@ -209,6 +225,8 @@ flowchart TD
 - 升階：overdrive pacing → 星狀神經節阻斷（個案證據）→ MCS → **早叫 EP 電燒**
 
 ## TdP 與多形性 VT
+
+<div class="orig-fig" data-src="重症醫學/ccu-originals/slide-167.png" data-label="投影片 167：Long QT 與 torsades ECG"></div>
 
 | | **TdP（QT 長）** | **多形性 VT（QT 正常）** |
 | --- | --- | --- |
