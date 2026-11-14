@@ -21,7 +21,7 @@ cssclasses:
 > - **休克**：**norepinephrine 先**；IABP 常規 III；**Impella 選人**（STEMI、EF < 45、lactate > 2.5、腦沒缺氧）；利尿劑**看 2 小時尿鈉、6 小時尿量**
 > - **ACS**：時間目標、GPI bailout、**DAPT 30 天內不降階**、LDL < 55、**β-blocker 看 EF**
 > - **心律**：AVB 先排可逆；**EF ≤ 40% 不給 IV diltiazem**；電擊後 **4 週抗凝**；**==pre-excited AF 六種藥全禁==**
-> - **其他**：**==急性 AR 不放 IABP==**；IE 都做 TOE；**==剝離先 β-blocker、不溶栓==**
+> - **其他**：**==急性 AR 不放 IABP**==；IE 都做 TOE；==**剝離先 β-blocker、不溶栓==**
 
 本系列依一位心臟內科（電生理、重症）醫師給住院醫師的 **CCU orientation 講義（2026 年 11 月版，204 張投影片）** 整理，共 7 個模組。講義引用的都是最新指引（AHA 2025、ESC HF 2026、ESC ACS 2023、ACC/AHA ACS 2025、ESC／ACC/AHA AF、2026 AHA/ACC PE 等），每個模組最後附講義原有的兩題小考。
 
