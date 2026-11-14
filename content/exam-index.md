@@ -913,5 +913,13 @@ title: 內專考點總覽
 - [[gastroenterology/abnormal-liver-tests/liver-3-viral|③病毒性肝炎 Viral Hepatitis]]（腸胃肝膽科 GI & Hepatology）
 - [[gastroenterology/abnormal-liver-tests/liver-4-others|④其他重要病因 Other Important Causes]]（腸胃肝膽科 GI & Hepatology）
 - [[gastroenterology/abnormal-liver-tests/liver-5-cases|⑤三個病例推理 Case-Based Reasoning]]（腸胃肝膽科 GI & Hepatology）
+- [[critical-care/ccu-orientation/ccu-1-workflow|①CCU 的一天：流程、交班、電解質 CCU Workflow & Electrolytes]]（重症醫學 Critical Care）
+- [[critical-care/ccu-orientation/ccu-2-anticoagulation|②抗凝與導管相關 Anticoagulation & Catheter Care in CCU]]（重症醫學 Critical Care）
+- [[critical-care/ccu-orientation/ccu-3-resuscitation|③急救與復甦後照護 Resuscitation & Post-Arrest Care in CCU]]（重症醫學 Critical Care）
+- [[critical-care/ccu-orientation/ccu-4-shock-hf|④休克、機械輔助、急性心衰 Shock, MCS & Decompensated HF in CCU]]（重症醫學 Critical Care）
+- [[critical-care/ccu-orientation/ccu-5-acs-pci|⑤ACS 與 PCI 後照護 ACS & Post-PCI Care in CCU]]（重症醫學 Critical Care）
+- [[critical-care/ccu-orientation/ccu-6-arrhythmia|⑥CCU 心律不整 Arrhythmias in CCU]]（重症醫學 Critical Care）
+- [[critical-care/ccu-orientation/ccu-7-other|⑦其他 CCU 常見急症 Other CCU Emergencies]]（重症醫學 Critical Care）
+- [[critical-care/ccu-orientation/index|CCU 住院醫師 orientation（2026）CCU Orientation]]（重症醫學 Critical Care）
 
 點開各考點即可跳到筆記裡的題目重點卡；原題與詳解請到 [內專刷題網站](http://imboard.dirty-wolf.com/) 依題號查詢。

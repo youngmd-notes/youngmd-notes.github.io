@@ -221,6 +221,7 @@ Figure 17 是出院後的三個目標，Figure 18 是降血脂流程；Figure 19
 
 ## 相關筆記
 
+- [[critical-care/ccu-orientation/index|CCU 住院醫師 orientation]]（CCU 值班實務：PCI 後 routine、tirofiban、機械性併發症）
 - [[cardiology/chronic-coronary-syndrome-esc-2024/index|慢性冠心症 CCS（ESC 2024）]]
 - [[cardiology/heart-failure-esc-2026/index|心衰竭 Heart Failure（ESC 2026）]]（心因性休克、MI 後 HF）
 - [[cardiology/resuscitation-aha-2025/index|心肺復甦與急救（2025 AHA）]]
