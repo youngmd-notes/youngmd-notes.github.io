@@ -1,5 +1,5 @@
 ---
-title: The ICU Book 重症醫學教科書 The ICU Book
+title: 重症醫學教科書 The ICU Book
 aliases:
   - ICU Book
   - ICU book
