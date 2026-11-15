@@ -19,6 +19,7 @@ title: 首頁
 | [[pharmacology/index\|藥物]] | 常用藥物劑量、腎功能調整、交互作用 |
 | [[teaching/index\|教學資源]] | 晨會、Journal club、住院醫師教學材料 |
 | [[nejm-cases/index\|NEJM 個案分享]] | NEJM Evidence Morning Report 個案，依次專分類，重點在推理過程 |
+| [[pocket-medicine/index\|小麻 Pocket Medicine]] | Pocket Medicine 第 8 版逐章整理（建置中） |
 
 ## 考前複習
 

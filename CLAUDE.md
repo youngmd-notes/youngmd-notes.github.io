@@ -29,6 +29,7 @@ Young 會用自然語言下指令（例如「新增一篇 SIADH 筆記」），�
 | `pharmacology` | 藥物 |
 | `teaching` | 教學資源 |
 | `nejm-cases` | NEJM 個案分享（獨立專區，見下方） |
+| `pocket-medicine` | 小麻 Pocket Medicine（獨立專區，依原書逐章整理） |
 
 - 每個分類資料夾有一個 `index.md`，設定分類的顯示名稱
 - 新增分類時：建立資料夾和 `index.md`，並把資料夾名稱加進 `quartz.layout.ts` 裡 Explorer 的 `order` 陣列（兩處都要改），也更新 `content/index.md` 的分類表格和本檔的表格

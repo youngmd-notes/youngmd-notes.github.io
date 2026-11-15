@@ -30,6 +30,7 @@ cssclasses:
 ## 相關筆記
 
 - [[critical-care/ccu-orientation/index|CCU 住院醫師 orientation]]
+- [[pocket-medicine/index|小麻 Pocket Medicine]]
 
 ## 參考資料
 
