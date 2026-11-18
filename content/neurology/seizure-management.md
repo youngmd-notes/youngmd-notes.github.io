@@ -68,7 +68,42 @@ tags:
 <div class="oc-box r"><span class="oc-ans">高風險 → 開藥</span><br/>兩項都異常；或 ≥ 2 次＋任一異常；或 &gt; 3 次</div>
 </div>
 <div class="oc-foot">🆕 選藥：<b>focal</b> → lamotrigine 或 levetiracetam｜<b>generalized tonic–clonic</b> → lamotrigine、levetiracetam 或 valproate 擇一｜<b>valproate 不新開給 &lt; 55 歲</b>（男女都是）｜需要很快達到治療濃度 → <b>levetiracetam</b>（lamotrigine 要慢慢加 4–6 週）</div>
-<div class="oc-note">依 Mullhi 2025（JICS）Figure 1 與 Appendix 1、Smith 2021（NEJM）Table 1–4，並依 NICE NG217 現行版與 MHRA valproate 規定更新選藥，自製</div>
+<div class="oc-q"><span class="oc-n">5</span><div><span class="oc-qt">ASM 選藥思維：先排除不能用的，再挑最適合的</span><small>急性 SE 的 Stage 3 和長期用藥，想法不一樣</small></div></div>
+<div class="oc-split side">
+<div class="oc-box r"><span class="oc-ans">🚨 急性 SE（Stage 3）：三個效果一樣，看「誰不能用」</span>
+<ol>
+<li><b>預設 levetiracetam</b>：不經肝、幾乎沒交互作用、不必驗濃度、10 分鐘打完</li>
+<li><b>避開 valproate</b>：肝病、mitochondrial disease、porphyria、懷孕或育齡女性、<b>正在用 carbapenem</b>、血小板低或 pancreatitis</li>
+<li><b>避開或放慢 phenytoin</b>：傳導異常、心律不整、低血壓、老人（≤ 10–25 mg/min）；周邊細管怕外滲</li>
+<li><b>小心 levetiracetam</b>：精神病史、自殺意念；腎功能差要調<b>維持</b>劑量</li>
+<li><b>已在吃某個 ASM</b> 又懷疑沒吃或濃度低 → 先<b>照原本的藥重新 loading</b></li>
+<li>第一個藥無效 → 插管準備，同時從<b>另外兩個</b>再選一個</li>
+</ol>
+</div>
+<div class="oc-box b"><span class="oc-ans">📅 長期 ASM：發作型態 → 病人特性 → 交互作用</span>
+<ol>
+<li><b>發作型態</b>：focal → lamotrigine 或 levetiracetam；GTCS → lamotrigine、levetiracetam、valproate 擇一；<b>有 myoclonus／absence 避免 lamotrigine</b>（可能加重）</li>
+<li><b>育齡女性、&lt; 55 歲</b> → 不新開 valproate；可能懷孕 → 補 folate</li>
+<li><b>要快速控制</b>（剛 SE、住院中）→ levetiracetam；lamotrigine 要 <b>4–6 週</b>才到劑量</li>
+<li><b>焦慮、憂鬱、易怒</b> → 偏 lamotrigine；<b>肥胖、偏頭痛</b> → 可考慮 topiramate</li>
+<li><b>多重用藥</b>（warfarin 等）→ levetiracetam；valproate 是酵素抑制劑、擠出 warfarin</li>
+<li>Han Chinese 用 carbamazepine 前驗 <b>HLA-B*1502</b></li>
+</ol>
+</div>
+</div>
+
+<div class="oc-q"><span class="oc-n">6</span><div><span class="oc-qt">劑量怎麼調？</span><small>Loading 照體重給；腎、肝、白蛋白、交互作用調的是「維持劑量」與判讀</small></div></div>
+<div class="oc-rx">
+<div class="oc-rxh">🔧 ASM 劑量調整一張卡</div>
+<div class="oc-rr"><div class="oc-k k-r">L</div><div class="oc-if"><b>Levetiracetam</b><br/>腎排除</div><div class="oc-drug"><b>Loading</b> 60 mg/kg IV（max 4500 mg）→ 12 小時後開始維持｜<b>維持依 CrCl</b>（mL/min/1.73 m²）：<b>≥ 80</b> 500–1500 mg BID｜<b>50–79</b> 500–1000 mg BID｜<b>30–49</b> 250–750 mg BID｜<b>&lt; 30</b> 250–500 mg BID｜<b>HD</b> 500–1000 mg QD（首日 750 mg），<b>洗完補 250–500 mg</b>｜肝：輕中度不調；<b>重度肝病且 CrCl &lt; 60 → 維持劑量減半</b>｜IV↔PO 1:1｜最多 3 g/day</div></div>
+<div class="oc-rr"><div class="oc-k k-o">V</div><div class="oc-if"><b>Valproate</b><br/>肝代謝、高蛋白結合</div><div class="oc-drug"><b>Loading</b> 40 mg/kg IV（max 3000 mg）→ 8 小時後維持 <b>20–30 mg/kg/day 分 2–3 次</b>（max 2500 mg/day）｜追 <b>LFT、ammonia、platelet</b>（hyperammonemia、pancreatitis、thrombocytopenia）｜<b>Carbapenem 會讓濃度快速大降，加量救不回來</b> → 避免併用，必須用就換或加別的 ASM｜會讓 <b>lamotrigine 濃度升高 2 倍以上</b>｜IV↔PO 1:1</div></div>
+<div class="oc-rr"><div class="oc-k k-a">P</div><div class="oc-if"><b>Phenytoin</b><br/>非線性、治療窗窄</div><div class="oc-drug"><b>Loading</b> 20 mg/kg IV（max 2000 mg），<b>≤ 50 mg/min</b>（老人、心臟病 10–25 mg/min），接 monitor →  ≥ 8 小時後 <b>100 mg IV TDS</b>｜<b>濃度</b>：loading 後 2–4 小時驗，之後每天驗 trough；目標 <b>10–20 mg/L</b>；不夠又在抽 → 補 <b>5–10 mg/kg</b>｜<b>加一點量濃度可能暴增</b>，小幅調整｜<b>Albumin &lt; 3.2 g/dL</b> → 校正：測得值 ÷（0.2 × albumin［g/dL］＋ 0.1）；<b>CrCl &lt; 20 把 0.2 換成 0.1</b>；能驗 free level 更準｜Fosphenytoin 用 PE：1.5 mg = 1 mg PE｜管灌吸收差要停灌食；懸浮液 90 mg = 膠囊／針劑 100 mg</div></div>
+<div class="oc-rr"><div class="oc-k k-g">C</div><div class="oc-if"><b>Lacosamide</b><br/>SRSE 第 3 線</div><div class="oc-drug"><b>Loading</b> 200 mg IV → 12 小時後 100–200 mg BID｜max 400 mg/day；<b>ESRD max 250 mg/day</b>，HD 後補當日劑量的 50%｜<b>PR 延長</b> → 傳導異常先看 ECG｜IV↔PO 1:1</div></div>
+<div class="oc-rr"><div class="oc-k k-b">T</div><div class="oc-if"><b>Lamotrigine</b><br/>長期用藥</div><div class="oc-drug"><b>沒有併用會交互作用的藥</b>：25 mg QD × 2 週 → 50 mg/day × 2 週 → 之後慢慢加；NEJM 建議初始維持 100–200 mg/day｜<b>合併 valproate</b>：<b>25 mg QOD × 2 週</b> → 25 mg QD × 2 週 → 維持 100–200 mg/day（valproate 抑制代謝、rash 風險高）｜<b>合併 enzyme inducer</b>（carbamazepine、phenytoin、phenobarbital）：50 mg/day 起、維持較高｜<b>不可加太快</b>（SJS／TEN）｜含 estrogen 避孕藥、懷孕會降低濃度</div></div>
+<div class="oc-rf"><b>體重</b>：麻醉藥輸注 80 kg 以內用實際體重，超過用理想或校正體重（JICS）｜<b>老人</b>：lorazepam 分次 1–2 mg、phenytoin 放慢｜<b>ESETT 排除肝病、嚴重腎功能不全</b>，這些人劑量證據較少，找藥師｜住院前的 ASM <b>照足量給</b>，不要等濃度報告才給</div>
+</div>
+
+<div class="oc-note">依 Mullhi 2025（JICS）Figure 1 與 Appendix 1、3、4、Smith 2021（NEJM）Table 1–4，並依 NICE NG217 現行版與 MHRA valproate 規定更新選藥；levetiracetam 腎功能劑量依 EMA 仿單、lamotrigine 加量依 FDA 仿單、carbapenem 交互作用依 MHRA、phenytoin 校正依 Sheiner-Tozer 公式，自製</div>
 </div>
 
 ---
@@ -612,4 +647,8 @@ tags:
 - Glauser T, Shinnar S, Gloss D, et al. Evidence-based guideline: treatment of convulsive status epilepticus in children and adults: report of the Guideline Committee of the American Epilepsy Society. *Epilepsy Curr*. 2016;16(1):48–61.（時間分期：0–5 分鐘穩定期、5–20 分鐘 benzodiazepine）
 - 🆕 National Institute for Health and Care Excellence. Epilepsies in children, young people and adults（NG217）. 2022，現行版（含 2025 年選藥更新與 MHRA valproate 安全規定）。
 - 🆕 Beniczky S, Trinka E, Wirrell E, et al. Updated classification of epileptic seizures: position paper of the International League Against Epilepsy. *Epilepsia*. 2025;66(6):1804–1823. doi:10.1111/epi.18338.
+- Keppra（levetiracetam）Summary of Product Characteristics, section 4.2（腎功能與肝功能劑量調整）. European Medicines Agency.
+- LAMICTAL（lamotrigine）Prescribing Information（Table 1：合併 valproate 與 enzyme inducer 的加量方式）. U.S. FDA.
+- MHRA Drug Safety Update. Carbapenems: concomitant use with valproic acid not recommended.
+- A comprehensive review on the predictive performance of the Sheiner-Tozer and derivative equations for the correction of phenytoin concentrations. *Ann Pharmacother*. 2016;50(4):311–325. doi:10.1177/1060028016628166.（校正公式；重症、頭部外傷、神經科病人有偏差、不夠精準）
 - 內專考點：[內專刷題網站](http://imboard.dirty-wolf.com/) 108-180、111-147。
