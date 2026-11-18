@@ -229,6 +229,7 @@ flowchart TD
 
 - [[cardiology/resuscitation-aha-2025/cpr25-2-adult-als|成人 ALS（2025 AHA）]]
 - [[cardiology/resuscitation-aha-2025/cpr25-3-post-arrest-special|ROSC 後與特殊情況（2025 AHA）]]
+- [[neurology/seizure-management|癲癇發作的臨床處置（status epilepticus、first seizure）]]
 
 ## 參考資料
 

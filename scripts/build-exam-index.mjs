@@ -13,6 +13,7 @@ const ORDER = [
   "gastroenterology",
   "endocrinology",
   "hematology-oncology",
+  "neurology",
   "critical-care",
   "pharmacology",
   "teaching",

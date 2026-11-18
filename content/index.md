@@ -15,6 +15,7 @@ title: 首頁
 | [[gastroenterology/index\|腸胃肝膽科]] | GI bleeding、肝硬化、胰臟炎、膽道疾病 |
 | [[endocrinology/index\|內分泌科]] | 糖尿病、甲狀腺、腎上腺、鈣代謝 |
 | [[hematology-oncology/index\|血液腫瘤科]] | 貧血、凝血、輸血、腫瘤急症 |
+| [[neurology/index\|神經科]] | Seizure、status epilepticus、腦中風等神經急症 |
 | [[critical-care/index\|重症醫學]] | 休克、呼吸器、ARDS、重症處置 |
 | [[pharmacology/index\|藥物]] | 常用藥物劑量、腎功能調整、交互作用 |
 | [[teaching/index\|教學資源]] | 晨會、Journal club、住院醫師教學材料 |

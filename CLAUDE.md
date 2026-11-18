@@ -25,6 +25,7 @@ Young 會用自然語言下指令（例如「新增一篇 SIADH 筆記」），�
 | `gastroenterology` | 腸胃肝膽科 |
 | `endocrinology` | 內分泌科 |
 | `hematology-oncology` | 血液腫瘤科 |
+| `neurology` | 神經科 |
 | `critical-care` | 重症醫學 |
 | `pharmacology` | 藥物 |
 | `teaching` | 教學資源 |

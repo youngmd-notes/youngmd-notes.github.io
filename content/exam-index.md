@@ -6,7 +6,7 @@ title: 內專考點總覽
 > 這頁會**自動彙整**所有筆記裡的「🎯 內專考點」，每次網站更新時重新產生，不需要手動編輯。
 > 「考過次數」把重複出現的同一題分開計算（例如 106-132／108-94 算 2 次），越多次代表越常考。
 
-目前共整理 **365 次考題**，分布在 **27 篇筆記、117 個考點**。
+目前共整理 **367 次考題**，分布在 **28 篇筆記、118 個考點**。
 
 ## 最常考的考點
 
@@ -93,6 +93,7 @@ title: 內專考點總覽
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#WPW\|WPW]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 2 | 106、111 |
 | [[infectious-disease/covid-19-idsa/covid-exam#感染管制\|感染管制]] | [[infectious-disease/covid-19-idsa/covid-exam#🎯 內專考點\|⑦內專考點 Board Exam Review]] | 2 | 106、111 |
 | [[infectious-disease/pneumonia/pna-exam#診斷檢查\|診斷檢查]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 104、111 |
+| [[neurology/seizure-management#Generalized epilepsy syndromes\|Generalized epilepsy syndromes]] | [[neurology/seizure-management#🎯 內專考點\|癲癇發作的臨床處置 Seizure Management]] | 2 | 108、111 |
 | [[cardiology/heart-failure-esc-2026/hf26-exam#裝置與心肌病\|裝置與心肌病]] | [[cardiology/heart-failure-esc-2026/hf26-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 2 | 110 |
 | [[cardiology/atrial-fibrillation/af-exam#Cardioversion 前後的抗凝\|Cardioversion 前後的抗凝]] | [[cardiology/atrial-fibrillation/af-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 2 | 107、109 |
 | [[cardiology/dyslipidemia-esc/lipid-esc-exam#DM 的血脂與血壓目標\|DM 的血脂與血壓目標]] | [[cardiology/dyslipidemia-esc/lipid-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 2 | 108、109 |
@@ -894,6 +895,15 @@ title: 內專考點總覽
 - 106-86｜酗酒者高 AG 酸中毒，血糖 150
 - 107-95／109-94（同一題）｜第 1 型糖尿病的診斷條件
 
+## 神經科 Neurology
+
+### 癲癇發作的臨床處置 Seizure Management
+
+**[[neurology/seizure-management#Generalized epilepsy syndromes|Generalized epilepsy syndromes]]**（2 次）
+
+- 108-180｜上課發呆＋3 Hz spike-and-wave：哪個不是發作表現？
+- 111-147｜Juvenile myoclonic epilepsy：哪個敘述不正確？
+
 ## 還沒有內專考點的筆記
 
 - [[nephrology/hyponatremia|低血鈉 Hyponatremia]]（腎臟科 Nephrology）
@@ -921,5 +931,6 @@ title: 內專考點總覽
 - [[critical-care/ccu-orientation/ccu-6-arrhythmia|⑥CCU 心律不整 Arrhythmias in CCU]]（重症醫學 Critical Care）
 - [[critical-care/ccu-orientation/ccu-7-other|⑦其他 CCU 常見急症 Other CCU Emergencies]]（重症醫學 Critical Care）
 - [[critical-care/ccu-orientation/index|CCU 住院醫師 orientation（2026）CCU Orientation]]（重症醫學 Critical Care）
+- [[critical-care/icu-book/index|重症醫學教科書 The ICU Book]]（重症醫學 Critical Care）
 
 點開各考點即可跳到筆記裡的題目重點卡；原題與詳解請到 [內專刷題網站](http://imboard.dirty-wolf.com/) 依題號查詢。

@@ -151,6 +151,7 @@ Generalized seizure 典型是 **tonic-clonic activity、失去意識與 postural
 
 - [[cardiology/syncope/symptom-to-diagnosis/syncope-1-approach|① 診斷三步驟]]
 - [[cardiology/syncope/symptom-to-diagnosis/syncope-7-cases|⑦ 病例 3：吃晚餐時倒地、咬傷舌頭]]
+- [[neurology/seizure-management|癲癇發作的臨床處置（status epilepticus、first seizure）]]
 
 ## 參考資料
 
