@@ -16,7 +16,7 @@ tags:
 
 > [!abstract] 一句話重點
 > - **還在抽**：**==抽 ≥ 5 分鐘、或兩次發作之間意識沒恢復==**，就是 **status epilepticus（SE）**，馬上照時間軸處理
->   - 0 分鐘 ABC＋glucose → 0–15 分鐘 **benzodiazepine**（可再給一次）→ 15–30 分鐘 **non-sedating ASM loading**（levetiracetam／valproate／phenytoin 三選一，效果相當）→ 還在抽就**插管＋propofol／midazolam 持續輸注**進 ICU
+>   - **從發作開始計時**：0–5 分鐘 ABC＋glucose、把 BZD 備好 → **抽到 5 分鐘還沒停就給 benzodiazepine**（5–10 分鐘後還在抽再給一次）→ 15–30 分鐘 **non-sedating ASM loading**（levetiracetam／valproate／phenytoin 三選一，效果相當）→ 還在抽就**插管＋propofol／midazolam 持續輸注**進 ICU
 > - **抽完了（first seizure）**：先確定是 seizure 不是 syncope／PNES → **==每個人都做 12-lead ECG==**、抽電解質、**做腦部影像**、**盡早做 EEG（24 小時內陽性率較高）**
 > - 單次 unprovoked seizure **通常不急著開藥**；EEG 異常、神經學異常或已發作 ≥ 2 次 → 復發風險高才開始 ASM
 > - 🆕 選藥（NICE NG217 現行版）：generalized tonic–clonic 可選 lamotrigine、levetiracetam 或 valproate；focal 選 lamotrigine 或 levetiracetam；**==valproate 不要新開給 < 55 歲的病人==**（MHRA，除非兩位專科醫師都同意沒有別的藥可用）
@@ -33,14 +33,16 @@ tags:
 </div>
 
 <div class="oc-rx">
-<div class="oc-rxh">⏱ Convulsive SE 時間軸：Stage 1–5（JICS 2025 Figure 1、Appendix 1；依原圖內容重新繪製）</div>
-<div class="oc-rr"><div class="oc-k k-r">1</div><div class="oc-if"><b>0 分鐘｜穩定病人</b><br/>病房／急診</div><div class="oc-drug">打開 airway（可放 oral／nasal airway）、<b>O2 15 L/min NRM</b>｜建立 <b>IV 或 IO</b>，抽 ABG 與血液檢查｜<b>glucose &lt; 4 mmol/L（約 72 mg/dL）就矯正</b></div></div>
-<div class="oc-rr"><div class="oc-k k-o">2</div><div class="oc-if"><b>0–15 分鐘｜Benzodiazepine</b></div><div class="oc-drug"><b>有 IV</b>：<b>lorazepam 0.1 mg/kg IV/IO，最多 4 mg</b>（&gt; 70 歲或 &lt; 50 kg 分次給 1–2 mg）；替代：midazolam 10 mg 或 diazepam 10 mg IV/IO<br/><b>沒 IV</b>：<b>buccal midazolam 10 mg</b>（&lt; 50 kg 給 5 mg）；替代：diazepam 10 mg PR<br/>等 5 分鐘，還在抽 → <b>5–10 分鐘後再給一次</b>｜注意呼吸抑制｜原本的 ASM 照吃｜酒精、營養不良 → <b>IV thiamine</b></div></div>
+<div class="oc-rxh">⏱ Convulsive SE 時間軸：Stage 1–5（JICS 2025 Figure 1、Appendix 1；依原圖內容重新繪製，時間從「發作開始」算，見下方 ⏰）</div>
+<div class="oc-rr"><div class="oc-k k-r">1</div><div class="oc-if"><b>0–5 分鐘｜穩定病人、計時</b><br/>病房／急診</div><div class="oc-drug"><b>先看錶記下開始抽的時間</b>｜側躺、防撞，打開 airway（可放 oral／nasal airway）、<b>O2 15 L/min NRM</b>｜建立 <b>IV 或 IO</b>，抽 ABG 與血液檢查｜<b>glucose &lt; 4 mmol/L（約 72 mg/dL）就矯正</b>｜<b>把 BZD 抽好放手邊</b>：多數 GTCS 1–3 分鐘會自己停</div></div>
+<div class="oc-rr"><div class="oc-k k-o">2</div><div class="oc-if"><b>抽滿 5 分鐘（SE 成立）→ 立刻給 Benzodiazepine</b><br/>原圖：0–15 分鐘階段</div><div class="oc-drug"><b>有 IV</b>：<b>lorazepam 0.1 mg/kg IV/IO，最多 4 mg</b>（&gt; 70 歲或 &lt; 50 kg 分次給 1–2 mg）；替代：midazolam 10 mg 或 diazepam 10 mg IV/IO<br/><b>沒 IV</b>：<b>buccal midazolam 10 mg</b>（&lt; 50 kg 給 5 mg）；替代：diazepam 10 mg PR<br/>等 5 分鐘，還在抽 → <b>5–10 分鐘後再給一次</b>｜注意呼吸抑制｜原本的 ASM 照吃｜酒精、營養不良 → <b>IV thiamine</b></div></div>
 <div class="oc-rr"><div class="oc-k k-a">3</div><div class="oc-if"><b>15–30 分鐘｜Non-sedating ASM</b><br/>找 ICU 資深醫師</div><div class="oc-drug">三選一（<b>效果與安全性沒差</b>，依病人選）：<br/><b>Levetiracetam 60 mg/kg</b>（max 4500 mg）10 分鐘｜<b>Valproate 40 mg/kg</b>（max 3000 mg）10 分鐘｜<b>Phenytoin 20 mg/kg</b>（max 2000 mg）30–40 分鐘，<b>≤ 50 mg/min</b><br/>第一個藥打完還在抽 → <b>RSI 插管、轉 ICU</b>，再給<b>第二個</b>不同的藥</div></div>
 <div class="oc-rr"><div class="oc-k k-g">4</div><div class="oc-if"><b>30–60 分鐘｜Refractory SE</b><br/>ICU</div><div class="oc-drug">插管後持續輸注 <b>propofol ≤ 4 mg/kg/h</b> 和／或 <b>midazolam</b> 0.1–0.2 mg/kg bolus → 0.05–0.5 mg/kg/h｜照會神經科｜<b>能做就上 cEEG</b>，控制後至少再監測 24 小時</div></div>
 <div class="oc-rr"><div class="oc-k k-b">5</div><div class="oc-if"><b>&gt; 60 分鐘｜Super-refractory</b><br/>ICU＋神經科共同決定</div><div class="oc-drug">① propofol 加到最多 4 mg/kg/h → ② 加 midazolam → ③ 加 <b>lacosamide 200 mg IV</b>，12 小時後 100 mg BID → ④ 加 <b>thiopentone</b> 3–5 mg/kg bolus → 3–5 mg/kg/h｜和醫學中心神經重症討論轉院</div></div>
 <div class="oc-rf"><b>不要</b>：用 opioid bolus 鎮靜止抽（會降低癲癇閾值）｜用 BIS 取代 EEG（會漏掉 focal seizure）｜鎮靜藥太快減量｜還沒上好維持劑量的 ASM 就停麻醉藥</div>
 </div>
+
+<div class="oc-card"><div class="oc-ct">⏰ 時間怎麼算？什麼時候打 BZD？</div><b>從發作開始計時</b>，不是從你到床邊才算（AES 2016：0–5 分鐘穩定期、<b>5–20 分鐘給 BZD</b>）｜<b>&lt; 5 分鐘</b>：多數會自己停 → 穩定、計時、BZD 備好，<b>不是不管它</b>｜<b>抽到 5 分鐘還沒停 → 馬上給，不要再等</b>｜以下情況<b>到場就直接給</b>：不知道抽多久了、到場時已經在抽一段時間、一次接一次之間<b>意識沒恢復</b>（這本身就符合 SE）｜第一劑後 <b>5–10 分鐘</b>還在抽 → 第二劑｜JICS 原圖把 BZD 放在「0–15 分鐘」階段，沒寫 0 分鐘從何算起；這裡依 SE 定義與 AES 2016 補清楚</div>
 
 <div class="oc-q"><span class="oc-n">2</span><div><span class="oc-qt">真的是 seizure 嗎？</span><small>問目擊者：前驅症狀、眼睛張開或閉著、持續多久、醒來多快</small></div></div>
 <div class="oc-split three">
@@ -107,7 +109,13 @@ tags:
 
 <div class="orig-fig" data-src="神經科/seizure-originals/se-appendix-01-p1.png,神經科/seizure-originals/se-appendix-01-p2.png" data-label="Appendix 1"></div>
 
-### Stage 2：Benzodiazepine（0–15 分鐘）
+### Stage 2：Benzodiazepine（抽滿 5 分鐘就給；原圖 0–15 分鐘階段）
+
+> [!important] 什麼時候給 BZD？
+> - 時間**從發作開始**算：抽 **< 5 分鐘**，多數 GTCS（通常 1–3 分鐘）會自己停 → 先穩定、計時、**BZD 抽好備著**
+> - **抽到 5 分鐘還沒停 → 立刻給**，這時已經是 SE，不要再觀察
+> - **到場就直接給**：不知道已經抽多久、到場時已持續抽一段時間、反覆發作之間意識沒恢復
+> - AES 2016 同樣把 0–5 分鐘定為穩定期、5–20 分鐘給 benzodiazepine
 
 | | 有 IV／IO | 沒有 IV |
 | --- | --- | --- |
@@ -601,6 +609,7 @@ tags:
 - Mullhi R, Hayton T, Midgley-Hunt A, Trimble M, Chaudhary UJ, Samarasekera S, France J, Veenith T. Guidance for: The acute management of status epilepticus in adult patients. *J Intensive Care Soc*. 2025;26(2):249–262. doi:10.1177/17511437251321338.（Figure 1、Appendix 1–4）參考資料庫：`神經科/The acute management of status epilepticus in adult patients.pdf`
 - Smith PEM. Initial management of seizure in adults. *N Engl J Med*. 2021;385(3):251–263. doi:10.1056/NEJMcp2024526.（Table 1–4）參考資料庫：`神經科/NEJM 2021 SEIZURE.pdf`
 - Kapur J, Elm J, Chamberlain JM, et al. Randomized trial of three anticonvulsant medications for status epilepticus（ESETT）. *N Engl J Med*. 2019;381:2103–2113.（JICS 2025 劑量出處）
+- Glauser T, Shinnar S, Gloss D, et al. Evidence-based guideline: treatment of convulsive status epilepticus in children and adults: report of the Guideline Committee of the American Epilepsy Society. *Epilepsy Curr*. 2016;16(1):48–61.（時間分期：0–5 分鐘穩定期、5–20 分鐘 benzodiazepine）
 - 🆕 National Institute for Health and Care Excellence. Epilepsies in children, young people and adults（NG217）. 2022，現行版（含 2025 年選藥更新與 MHRA valproate 安全規定）。
 - 🆕 Beniczky S, Trinka E, Wirrell E, et al. Updated classification of epileptic seizures: position paper of the International League Against Epilepsy. *Epilepsia*. 2025;66(6):1804–1823. doi:10.1111/epi.18338.
 - 內專考點：[內專刷題網站](http://imboard.dirty-wolf.com/) 108-180、111-147。
