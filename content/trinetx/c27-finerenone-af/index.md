@@ -87,6 +87,7 @@ cssclasses:
 
 ## 建議的準備順序
 
+0. 先讀方法學總整理：[[trinetx/target-trial-emulation|目標試驗模擬 Target Trial Emulation]]（四篇核心文獻揉合，最後一節直接套回 C27）
 1. 先看上面「30 秒講完這篇」，能用自己的話講出來
 2. 讀 ①，試著寫 Introduction：已知什麼、還不知道什麼、這篇要做什麼
 3. 讀 ②，試著寫 Methods；先填 Table S2（target trial 規格），它就是 Methods 的骨架

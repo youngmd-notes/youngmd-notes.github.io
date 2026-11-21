@@ -169,6 +169,7 @@ tags:
 ## 相關筆記
 
 - [[trinetx/c27-finerenone-af/index|C27 總覽]]
+- [[trinetx/target-trial-emulation|目標試驗模擬 Target Trial Emulation（方法學）]]
 - [[trinetx/c27-finerenone-af/c27-1-idea|① 研究發想]]
 - [[trinetx/c27-finerenone-af/c27-2-design|② 收案與分析]]
 - [[trinetx/c27-finerenone-af/c27-3-results|③ 讀懂主文圖表]]
