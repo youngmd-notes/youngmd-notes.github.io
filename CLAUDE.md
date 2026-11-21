@@ -29,6 +29,7 @@ Young 會用自然語言下指令（例如「新增一篇 SIADH 筆記」），�
 | `critical-care` | 重症醫學 |
 | `pharmacology` | 藥物 |
 | `teaching` | 教學資源 |
+| `trinetx` | TriNetX 研究（競賽準備、研究設計） |
 | `nejm-cases` | NEJM 個案分享（獨立專區，見下方） |
 | `pocket-medicine` | 小麻 Pocket Medicine（獨立專區，依原書逐章整理） |
 
