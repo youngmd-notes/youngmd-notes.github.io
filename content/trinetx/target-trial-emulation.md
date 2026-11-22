@@ -282,6 +282,7 @@ Hernán 2025 把 protocol 分成三層（比 2016 版更清楚）：
 
 > [!example] 每一項都可以拿來回答評審
 > 下表把上面的概念對應到 [[trinetx/c27-finerenone-af/index|C27（finerenone vs spironolactone）]] 的實際做法。
+> 📖 **逐項詳細版**（含漏洞分析與給指導老師的問題）：[[trinetx/c27-finerenone-af/c27-6-tte-check|⑥ 用 Target Trial 的眼光逐項檢查 C27]]
 
 | TTE 概念 | C27 怎麼做 | 評價 |
 | --- | --- | --- |

@@ -174,6 +174,7 @@ tags:
 - [[trinetx/c27-finerenone-af/c27-2-design|② 收案與分析]]
 - [[trinetx/c27-finerenone-af/c27-3-results|③ 讀懂主文圖表]]
 - [[trinetx/c27-finerenone-af/c27-4-supplement|④ 補充資料]]
+- [[trinetx/c27-finerenone-af/c27-6-tte-check|⑥ 用 Target Trial 的眼光逐項檢查]]
 
 ## 參考資料
 

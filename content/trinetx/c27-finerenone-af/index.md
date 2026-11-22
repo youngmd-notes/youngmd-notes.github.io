@@ -83,6 +83,10 @@ cssclasses:
 <div class="af-num">⑤</div>
 <div class="af-body"><div class="af-title">故事線、Discussion 與上台準備</div><div class="af-desc">圖表怎麼串成一個故事、Discussion 架構、limitations、<b>評審可能問的問題</b>、名詞小抄</div><div class="af-cover">資料包第五、六部分</div></div>
 </a>
+<a class="af-card internal" href="/trinetx/c27-finerenone-af/c27-6-tte-check">
+<div class="af-num">⑥</div>
+<div class="af-body"><div class="af-title">用 Target Trial 的眼光逐項檢查（討論用）</div><div class="af-desc">16 個方法學檢查點：TTE 要求 → C27 怎麼做 → 做到的 → 漏洞 → 問老師；附<b>討論問題清單</b></div><div class="af-cover">對照 TARGET 與 Hernán 2016／2022／2025</div></div>
+</a>
 </div>
 
 ## 建議的準備順序
