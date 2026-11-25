@@ -63,8 +63,9 @@ tags:
 <div class="oc-box a"><span class="oc-ans">Moderately severe</span><br/>Organ failure <b>&lt; 48 h 內恢復</b>，或有局部／全身併發症</div>
 <div class="oc-box r"><span class="oc-ans">Severe → ICU</span><br/>Organ failure <b>持續 &gt; 48 h</b><br/>死亡率約 20%</div>
 </div>
-<div class="oc-card"><div class="oc-ct">🫀 Organ failure 怎麼看（Modified Marshall，任一系統 ≥ 2 分）</div><b>呼吸</b>：PaO₂/FiO₂ ≤ 300｜<b>腎</b>：Cr ≥ 1.9 mg/dL｜<b>循環</b>：SBP &lt; 90 mmHg 且<b>輸液沒反應</b></div>
-<div class="oc-card"><div class="oc-ct">⚠️ 入院時還沒 organ failure，誰比較會變嚴重？</div><b>BUN 是最好用的單一指標</b>：入院 BUN &gt; 20 mg/dL，或 24 h 內<b>還在上升</b> → 死亡風險上升｜<b>BISAP ≥ 3</b>（24 h 內能算：BUN &gt; 25、意識改變、SIRS、age &gt; 60、pleural effusion）→ 要警覺；但<b>低分不能放心</b>（敏感度只有約 50%）｜持續 SIRS、老人、共病多 → 放低門檻、密切追蹤</div>
+<div class="oc-card"><div class="oc-ct">🎯 每個 score 是拿來做什麼的？</div><b>Revised Atlanta</b>＝<b>分級</b>（mild／moderately severe／severe），要等 48 h 才分得出來｜<b>Modified Marshall</b>＝判斷<b>「現在」有沒有 organ failure</b>，Atlanta 分級靠它｜<b>BISAP</b>＝入院 24 h 內<b>預測「之後」會不會變嚴重、會不會死</b>，用來決定誰要盯緊｜<b>JSS</b>（日本）＝判斷 severe → 決定<b>要不要轉院</b>｜<b>APACHE II、Ranson</b>＝也是預測預後，值班少用｜<b>CECT（CT grade）</b>＝看 <b>necrosis 範圍</b>，72 h 後才準</div>
+<div class="oc-card"><div class="oc-ct">🫀 Modified Marshall｜目的：判斷現在有沒有 organ failure（任一系統 ≥ 2 分）</div><b>呼吸</b>：PaO₂/FiO₂ ≤ 300｜<b>腎</b>：Cr ≥ 1.9 mg/dL｜<b>循環</b>：SBP &lt; 90 mmHg 且<b>輸液沒反應</b></div>
+<div class="oc-card"><div class="oc-ct">⚠️ 入院時還沒 organ failure，誰比較會變嚴重？</div><b>BUN 是最好用的單一指標</b>：入院 BUN &gt; 20 mg/dL，或 24 h 內<b>還在上升</b> → 死亡風險上升｜<b>BISAP ≥ 3</b>（目的：早期預測；24 h 內能算：BUN &gt; 25、意識改變、SIRS、age &gt; 60、pleural effusion）→ 要警覺；但<b>低分不能放心</b>（敏感度只有約 50%）｜持續 SIRS、老人、共病多 → 放低門檻、密切追蹤</div>
 
 <div class="oc-q"><span class="oc-n">4</span><div><span class="oc-qt">病因？只有幾個會改變處置</span><small>第一優先：是不是 gallstone</small></div></div>
 <div class="oc-split three">
@@ -230,7 +231,21 @@ tags:
 > [!important] 值班只要記一件事
 > **嚴重度＝organ failure**：沒有＝mild；**< 48 h 恢復**＝moderately severe；**持續 > 48 h＝severe**。各種評分只是用來**預測**誰會走到 organ failure，**不能取代臨床判斷**。
 
-### 分級：Revised Atlanta 2012
+### 每個 score 的目的一覽
+
+| Score | 目的 | 什麼時候用 | 值班怎麼用 |
+| --- | --- | --- | --- |
+| **Revised Atlanta** | **分級／定義嚴重度**（mild、moderately severe、severe） | 要等 **48 h** 才能確定 | 事後定義；決定病程與預後的「標準答案」 |
+| **Modified Marshall** | 判斷**現在有沒有 organ failure**（Atlanta 分級的依據） | 每天、狀況變化時 | **任一系統 ≥ 2 → 進 ICU 的門檻** |
+| **BISAP** | **早期預測**會不會變嚴重、死亡 | 入院 **24 h 內** | **≥ 3 → 盯緊**；低分不能放心 |
+| **BUN（單一指標）** | 早期預測死亡 | 入院時、24 h 內追蹤 | **> 20 或還在上升 → 警覺**，也是輸液反應的指標 |
+| **APACHE II** | 通用重症預後評分（非 AP 專用） | 24 h 內，ICU 病人 | ICU 才算，病房少用 |
+| **Ranson** | AP 專用預後預測 | 要等 **48 h** | 太慢，現在主要是考試在考 |
+| **CRP** | 預測 severe（輔助） | 48 h 內 | PPV 低，不單獨用 |
+| **JSS**（JPN 2015） | **判斷 severe → 決定轉院**、bundle 處置 | 確診時、24 h、48 h | 日本指引系統；需 CT grade |
+| **CECT（CT grade、CTSI）** | 看 **necrosis 範圍**與局部併發症 | 發病 **72 h 後**（4–10 天最準） | 不是早期嚴重度工具 |
+
+### 分級：Revised Atlanta 2012｜目的：定義嚴重度
 
 <div class="orig-fig" data-src="腸胃肝膽科/ap-jama2021-originals/jama2021-box-2.png" data-label="JAMA 2021 Box 2"></div>
 
@@ -243,7 +258,7 @@ tags:
 - 何時評估：**確診當下就評估，之後反覆評估，特別是 48 h 內** (1C)；Atlanta 建議入院 24 h、48 h、7 天各重評一次
 - 入院時 mild **不代表** 48 h 後還是 mild
 
-### Organ failure：Modified Marshall〔JAMA 2021 Table 1〕
+### Organ failure：Modified Marshall〔JAMA 2021 Table 1〕｜目的：判斷現在有沒有 organ failure
 
 <div class="orig-fig" data-src="腸胃肝膽科/ap-jama2021-originals/jama2021-table-1.png" data-label="JAMA 2021 Table 1"></div>
 
@@ -257,7 +272,7 @@ tags:
 
 - 沒插管的病人估 FiO₂：room air 21%、2 L/min 25%、4 L/min 30%、6–8 L/min 40%、9–10 L/min 50%
 
-### 預測誰會變嚴重：BUN 和 BISAP 就夠用
+### 預測誰會變嚴重：BUN 和 BISAP 就夠用｜目的：入院早期預測
 
 - **==BUN 是最好用的單一指標==**〔JAMA 2021〕：入院 BUN > 20 mg/dL 死亡 OR 4.6；24 h 內 BUN **上升**死亡 OR 4.3；每升 5 mg/dL OR 2.2
 - **BISAP**（24 h 內可算，各 1 分）：**B**UN > 25、**I**mpaired mental status、**S**IRS、**A**ge > 60、**P**leural effusion
@@ -266,7 +281,7 @@ tags:
 - **CRP**：48 h 內 ≥ 190 mg/L（19 mg/dL），預測 severe 的 PPV 只有約 30%
 - **CT 不適合早期評估**：發病 **< 72 h** 的 CECT 會低估或分錯嚴重度
 
-### 評分工具對照（查表用）
+### 預後評分對照：BISAP、APACHE II、Ranson（查表用）｜目的：預測嚴重度與死亡
 
 <div class="orig-fig" data-src="腸胃肝膽科/ap-jama2021-originals/jama2021-table-2.png" data-label="JAMA 2021 Table 2"></div>
 
@@ -280,7 +295,7 @@ tags:
 | 預測死亡 AUC | 0.87 | 0.83 | 0.92 |
 | 優缺點 | 簡單、AP 專用；敏感度低 | 完整；非 AP 專用、非 ICU 病人資料不齊 | AP 專用；要等 48 h |
 
-### 原書的 JPN Severity Score（JSS）
+### 原書的 JPN Severity Score（JSS）｜目的：判斷 severe → 決定轉院
 
 JPN 2015 用 JSS 判斷 severe，並據此決定**轉院**（CQ8–11）：比較研究中 **JSS 與 BISAP 預測 organ failure 最好** (1B)。
 
@@ -401,7 +416,7 @@ flowchart TB
 
 ## ⑥ 72 h 後：necrosis、感染、ACS
 
-### CECT 的時機（CQ10）
+### CECT 的時機（CQ10）｜目的：看 necrosis 範圍，不是早期嚴重度
 
 - 在能治療 severe AP 的醫院，CECT 用來找 **poorly enhanced area（necrosis）** 與併發症 (2B)；判斷 necrosis 範圍**一定要 CECT**
 - **發病 4–10 天**做 CECT，判斷 necrotizing pancreatitis 準確度接近 100%
