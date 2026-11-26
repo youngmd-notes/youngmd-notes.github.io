@@ -6,7 +6,7 @@ title: 內專考點總覽
 > 這頁會**自動彙整**所有筆記裡的「🎯 內專考點」，每次網站更新時重新產生，不需要手動編輯。
 > 「考過次數」把重複出現的同一題分開計算（例如 106-132／108-94 算 2 次），越多次代表越常考。
 
-目前共整理 **380 次考題**，分布在 **29 篇筆記、123 個考點**。
+目前共整理 **398 次考題**，分布在 **30 篇筆記、129 個考點**。
 
 ## 最常考的考點
 
@@ -30,6 +30,8 @@ title: 內專考點總覽
 | [[cardiology/pulmonary-embolism-esc/pe-esc-exam#治療\|治療]] | [[cardiology/pulmonary-embolism-esc/pe-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 5 | 104、106、110、112、114 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#有症狀膽結石與膽囊疾病\|有症狀膽結石與膽囊疾病]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 5 | 105、107、113、114 |
 | [[nephrology/nephrotic-syndrome#Membranous nephropathy：anti-PLA2R 與治療時機\|Membranous nephropathy：anti-PLA2R 與治療時機]] | [[nephrology/nephrotic-syndrome#🎯 內專考點\|腎病症候群 Nephrotic Syndrome]] | 5 | 104、108、110、112、113 |
+| [[cardiology/ventricular-arrhythmia-esc-2022/va22-exam#寬 QRS 心搏過速與 VT 的判讀\|寬 QRS 心搏過速與 VT 的判讀]] | [[cardiology/ventricular-arrhythmia-esc-2022/va22-exam#🎯 內專考點\|⑥內專考點 Board Exam Review（心室心律不整與猝死）]] | 5 | 104、108、109、112、113 |
+| [[cardiology/ventricular-arrhythmia-esc-2022/va22-exam#猝死流行病學、ECG 風險與急救\|猝死流行病學、ECG 風險與急救]] | [[cardiology/ventricular-arrhythmia-esc-2022/va22-exam#🎯 內專考點\|⑥內專考點 Board Exam Review（心室心律不整與猝死）]] | 5 | 106、111、112、113 |
 | [[infectious-disease/influenza-idsa/flu-exam#流感疫苗\|流感疫苗]] | [[infectious-disease/influenza-idsa/flu-exam#🎯 內專考點\|⑤內專考點 Board Exam Review]] | 5 | 107、108、109、113 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#肝指數型態判讀\|肝指數型態判讀]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 5 | 105、109、110、113 |
 | [[cardiology/pulmonary-embolism-esc/pe-esc-exam#從情境認出 PE\|從情境認出 PE]] | [[cardiology/pulmonary-embolism-esc/pe-esc-exam#🎯 內專考點\|⑧內專考點 Board Exam Points]] | 5 | 107、108、110 |
@@ -66,6 +68,7 @@ title: 內專考點總覽
 | [[infectious-disease/pneumonia/pna-exam#重症 CAP 族群與治療\|重症 CAP 族群與治療]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 104、108、112 |
 | [[gastroenterology/acute-pancreatitis#慢性胰臟炎與 autoimmune pancreatitis\|慢性胰臟炎與 autoimmune pancreatitis]] | [[gastroenterology/acute-pancreatitis#🎯 內專考點\|急性胰臟炎 Acute Pancreatitis]] | 3 | 106、111、112 |
 | [[endocrinology/dka-hhs#酸鹼與電解質\|酸鹼與電解質]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 3 | 110、112 |
+| [[cardiology/ventricular-arrhythmia-esc-2022/va22-exam#Channelopathy 與心肌病變\|Channelopathy 與心肌病變]] | [[cardiology/ventricular-arrhythmia-esc-2022/va22-exam#🎯 內專考點\|⑥內專考點 Board Exam Review（心室心律不整與猝死）]] | 3 | 105、108、111 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#藥物性肝損傷（DILI）與 liver biopsy\|藥物性肝損傷（DILI）與 liver biopsy]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 3 | 104、111 |
 | [[gastroenterology/upper-gi-bleeding-acg/ugib-exam#消化性潰瘍的藥物因素\|消化性潰瘍的藥物因素]] | [[gastroenterology/upper-gi-bleeding-acg/ugib-exam#🎯 內專考點\|③內專考點 Board Exam Review]] | 3 | 105、111 |
 | [[infectious-disease/covid-19-idsa/covid-exam#COVID-19 臨床與病理\|COVID-19 臨床與病理]] | [[infectious-disease/covid-19-idsa/covid-exam#🎯 內專考點\|⑦內專考點 Board Exam Review]] | 3 | 109、110 |
@@ -77,6 +80,7 @@ title: 內專考點總覽
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#HCM：猝死危險因子\|HCM：猝死危險因子]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 3 | 104、108、109 |
 | [[endocrinology/dka-hhs#鑑別診斷\|鑑別診斷]] | [[endocrinology/dka-hhs#🎯 內專考點\|糖尿病酮酸中毒與高血糖高滲透壓狀態 DKA & HHS]] | 3 | 106、107、109 |
 | [[nephrology/nephrotic-syndrome#高凝血狀態與 renal vein thrombosis\|高凝血狀態與 renal vein thrombosis]] | [[nephrology/nephrotic-syndrome#🎯 內專考點\|腎病症候群 Nephrotic Syndrome]] | 3 | 104、105、108 |
+| [[cardiology/ventricular-arrhythmia-esc-2022/va22-exam#ICD 的適應症與時機\|ICD 的適應症與時機]] | [[cardiology/ventricular-arrhythmia-esc-2022/va22-exam#🎯 內專考點\|⑥內專考點 Board Exam Review（心室心律不整與猝死）]] | 3 | 107、108 |
 | [[nephrology/renal-tubular-acidosis#鑑別：低血鉀但是鹼中毒\|鑑別：低血鉀但是鹼中毒]] | [[nephrology/renal-tubular-acidosis#🎯 內專考點\|腎小管酸中毒 Renal Tubular Acidosis]] | 2 | 104、114 |
 | [[nephrology/therapeutic-plasma-exchange#Myasthenia gravis crisis\|Myasthenia gravis crisis]] | [[nephrology/therapeutic-plasma-exchange#🎯 內專考點\|治療性血漿置換 Therapeutic Plasma Exchange]] | 2 | 110、114 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#HCM：型態與 murmur 動態變化\|HCM：型態與 murmur 動態變化]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 2 | 111、114 |
@@ -130,9 +134,11 @@ title: 內專考點總覽
 | [[infectious-disease/pneumonia/pna-exam#疫苗\|疫苗]] | [[infectious-disease/pneumonia/pna-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 1 | 108 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#Cholecystitis 的影像\|Cholecystitis 的影像]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 1 | 108 |
 | [[nephrology/therapeutic-plasma-exchange#TTP：TPE 是救命治療\|TTP：TPE 是救命治療]] | [[nephrology/therapeutic-plasma-exchange#🎯 內專考點\|治療性血漿置換 Therapeutic Plasma Exchange]] | 1 | 107 |
+| [[cardiology/ventricular-arrhythmia-esc-2022/va22-exam#Electrical storm\|Electrical storm]] | [[cardiology/ventricular-arrhythmia-esc-2022/va22-exam#🎯 內專考點\|⑥內專考點 Board Exam Review（心室心律不整與猝死）]] | 1 | 107 |
 | [[gastroenterology/acute-biliary-infection/tg18-exam#Cholangitis：引流＋抗生素\|Cholangitis：引流＋抗生素]] | [[gastroenterology/acute-biliary-infection/tg18-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 1 | 107 |
 | [[nephrology/high-anion-gap-metabolic-acidosis#Toxic alcohol 與 osmolal gap\|Toxic alcohol 與 osmolal gap]] | [[nephrology/high-anion-gap-metabolic-acidosis#🎯 內專考點\|高陰離子間隙代謝性酸中毒 High Anion Gap Metabolic Acidosis]] | 1 | 106 |
 | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#Syncope vs seizure 的病史鑑別\|Syncope vs seizure 的病史鑑別]] | [[cardiology/syncope/symptom-to-diagnosis/syncope-exam#🎯 內專考點\|⑧內專考點 Board Exam Review]] | 1 | 106 |
+| [[cardiology/ventricular-arrhythmia-esc-2022/va22-exam#MI 後的心室心律不整\|MI 後的心室心律不整]] | [[cardiology/ventricular-arrhythmia-esc-2022/va22-exam#🎯 內專考點\|⑥內專考點 Board Exam Review（心室心律不整與猝死）]] | 1 | 106 |
 | [[gastroenterology/abnormal-liver-tests/liver-exam#胰臟癌造成的阻塞性黃疸\|胰臟癌造成的阻塞性黃疸]] | [[gastroenterology/abnormal-liver-tests/liver-exam#🎯 內專考點\|⑥內專考點 Board Exam Review]] | 1 | 106 |
 | [[nephrology/skin-disorders-in-kidney-disease#血管鈣化與 calciphylaxis 的藥物\|血管鈣化與 calciphylaxis 的藥物]] | [[nephrology/skin-disorders-in-kidney-disease#🎯 內專考點\|腎臟病的皮膚疾病 Skin Disorders in Kidney Disease]] | 1 | 104 |
 
@@ -549,6 +555,44 @@ title: 內專考點總覽
 
 - 106-017｜30 歲男性，平時 ECG 與心悸時 ECG：哪些敘述錯誤？
 - 111-010｜已知 WPW，突發 AF 心跳 180、血壓穩定：怎麼處理？
+
+### ⑥內專考點 Board Exam Review（心室心律不整與猝死）
+
+**[[cardiology/ventricular-arrhythmia-esc-2022/va22-exam#寬 QRS 心搏過速與 VT 的判讀|寬 QRS 心搏過速與 VT 的判讀]]**（5 次）
+
+- 108-022｜CABG 後的寬 QRS 心搏過速：何者錯誤？
+- 113-014｜HR 160、LBBB 型、規則、lead II 有 fusion beat 的診斷
+- 109-005｜VT 的診斷與治療：何者不正確？
+- 104-011｜反覆暈厥的中年女性，ECG 為 LBBB＋inferior axis 的單形 VT
+- 112-001｜年輕男性 RBBB＋superior axis 的 VT，adenosine 無效
+
+**[[cardiology/ventricular-arrhythmia-esc-2022/va22-exam#猝死流行病學、ECG 風險與急救|猝死流行病學、ECG 風險與急救]]**（5 次）
+
+- 106-001｜急診中病人突然 VF，你獨自在現場：第一步？
+- 111-008｜猝死的觀念：何者不正確？
+- 113-006｜猝死的新知：哪一組正確？
+- 112-015｜車禍到院無脈搏、監視器有規則窄 QRS
+- 106-003｜ECG 發現的心律不整意義：哪一組正確？
+
+**[[cardiology/ventricular-arrhythmia-esc-2022/va22-exam#MI 後的心室心律不整|MI 後的心室心律不整]]**（1 次）
+
+- 106-022｜急性 MI 後的心室心律不整：何者錯誤？
+
+**[[cardiology/ventricular-arrhythmia-esc-2022/va22-exam#ICD 的適應症與時機|ICD 的適應症與時機]]**（3 次）
+
+- 107-002｜ICD primary prevention：何者不符合實證？
+- 108-003｜心臟猝死與 ICD：何者錯誤？
+- 107-018｜MI 後 LVEF 25%、OHCA 存活、CMR 心內膜下疤痕：何者不正確？
+
+**[[cardiology/ventricular-arrhythmia-esc-2022/va22-exam#Electrical storm|Electrical storm]]**（1 次）
+
+- 107-006｜電風暴的處置：何者不需要？
+
+**[[cardiology/ventricular-arrhythmia-esc-2022/va22-exam#Channelopathy 與心肌病變|Channelopathy 與心肌病變]]**（3 次）
+
+- 105-016｜25 歲男性暈厥，V1–V3 coved ST 上升：何者錯誤？
+- 111-004｜年輕男性夜間瀕死呼吸、抽搐，K 2.8，ECG 動態 V1–V2 coved ST
+- 108-004｜67 歲 OHCA、冠狀動脈正常、心尖雜音、中隔 3.3 cm
 
 ## 胸腔科 Pulmonology
 

@@ -170,6 +170,7 @@ cssclasses:
 
 ## 相關筆記
 
+- [[cardiology/ventricular-arrhythmia-esc-2022/index|心室心律不整與猝死預防 VA & SCD（ESC 2022）]]
 - [[critical-care/ccu-orientation/index|CCU 住院醫師 orientation]]（CCU 值班實務：ROSC 後導管時機、體溫控制、ECPR）
 - [[cardiology/atrial-fibrillation/index|心房顫動 AF（ESC 2024）]]
 - [[cardiology/pulmonary-embolism-esc/index|肺栓塞 PE（ESC 2019）]]

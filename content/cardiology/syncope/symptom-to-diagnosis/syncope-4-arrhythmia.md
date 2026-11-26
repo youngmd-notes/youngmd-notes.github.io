@@ -327,6 +327,7 @@ AV node、His bundle 或 bundle branches 的傳導異常，可以是**間歇或�
 
 ## 相關筆記
 
+- [[cardiology/ventricular-arrhythmia-esc-2022/index|心室心律不整與猝死預防 VA & SCD（ESC 2022）]]
 - [[cardiology/syncope/symptom-to-diagnosis/syncope-1-approach|① 診斷三步驟]]（EPS、monitoring 的工具與 yield）
 - [[cardiology/syncope/symptom-to-diagnosis/syncope-5-structural|⑤ Structural cardiac syncope]]（HCM 的 VT 與 ICD）
 - [[cardiology/syncope/symptom-to-diagnosis/syncope-7-cases|⑦ 病例 2：舊 MI＋坐著昏倒 → VT]]

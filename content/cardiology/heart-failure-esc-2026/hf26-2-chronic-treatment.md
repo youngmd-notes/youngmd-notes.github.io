@@ -154,6 +154,7 @@ flowchart TD
 
 ## 相關筆記
 
+- [[cardiology/ventricular-arrhythmia-esc-2022/index|心室心律不整與猝死預防 VA & SCD（ESC 2022）]]
 - [[cardiology/heart-failure-esc-2026/hf26-1-definition-diagnosis|① 定義與診斷]]
 - [[cardiology/heart-failure-esc-2026/hf26-3-decompensated|③ Decompensated HF]]（住院中開始 SGLT2-I、出院前快速調藥）
 - [[cardiology/heart-failure-esc-2026/hf26-4-advanced-comorbidities|④ 共病]]（AF、iron、肥胖）
