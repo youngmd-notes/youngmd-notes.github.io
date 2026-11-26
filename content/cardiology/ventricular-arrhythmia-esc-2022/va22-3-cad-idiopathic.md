@@ -17,12 +17,26 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> - **STEMI 的 VA**：**緊急再灌流最重要** → 反覆 PVT／VF：**IV beta-blocker（I B）** → **IV amiodarone（IIa C，2015 是 I）** → lidocaine（IIb）；**==預防性 AAD（beta-blocker 以外）不建議（III B）==**
-> - **MI 後**：出院前測 LVEF（I）；**LVEF ≤ 40% → 6–12 週後再測（I）**決定 ICD；**MI 40 天內不放 primary prevention ICD**
-> - **Chronic CAD primary prevention ICD**：**LVEF ≤ 35%＋NYHA II–III（OMT ≥ 3 個月）→ I A**；NYHA I＋LVEF ≤ 30% → IIa；**LVEF ≤ 40%＋NSVT＋PES 誘發 SMVT → IIa**
-> - **CAD 的 SMVT**：**吃 amiodarone 仍反覆 → ablation 優於加藥（I B）**；**LVEF ≥ 40%＋耐受的 SMVT → 有經驗中心 ablation 可取代 ICD（IIa C）**
-> - **Idiopathic PVC／VT**：**RVOT 或 left fascicle 有症狀 → ablation 第一線（I B）**；其他起源 → **beta-blocker 或 non-DHP CCB（I C）**；**❌ amiodarone 不當第一線（III）**
-> - **PVC burden ≥ 10%＋不明原因 EF 下降 → 想 PVC-induced cardiomyopathy（IIa）→ CMR（IIa）→ ablation（I C）**
+> - **STEMI 的 VA**
+>   - 緊急再灌流最重要
+>   - 反覆 PVT／VF：IV beta-blocker（I B）→ IV amiodarone（IIa，2015 是 I）→ lidocaine（IIb）
+>   - ==預防性 AAD（beta-blocker 以外）不建議==（III B）
+> - **MI 後**
+>   - 出院前測 LVEF；==LVEF ≤ 40% → 6–12 週後再測==
+>   - MI 40 天內不放 primary prevention ICD
+> - **慢性 CAD 的 primary prevention ICD**
+>   - ==LVEF ≤ 35%＋NYHA II–III（OMT ≥ 3 個月）→ I A==
+>   - NYHA I＋LVEF ≤ 30% → IIa
+>   - LVEF ≤ 40%＋NSVT＋PES 誘發 SMVT → IIa
+> - **CAD 的 SMVT**
+>   - 吃 amiodarone 仍反覆 → ablation 優於加藥（I B）
+>   - LVEF ≥ 40%＋耐受的 SMVT → 有經驗中心 ablation 可取代 ICD（IIa）
+> - **Idiopathic PVC／VT**
+>   - RVOT 或 left fascicle 有症狀 → ==ablation 第一線==（I B）
+>   - 其他起源 → beta-blocker 或 non-DHP CCB（I C）
+>   - Amiodarone 不當第一線（III）
+> - **PVC-induced cardiomyopathy**
+>   - PVC burden ≥ 10%＋不明原因 EF 下降 → CMR → ablation（I C）
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/ventricular-arrhythmia-esc-2022/index|2022 ESC 心室心律不整指引總覽]]
@@ -35,18 +49,23 @@ tags:
 
 | 建議 | 等級 |
 | --- | --- |
-| **STEMI 中反覆 PVT／VF → IV beta-blocker**（除非禁忌） | **I B** |
-| **ACS 急性期反覆 PVT／VF → IV amiodarone** | **IIa C**（2015 是 I） |
+| **STEMI 中反覆 PVT／VF → IV beta-blocker**（除非禁忌） | I B |
+| **ACS 急性期反覆 PVT／VF → IV amiodarone** | IIa C（2015 是 I） |
 | Beta-blocker、amiodarone 無效或 amiodarone 禁忌 → **IV lidocaine** | IIb C |
 | **==ACS 預防性給 AAD（beta-blocker 以外）==** | **III B** |
-| **Coronary spasm 造成 SCA 的存活者 → ICD** | **IIa C**（新） |
+| **Coronary spasm 造成 SCA 的存活者 → ICD** | IIa C（新） |
 
 - **STEMI 有 4–12% 在 48 h 內發生 VA**，**再灌流前**的比再灌流中或之後多
 - VA 的預測因子：**血行動力不穩、休克、LVEF < 40%、所有導程 ST 偏移總和**；early repolarization pattern 也和風險有關
 - **反覆的 sustained VT（尤其多形）或 VF → 代表再灌流不完全或再缺血 → 立即 CAG**
 - **心跳偏慢或 pause 誘發** → pacing 可預防再發
 - **早期 VA（48 h 內，PCI 時代幾乎都在 24 h 內）→ 住院死亡最多增加 6 倍，但長期預後不太受影響**；**早期 MVT 比早期 VF 預後差**（長期 ICD 適當治療較多、獨立預測死亡）
-- **Vasospasm 的 SCA 存活者復發風險高**：**CCB 可抑制**；**beta-blocker 可能誘發 VA**；藥物可能不足 → 仍應考慮 ICD
+- **Vasospasm 的 SCA 存活者復發風險高**：**CCB 可抑制**；beta-blocker 可能誘發 VA；藥物可能不足 → 仍應考慮 ICD
+
+> [!danger] ACS 的 VA 不要做
+> - ==預防性給 lidocaine、amiodarone 等 AAD==（III B）
+> - 低血壓、急性 HF、AV block、嚴重 bradycardia 時給 IV beta-blocker
+> - Vasospasm 的病人用 beta-blocker（可能誘發 VA，要用 CCB）
 
 ### STEMI 的 VA 預防與處理（Figure 14 依內容重新繪製）
 
@@ -71,7 +90,7 @@ flowchart TD
 
 | 建議 | 等級 |
 | --- | --- |
-| **所有急性 MI → 出院前評估 LVEF** | **I B** |
+| **所有急性 MI → 出院前評估 LVEF** | I B |
 | **==出院前 LVEF ≤ 40% → MI 後 6–12 週再評估 LVEF==**，決定是否需要 primary prevention ICD | **I C** |
 | MI 亞急性期反覆 PVT／VF 由**同一 PVC 觸發**、藥物或血管重建無效 → catheter ablation | IIa C |
 
@@ -83,15 +102,15 @@ flowchart TD
 
 | 建議 | 等級 |
 | --- | --- |
-| **陳舊 STEMI＋暈厥、非侵入性評估後仍不明 → PES** | **I C**（2015 是 IIa） |
+| **陳舊 STEMI＋暈厥、非侵入性評估後仍不明 → PES** | I C（2015 是 IIa） |
 | **==CAD＋NYHA II–III＋LVEF ≤ 35%（OMT ≥ 3 個月）→ ICD==** | **I A** |
 | CAD＋**NYHA I＋LVEF ≤ 30%**（OMT ≥ 3 個月）→ ICD | IIa B（新） |
-| CAD＋**LVEF ≤ 40%**（OMT ≥ 3 個月）＋**NSVT**＋**PES 誘發出 SMVT** → ICD | IIa B（新） |
+| CAD＋**LVEF ≤ 40%**（OMT ≥ 3 個月）＋NSVT＋PES 誘發出 SMVT → ICD | IIa B（新） |
 | **CAD 預防性給 AAD（beta-blocker 以外）** | **III A** |
-| 沒有持續缺血、**MI 48 h 後**發生 VF 或不耐受 VT → ICD | **I A** |
+| 沒有持續缺血、**MI 48 h 後**發生 VF 或不耐受 VT → ICD | I A |
 | **==CAD＋吃 amiodarone 仍反覆有症狀 SMVT 或 ICD 電擊 → catheter ablation 優於加強 AAD==** | **I B**（新） |
 | CAD＋吃 beta-blocker 仍反覆 SMVT 或電擊 → **加 amiodarone 或 beta-blocker 換成 sotalol** | IIa B |
-| **CAD＋血行動力耐受的 SMVT＋LVEF ≥ 40% → 有經驗中心 ablation 取代 ICD**（需達成既定終點：誘發不出 VT、消除延遲電位） | **IIa C**（新） |
+| **CAD＋血行動力耐受的 SMVT＋LVEF ≥ 40% → 有經驗中心 ablation 取代 ICD**（需達成既定終點：誘發不出 VT、消除延遲電位） | IIa C（新） |
 | 耐受的 SMVT＋LVEF ≥ 40%，**ablation 失敗、做不到或病人不要 → ICD** | IIa C |
 | 吃 beta-blocker 或 sotalol 仍反覆 SMVT → catheter ablation | IIa C（新） |
 | 符合 ICD 的 CAD → ICD **放置前後立即**做 ablation 以減少 VT 與電擊 | IIb B（2015 是 IIa） |
@@ -152,19 +171,19 @@ flowchart TD
 | --- | --- |
 | **冠狀動脈從對側主動脈竇發出、走兩大動脈之間（interarterial course）→ 運動心臟壓力影像＋心肺運動測試**確認有無缺血 | I C |
 | 冠狀動脈異常、**曾 CA、術後** → 運動壓力影像＋心肺運動測試 | I C（新） |
-| **冠狀動脈異常＋CA、疑似 VA 造成的暈厥或心絞痛**（排除其他原因）→ **手術** | **I C** |
-| 沒症狀但**有缺血證據**，或**左冠狀動脈異常起源＋高風險解剖** → 手術 | IIa C |
+| **冠狀動脈異常＋CA、疑似 VA 造成的暈厥或心絞痛**（排除其他原因）→ 手術 | I C |
+| 沒症狀但**有缺血證據**，或左冠狀動脈異常起源＋高風險解剖 → 手術 | IIa C |
 
-- **高風險解剖**：**interarterial course**、**slit-like 開口**、開口位置高、**銳角起始**、**intramural course**（及其長度）
+- **高風險解剖**：**interarterial course**、slit-like 開口、開口位置高、銳角起始、intramural course（及其長度）
 
 ## Idiopathic PVC／VT（Section 7.1.2.1、Recommendation Table 26）
 
 | 建議 | 等級 |
 | --- | --- |
-| **PVC burden > 10%、心功能正常 → 定期追蹤心室功能** | **I C** |
-| 表現**不像 idiopathic**（較老、**RBBB 形態**、像 reentry 的 SMVT）→ 即使 echo 正常也做 **CMR** | IIa C（新） |
+| **PVC burden > 10%、心功能正常 → 定期追蹤心室功能** | I C |
+| 表現**不像 idiopathic**（較老、RBBB 形態、像 reentry 的 SMVT）→ 即使 echo 正常也做 CMR | IIa C（新） |
 | **==有症狀、來自 RVOT 或 left fascicle 的 idiopathic VT／PVC → catheter ablation 第一線==** | **I B**（新） |
-| 有症狀、**其他起源** → **beta-blocker 或 non-DHP CCB** | **I C**（新） |
+| 有症狀、**其他起源** → beta-blocker 或 non-DHP CCB | I C（新） |
 | RVOT／fascicle 但 ablation 做不到、不想做或風險高 → beta-blocker、non-DHP CCB 或 flecainide | IIa B |
 | 其他起源 → catheter ablation 或 flecainide | IIa C |
 | **沒症狀但追蹤時反覆 PVC > 20%／天** → catheter ablation | IIb B |
@@ -209,10 +228,10 @@ flowchart TD
 
 | 情境 | **Ablation** | Beta-blocker | CCB | Flecainide | **Amiodarone** |
 | --- | --- | --- | --- | --- | --- |
-| **RVOT／fascicular、有症狀、LV 正常** | **I** | IIa | IIa | IIa | **III** |
-| **其他起源、有症狀、LV 正常** | IIa | **I** | **I** | IIa | **III** |
-| RVOT／fascicular、**LV 功能不良** | **I** | IIa | **III（IV CCB）** | IIa（只限中度 LV 功能不良） | IIa |
-| 其他起源、**LV 功能不良** | **I** | IIa | **III（IV CCB）** | IIa（只限中度） | IIa |
+| **RVOT／fascicular、有症狀、LV 正常** | I | IIa | IIa | IIa | **III** |
+| **其他起源、有症狀、LV 正常** | IIa | I | I | IIa | **III** |
+| RVOT／fascicular、**LV 功能不良** | I | IIa | III（IV CCB） | IIa（只限中度 LV 功能不良） | IIa |
+| 其他起源、**LV 功能不良** | I | IIa | III（IV CCB） | IIa（只限中度） | IIa |
 | **PVC burden > 20%、沒症狀、LV 正常** | IIb | — | — | — | **III** |
 
 > [!tip] Pearl：Table 9 的記法
@@ -229,10 +248,10 @@ flowchart TD
 | 懷疑 PVC-induced cardiomyopathy → **CMR** | IIa B（新） |
 | **==懷疑由頻繁且主要單一形態的 PVC 造成的 cardiomyopathy → catheter ablation==** | **I C**（2015 是 IIa） |
 | 同上但 ablation 不想做、風險高或失敗 → **AAD** | IIa C |
-| **已有 SHD**、頻繁單一形態 PVC 可能加重 cardiomyopathy → **amiodarone 或 ablation** | IIa B |
+| **已有 SHD**、頻繁單一形態 PVC 可能加重 cardiomyopathy → amiodarone 或 ablation | IIa B |
 | **CRT 無反應**、頻繁單一形態 PVC 影響雙心室起搏比例 → ablation 或 AAD | IIa C（新） |
 
-- **PVC burden 是最強的獨立預測因子**：**≥ 10% 是最低門檻，> 20% 風險更高**；< 10% → 想其他 cardiomyopathy 病因、**重做 Holter**（burden 每天會變）
+- **PVC burden 是最強的獨立預測因子**：**≥ 10% 是最低門檻，> 20% 風險更高**；< 10% → 想其他 cardiomyopathy 病因、重做 Holter（burden 每天會變）
 - 預測 LV 惡化：**superior axis、epicardial origin、NSVT、較短的 coupling interval、男性**
 - **LGE 陽性 → 比較像本來就有 SHD、被 PVC 加重**；**LVEDD 較小、本身 QRS 較窄**比較像純 PVC-induced
 

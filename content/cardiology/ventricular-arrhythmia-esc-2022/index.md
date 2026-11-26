@@ -19,19 +19,36 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> - **寬 QRS 心搏過速先當 VT**：**不穩 → 電擊**；穩定 SMVT 麻醉風險低 → **也是電擊（I）**；藥物：**SHD → procainamide（IIa）**、不明 → amiodarone（IIb）；**==❌ 不明寬 QRS 給 verapamil（III）==**
-> - **Electrical storm**：**判讀 ICD → 鎮靜 → non-selective beta-blocker＋IV amiodarone → ablation**；TdP → **Mg＋K**、acquired LQT → **isoproterenol 或 pacing**
-> - **評估新發 VA**：**12-lead ECG（錄到 VA）＋echo（I）** → 懷疑 SHD → **CMR**；**SCA 存活者原因不明 → coronary imaging＋CMR＋sodium channel blocker test＋運動測試（I）**
-> - **ICD**：**VF 或不穩 VT、無可逆原因 → I A**；**CAD LVEF ≤ 35%＋NYHA II–III → I A**；**DCM 降為 IIa**；**MI 40 天內不放**；**預期存活 > 1 年才放**
-> - **Idiopathic VT**：**RVOT／fascicular → ablation 第一線（I）**；**❌ amiodarone 當第一線**；**PVC ≥ 10%＋EF 下降 → 想 PVC-induced CMP → ablation（I）**
-> - **Channelopathy**：**LQTS／CPVT → nadolol 或 propranolol**；**LQT3 → mexiletine**；**Brugada → 避藥、退燒、CA 後 ICD**
+> - **寬 QRS 心搏過速先當 VT**
+>   - 不穩 → ==電擊==；穩定的 SMVT 麻醉風險低也是電擊（I）
+>   - 用藥：SHD → procainamide（IIa）；不明 → amiodarone（IIb）
+>   - ==不明寬 QRS 不可給 verapamil==（III）
+> - **Electrical storm**
+>   - 判讀 ICD → 鎮靜 → ==non-selective beta-blocker＋IV amiodarone== → ablation
+>   - TdP → Mg＋K；acquired LQT → isoproterenol 或 pacing
+> - **Pump 怎麼選**
+>   - Amiodarone 是預設；lidocaine 是 ACS 的第二線
+>   - Short-run VT、很多 VPC 通常不需要 pump
+> - **評估**
+>   - 新發 VA：12-lead ECG（錄到 VA）＋echo → 懷疑 SHD 做 CMR
+>   - SCA 存活者原因不明：coronary imaging＋CMR＋Na 阻斷劑試驗＋運動測試
+> - **ICD**
+>   - VF 或不穩 VT、無可逆原因 → I A
+>   - CAD LVEF ≤ 35%＋NYHA II–III → I A；==DCM 降為 IIa==
+>   - ==MI 40 天內不放==；預期存活 > 1 年才放
+> - **Idiopathic VT 與 PVC**
+>   - RVOT／fascicular → ablation 第一線（I）
+>   - PVC ≥ 10%＋EF 下降 → PVC-induced CMP → ablation（I）
+> - **Channelopathy**
+>   - LQTS、CPVT → nadolol 或 propranolol；LQT3 → mexiletine
+>   - Brugada → 避藥、退燒、CA 後 ICD
 
-本系列依 **2022 ESC Guidelines for the management of patients with ventricular arrhythmias and the prevention of sudden cardiac death**（*Eur Heart J* 2022，取代 2015 版）整理成 5 篇指引筆記、📋 建議總整理（Table 3–5 逐條中文）與第 6 篇內專考點；原圖含 **Table 3–10、Figure 1–37**，各放在對應段落下方，也在下方「依主題找 Table 與 Figure」集中列出。目前 ESC 還沒有更新版；心肌病變的細部規定已由 **2023 ESC 心肌病變指引**、HF 藥物與 ICD 由 **2026 ESC 心衰竭指引**更新，已在各段落用 🆕 標出。
+本系列依 **2022 ESC Guidelines for the management of patients with ventricular arrhythmias and the prevention of sudden cardiac death**（*Eur Heart J* 2022，取代 2015 版）整理成 5 篇指引筆記、📋 建議總整理（Table 3–5 逐條中文）與第 6 篇內專考點；原圖含 **Table 3–10、Figure 1–37**，各放在對應段落下方，也在下方「依主題找 Table 與 Figure」集中列出。目前 ESC 還沒有更新版；心肌病變的細部規定已由 2023 ESC 心肌病變指引、HF 藥物與 ICD 由 2026 ESC 心衰竭指引更新，已在各段落用 🆕 標出。
 
 > [!tip] 原圖
 > 各篇的表格、流程圖下方都有「📷 原圖」區塊。原圖存在私人資料庫，只有設定過權杖的瀏覽器看得到。<a class="of-settings-link" href="javascript:void 0">🔑 原圖設定</a>
 
-## 🌳 值班決策流程：監視器上出現寬 QRS 心搏過速或 VT／VF，照順序回答 6 個問題
+## 🌳 值班決策流程：監視器上出現寬 QRS 心搏過速或 VT／VF，照順序回答 7 個問題
 
 <div class="oncall">
 <div class="oc-start">監視器或 ECG：<b>寬 QRS 心搏過速、VT、VF，或 ICD 一直電</b>｜先問：<b>有沒有脈搏？血壓、意識？</b>有沒有 <b>MI、HF、心肌病變、ICD</b>？最近用了什麼藥？<b>K、Mg</b>？</div>
@@ -103,40 +120,48 @@ tags:
 <div class="oc-box a"><span class="oc-ans">Channelopathy</span><br/>LQTS、CPVT → <b>nadolol、propranolol</b><br/>LQT3 → <b>mexiletine</b>｜CPVT 加 <b>flecainide</b><br/>BrS、ERS、SQTS → <b>quinidine</b></div>
 </div>
 
+<div class="oc-q"><span class="oc-n">7</span><div><span class="oc-qt">要上 pump 嗎？lidocaine 還是 amiodarone？</span><small><b>Amiodarone 是預設</b>；lidocaine 留給<b>缺血</b></small></div></div>
+<div class="oc-split three">
+<div class="oc-box r"><span class="oc-ans">Sustained VT、storm</span><br/><b>Amiodarone</b>：150 mg／10 分鐘 → <b>1 mg/min × 6 h → 0.5 mg/min × 18 h</b><br/>搭配 beta-blocker<br/>濃度 &gt; 2 mg/mL 走中央靜脈</div>
+<div class="oc-box a"><span class="oc-ans">ACS 的反覆 PVT／VF</span><br/>Beta-blocker → amiodarone → <b>lidocaine</b>（IIb）<br/>50–200 mg bolus → <b>2–4 mg/min</b><br/>休克、HF、肝差要減量；注意意識改變、抽搐</div>
+<div class="oc-box b"><span class="oc-ans">Short-run VT、很多 VPC</span><br/><b>通常不需要 pump</b><br/>找缺血、矯正 K 與 Mg、調 beta-blocker<br/>❌ 為了壓 VPC 開 AAD（CAST）</div>
+</div>
+<div class="oc-rx"><div class="oc-rf">QT 長的多形 VT（TdP）：<b>兩個都不是答案</b>，amiodarone 還會延長 QT → 停藥、Mg、補 K、isoproterenol 或 pacing｜細節見 ② 的「lidocaine pump 還是 amiodarone pump？」</div></div>
+
 <div class="oc-foot">❌ 不明寬 QRS 給 verapamil｜❌ 用 AAD 壓 PVC 預防猝死（CAST）｜❌ MI 40 天內放 primary ICD｜❌ 只給 amiodarone 不放 ICD（CA 存活）｜❌ 陳舊 MI 或 SHD 用 flecainide、propafenone｜❌ BrS 用 Na 通道阻斷劑、不退燒｜❌ LQTS 常規 epinephrine test、PES｜❌ 已有 type 1 再做 ajmaline test｜❌ 沒症狀 BrS 做 ablation</div>
-<div class="oc-note">依 2022 ESC VA Guidelines Figure 2、4、6、9、11、14–17、Table 8、Recommendation Table 3、5、9、12、22–30、41–46 內容自製</div>
+<div class="oc-note">依 2022 ESC VA Guidelines Figure 2、4、6、9、11、14–17、Table 8、Recommendation Table 3、5、9、12、22–30、41–46 內容自製；amiodarone pump 劑量依仿單</div>
 </div>
 
 ## 📌 必看表：2015 → 2022 改了什麼
 
 | 主題 | 2015 | **2022** |
 | --- | --- | --- |
-| **耐受 SMVT** | 藥物或電擊 | **電擊第一線（I）**；SHD → **procainamide（IIa）** |
-| **ACS 反覆 PVT／VF 的 amiodarone** | I | **IIa** |
+| **耐受 SMVT** | 藥物或電擊 | 電擊第一線（I）；SHD → procainamide（IIa） |
+| **ACS 反覆 PVT／VF 的 amiodarone** | I | IIa |
 | 陳舊 STEMI＋不明暈厥 → PES | IIa | **I** |
-| **CAD 吃 amiodarone 仍反覆 SMVT** | — | **Ablation 優於加藥（I）** |
-| **DCM LVEF ≤ 35% 的 ICD** | I | **IIa** |
-| **RVOT／fascicular idiopathic VT** | — | **Ablation 第一線（I）** |
-| **PVC-induced CMP → ablation** | IIa | **I** |
-| **Sarcoidosis LVEF ≤ 35%、sustained VT → ICD** | IIb | **I** |
-| **LQTS 藥物下仍有症狀 → ICD** | IIa | **I** |
-| **CPVT 藥物下仍有症狀 → ICD** | I | **IIa**（LCSD 升 IIa） |
-| **新增** | — | 五大情境評估流程、激發試驗與基因檢測表、**electrical storm 流程**、ICD 設定（**≥ 188 bpm、延長偵測**）、**ICD 只給存活 > 1 年者** |
+| **CAD 吃 amiodarone 仍反覆 SMVT** | — | Ablation 優於加藥（I） |
+| **DCM LVEF ≤ 35% 的 ICD** | I | IIa |
+| **RVOT／fascicular idiopathic VT** | — | Ablation 第一線（I） |
+| **PVC-induced CMP → ablation** | IIa | I |
+| **Sarcoidosis LVEF ≤ 35%、sustained VT → ICD** | IIb | I |
+| **LQTS 藥物下仍有症狀 → ICD** | IIa | I |
+| **CPVT 藥物下仍有症狀 → ICD** | I | IIa（LCSD 升 IIa） |
+| **新增** | — | 五大情境評估流程、激發試驗與基因檢測表、electrical storm 流程、ICD 設定（≥ 188 bpm、延長偵測）、ICD 只給存活 > 1 年者 |
 
 ## 📌 必看表：常用抗心律不整藥（Table 8 摘錄）
 
 | 藥物 | 主要用途 | 劑量 | 最該記的禁忌 |
 | --- | --- | --- | --- |
 | **Amiodarone** | VT、VF、storm | IV 5 mg/kg（20 分鐘–2 h）；口服 loading 600–1200 mg/day × 8–10 天，維持 200–400 mg | 嚴重傳導疾病；甲狀腺、肺、肝毒性 |
-| **Procainamide** | 耐受 SMVT（SHD） | **IV 100 mg、5 分鐘可重複，最多 500–750 mg，之後 2–6 mg/min** | **嚴重 LV 功能不良、BrS**、低血壓 |
+| **Procainamide** | 耐受 SMVT（SHD） | IV 100 mg、5 分鐘可重複，最多 500–750 mg，之後 2–6 mg/min | 嚴重 LV 功能不良、BrS、低血壓 |
 | **Lidocaine** | ACS 的 VT／VF | IV 50–200 mg bolus → 2–4 mg/min | 肝血流低要減量 |
-| **Propranolol／nadolol** | **Storm、LQTS、CPVT** | 80–320／40–120 mg/day | 失代償 HF、vasospasm、**BrS** |
-| **Verapamil** | **Fascicular VT** | IV 5–10 mg 緩慢推 | **不明 VT、HFrEF、ACS、WPW** |
-| **Flecainide** | PVC、VT、CPVT | 200–400 mg/day | **陳舊 MI、SHD、BrS**；QRS 變寬 > 25% 停 |
-| **Mexiletine** | **LQT3** | 600–1200 mg/day | 嚴重 HF、傳導疾病 |
-| **Quinidine** | **BrS、ERS、IVF、SQTS** | 600–1600 mg/day | 陳舊 MI、SHD、**LQTS** |
-| **Isoproterenol** | **BrS、ERS、IVF storm；acquired LQT** | IV 0.5–10 µg/min | **ACS、先天 LQTS** |
-| **Sotalol** | VT | 160–640 mg/day | **HFrEF、CrCl < 30**、LQTS；TdP > 2% |
+| **Propranolol／nadolol** | Storm、LQTS、CPVT | 80–320／40–120 mg/day | 失代償 HF、vasospasm、BrS |
+| **Verapamil** | Fascicular VT | IV 5–10 mg 緩慢推 | 不明 VT、HFrEF、ACS、WPW |
+| **Flecainide** | PVC、VT、CPVT | 200–400 mg/day | 陳舊 MI、SHD、BrS；QRS 變寬 > 25% 停 |
+| **Mexiletine** | LQT3 | 600–1200 mg/day | 嚴重 HF、傳導疾病 |
+| **Quinidine** | BrS、ERS、IVF、SQTS | 600–1600 mg/day | 陳舊 MI、SHD、LQTS |
+| **Isoproterenol** | BrS、ERS、IVF storm；acquired LQT | IV 0.5–10 µg/min | ACS、先天 LQTS |
+| **Sotalol** | VT | 160–640 mg/day | HFrEF、CrCl < 30、LQTS；TdP > 2% |
 
 ## 分篇筆記
 
@@ -147,7 +172,7 @@ tags:
 </a>
 <a class="af-card internal" href="/cardiology/ventricular-arrhythmia-esc-2022/va22-2-acute-longterm">
 <div class="af-num">②</div>
-<div class="af-body"><div class="af-title">急性處置、藥物與 ICD</div><div class="af-desc">可逆原因、<b>寬 QRS 處置</b>、<b>electrical storm</b>、<b>AAD 一覽</b>、Na 阻斷劑與 QT 藥物追蹤、<b>ICD、S-ICD、WCD、程式設定</b>、ablation</div><div class="af-cover">Table 8｜Figure 9–13｜Rec Table 8–21</div></div>
+<div class="af-body"><div class="af-title">急性處置、藥物與 ICD</div><div class="af-desc">可逆原因、<b>寬 QRS 處置</b>、<b>electrical storm</b>、<b>lidocaine 或 amiodarone pump 怎麼選</b>、<b>AAD 一覽</b>、Na 阻斷劑與 QT 藥物追蹤、<b>ICD、S-ICD、WCD、程式設定</b>、ablation</div><div class="af-cover">Table 8｜Figure 9–13｜Rec Table 8–21</div></div>
 </a>
 <a class="af-card internal" href="/cardiology/ventricular-arrhythmia-esc-2022/va22-3-cad-idiopathic">
 <div class="af-num">③</div>

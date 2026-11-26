@@ -12,14 +12,25 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> - VT-SCD 標籤 **17 題**＋相關 1 題（112-001 fascicular VT），幾乎**每年 1–3 題**
-> - 反覆考的：
->   - **寬 QRS 心搏過速先當 VT**：**AV dissociation、fusion／capture beat**、QRS 很寬；**有 CAD 或心臟手術史 → VT**
->   - **Idiopathic VT**：**RVOT＝LBBB＋inferior axis**；**fascicular＝RBBB＋superior axis、adenosine 無效、verapamil 有效**
->   - **ICD 時機**：**MI 後 40 天內、血管重建後 90 天內不放 primary prevention ICD**；**CA 存活（非可逆原因）→ ICD，不能只吃 amiodarone**
->   - **❌ 預防性 lidocaine、❌ 用 AAD 壓 PVC 預防猝死（CAST）**
->   - **Brugada：SCN5A（Na 通道，不是 K）、睡眠與發燒誘發、年輕男性夜間瀕死呼吸**
->   - **Electrical storm 的處置（beta-blocker、amiodarone、Mg、isoproterenol、quinidine、stellate ganglion）**，**LVAD 不是常規**
+> - VT-SCD 標籤 17 題＋相關 1 題（112-001 fascicular VT），幾乎每年 1–3 題
+> - **寬 QRS 判讀**
+>   - ==先當 VT==：AV dissociation、fusion／capture beat、QRS 很寬
+>   - 有 CAD 或心臟手術史 → VT
+> - **Idiopathic VT**
+>   - RVOT＝LBBB＋inferior axis
+>   - Fascicular＝RBBB＋superior axis、adenosine 無效、==verapamil 有效==
+> - **ICD 時機**
+>   - ==MI 後 40 天內、血管重建後 90 天內不放 primary prevention ICD==
+>   - CA 存活（非可逆原因）→ ICD，不能只吃 amiodarone
+> - **不要做**
+>   - 預防性 lidocaine
+>   - ==用 AAD 壓 PVC 預防猝死（CAST）==
+> - **Brugada**
+>   - SCN5A（Na 通道，不是 K）
+>   - 睡眠與發燒誘發、年輕男性夜間瀕死呼吸
+> - **Electrical storm**
+>   - Beta-blocker、amiodarone、Mg、isoproterenol、quinidine、stellate ganglion block
+>   - LVAD 不是常規
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/ventricular-arrhythmia-esc-2022/index|2022 ESC 心室心律不整指引總覽]]

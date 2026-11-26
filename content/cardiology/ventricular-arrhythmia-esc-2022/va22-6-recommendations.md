@@ -11,10 +11,27 @@ tags:
 ---
 
 > [!abstract] 一句話重點
-> - **新觀念（Table 3）**：激發試驗、基因檢測、**五大情境的第一次 VA 評估流程**、**electrical storm 處理**、裝置治療的特殊面向（ICD 設定）
-> - **升級**：**陳舊 STEMI 不明暈厥 → PES（I）**、**PVC-induced CMP → ablation（I）**、**sarcoidosis LVEF ≤ 35% 或 sustained VT → ICD（I）**、**慢性期心肌炎不耐受 SMVT → ICD（I）**、**LQTS 藥物下仍有症狀 → ICD（I）**
-> - **降級**：**ACS 反覆 PVT／VF 的 amiodarone（I → IIa）**、**==DCM／HNDCM LVEF ≤ 35% 的 ICD（I → IIa）==**、**CPVT 藥物下仍有症狀的 ICD（I → IIa）**、**運動員參賽前評估（I → IIa）**
-> - **新增重點**：**耐受的 SMVT 也首選電擊（I）**、**procainamide（IIa）**、**ICD 只給預期存活 > 1 年者（I）**、**CAD 吃 amiodarone 仍反覆 SMVT → ablation（I）**、**RVOT／fascicular idiopathic VT → ablation 第一線（I）**、**❌ amiodarone 當 idiopathic PVC 第一線（III）**
+> - **新觀念（Table 3）**
+>   - 激發試驗、基因檢測
+>   - 五大情境的第一次 VA 評估流程
+>   - Electrical storm 處理、ICD 設定
+> - **升級**
+>   - 陳舊 STEMI 不明暈厥 → PES（I）
+>   - ==PVC-induced CMP → ablation（I）==
+>   - Sarcoidosis LVEF ≤ 35% 或 sustained VT → ICD（I）
+>   - 慢性期心肌炎不耐受的 SMVT → ICD（I）
+>   - LQTS 藥物下仍有症狀 → ICD（I）
+> - **降級**
+>   - ==DCM／HNDCM LVEF ≤ 35% 的 ICD：I → IIa==
+>   - ACS 反覆 PVT／VF 的 amiodarone：I → IIa
+>   - CPVT 藥物下仍有症狀的 ICD：I → IIa
+>   - 運動員參賽前評估：I → IIa
+> - **新增重點**
+>   - ==耐受的 SMVT 也首選電擊==（I）；procainamide（IIa）
+>   - ICD 只給預期存活 > 1 年者（I）
+>   - CAD 吃 amiodarone 仍反覆 SMVT → ablation（I）
+>   - RVOT／fascicular idiopathic VT → ablation 第一線（I）
+>   - Amiodarone 不當 idiopathic PVC 第一線（III）
 
 > [!info] 系列導覽
 > ↑ 回到 [[cardiology/ventricular-arrhythmia-esc-2022/index|2022 ESC 心室心律不整指引總覽]]
@@ -67,9 +84,9 @@ tags:
 
 | 建議 | 等級 |
 | --- | --- |
-| **耐受的 SMVT，麻醉／鎮靜風險低 → 電擊為第一線** | **I** |
-| **所有 HFrEF：ACE-I／ARB／ARNI、MRA、beta-blocker、SGLT2-I** | **I** |
-| **只有預期良好生活品質存活 > 1 年才放 ICD** | **I** |
+| **耐受的 SMVT，麻醉／鎮靜風險低 → 電擊為第一線** | I |
+| **所有 HFrEF：ACE-I／ARB／ARNI、MRA、beta-blocker、SGLT2-I** | I |
+| **只有預期良好生活品質存活 > 1 年才放 ICD** | I |
 | 耐受的 SMVT＋已知或懷疑 SHD → **IV procainamide** | IIa |
 | 耐受的 SMVT、診斷未確定 → IV amiodarone | IIb |
 | SMVT 或同一 PVC 觸發的 SPVT／VF，有 ICD 適應症但沒有、禁忌或拒絕 → ablation | IIb |
@@ -79,7 +96,7 @@ tags:
 
 | 建議 | 等級 |
 | --- | --- |
-| **CAD＋吃 amiodarone 仍反覆 SMVT 或電擊 → ablation 優於加強 AAD** | **I** |
+| **CAD＋吃 amiodarone 仍反覆 SMVT 或電擊 → ablation 優於加強 AAD** | I |
 | 冠狀動脈異常起源、**曾 CA、術後** → 心肺運動測試＋運動壓力影像 | I |
 | **Coronary spasm 造成 SCA 的存活者 → ICD** | IIa |
 | CAD、**NYHA I、LVEF ≤ 30%**（OMT ≥ 3 個月）→ ICD | IIa |
@@ -91,8 +108,8 @@ tags:
 
 | 建議 | 等級 |
 | --- | --- |
-| **有症狀、RVOT 或 left fascicle 起源 → ablation 第一線** | **I** |
-| **有症狀、其他起源 → beta-blocker 或 non-DHP CCB** | **I** |
+| **有症狀、RVOT 或 left fascicle 起源 → ablation 第一線** | I |
+| **有症狀、其他起源 → beta-blocker 或 non-DHP CCB** | I |
 | 表現不像 idiopathic → 即使 echo 正常也做 CMR | IIa |
 | RVOT／fascicle 但 ablation 做不到、不想或風險高 → beta-blocker、non-DHP CCB、flecainide | IIa |
 | 其他起源 → ablation 或 flecainide | IIa |
@@ -106,7 +123,7 @@ tags:
 
 | 建議 | 等級 |
 | --- | --- |
-| **< 50 歲 AV 傳導延遲，或家族 DCM 或一等親 < 50 歲 SCD → 基因檢測（至少 LMNA、PLN、RBM20、FLNC）** | **I** |
+| **< 50 歲 AV 傳導延遲，或家族 DCM 或一等親 < 50 歲 SCD → 基因檢測（至少 LMNA、PLN、RBM20、FLNC）** | I |
 | **一等親 ECG＋echo**：先證者 < 50 歲診斷或像遺傳、家族 DCM 或早發猝死 | I |
 | CMR with LGE 評估病因與風險 | IIa |
 | 看似散發但年輕或像遺傳 → 基因檢測 | IIa |
@@ -119,7 +136,7 @@ tags:
 
 | 建議 | 等級 |
 | --- | --- |
-| **懷疑 ARVC → CMR** | **I** |
+| **懷疑 ARVC → CMR** | I |
 | 懷疑或確診 → 遺傳諮詢與基因檢測 | I |
 | 有症狀、確診、**中度 RV 或 LV 功能不良＋NSVT 或 PES 誘發 SMVT** → ICD | IIa |
 | 有 ICD 適應症 → 能設定高速 ATP 的裝置 | IIa |
@@ -131,7 +148,7 @@ tags:
 
 | 建議 | 等級 |
 | --- | --- |
-| **CMR with LGE 診斷** | **I** |
+| **CMR with LGE 診斷** | I |
 | 遺傳諮詢與基因檢測 | I |
 | 一等親 ECG＋echo | I |
 | **≥ 16 歲、5 年 SCD 4–6%＋（LGE ≥ 15%、LVEF < 50%、運動血壓反應異常、心尖瘤、sarcomeric 突變）→ ICD** | IIa |
@@ -148,8 +165,8 @@ tags:
 | --- | --- |
 | LVNC → primary prevention ICD 照 DCM／HNDCM | IIa |
 | AL 或 ATTR amyloidosis＋不耐受 VT → ICD | IIa |
-| **Myotonic dystrophy＋心悸或暈厥像 VA，或 CA 存活 → 侵入性 EPS** | **I** |
-| **Myotonic dystrophy＋SMVT 或 CA（非 BBR-VT）→ ICD** | **I** |
+| **Myotonic dystrophy＋心悸或暈厥像 VA，或 CA 存活 → 侵入性 EPS** | I |
+| **Myotonic dystrophy＋SMVT 或 CA（非 BBR-VT）→ ICD** | I |
 | Myotonic dystrophy＋PR 或 QRS 突然變長 → EPS | IIa |
 | Myotonic dystrophy＋PR ≥ 240 或 QRS ≥ 120，或 > 40 歲＋SVT 或明顯 LGE → EPS | IIa |
 | Myotonic dystrophy 沒有 AV 延遲、暈厥高度像 VA → ICD | IIa |
@@ -180,7 +197,7 @@ tags:
 
 | 建議 | 等級 |
 | --- | --- |
-| **CHD 出現 sustained VA → 評估殘存或新的結構異常** | **I** |
+| **CHD 出現 sustained VA → 評估殘存或新的結構異常** | I |
 | 心房 baffle、Fontan、Ebstein＋CA → 評估並治療快速傳導的 SVT | IIa |
 | TOF 修補後要換肺動脈瓣 → 術前 mapping 與切斷 VT isthmus | IIb |
 | TOF 修補後雙心室功能保留＋有症狀 SMVT → ablation 取代 ICD | IIb |
@@ -189,37 +206,37 @@ tags:
 
 | 建議 | 等級 |
 | --- | --- |
-| **Idiopathic VF：SCA 存活者排除結構、channelopathy、代謝、毒物原因後才診斷** | **I** |
+| **Idiopathic VF：SCA 存活者排除結構、channelopathy、代謝、毒物原因後才診斷** | I |
 | Idiopathic VF 的 storm → isoproterenol、verapamil、quinidine | IIa |
 | Idiopathic VF 長期壓制 → quinidine | IIa |
 | Idiopathic VF 一等親臨床檢查；基因檢測 | IIb |
-| **LQTS 臨床診斷 → 基因檢測與遺傳諮詢** | **I** |
-| **LQTS＋QT 延長 → beta-blocker（最好 nadolol 或 propranolol）** | **I** |
-| **LQT3＋QT 延長 → mexiletine** | **I** |
+| **LQTS 臨床診斷 → 基因檢測與遺傳諮詢** | I |
+| **LQTS＋QT 延長 → beta-blocker（最好 nadolol 或 propranolol）** | I |
+| **LQT3＋QT 延長 → mexiletine** | I |
 | LQTS 治療前依基因型＋QTc 估風險 | IIa |
 | 沒症狀、1-2-3 LQTS Risk 高風險 → ICD（加基因型專屬治療） | IIb |
 | **❌ LQTS 常規 epinephrine challenge** | **III** |
 | Andersen–Tawil：懷疑 → 基因檢測（I）；CA 或不耐受 VT → ICD（I）；≥ 2 項特徵 → 考慮診斷（IIa）；beta-blocker／flecainide ± acetazolamide（IIa）；不明暈厥 → ILR（IIa）；不明暈厥或耐受 VT → ICD（IIb） | I／IIa／IIb |
-| **BrS 先證者 → SCN5A 基因檢測** | **I** |
+| **BrS 先證者 → SCN5A 基因檢測** | I |
 | 誘發的 type 1＋（arrhythmic syncope、夜間瀕死呼吸、家族 BrS、家族 < 45 歲 autopsy 陰性猝死）→ 考慮 BrS | IIa |
 | BrS 不明暈厥 → ILR | IIa |
 | 只有誘發的 type 1 → 可考慮 BrS | IIb |
 | 沒症狀自發 type 1 → PES | IIb |
 | **❌ 已有 type 1 再做 sodium channel blocker test** | **III** |
 | **❌ 沒症狀 BrS 做 ablation** | **III** |
-| **ERP：下壁或側壁 2 個相鄰導程 J point ≥ 1 mm** | **I** |
-| **ERS：不明 VF／PVT 急救成功＋ERP** | **I** |
-| **ERS 的 CA 存活 → ICD** | **I** |
+| **ERP：下壁或側壁 2 個相鄰導程 J point ≥ 1 mm** | I |
+| **ERS：不明 VF／PVT 急救成功＋ERP** | I |
+| **ERS 的 CA 存活 → ICD** | I |
 | SCD 死者 autopsy 陰性、生前 ECG 有 ERP → 考慮 ERS | IIa |
 | ERS 一等親評估高風險 ERP | IIa |
 | ERP＋風險特徵或 arrhythmic syncope → ILR | IIa |
 | ERS storm → isoproterenol；反覆 VF → ICD 加 quinidine；同一 PVC 觸發 → ablation | IIa |
 | ERS 基因檢測；ERP＋arrhythmic syncope＋風險特徵 → ICD 或 quinidine；沒症狀高風險 ERP＋家族年輕猝死 → ICD 或 quinidine | IIb |
 | **❌ 沒症狀 ERP 常規評估；❌ 沒症狀單純 ERP 放 ICD** | **III** |
-| **CPVT 懷疑或診斷 → 基因檢測與遺傳諮詢** | **I** |
-| **CPVT → beta-blocker（最好 nadolol 或 propranolol）** | **I** |
+| **CPVT 懷疑或診斷 → 基因檢測與遺傳諮詢** | I |
+| **CPVT → beta-blocker（最好 nadolol 或 propranolol）** | I |
 | CPVT 不能運動測試 → epinephrine 或 isoproterenol challenge | IIb |
-| **SQTS → 基因檢測** | **I** |
+| **SQTS → 基因檢測** | I |
 | SQTS：QTc ≤ 320 → 考慮；QTc 320–360＋arrhythmic syncope → 考慮；年輕者 ILR；arrhythmic syncope → ICD | IIa |
 | SQTS：QTc 320–360＋家族 < 40 歲猝死 → 可考慮；quinidine（ICD 禁忌或拒絕、沒症狀但家族 SCD）；storm → isoproterenol | IIb |
 
@@ -227,7 +244,7 @@ tags:
 
 | 建議 | 等級 |
 | --- | --- |
-| **運動員診斷出 SCD 相關心血管病 → 依運動資格指引** | **I** |
+| **運動員診斷出 SCD 相關心血管病 → 依運動資格指引** | I |
 | ARVC 懷孕中持續 beta-blocker | IIa |
 | 懷孕中 idiopathic sustained VT 長期處理 → 口服 metoprolol、propranolol 或 verapamil | IIa |
 | 懷孕中 AAD 無效的反覆 SMVT → 非透視 mapping ablation，最好第一孕期後 | IIa |
@@ -240,24 +257,24 @@ tags:
 
 | 主題 | 建議 | 2015 | **2022** |
 | --- | --- | --- | --- |
-| **CAD** | **陳舊 STEMI＋暈厥、非侵入性評估後仍不明 → PES** | IIa | **I ⬆** |
-| | **ACS 急性期反覆 PVT／VF → IV amiodarone** | I | **IIa ⬇** |
+| **CAD** | 陳舊 STEMI＋暈厥、非侵入性評估後仍不明 → PES | IIa | I ⬆ |
+| | **ACS 急性期反覆 PVT／VF → IV amiodarone** | I | IIa ⬇ |
 | | 符合 ICD 的 CAD → ICD 前後立即 ablation 減少 VT 與電擊 | IIa | IIb ⬇ |
-| **PVC-induced CMP** | **懷疑頻繁單一形態 PVC 造成的 cardiomyopathy → ablation** | IIa | **I ⬆** |
-| **DCM／HNDCM** | **==NYHA II–III、LVEF ≤ 35%（OMT ≥ 3 個月）→ ICD==** | I | **IIa ⬇** |
+| **PVC-induced CMP** | 懷疑頻繁單一形態 PVC 造成的 cardiomyopathy → ablation | IIa | I ⬆ |
+| **DCM／HNDCM** | **==NYHA II–III、LVEF ≤ 35%（OMT ≥ 3 個月）→ ICD==** | I | IIa ⬇ |
 | | 反覆 SMVT 或電擊、AAD 無效 → 專門中心 ablation | IIb | IIa ⬆ |
 | **ARVC** | 確診＋arrhythmic syncope → ICD | IIb | IIa ⬆ |
 | | 確診＋嚴重 RV 或 LV 收縮不良 → ICD | IIb | IIa ⬆ |
-| **發炎性** | **心肌炎慢性期不耐受的 SMVT → ICD** | IIa | **I ⬆** |
-| | **Sarcoidosis LVEF ≤ 35% → ICD** | IIb | **I ⬆** |
-| | **Sarcoidosis 有 sustained VT 或 CA 存活 → ICD** | IIb | **I ⬆** |
+| **發炎性** | 心肌炎慢性期不耐受的 SMVT → ICD | IIa | I ⬆ |
+| | **Sarcoidosis LVEF ≤ 35% → ICD** | IIb | I ⬆ |
+| | **Sarcoidosis 有 sustained VT 或 CA 存活 → ICD** | IIb | I ⬆ |
 | | Sarcoidosis 因高度 AV block 需要永久 pacing → 不論 LVEF 考慮 ICD | IIb | IIa ⬆ |
 | | Chagas＋AAD 無效或不耐受的有症狀 VT → ICD | IIa | IIb ⬇ |
-| **CHD** | TOF 修補後**沒症狀**、多個其他風險因子 → EPS（含 PES） | IIa | IIb ⬇ |
+| **CHD** | TOF 修補後沒症狀、多個其他風險因子 → EPS（含 PES） | IIa | IIb ⬇ |
 | | 反覆 SMVT 或電擊、藥物或 ICD 設定無法控制 → 專門中心 ablation | I | IIa ⬇ |
-| **Primary electrical disease、特殊族群** | **LQTS 吃 beta-blocker 與基因型專屬藥仍有症狀 → ICD** | IIa | **I ⬆** |
-| | **CPVT 最高耐受 beta-blocker＋flecainide 仍暈厥或 bidirectional／PVT → ICD** | I | **IIa ⬇** |
-| | **競賽運動員參賽前心血管評估** | I | **IIa ⬇** |
+| **Primary electrical disease、特殊族群** | LQTS 吃 beta-blocker 與基因型專屬藥仍有症狀 → ICD | IIa | I ⬆ |
+| | **CPVT 最高耐受 beta-blocker＋flecainide 仍暈厥或 bidirectional／PVT → ICD** | I | IIa ⬇ |
+| | **競賽運動員參賽前心血管評估** | I | IIa ⬇ |
 | | BrS 藥物無效的反覆適當電擊 → ablation 觸發 PVC 或 RVOT 心外膜基質 | IIb | IIa ⬆ |
 | | **CPVT：beta-blocker＋flecainide 無效、不耐受或禁忌 → LCSD** | IIb | IIa ⬆ |
 
